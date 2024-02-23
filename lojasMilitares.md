@@ -23,3 +23,16 @@
 - Como era a relação entre as lojas no Canadá e nas colônias da Nova Inglaterra? 
 
 ## Referências
+
+*Ragon, J-M.* **Orthodoxie Maçonnique: Suivie de la Maçonnerie Oculte et de l'Initiation Hermétique.** Paris: E.Dentu Libraire-Éditeur, 1853. 
+
+*Graham, John H.* **Outlines of the History of Freemasonry in the Province of Quebec.** 1st ed. Montréal: John Lovell & Son, 1892. p 489-490. 
+
+**By-Laws The Lodge of Antiquity, No 1, G.R.Q.** Montréal: [s.n.], 1906. 
+
+*Smith, Pemberton.* **A Research into Early Canadian Masonry 1759-1869.** 1st ed.Montréal: Quality Press, 1939. 
+
+*Milborne, Alfred John Bidder.* **Freemasonry in the Province of Quebec.** 1st ed. Knowlton(QC): [s.n.], 1960. 
+
+*Hamon, É.*, **La franc-maçonnerie dans la province de Québec en 1883** /, Québec (Province), s.n., 1883, 276 p. ; 19 cm, Collections de BAnQ. 
+https://numerique.banq.qc.ca/patrimoine/details/52327/2021763 
