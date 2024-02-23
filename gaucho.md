@@ -1,5 +1,18 @@
 # Inspiração maçônica na bandeira e no brasão gaúchos (símbolos cívicos)
 
+**Título provisório: Inspiração maçônica na bandeira e no brasão gaúchos**
+
+Plano geográfico: Rio Grande do Sul
+
+Período: séc XIX
+
+Público alvo: público maçônico, todos os graus; público em geral. Proposição de publicação na revista da Loja de Pesquisas Dom Bosco no. 33.
+
+Idioma primário: português
+
+Fontes de pesquisa: bibliografia maçônica; sites de arquivos de jornais antigos; arquivos PDF recuperados das bibliotecas virtuais do GOB, da CMSB, entre outros.
+
+
 “As armas do Estado ou Brasão são as da história Republicana Rio-Grandense, onde contém: o escudo oval, em prata com um quadrilátero com sabre de ouro, sustentando na ponta um barrete frígio vermelho, entre ramos de fumo e erva-mate de sua cor, cruzando sobre o punho do sabre; um losango verde com duas estrelas de cinco pontas de ouro, colocadas nos ângulos superiores e inferiores; ladeado por duas colunas jônicas compostas com capitel e três anéis no terço inferior de fuste liso, de ouro, encimadas por uma bala de canhão antigo, de preto, assentes sobre um campo ondulado, de verde em ponta.
 
 Ao redor deste escudo, uma bordadura azul, contendo a inscrição REPÚBLICA RIO-GRANDENSE e a data 20 DE SETEMBRO DE 1835, de ouro, separadas por duas estrelas de cinco pontas, também de ouro; o escudo está sobreposto a: quatro bandeiras tricolores (verde, vermelho e amarelo) entrecruzadas duas a duas com hastes rematadas de flor de lis invertidas de ouro.
