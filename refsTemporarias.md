@@ -137,7 +137,86 @@ Introducção
 
 O primeiro dever do home em sociedade he ser util aos membros della; e cada um deve, segundo as suas forças Physicas, ou Moraes, administrar, em beneficio da mesma, os conhecimentos, ou talentos, que a natureza, a arte, ou a educação lhe prestou. O individuo, que abrange o bem geral d'uma sociedade, vem a ser o membro mais distincto della: as luzes, que elle espalha, tîram das trevas, ou da illuzaõ, aquelles, que a ignorancia precipitou no labyrintho da apathia, da inepcia, e do engano. Ninguem amis util pois do que aquelle que se destina a mostrar, com evidencia, os acontecimentos do presente, e desenvolver as sombras do fucturo. Tal tem sido o trabalho dos redactores das folhas publicas, quando estes, munidos de uma critica saã, e de uma censura adequada, represêntam os factos do momento, as reflexoenssobre o passado, e as solidas conjecturas sobre o futuro. 
     
-    Hypolito Joseph da Costa
-    
-    
-    https://memoria.bn.br/DocReader/docreader.aspx?bib=700142x&pesq=&pagfis=4
+Ir.'. Hyppolito Joseph da Costa Pereita Furtado de Mendonça
+
+https://memoria.bn.br/DocReader/docreader.aspx?bib=700142x&pesq=&pagfis=4
+
+------
+
+Sources
+
+À l'instar de l'histoire générale, l’histoire locale étudie une large diversité de sources, lesquelles varient selon le contexte chronologique et spatial. Les thèmes de recherche dépendent aussi des auteurs12. La liste ci-dessous n'est donc pas exhaustive :
+
+    Égo-documents et écrits du for privé
+
+    Archives notariales (Répertoire de notaires, etc.)
+    Registre paroissial
+    Registre d'état civil
+    Recensement
+    Tableaux de conscription
+    Cahier de doléances
+    Presse écrite
+    Enquêtes orales
+    Archives politiques
+    Archives d'organismes de charité et d'aides aux pauvres
+    Archives de l'industrie
+    , etc.
+
+https://fr.wikipedia.org/wiki/Histoire_locale
+
+as fontes históricas em quatro tipos, que são:
+
+    documentos textuais;
+
+    vestígios arqueológicos e fontes da cultura material;
+
+    representações pictóricas; e
+
+    registros orais.
+
+Veremos abaixo o que pode ser incluído em cada um desses tipos de fontes históricas.
+
+Documentos textuais: documentos governamentais, relatos de viagem, diários, cartas pessoais e governamentais, crônicas, poemas, livros literários, jornais, documentos de justiça, panfletos, cartilhas, revistas, etc.
+
+Vestígios arqueológicos e fontes da cultura material: itens resgatados pela arqueologia, como ruínas de construções, ruas, túmulos, roupas, armas, cerâmica, etc. Além disso, objetos de tempos mais recentes, como roupas, copos, móveis, itens pessoais, etc., também são considerados fontes da cultura material.
+
+Representações pictóricas: pinturas rupestres, afrescos, quadros, fotos, ilustrações, animações, etc.
+
+Registros orais: testemunhos de pessoas que viveram determinados acontecimentos, mitos de origem, lendas, etc.
+
+
+------
+
+### Microhistoria
+
+https://en.wikipedia.org/wiki/Microhistory
+
+
+http://www.microhistory.eu/index.php/recent-books-and-articles/
+
+A «NEW WAVE» OF MICROHISTORY? OR: IT'S THE SAME OLD STORY – A FIGHT FOR LOVE AND GLORY  
+https://www.jstor.org/stable/44807465
+
+What Is Microhistory?  
+http://hnn.us/articles/23720.html
+
+Possibilidades no estudo de indivíduos: a micro-história como aparato para analisar trajetórias  
+Jéssica Santana de Assis Alves
+
+----- 
+
+### Military Records 
+
+https://library-archives.canada.ca/eng/collection/research-help/military-heritage/Pages/military-heritage.aspx
+
+How to find military service records and attestation papers  
+https://www.veterans.gc.ca/eng/remembrance/how-to-find-service-records
+
+Service records  
+https://www.canada.ca/en/department-national-defence/services/military-history/history-heritage/service-records.html
+
+Military History Research Centre  
+https://www.warmuseum.ca/learn/research-collections/military-history-research-centre/
+
+Canadian war records - find and explore world war records - graves  
+https://www.cwgc.org/our-work/blog/canadian-war-records-find-and-explore-world-war-records/
