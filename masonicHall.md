@@ -1,18 +1,16 @@
 # Masonic Hall 
 
-**Título provisório:** *Projeto e financiamento do Templo Maçônico de Québec pela Quebec Masonic Hall Association* 
+**Título provisório:** *Projeto e financiamento do Templo Maçônico de Québec pela Quebec Masonic Hall Association*, ou Financiamento popular (crowdfunding) do Masonic Hall de Québec.
 
 **Plano geográfico:** Cidade de Québec
 
 **Período:** séc XVIII, XIX e XX (a partir de 1752) 
 
-**Público alvo:** público maçônico, todos os graus; público em geral. Proposição de publicação na revista da Loja de Pesquisas Dom Bosco no. 33.
+**Público alvo:** público maçônico interno, todos os graus. Possívelmente apresentar como presente para a AMBQ. 
 
-**Idioma primário:** português
+**Idioma primário:** francês (tr. inglês)
 
-**Fontes de pesquisa:** bibliografia maçônica; sites de potências envolvidas (UGLE; GL Ireland e Scotland; Atholl); arquivos PDF recuperados das bibliotecas virtuais do GOB, da CMSB, entre outros. 
-
-Financiamento popular (crowdfunding) do Masonic Hall de Québec ou
+**Fontes de pesquisa:** Fontes primárias: atas da loja Albion; atas da QMHA e da AMBQ; entrevista com os administradores atuais da AMBQ; bibliografia maçônica; jornais ingleses e franceses da época, entre outros. 
 
 ## Questões para pesquisa
 
@@ -28,7 +26,10 @@ Financiamento popular (crowdfunding) do Masonic Hall de Québec ou
 - construçao e inauguração; custos em 1860 e atualizados;
 - uso nos primeiros anos: lojas, apartamentos, bureaux; aluguel para eventos
 - necessidade de reforma 100 anos apos; dissolucao da QMHA e criacao da AMBQ
+- Descrever a historia da Albion: warrant militar e ambulante pela GL Antients; fundação em NY; retirada com exercito Britanico; Newfoundland; Woolwich; Quebec; compra da charte n. 9; estabelecimento de charte civil e sedentária; mostrar o processo de adesão à UGLE, e posteriormente à GLQ
+- Albion hoje: orgulhosa raízes militares; homenagem aos membros que foram perdidos nas guerras do Canada; muitos membros são ou foram das Forces; Descrever a soirée militaire anual com banquete
+- breve biografia dos irmãos da Albion caídos nas guerras 
 - o predio hoje
 
-- # Referencias
-- 
+## Referencias
+ 
