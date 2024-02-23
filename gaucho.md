@@ -12,6 +12,7 @@ Idioma primário: português
 
 Fontes de pesquisa: bibliografia maçônica; sites de arquivos de jornais antigos; arquivos PDF recuperados das bibliotecas virtuais do GOB, da CMSB, entre outros.
 
+## Questões para pesquisa 
 
 “As armas do Estado ou Brasão são as da história Republicana Rio-Grandense, onde contém: o escudo oval, em prata com um quadrilátero com sabre de ouro, sustentando na ponta um barrete frígio vermelho, entre ramos de fumo e erva-mate de sua cor, cruzando sobre o punho do sabre; um losango verde com duas estrelas de cinco pontas de ouro, colocadas nos ângulos superiores e inferiores; ladeado por duas colunas jônicas compostas com capitel e três anéis no terço inferior de fuste liso, de ouro, encimadas por uma bala de canhão antigo, de preto, assentes sobre um campo ondulado, de verde em ponta.
 
