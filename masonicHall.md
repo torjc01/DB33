@@ -57,3 +57,7 @@ https://www.canadiana.ca/view/oocihm.52936/20
 
 ### Web
 
+
+Dictionary Biographic Canada  
+http://www.biographi.ca/fr/ 
+
