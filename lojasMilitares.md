@@ -10,7 +10,7 @@
 
 **Idioma primário:** português
 
-**Fontes de pesquisa:** bibliografia maçônica; sites de potências envolvidas (UGLE; GL Ireland e Scotland; Atholl) 
+**Fontes de pesquisa:** bibliografia maçônica; sites de potências envolvidas (UGLE; GL Ireland e Scotland; Atholl); arquivos PDF recuperados das bibliotecas virtuais do GOB, da CMSB, entre outros. 
 
 
 
