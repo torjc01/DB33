@@ -26,9 +26,29 @@
 - construçao e inauguração; custos em 1860 e atualizados;
 - uso nos primeiros anos: lojas, apartamentos, bureaux; aluguel para eventos
 - necessidade de reforma 100 anos apos; dissolucao da QMHA e criacao da AMBQ
-- Descrever a historia da Albion: warrant militar e ambulante pela GL Antients; fundação em NY; retirada com exercito Britanico; Newfoundland; Woolwich; Quebec; compra da charte n. 9; estabelecimento de charte civil e sedentária; mostrar o processo de adesão à UGLE, e posteriormente à GLQ
-- Albion hoje: orgulhosa raízes militares; homenagem aos membros que foram perdidos nas guerras do Canada; muitos membros são ou foram das Forces; Descrever a soirée militaire anual com banquete
-- breve biografia dos irmãos da Albion caídos nas guerras 
+- Descrever a historia da Albion:
+  - warrant militar e ambulante pela GL Antients;
+  - fundação em NY;
+  - retirada com exercito Britanico;
+  - Newfoundland;
+  - Woolwich;
+  - Quebec;
+  - compra da charte n. 9;
+  - estabelecimento de charte civil e sedentária;
+  - mostrar o processo de adesão à UGLE, e posteriormente à GLQ
+- Albion hoje:
+  - orgulhosa raízes militares;
+  - homenagem aos membros que foram perdidos nas guerras do Canada;
+  - muitos membros são ou foram das Forces; estatistica
+  - descrever a soirée militaire anual com banquete
+- breve biografia dos irmãos da Albion caídos nas guerras
+  - vida civil: origem, cidade, profissão, família imediata
+  - registro militar: patente, onde serviu, circunstância da morte, registro do local de repouso.
+  - sobre vida maçônica:
+    - grau,
+    - iniciação,
+    - outras notas em ata;
+    - registro sobre a morte
 - o prédio hoje
 
 - Comentário para começar o artigo (traduzir para o francês):
@@ -39,7 +59,7 @@
       Of right and truth, to be the shrine. 
       How shall we build it, strong and fair, 
       The holy house of praise and prayer… 
-      This house, this, polace, this God’s home, 
+      This house, this, palace, this God’s home, 
       This temple with a holy dome, 
       Must be in all proportions fit, 
       That heavenly messengers may come
