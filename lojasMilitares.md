@@ -36,6 +36,8 @@
 
 *Milborne, Alfred John Bidder.* **Freemasonry in the Province of Quebec.** 1st ed. Knowlton(QC): [s.n.], 1960. 
 
+*de Lagrave, Jean-Paul*. **Les débuts de la Maçonnerie au Québec**. Man and Nature / L'homme et la nature 7, (1988) : 195–207. https://doi.org/10.7202/1011936ar
+
 *Hamon, É.*, **La franc-maçonnerie dans la province de Québec en 1883** /, Québec (Province), s.n., 1883, 276 p. ; 19 cm, Collections de BAnQ. 
 https://numerique.banq.qc.ca/patrimoine/details/52327/2021763 
 
