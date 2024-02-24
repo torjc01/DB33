@@ -10,7 +10,9 @@
 
 **Idioma primário:** francês (tr. inglês)
 
-**Fontes de pesquisa:** Fontes primárias: atas da loja Albion; atas da QMHA e da AMBQ; entrevista com os administradores atuais da AMBQ; bibliografia maçônica; jornais ingleses e franceses da época, entre outros. 
+**Fontes de pesquisa:** 
+- Fontes primárias: atos de constituição da QMHA e da AMBQ; projetos e planos arquitetônicos; atas da loja Albion; atas da QMHA e da AMBQ; entrevista com os administradores atuais da AMBQ;  jornais ingleses e franceses da época, entre outros.
+- Fontes secundárias: bibliografia maçônica, entre outros. 
 
 ## Questões para pesquisa
 
@@ -18,28 +20,29 @@
 - Percurso das lojas Albion e St John's
 - Inexistencia de templo;
 - Criação da Quebec Masonic Hall Association; ato de constituição
-- Lançamento de quotas abertas ao publico para investir na construcao do templo
-- A compra do lote (Christian Hoffman); valor da compra 1860 e atualizado
-- O concurso  para o projeto arquitetônico do prédio e das dependências da loja
-- Vencedor; noticia; descrição do prédio; imagens do projeto
-- Contestações ao projeto- Lançamento da pedra fundamental
-- construçao e inauguração; custos em 1860 e atualizados;
-- uso nos primeiros anos: lojas, apartamentos, bureaux; aluguel para eventos
-- necessidade de reforma 100 anos apos; dissolucao da QMHA e criacao da AMBQ
+- Lançamento de quotas abertas ao público para investir na construção do templo
+- A compra do lote (espólio de Christian Hoffman); valor da compra 1860 e atualizado
+- O concurso para o projeto arquitetônico do prédio e das dependências da loja
+- Vencedor; notícia; descrição do prédio; imagens do projeto
+- Contestações ao projeto
+- Lançamento da pedra fundamental
+- Construçao e inauguração; custos em 1860 e atualizados
+- Uso nos primeiros anos: lojas, apartamentos, bureaux; aluguel para eventos
+- Necessidade de reforma 100 anos após; dissolução da QMHA e criação da AMBQ
 - Descrever a historia da Albion:
   - warrant militar e ambulante pela GL Antients;
   - fundação em NY;
-  - retirada com exercito Britanico;
+  - retirada com exército Britânico;
   - Newfoundland;
   - Woolwich;
-  - Quebec;
+  - Québec;
   - compra da charte n. 9;
   - estabelecimento de charte civil e sedentária;
   - mostrar o processo de adesão à UGLE, e posteriormente à GLQ
 - Albion hoje:
   - orgulhosa raízes militares;
   - homenagem aos membros que foram perdidos nas guerras do Canada;
-  - muitos membros são ou foram das Forces; estatistica
+  - muitos membros são ou foram das Forces; estatística
   - descrever a soirée militaire anual com banquete
 - breve biografia dos irmãos da Albion caídos nas guerras
   - vida civil: origem, cidade, profissão, família imediata
@@ -49,9 +52,9 @@
     - iniciação,
     - outras notas em ata;
     - registro sobre a morte
-- o prédio hoje
+- O prédio hoje
 
-- Comentário para começar o artigo (traduzir para o francês):
+- Citação para começar o artigo (traduzir para o francês):
   
       "We have a holy house to build, 
       A temple splendid and divine, 
@@ -68,7 +71,7 @@
           - Albert Pike, “The Mason’s Holy House”
 
 
-## Referencias
+## Referências
 
 ### Bibliografia 
 
@@ -83,7 +86,7 @@ https://numerique.banq.qc.ca/patrimoine/details/52327/2358952?docsearchtext=maso
 Dictionary Biographic Canada  
 http://www.biographi.ca/fr/ 
 
-### Ficha do edificio na prefeitura 
+### Ficha do edifício na prefeitura 
 Ficha do edifício no site da prefeitura de Québec. 
 https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=300
 
