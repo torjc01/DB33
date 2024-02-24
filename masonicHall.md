@@ -84,6 +84,7 @@ Dictionary Biographic Canada
 http://www.biographi.ca/fr/ 
 
 ### Ficha do edificio na prefeitura 
+Ficha do edifício no site da prefeitura de Québec. 
 https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=300
 
 Ville de Québec. Maçonnerie de Pierre: Guide technique 6.
