@@ -80,7 +80,6 @@ https://numerique.banq.qc.ca/patrimoine/details/52327/2358952?docsearchtext=maso
 
 ### Web
 
-
 Dictionary Biographic Canada  
 http://www.biographi.ca/fr/ 
 
@@ -90,7 +89,7 @@ https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=300
 Ville de Québec. Maçonnerie de Pierre: Guide technique 6.
 https://www.ville.quebec.qc.ca/citoyens/propriete/docs/patrimoine/guide_tech06.pdf
 
-Ville de Montréal. La Maçonnerie:
+Ville de Montréal. La Maçonnerie: Fiche-patrimoine. https://ville.montreal.qc.ca/pls/portal/docs/page/arrond_mhm_fr/media/documents/fiche-patrimoine_maconnerie.pdf 
 
 ### Planos arquitetônicos
 
