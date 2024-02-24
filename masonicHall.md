@@ -75,6 +75,9 @@
 Quebec Masonic Hall Association. Act of incorporation and by-laws of the Quebec Masonic Hall Association. [Quebec : publisher not identified], 1855.  
 https://www.canadiana.ca/view/oocihm.52936/20 
 
+Association Maçonnique Bénevole du Québec. Lettre patente.Gazette officielle du Québec. Québec official gazette., 1956-09-08, Collections de BAnQ.
+https://numerique.banq.qc.ca/patrimoine/details/52327/2358952?docsearchtext=masonic
+
 ### Web
 
 
@@ -83,6 +86,11 @@ http://www.biographi.ca/fr/
 
 ### Ficha do edificio na prefeitura 
 https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=300
+
+Ville de Québec. Maçonnerie de Pierre: Guide technique 6.
+https://www.ville.quebec.qc.ca/citoyens/propriete/docs/patrimoine/guide_tech06.pdf
+
+Ville de Montréal. La Maçonnerie:
 
 ### Planos arquitetônicos
 
