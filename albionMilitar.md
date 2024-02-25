@@ -10,7 +10,7 @@
 
 **Idioma primário:** francês
 
-**Fontes de pesquisa:** atas da loja Albion; atas em possessão do 4th Btn Royal Regimenr Artillery; bibliografia maçônica; sites de potências envolvidas (UGLE; GL Atholl); arquivos PDF recuperados das bibliotecas virtuais; registros de serviço militares canadenses e dos aliados. 
+**Fontes de pesquisa:** atas da loja Albion; atas em possessão do 4th Btn Royal Regiment Artillery; bibliografia maçônica; sites de potências envolvidas (UGLE; GL Atholl); arquivos PDF recuperados das bibliotecas virtuais; registros de serviço militares canadenses e dos aliados. 
 
 ## Questões para pesquisa
 
@@ -42,6 +42,7 @@
 ## Biografias 
 
 ### Joseph Stanley Marchant
+
 Lance Corporal 
 
 Service Number: 22900
@@ -86,6 +87,8 @@ https://numerique.banq.qc.ca/patrimoine/details/52327/3101785?docsearchtext=jose
 Major
 
 Service Number: 
+
+Force: Army
 
 https://www.veterans.gc.ca/eng/remembrance/memorials/canadian-virtual-war-memorial/detail/4024257
 
