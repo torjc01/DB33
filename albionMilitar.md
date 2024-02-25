@@ -12,6 +12,33 @@
 
 **Fontes de pesquisa:** atas da loja Albion; atas em possessão do 4th Btn Royal Regimenr Artillery; bibliografia maçônica; sites de potências envolvidas (UGLE; GL Atholl); arquivos PDF recuperados das bibliotecas virtuais; registros de serviço militares canadenses e dos aliados. 
 
+## Questões para pesquisa
+
+- Descrever a historia da Albion:
+  - warrant militar e ambulante pela GL Antients;
+  - fundação em NY;
+  - retirada com exército Britânico;
+  - Newfoundland;
+  - Woolwich;
+  - Québec;
+  - compra da charte n. 9;
+  - estabelecimento de charte civil e sedentária;
+  - mostrar o processo de adesão à UGLE, e posteriormente à GLQ
+- Albion hoje:
+  - orgulhosa raízes militares;
+  - homenagem aos membros que foram perdidos nas guerras do Canada;
+  - muitos membros são ou foram das Forces; estatística
+  - descrever a soirée militaire anual com banquete
+- breve biografia dos irmãos da Albion caídos nas guerras
+  - vida civil: origem, cidade, profissão, família imediata
+  - registro militar: patente, onde serviu, circunstância da morte, registro do local de repouso.
+  - sobre vida maçônica:
+    - grau,
+    - iniciação,
+    - outras notas em ata;
+    - registro sobre a morte
+    
+
 ## Biografias 
 
 ### Joseph Stanley Marchant
