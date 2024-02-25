@@ -1,5 +1,17 @@
 # Albion, loja militar
 
+**Título provisório:** *Albion, loja militar* 
+
+**Plano geográfico:** Cidade de Québec
+
+**Período:** séc XVIII (a partir da chegada das primeiras lojas aqui)
+
+**Público alvo:** público maçônico, todos os graus; público em geral. Proposição de publicação na revista da Loja de Pesquisas Dom Bosco no. 33.
+
+**Idioma primário:** francês
+
+**Fontes de pesquisa:** bibliografia maçônica; sites de potências envolvidas (UGLE; GL Ireland e Scotland; Atholl); arquivos PDF recuperados das bibliotecas virtuais do GOB, da CMSB, entre outros. 
+
 
 
 
@@ -71,6 +83,28 @@ https://www.findagrave.com/memorial/55974012/hamilton_john-adair/photo
 
 https://www.findagrave.com/memorial/55974012/hamilton_john-adair/photo#source
 
+
+## Bibliografia 
+
+*Graham, John H.* **Outlines of the History of Freemasonry in the Province of Quebec.** 1st ed. Montréal: John Lovell & Son, 1892. p 489-490.   
+[https://www.google.ca/books/edition/Outlines_of_the_History_of_Freemasonry_i/ZrJJAAAAMAAJ?hl=pt-](https://www.google.ca/books/edition/Outlines_of_the_History_of_Freemasonry_i/ZrJJAAAAMAAJ?hl=pt-BR&gbpv=1&dq=minute+book+woolwich+9+january+1789&pg=PA489&printsec=frontcover )
+
+**By-Laws The Lodge of Antiquity, No 1, G.R.Q.** Montréal: [s.n.], 1906. 
+
+*Smith, Pemberton.* **A Research into Early Canadian Masonry 1759-1869.** 1st ed.Montréal: Quality Press, 1939. 
+
+*Milborne, Alfred John Bidder.* **Freemasonry in the Province of Quebec.** 1st ed. Knowlton(QC): [s.n.], 1960. 
+
+*Hamon, É.*, **La franc-maçonnerie dans la province de Québec en 1883** /, Québec (Province), s.n., 1883, 276 p. ; 19 cm, Collections de BAnQ. 
+https://numerique.banq.qc.ca/patrimoine/details/52327/2021763 
+
+### Web 
+
+Lane's Masonic Record: is an authoritative listing of all the lodges established by the English Grand Lodges from the foundation of the first Grand Lodge in 1717 up until 1894. 
+https://www.dhi.ac.uk/lane/
+
+Atholl Lodge List - Antients  
+https://antients.org 
 
 
 
