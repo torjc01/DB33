@@ -4,16 +4,13 @@
 
 **Plano geográfico:** Cidade de Québec
 
-**Período:** séc XVIII (a partir da chegada das primeiras lojas aqui)
+**Período:** a partir de 1752
 
 **Público alvo:** público maçônico interno, todos os graus. Possívelmente apresentar como presente para a loja na soirée militaire.
 
 **Idioma primário:** francês
 
-**Fontes de pesquisa:** bibliografia maçônica; sites de potências envolvidas (UGLE; GL Ireland e Scotland; Atholl); arquivos PDF recuperados das bibliotecas virtuais do GOB, da CMSB, entre outros. 
-
-
-
+**Fontes de pesquisa:** atas da loja Albion; atas em possessão do 4th Btn Royal Regimenr Artillery; bibliografia maçônica; sites de potências envolvidas (UGLE; GL Atholl); arquivos PDF recuperados das bibliotecas virtuais; registros de serviço militares canadenses e dos aliados. 
 
 ## Biografias 
 
@@ -105,11 +102,3 @@ https://www.dhi.ac.uk/lane/
 
 Atholl Lodge List - Antients  
 https://antients.org 
-
-
-
-
-
-
-
-
