@@ -6,7 +6,7 @@
 
 **Período:** séc XVIII (a partir da chegada das primeiras lojas aqui)
 
-**Público alvo:** público maçônico, todos os graus; público em geral. Proposição de publicação na revista da Loja de Pesquisas Dom Bosco no. 33.
+**Público alvo:** público maçônico interno, todos os graus. Possívelmente apresentar como presente para a loja na soirée militaire.
 
 **Idioma primário:** francês
 
