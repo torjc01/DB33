@@ -2,15 +2,13 @@
 
 1. O papel das lojas militares na disseminação da Franco-Maçonaria na América do Norte
 
-
 1. Financiamento popular (crowdfunding) do Masonic Hall de Québec    
 ou       
 Projeto e financiamento do Templo Maçônico de Québec pela Quebec Masonic Hall Association
 
+1. O pró e anti-maçônismo nos órgãos de imprensa da província de Quebec no séc XIX
 
-1. O pró e anti-maçonismo nos órgãos de imprensa da província de Quebec no séc XIX
-
-1. Brasilia Maçonica
+1. Brasilia Maçônica
 
 1. O papel da maçonaria nas repúblicas Farroupilha e Juliana 
 
@@ -21,3 +19,7 @@ Projeto e financiamento do Templo Maçônico de Québec pela Quebec Masonic Hall
 1. De Principia Geometriae 
 
 1. Inspiração maçônica na bandeira e no brasão gaúchos (símbolos cívicos)
+
+1. Research Lodges
+
+1. Análise comparativa de lojas derivadas: lojas não tradicionais que possuem um propósito distinto, entre elas: lojas de pesquisa, lojas militares, lojas estrangeiras, lojas de estudo, lojas virtuais, lojas universitárias, etc. 
