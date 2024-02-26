@@ -4,7 +4,7 @@
 
 **Plano geográfico:** Cidade de Québec
 
-**Período:** a partir de 1752
+**Timeframe:** a partir de 1752
 
 **Público alvo:** público maçônico interno, todos os graus. Possívelmente apresentar como presente para a loja na soirée militaire.
 
@@ -14,7 +14,7 @@
 
 ## Questões para pesquisa
 
-- Descrever a historia da Albion:
+- Descrever a história da Albion:
   - warrant militar e ambulante pela GL Antients;
   - fundação em NY;
   - retirada com exército Britânico;
