@@ -1,6 +1,6 @@
 # Masonic Hall 
 
-**Título provisório:** *Projeto e financiamento do Templo Maçônico de Québec pela Quebec Masonic Hall Association*, ou Financiamento popular (crowdfunding) do Masonic Hall de Québec.
+**Título provisório:** *Projeto e financiamento do Templo Maçônico de Québec pela Quebec Masonic Hall Association*, ou **Financiamento popular (crowdfunding) do Masonic Hall de Québec** ou ainda **Quebec Masonic Hall Association e a construção do Templo Maçônico de Québec**. 
 
 **Plano geográfico:** Cidade de Québec
 
