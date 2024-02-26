@@ -5,3 +5,17 @@ Repositório para redação de artigos para a revista DB33, em colaboração.
 - [Lojas militares](./lojasMilitares.md) e a sua chegada na América do Norte
 - [Masonic Hall](./masonicHall.md)
 - [Pró e anti-maçonismo](./antiMaconismo.md)
+
+## Layout de estrutura de projetos 
+
+**IMRAD** 
+- Introduction
+- Methods
+- Results
+- Discussions
+
+- Introduction
+- Matériel et méthodes
+- Résultat
+- Discussion
+- Conclusion 
