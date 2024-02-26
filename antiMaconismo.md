@@ -4,7 +4,7 @@
 
 **Plano geográfico:** Província do Québec
 
-**Período:** séc XIX
+**Timeframe:** séc XIX
 
 **Público alvo:** público maçônico, todos os graus; público em geral. Proposição de publicação na revista da Loja de Pesquisas Dom Bosco no. 33.
 
@@ -15,9 +15,10 @@
 
 ## Questões para pesquisa
 
-- Panorama politico em Quebec no sec XIX-Background historico: Nouvelle France
+- Background histórico: Nouvelle France
 - Conquista
-- francêsA x inglês
+- Francês x Inglês
 - Background religioso: católico x protestante (anglicano/luterano/metodists/episcopal); bulas papais de condenação à FM; apartenance de católicos à ordem
+- Panorama político em Québec no sec XIX
 - Reação católica: Chevaliers de Coulombe;  Ordre de Jacques Cartier (tardiamente)
-- Cobertura midiática sobre a FM:  
+- Cobertura midiática sobre a FM
