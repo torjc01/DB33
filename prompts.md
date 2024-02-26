@@ -1,4 +1,4 @@
-# Prompts de potenciais artigos para a revista DB33
+# Prompts de potenciais artigos para a revista DB33 e outras publicações
 
 1. O papel das lojas militares na disseminação da Franco-Maçonaria na América do Norte
 
