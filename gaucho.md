@@ -1,16 +1,16 @@
 # Inspiração maçônica na bandeira e no brasão gaúchos (símbolos cívicos)
 
-**Título provisório: Inspiração maçônica na bandeira e no brasão gaúchos**
+**Título provisório**: Inspiração maçônica na bandeira e no brasão gaúchos
 
-Plano geográfico: Rio Grande do Sul
+**Plano geográfico**: Rio Grande do Sul
 
-Período: séc XIX
+**Timeframe**: séc XIX
 
-Público alvo: público maçônico, todos os graus; público em geral. Proposição de publicação na revista da Loja de Pesquisas Dom Bosco no. 33.
+**Público alvo**: público maçônico, todos os graus; público em geral. Proposição de publicação na revista da Loja de Pesquisas Dom Bosco no. 33.
 
-Idioma primário: português
+**Idioma primário**: português
 
-Fontes de pesquisa: bibliografia maçônica; sites de arquivos de jornais antigos; arquivos PDF recuperados das bibliotecas virtuais do GOB, da CMSB, entre outros.
+**Fontes de pesquisa**: bibliografia maçônica; sites de arquivos de jornais antigos; arquivos PDF recuperados das bibliotecas virtuais do GOB, da CMSB, entre outros.
 
 ## Questões para pesquisa 
 
