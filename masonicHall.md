@@ -12,7 +12,7 @@
 
 **Fontes de pesquisa:** 
 - Fontes primárias: atos de constituição da QMHA e da AMBQ; projetos e planos arquitetônicos; atas da loja Albion; atas da QMHA e da AMBQ; entrevista com os administradores atuais da AMBQ;  jornais ingleses e franceses da época, entre outros.
-- Fontes secundárias: bibliografia maçônica, entre outros. 
+- Fontes secundárias: bibliografia maçônica, entre outras. 
 
 ## Questões para pesquisa
 
@@ -26,7 +26,7 @@
 - Vencedor; notícia; descrição do prédio; imagens do projeto
 - Contestações ao projeto
 - Lançamento da pedra fundamental
-- Construçao e inauguração; custos em 1860 e atualizados
+- Construção e inauguração; custos em 1860 e atualizados
 - Uso nos primeiros anos: lojas, apartamentos, bureaux; aluguel para eventos
 - Necessidade de reforma 100 anos após; dissolução da QMHA e criação da AMBQ
 
