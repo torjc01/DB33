@@ -4,7 +4,7 @@
 
 **Plano geográfico:** Cidade de Québec
 
-**Período:** séc XVIII, XIX e XX (a partir de 1752) 
+**Timeframe:** séc XVIII, XIX e XX (a partir de 1752) 
 
 **Público alvo:** público maçônico interno, todos os graus. Possívelmente apresentar como presente para a AMBQ. 
 
@@ -18,7 +18,7 @@
 
 - Act of Incorporation da Quebec Masonic Hall Association
 - Percurso das lojas Albion e St John's
-- Inexistencia de templo;
+- Inexistência de templo;
 - Criação da Quebec Masonic Hall Association; ato de constituição
 - Lançamento de quotas abertas ao público para investir na construção do templo
 - A compra do lote (espólio de Christian Hoffman); valor da compra 1860 e atualizado
