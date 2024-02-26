@@ -4,7 +4,7 @@
 
 **Plano geográfico:** América do Norte (EUA e Canadá); focar no Canadá e província de Québec
 
-**Período:** séc XVIII (a partir da chegada das primeiras lojas aqui)
+**Timeframe:** séc XVIII (a partir da chegada das primeiras lojas aqui)
 
 **Público alvo:** público maçônico, todos os graus; público em geral. Proposição de publicação na revista da Loja de Pesquisas Dom Bosco no. 33.
 
