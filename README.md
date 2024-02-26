@@ -14,6 +14,8 @@ Repositório para redação de artigos para a revista DB33, em colaboração.
 - Results
 - Discussions
 
+**Parties du rapport**
+
 - Introduction
 - Matériel et méthodes
 - Résultat
