@@ -14,6 +14,24 @@
 - Fontes primárias: atos de constituição da QMHA e da AMBQ; projetos e planos arquitetônicos; atas da loja Albion; atas da QMHA e da AMBQ; entrevista com os administradores atuais da AMBQ;  jornais ingleses e franceses da época, entre outros.
 - Fontes secundárias: bibliografia maçônica, entre outras. 
 
+**Citação para começar o artigo (traduzir para o francês)**:
+  
+      "We have a holy house to build, 
+      A temple splendid and divine, 
+      To be with glorious memories filled, 
+      Of right and truth, to be the shrine. 
+      How shall we build it, strong and fair, 
+      The holy house of praise and prayer… 
+      This house, this, palace, this God’s home, 
+      This temple with a holy dome, 
+      Must be in all proportions fit, 
+      That heavenly messengers may come
+      To dwell with those who meet in it." 
+      
+          - Albert Pike, “The Mason’s Holy House”
+
+
+
 ## Questões para pesquisa
 
 - Act of Incorporation da Quebec Masonic Hall Association
@@ -32,32 +50,20 @@
 
 - O prédio hoje
 
-- Citação para começar o artigo (traduzir para o francês):
-  
-      "We have a holy house to build, 
-      A temple splendid and divine, 
-      To be with glorious memories filled, 
-      Of right and truth, to be the shrine. 
-      How shall we build it, strong and fair, 
-      The holy house of praise and prayer… 
-      This house, this, palace, this God’s home, 
-      This temple with a holy dome, 
-      Must be in all proportions fit, 
-      That heavenly messengers may come
-      To dwell with those who meet in it." 
-      
-          - Albert Pike, “The Mason’s Holy House”
 
 
 ## Referências
 
 ### Bibliografia 
 
-Quebec Masonic Hall Association. Act of incorporation and by-laws of the Quebec Masonic Hall Association. [Quebec : publisher not identified], 1855.  
+Quebec Masonic Hall Association. **Act of incorporation and by-laws of the Quebec Masonic Hall Association.** [Quebec : publisher not identified], 1855.  
 https://www.canadiana.ca/view/oocihm.52936/20 
 
-Association Maçonnique Bénevole du Québec. Lettre patente.Gazette officielle du Québec. Québec official gazette., 1956-09-08, Collections de BAnQ.
+Association Maçonnique Bénevole du Québec. **Lettre patente.** Gazette officielle du Québec. Québec official gazette., 1956-09-08, Collections de BAnQ.
 https://numerique.banq.qc.ca/patrimoine/details/52327/2358952?docsearchtext=masonic
+
+Chambers, E. T. D., **The guide to Quebec** /, Montreal, C.R. Corneil Print, 1899, 1 ressource en ligne (124, iv p. [12] p. de pl. [1] f. de cartes plié), Collections de BAnQ.
+https://numerique.banq.qc.ca/patrimoine/details/52327/3996426 
 
 ### Web
 
