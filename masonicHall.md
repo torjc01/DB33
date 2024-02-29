@@ -81,6 +81,10 @@ https://numerique.banq.qc.ca/patrimoine/details/52327/3667493
 Dictionary Biographic Canada  
 http://www.biographi.ca/fr/ 
 
+Registraire des Entreprises du Québec   
+https://www.registreentreprises.gouv.qc.ca/RQAnonymeGR/GR/GR03/GR03A2_19A_PIU_RechEnt_PC/PageEtatRens.aspx?T1.JetonStatic=053d168f-c3d7-41b6-818a-f4486e001952&T1.CodeService=S00436
+
+
 ### Ficha do edifício na prefeitura 
 Ficha do edifício no site da prefeitura de Québec. 
 https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=300
