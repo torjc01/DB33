@@ -82,7 +82,8 @@ Dictionary Biographic Canada
 http://www.biographi.ca/fr/ 
 
 Registraire des Entreprises du Québec   
-https://www.registreentreprises.gouv.qc.ca
+https://www.registreentreprises.gouv.qc.ca  
+https://www.quebec.ca/entreprises-et-travailleurs-autonomes/obtenir-renseignements-entreprise/recherche-registre-entreprises/acceder-registre-entreprises
 
 
 ### Ficha do edifício na prefeitura 
