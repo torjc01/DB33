@@ -50,7 +50,13 @@
 
 - O prédio hoje
 
+## Informações diversas
 
+Compra do lote, em 02 abril 1860, pela soma de £1375, conforme notícia do Mercury, dia 03 de abril: 
+
+**EXTENSIVE SALE OF REAL STATE** - *The sale of city lots with buildings thereon, appertaining to the estate of the late Christian Hoffman, whose heirs have, we believe, all gone westward since his demise, took place in the Sheriff's Office in the Court House, yesterday forenoon, when the property was adjudged as follows:--   
+...   
+3rd:-- Corner of St. Lewis and east of Garden Street, west of J.T. Taschereau; -- to Masonic Hall Association for £1375.* (QM01)
 
 ## Referências
 
@@ -64,6 +70,11 @@ https://numerique.banq.qc.ca/patrimoine/details/52327/2358952?docsearchtext=maso
 
 Chambers, E. T. D., **The guide to Quebec** /, Montreal, C.R. Corneil Print, 1899, 1 ressource en ligne (124, iv p. [12] p. de pl. [1] f. de cartes plié), Collections de BAnQ.
 https://numerique.banq.qc.ca/patrimoine/details/52327/3996426 
+
+### Jornais
+
+QM01. Venda do lote. The Quebec mercury, 1860-04-03, Collections de BAnQ. p.2
+https://numerique.banq.qc.ca/patrimoine/details/52327/3667493
 
 ### Web
 
