@@ -273,6 +273,18 @@ Valeur ajustée en CAD aujourd’hui≈457600
 
 Donc, la valeur d'aujourd'hui, en dollars canadiens, de 16000 CAD en date du 02 avril 1860 serait d'environ 457600 CAD, en tenant compte de l'inflation depuis cette date jusqu'à aujourd'hui.
 
+-----
+### **Resumée des valeus ajustés pour l'inflation**
+
+|RUBRIQUE|DATE|DEVISE|VALEUR PASSÉE|VALEUR ACTUELLE ($)|
+|-----|-----|-----|-----|-----|
+|Compra do lote|02 abril 1860|£|1375.00|$ 1,334,774.95|
+|Prêmio ao arquiteto|31 out 1860|$|100|$ 16,179.09|
+|Estimativa do custo de construção|1860|$|16,000.00|$ 2,588,654.45|
+|Valor final da construção|1865|$|25,000.00|$ 4,044,772.57|
+|Cota individual de acionista|1860|$|00|$ 00|
+
+
 Inflation Rate in Canada averaged 3.15 percent from 1915 until 2024, reaching an all time high of 21.60 percent in June of 1920 and a record low of -17.80 percent in June of 1921.
 Source: [Trading economics/Stats](https://tradingeconomics.com/canada/inflation-cpi#:~:text=Inflation%20Rate%20in%20Canada%20averaged,statistics%2C%20economic%20calendar%20and%20news.)
 
