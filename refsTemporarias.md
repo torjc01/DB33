@@ -64,10 +64,9 @@ https://memoria.bn.br/DocReader/docreader.aspx?bib=700142x&pesq=&pagfis=4
 
 Sources
 
-À l'instar de l'histoire générale, l’histoire locale étudie une large diversité de sources, lesquelles varient selon le contexte chronologique et spatial. Les thèmes de recherche dépendent aussi des auteurs12. La liste ci-dessous n'est donc pas exhaustive :
+À l'instar de l'histoire générale, l’histoire locale étudie une large diversité de sources, lesquelles varient selon le contexte chronologique et spatial. Les thèmes de recherche dépendent aussi des auteurs. La liste ci-dessous n'est donc pas exhaustive :
 
     Égo-documents et écrits du for privé
-
     Archives notariales (Répertoire de notaires, etc.)
     Registre paroissial
     Registre d'état civil
