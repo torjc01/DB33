@@ -312,3 +312,7 @@ https://www150.statcan.gc.ca/n1/pub/62-604-x/62-604-x2015001-fra.htm
 *Inflation Calculator - Banque du Canada*.  
 Offre un outil automatisé de calcul d'inflation qui établit la moyenne de l'inflation entre 1914-2024 en 3.02% / année.   
 https://www.bankofcanada.ca/rates/related/inflation-calculator/
+
+
+L'INDICE MONÉTAIRE ET LA THÉORIE DE LA MONNAIE (Suite et fin)
+https://www.jstor.org/stable/24684448
