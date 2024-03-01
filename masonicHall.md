@@ -16,7 +16,7 @@
 
 **Citação para começar o artigo (traduzir para o francês)**:
   
-      "We have a holy house to build, 
+      **"We have a holy house to build, 
       A temple splendid and divine, 
       To be with glorious memories filled, 
       Of right and truth, to be the shrine. 
@@ -28,7 +28,7 @@
       That heavenly messengers may come
       To dwell with those who meet in it." 
       
-          - Albert Pike, “The Mason’s Holy House”
+          - Albert Pike, “The Mason’s Holy House”**
 
 
 
@@ -47,7 +47,6 @@
 - Construção e inauguração; custos em 1860 e atualizados
 - Uso nos primeiros anos: lojas, apartamentos, bureaux; aluguel para eventos
 - Necessidade de reforma 100 anos após; dissolução da QMHA e criação da AMBQ
-
 - O prédio hoje
 
 ## Informações diversas
@@ -120,7 +119,7 @@ https://advitam.banq.qc.ca/notice/316964
 
 ## Annexe Économique 
 
-Dans cet article, on a parlé à plusieurs réprises de valeurs monetaires qui ont été déboursés au long de l'histoire d'Albion. Évidemment, ces valeurs sont ceux de l'époque en étude, et ne reflètent pas le même pouvoir d'achat que ces sommes ont dans l'époque actuelle. 
+Dans cet article, on a parlé à plusieurs réprises de valeurs monetaires qui ont été déboursés au long de l'histoire d'Albion. Évidemment, ces valeurs sont ceux de l'époque en étude, et ne reflètent pas le même pouvoir d'achat qu'elles ont dans l'époque actuelle. 
 
 Avec l'objective de (sanar) la curiosité du lecteur, on va essayer de faire l'actualisation de ces valeurs vers la valeur courante en dollar canadien. 
 
@@ -154,7 +153,7 @@ This will give you a rough estimate of the mean inflation rate for the Canadian 
 -->
 
 
-1. Estimation de la valeur de £1000 en 1860 en dollars canadiens (C$) en 1860:  
+**Estimation de la valeur de £1000 en 1860 en dollars canadiens (C$) en 1860:**  
 
    Pour convertir £1000 de l'année 1860 en une valeur équivalente en dollars canadiens (C$) la même année, nous devons utiliser les taux de change historiques ou des ajustements de parité de pouvoir d'achat (PPP). Cependant, les données historiques sur les taux de change pour l'année 1860 peuvent être difficiles à trouver, surtout pour des devises comme le dollar canadien, qui n'a été créé qu'en 1858.
    
@@ -164,27 +163,39 @@ This will give you a rough estimate of the mean inflation rate for the Canadian 
     
     2. Ajuster pour l'inflation ou les changements de pouvoir d'achat entre 1860 et maintenant pour les deux devises.
     
-   Étant donné les limitations, supposons un taux de change et essayons d'ajuster pour l'inflation. La Banque du Canada fournit des taux de change historiques, mais ils peuvent ne pas remonter à 1860. Supposons un taux de change hypothétique pour le calcul, disons 1 GBP = 4 CAD en 1860.
+   Étant donné les limitations, supposons un taux de change et essayons d'ajuster pour l'inflation. La Banque du Canada fournit des taux de change historiques, mais ils peuvent ne pas remonter à 1860.  
+   
+   Dans l'article intitulé *"Le PPP au fil des siècles"*, Zé Ruela montre que la relation des prix pris de paniers de produits similaires dans une même région et au même temps, mais en devises différentes, nous permet d'établir le poids relavif d'une devise par rapport à une autre. De cette façon, on peut dériver un "taux de change" estimé pour les debises en question.
+   
+   Selon la technique roposée par ZR, upposons un taux de change hypothétique pour le calcul, disons £1 = 6 CAD en 1860.
    
    Maintenant, pour ajuster l'inflation, nous aurions besoin de données historiques sur l'inflation pour le Royaume-Uni et le Canada, mais des données précises remontant à 1860 peuvent ne pas être facilement disponibles. Cependant, nous pouvons faire une estimation très approximative en utilisant les taux d'inflation à long terme.
    
-   Par exemple, en supposant un taux d'inflation annuel moyen d'environ 2% pour le Royaume-Uni et le Canada depuis 1860, nous pouvons appliquer ce taux d'inflation pour ajuster la valeur de l'argent.
+   Par exemple, en supposant un taux d'inflation annuel moyen d'environ 3.15% pour le Royaume-Uni et le Canada depuis 1860, nous pouvons appliquer ce taux d'inflation pour ajuster la valeur de l'argent.
    
    Donc, le calcul serait :
    
    £1000 * (Facteur d'inflation pour GBP) / (Facteur d'inflation pour CAD) * (Taux de change hypothétique)
    
    Cependant, sans données historiques précises, ce calcul serait assez spéculatif et pourrait ne pas refléter avec précision le pouvoir d'achat réel. Pour une analyse plus précise, il faudrait avoir accès à des données historiques sur les taux de change et les taux d'inflation spécifiques à cette période.
+   
 2. Calcul du taux d'inflation moyen pour le dollar canadien de 1914 à aujourd'hui:
+
    À partir de ma dernière mise à jour en janvier 2022, je ne peux pas fournir de données en temps réel ou mises à jour, y compris le taux d'inflation moyen de 1914 à aujourd'hui. Cependant, historiquement, le taux d'inflation moyen pour le dollar canadien a fluctué au cours de différentes périodes en raison de divers facteurs économiques tels que les politiques gouvernementales, la croissance économique et les événements internationaux.
+   
    Vous pouvez trouver des données historiques sur l'inflation pour le dollar canadien à partir de 1914 sur le site Web de la Banque du Canada ou via leur portail de données. En analysant ces données, vous pouvez calculer le taux d'inflation moyen sur la période spécifiée.
+   
    Pour calculer le taux d'inflation moyen, vous devez généralement :
+   
     1. Collecter les taux d'inflation annuels pour chaque année de 1914 à aujourd'hui.
     2. Ajouter tous les taux d'inflation.
     3. Diviser la somme par le nombre d'années (c'est-à-dire le nombre total d'années de 1914 à aujourd'hui) pour trouver le taux d'inflation moyen ou moyen.
+       
    Cela vous donnera une estimation approximative du taux d'inflation moyen pour le dollar canadien sur la période spécifiée. Cependant, gardez à l'esprit que les conditions économiques peuvent varier considérablement avec le temps, de sorte que la moyenne calculée peut ne pas représenter parfaitement l'environnement inflationniste pour chaque année de cette période.
 
-D'accord, pour effectuer ce calcul, nous allons utiliser les hypothèses suivantes :
+----- 
+
+Pour effectuer ce calcul, nous allons utiliser les hypothèses suivantes :
 
   1. Un taux de change hypothétique de 1 GBP = 4 CAD en 1860.
   
@@ -250,15 +261,15 @@ Tout d'abord, calculons le facteur d'inflation pour ajuster la valeur de 1860 à
 
 Maintenant, nous ajustons la valeur de 16000 CAD de 1860 en dollars canadiens d'aujourd'hui :
 
-Valeur ajusteˊe en CAD aujourd’hui≈16000×(1+0.02)164
+Valeur ajustée en CAD aujourd’hui≈16000×(1+0.02)164
 
 Calculons cela :
 
-Valeur ajusteˊe en CAD aujourd’hui≈16000×(1.02)164
+Valeur ajustée en CAD aujourd’hui≈16000×(1.02)164
 
-Valeur ajusteˊe en CAD aujourd’hui≈16000×28.65
+Valeur ajustée en CAD aujourd’hui≈16000×28.65
 
-Valeur ajusteˊe en CAD aujourd’hui≈457600
+Valeur ajustée en CAD aujourd’hui≈457600
 
 Donc, la valeur d'aujourd'hui, en dollars canadiens, de 16000 CAD en date du 02 avril 1860 serait d'environ 457600 CAD, en tenant compte de l'inflation depuis cette date jusqu'à aujourd'hui.
 
