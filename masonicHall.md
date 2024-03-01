@@ -158,10 +158,10 @@ This will give you a rough estimate of the mean inflation rate for the Canadian 
    Pour convertir £1000 de l'année 1860 en une valeur équivalente en dollars canadiens (C$) la même année, nous devons utiliser les taux de change historiques ou des ajustements de parité de pouvoir d'achat (PPP). Cependant, les données historiques sur les taux de change pour l'année 1860 peuvent être difficiles à trouver, surtout pour des devises comme le dollar canadien, qui n'a été créé qu'en 1858.
    
    Cependant, je peux fournir une estimation approximative en utilisant certaines hypothèses :  
-   
-    1. Estimer le taux de change entre la GBP (livre sterling) et le CAD (dollar canadien) à cette époque, en tenant compte du contexte historique.
-    
-    2. Ajuster pour l'inflation ou les changements de pouvoir d'achat entre 1860 et maintenant pour les deux devises.
+ 
+  1. Estimer le taux de change entre la GBP (livre sterling) et le CAD (dollar canadien) à cette époque, en tenant compte du contexte historique.
+  
+  2. Ajuster pour l'inflation ou les changements de pouvoir d'achat entre 1860 et maintenant pour les deux devises.
     
    Étant donné les limitations, supposons un taux de change et essayons d'ajuster pour l'inflation. La Banque du Canada fournit des taux de change historiques, mais ils peuvent ne pas remonter à 1860.  
    
@@ -282,5 +282,5 @@ https://www150.statcan.gc.ca/n1/pub/62-604-x/62-604-x2015001-fra.htm
 *L’Indice des prix à la consommation (IPC) est l’un des indicateurs économiques les plus importants et influents produits par Statistique Canada. Il sert à suivre les fluctuations au fil du temps du coût d’un panier fixe de biens et de services de consommation. Étant donné que le panier comprend des produits dont la quantité et la qualité ne changent pas ou sont équivalentes, l’indice rend compte uniquement de la variation pure de prixNote 1. L’IPC est largement utilisé pour l’indexation des paiements, l’analyse économique et la prise de décisions stratégiques gouvernementales.*
 
 *Inflation Calculator - Banque du Canada*.  
-Offre un outil automatisé de calcul d'inflation qui établit la moyenne de l'inflation entre 1914-2024 en 3.02%/année.   
+Offre un outil automatisé de calcul d'inflation qui établit la moyenne de l'inflation entre 1914-2024 en 3.02% / année.   
 https://www.bankofcanada.ca/rates/related/inflation-calculator/
