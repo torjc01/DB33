@@ -197,13 +197,13 @@ This will give you a rough estimate of the mean inflation rate for the Canadian 
 
 Pour effectuer ce calcul, nous allons utiliser les hypothèses suivantes :
 
-  1. Un taux de change hypothétique de 1 GBP = 4 CAD en 1860.
+  1. Un taux de change hypothétique de £1 = 6 CAD en 1860.
   
-  2. Une estimation d'inflation moyenne annuelle de 2 % pour le Royaume-Uni et le Canada depuis 1860 jusqu'à aujourd'hui.
+  2. Une estimation d'inflation moyenne annuelle de 3.15% pour le Royaume-Uni et le Canada depuis 1860 jusqu'à aujourd'hui.
     
 Tout d'abord, convertissons £1375 en 1860 en dollars canadiens (CAD) :
 
-Montant en CAD en 1860 = £1375 * 4 CAD/GBP = 5500 CAD
+Montant en CAD en 1860 = £1375 * 6 CAD/GBP = 5500 CAD
 
 Maintenant, pour ajuster cette valeur à aujourd'hui, nous devons prendre en compte l'inflation depuis 1860. Supposons que nous sommes en 2024, nous devons calculer le facteur d'inflation pour 164 ans (2024 - 1860 = 164 ans).
 
@@ -213,11 +213,11 @@ Pour calculer le facteur d'inflation, nous utilisons la formule suivante :
 
 Facteur d’inflation=(1+Taux d’inflation)Nombre d’anneˊes
 
-Facteur d’inflation=(1+0.02)164
+Facteur d’inflation=(1+0.315)164
 
 Calculons le facteur d'inflation :
 
-Facteur d’inflation=(1.02)164
+Facteur d’inflation=(1.0315)164
 
 Facteur d’inflation≈28.65
 
@@ -227,25 +227,25 @@ Valeur ajustée en CAD aujourd'hui ≈ 5500 CAD * 28.65 ≈ 157725 CAD
 
 Ainsi, la valeur d'aujourd'hui, en dollars canadiens, de £1375 en date du 02 avril 1860 serait d'environ 157725 CAD.
 
-  1. Un taux de change hypothétique de 1 GBP = 4 CAD en 1860.
+  1. Un taux de change hypothétique de £1 = 6 CAD en 1860.
   
-  2. Une estimation d'inflation moyenne annuelle de 2 % pour le Royaume-Uni et le Canada depuis 1860 jusqu'à aujourd'hui.
+  2. Une estimation d'inflation moyenne annuelle de 3.15% pour le Royaume-Uni et le Canada depuis 1860 jusqu'à aujourd'hui.
   
 Tout d'abord, convertissons 16000 CAD en 1860 en livres sterling (GBP) :
 
-Montant en GBP en 1860 = 16000 CAD / 4 CAD/GBP = £4000
+Montant en GBP en 1860 = 16000 CAD / 6 CAD/GBP = £4000
 
 Maintenant, pour ajuster cette valeur à aujourd'hui, nous devons tenir compte de l'inflation depuis 1860. Supposons que nous sommes en 2024, nous devons calculer le facteur d'inflation pour 164 ans (2024 - 1860 = 164 ans).
 
-Le facteur d'inflation pour 164 ans avec une inflation annuelle moyenne de 2 % est calculé comme suit :
+Le facteur d'inflation pour 164 ans avec une inflation annuelle moyenne de 3.15% est calculé comme suit :
 
 Facteur d’inflation=(1+Taux d’inflation)Nombre d’anneˊes
 
-Facteur d’inflation=(1+0.02)164
+Facteur d’inflation=(1+0.0315)164
 
 Calculons le facteur d'inflation :
 
-Facteur d’inflation=(1.02)164
+Facteur d’inflation=(1.0315)164
 
 Facteur d’inflation≈28.65
 
@@ -255,17 +255,17 @@ Valeur ajustée en GBP aujourd'hui ≈ £4000 * 28.65 ≈ £114600
 
 Ainsi, la valeur d'aujourd'hui, en livres sterling, de 16000 CAD en date du 02 avril 1860 serait d'environ £114600.
 
-Pour ajuster les 16000 CAD en 1860 à la valeur d'aujourd'hui en tenant compte de l'inflation du dollar canadien, nous allons utiliser les mêmes hypothèses d'inflation moyenne annuelle de 2 % depuis 1860 jusqu'à aujourd'hui. Nous allons également supposer que nous sommes en 2024.
+Pour ajuster les 16000 CAD en 1860 à la valeur d'aujourd'hui en tenant compte de l'inflation du dollar canadien, nous allons utiliser les mêmes hypothèses d'inflation moyenne annuelle de 3.15% depuis 1860 jusqu'à aujourd'hui. Nous allons également supposer que nous sommes en 2024.
 
 Tout d'abord, calculons le facteur d'inflation pour ajuster la valeur de 1860 à aujourd'hui. Nous avons déjà calculé le facteur d'inflation précédemment comme étant environ 28.65 pour 164 ans.
 
 Maintenant, nous ajustons la valeur de 16000 CAD de 1860 en dollars canadiens d'aujourd'hui :
 
-Valeur ajustée en CAD aujourd’hui≈16000×(1+0.02)164
+Valeur ajustée en CAD aujourd’hui≈16000×(1+0.0315)164
 
 Calculons cela :
 
-Valeur ajustée en CAD aujourd’hui≈16000×(1.02)164
+Valeur ajustée en CAD aujourd’hui≈16000×(1.0315)164
 
 Valeur ajustée en CAD aujourd’hui≈16000×28.65
 
@@ -280,6 +280,3 @@ Survol du premier siècle de l'IPC.
 https://www150.statcan.gc.ca/n1/pub/62-604-x/62-604-x2015001-fra.htm
 
 *L’Indice des prix à la consommation (IPC) est l’un des indicateurs économiques les plus importants et influents produits par Statistique Canada. Il sert à suivre les fluctuations au fil du temps du coût d’un panier fixe de biens et de services de consommation. Étant donné que le panier comprend des produits dont la quantité et la qualité ne changent pas ou sont équivalentes, l’indice rend compte uniquement de la variation pure de prixNote 1. L’IPC est largement utilisé pour l’indexation des paiements, l’analyse économique et la prise de décisions stratégiques gouvernementales.*
-
-
-
