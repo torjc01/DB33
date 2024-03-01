@@ -264,3 +264,11 @@ Donc, la valeur d'aujourd'hui, en dollars canadiens, de 16000 CAD en date du 02 
 
 Inflation Rate in Canada averaged 3.15 percent from 1915 until 2024, reaching an all time high of 21.60 percent in June of 1920 and a record low of -17.80 percent in June of 1921.
 Source: [Trading economics/Stats](https://tradingeconomics.com/canada/inflation-cpi#:~:text=Inflation%20Rate%20in%20Canada%20averaged,statistics%2C%20economic%20calendar%20and%20news.)
+
+Survol du premier siècle de l'IPC.  
+https://www150.statcan.gc.ca/n1/pub/62-604-x/62-604-x2015001-fra.htm
+
+*L’Indice des prix à la consommation (IPC) est l’un des indicateurs économiques les plus importants et influents produits par Statistique Canada. Il sert à suivre les fluctuations au fil du temps du coût d’un panier fixe de biens et de services de consommation. Étant donné que le panier comprend des produits dont la quantité et la qualité ne changent pas ou sont équivalentes, l’indice rend compte uniquement de la variation pure de prixNote 1. L’IPC est largement utilisé pour l’indexation des paiements, l’analyse économique et la prise de décisions stratégiques gouvernementales.*
+
+
+
