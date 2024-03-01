@@ -281,6 +281,6 @@ https://www150.statcan.gc.ca/n1/pub/62-604-x/62-604-x2015001-fra.htm
 
 *L’Indice des prix à la consommation (IPC) est l’un des indicateurs économiques les plus importants et influents produits par Statistique Canada. Il sert à suivre les fluctuations au fil du temps du coût d’un panier fixe de biens et de services de consommation. Étant donné que le panier comprend des produits dont la quantité et la qualité ne changent pas ou sont équivalentes, l’indice rend compte uniquement de la variation pure de prixNote 1. L’IPC est largement utilisé pour l’indexation des paiements, l’analyse économique et la prise de décisions stratégiques gouvernementales.*
 
-Inflation Calculator - Banque du Canada
+*Inflation Calculator - Banque du Canada*.  
 Offre un outil automatisé de calcul d'inflation qui établit la moyenne de l'inflation entre 1914-2024 en 3.02%/année.   
 https://www.bankofcanada.ca/rates/related/inflation-calculator/
