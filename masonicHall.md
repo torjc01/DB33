@@ -125,6 +125,22 @@ Avec l'objective de (sanar) la curiosité du lecteur, on va essayer de faire l'a
 
 Par convention dans cet article, on adopte les nomenclarures suivantes: 
 
+-----
+
+De acordo com Padoveze (2010) a correção monetária é ferramenta útil para
+atualização de informações produzidas em períodos anteriores de acordo com a inflação
+acumulada de períodos mais recentes, desta forma o caráter informativo das demonstrações se
+mantém atualizado de acordo com a realidade da época independente de quando aquela
+informação foi registrada, mantendo-se útil para os usuários da informação.
+
+Selon Padoveze (2010), la correction monétaire est un outil utile pour
+mettre à jour les informations produites au cours des périodes précédentes en fonction de l'inflation
+accumulés à partir de périodes plus récentes, le caractère informatif des déclarations est donc
+le maintient à jour en fonction de la réalité du moment, quel que soit le moment où cela
+les informations ont été enregistrées, restant utiles pour les utilisateurs de l'information.
+
+-----
+
 - CAD : dollar canadien, siècle XXI
 - GBP : livre sterling , siècle XXI
 - C$  : dollar canadien, siècle XIX
