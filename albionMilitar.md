@@ -41,7 +41,7 @@
 
 ## Biografias 
 
-### Joseph Stanley Marchant
+### Fr Joseph Stanley Marchant
 
 Lance Corporal 
 
@@ -82,7 +82,7 @@ https://www.cwgc.org/find-records/find-war-dead/casualty-details/168067/j-s-marc
 Sherbrooke daily record, 1915-05-29, Collections de BAnQ.  
 https://numerique.banq.qc.ca/patrimoine/details/52327/3101785?docsearchtext=joseph%20stanley%20marchant
 
-### Hamilton John Adair 
+### Fr Maj Hamilton John Adair 
 
 Major
 
