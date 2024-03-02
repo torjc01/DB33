@@ -110,7 +110,7 @@ https://www.findagrave.com/memorial/55974012/hamilton_john-adair/photo
 
 https://www.findagrave.com/memorial/55974012/hamilton_john-adair/photo#source
 
-### Fr Maj Charles Alexander Young
+### Fr Maj Charles Alexander Young, MC, VD
 Major.  
 1st Btn The Royal Rifles Canada.  
 Service Number (regimental): X96.  
