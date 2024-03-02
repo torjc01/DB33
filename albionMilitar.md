@@ -111,7 +111,9 @@ https://www.findagrave.com/memorial/55974012/hamilton_john-adair/photo
 https://www.findagrave.com/memorial/55974012/hamilton_john-adair/photo#source
 
 ### Fr Maj Charles Alexander Young, MC, VD
+
 Major.  
+Force: Army
 1st Btn The Royal Rifles Canada.  
 Service Number (regimental): X96.  
 Born: November 26, 1895, York, On.  
