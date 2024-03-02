@@ -111,15 +111,32 @@ https://www.findagrave.com/memorial/55974012/hamilton_john-adair/photo
 https://www.findagrave.com/memorial/55974012/hamilton_john-adair/photo#source
 
 ### Fr Maj Charles Alexander Young
+Major.  
+1st Btn The Royal Rifles Canada.  
+Service Number (regimental): X96.  
+Born: November 26, 1895, York, On.  
+POW: from Dec 30, 1941 to Sep 10, 1945.  
+Died: Outober 2, 1963, Toronto, On.  
+Buried: Mount Hermon Cemetery, Quebec, QC.  
+Decorations: Military Cross, Volunteer's Officer Decoration.  
 
+Il est capturé à la fin de la Bataille d'Hong Kong, sera envoyé en camp de prisonniers dans lesquels il restera jusqu'à la fin de la guerre en 1945.
 
+<img src="https://www.hkvca.ca/cforcedata/ext_files/comments/images/X96.jpg" />
 
+*In the fourth row from the bottom, 3rd from the left is X96 Major Charles A. Young of the Royal Rifles of Canada. Apparently this photo was taken just after liberation*
 
-Je me souviens 
+Hong Kong Veterans Commemorative Association,   
+https://www.hkvca.ca/cforcedata/unitreport/index.php
+
+Details from HKVCA.   
+https://www.hkvca.ca/cforcedata/indivreport/indivdetailed.php?regtno=X96
+
+Je me souviens   
 https://www.worldanvil.com/w/je-me-souviens/a/young2C-charles-alexander--ww2--person
 
-
-
+HKVCA Vault. Search by reg'l number.   
+https://drive.google.com/drive/folders/1u0605cQjINZtg6Xp33LPBr4FxOQ1MOcJ
 
 ## Bibliografia 
 
