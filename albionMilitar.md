@@ -41,6 +41,14 @@
 
 ## Biografias 
 
+## Fr Major Alexander Young
+
+https://books.google.ca/books?id=gpYfAAAAIBAJ&printsec=frontcover&hl=pt-BR&source=gbs_ge_summary_r&cad=0#v=onepage&q=heroes&f=false
+
+https://www.veterans.gc.ca/eng/remembrance/memorials/canadian-virtual-war-memorial/detail/1597253?Alexander%20Young
+
+
+
 ### Fr Joseph Stanley Marchant
 
 Lance Corporal 
@@ -144,6 +152,8 @@ https://www.ibiblio.org/hyperwar/UN/Canada/CA/163-HongKong/index.html#pow
 
 War Diary.  
 https://www.hkvca.ca/Gallery/Individuals/Maj%20Charles%20Young/index.htm
+
+http://battleofhongkong.com/19.htm
 
 ## Bibliografia 
 
