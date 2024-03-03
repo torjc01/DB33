@@ -43,10 +43,11 @@
 
 ## Fr Major Alexander Young
 
-https://books.google.ca/books?id=gpYfAAAAIBAJ&printsec=frontcover&hl=pt-BR&source=gbs_ge_summary_r&cad=0#v=onepage&q=heroes&f=false
-
 https://www.veterans.gc.ca/eng/remembrance/memorials/canadian-virtual-war-memorial/detail/1597253?Alexander%20Young
 
+https://www.bac-lac.gc.ca/eng/discover/military-heritage/first-world-war/personnel-records/Pages/item.aspx?IdNumber=330729
+
+https://books.google.ca/books?id=gpYfAAAAIBAJ&printsec=frontcover&hl=pt-BR&source=gbs_ge_summary_r&cad=0#v=onepage&q=heroes&f=false
 
 
 ### Fr Joseph Stanley Marchant
