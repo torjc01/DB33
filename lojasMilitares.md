@@ -61,3 +61,7 @@ https://antients.org
 "Although it has been affirmed by French and other writers that a lodge of freemasons existed in the city of Quebec in the year 1755, no records or other evidences are known to be in existence, and Masonry in the province only dates its existence from the time of Wolfe when the "Lily" flag of the Bourbon replaced by the "Union Jack" over the citadel of Quebec. 
 
 Mackey, History of Freemasonry, vol VIII, p. 1933
+
+"Bro Pierre Gamlin has a grand warrant from the Grand Master of France for the whole Province of Canada, which is ordered to be registered in the procedings here: as I thought it better to assemble together promiscuously than set up any such distinction as English and French Workmen"  
+
+Smith, Pemberton. Early Canadian Masonry. As account on a written letter from Edward Antill, the acting DDGM, to the Provincial Grand Master at Quebec. 
