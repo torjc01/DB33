@@ -314,5 +314,8 @@ Offre un outil automatisé de calcul d'inflation qui établit la moyenne de l'in
 https://www.bankofcanada.ca/rates/related/inflation-calculator/
 
 
-L'INDICE MONÉTAIRE ET LA THÉORIE DE LA MONNAIE (Suite et fin)
+L'INDICE MONÉTAIRE ET LA THÉORIE DE LA MONNAIE (Suite et fin)   
 https://www.jstor.org/stable/24684448
+
+HISTORICAL EVOLUTION OF INFLATION AND METHODS OF RECOGNITION p. 8   
+http://repositorio.aee.edu.br/bitstream/aee/8065/1/Artigo%20TCC%20%20Murillo%20Lima%20Assun%C3%A7%C3%A3o%20.pdf
