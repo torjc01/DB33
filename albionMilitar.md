@@ -148,7 +148,7 @@ https://www.worldanvil.com/w/je-me-souviens/a/young2C-charles-alexander--ww2--pe
 HKVCA Vault. Search by reg'l number.   
 https://drive.google.com/drive/folders/1u0605cQjINZtg6Xp33LPBr4FxOQ1MOcJ
 
-CANADIAN PARTICIPATION IN THE DEFENCE OF HONG KONG, DECEMBER, 1941
+CANADIAN PARTICIPATION IN THE DEFENCE OF HONG KONG, DECEMBER, 1941   
 https://www.ibiblio.org/hyperwar/UN/Canada/CA/163-HongKong/index.html#pow
 
 War Diary.  
