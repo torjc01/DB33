@@ -119,6 +119,9 @@ https://www.findagrave.com/memorial/55974012/hamilton_john-adair/photo
 
 https://www.findagrave.com/memorial/55974012/hamilton_john-adair/photo#source
 
+Information about burial   
+https://numerique.banq.qc.ca/patrimoine/details/52327/2561487?docref=jyvm7GBZHfYTLlkxYSmn7w
+
 ### Fr Maj Charles Alexander Young, MC, VD
 
 Major.  
