@@ -44,11 +44,18 @@
 ## Fr Major Alexander Young
 
 Rank: Major
+DOB: 1869-02-01
+Place of Birth: Aberdeen, Scotland
 Force: Army  
 Unit: Canadian Infantry (Manitoba Regiment)  
-Division: 52nd Bn  
+    	52nd Overseas Battalion
+
+Enlistment Date:	1915-10-31
+Place of Enlistment:	Port Arthur ON Canada
+Reference:	RG 150, Accession 1992-93/166, Box 10642 - 49
+Item Number:	330729
+Record Group:	Canadian Expeditionary Force (CEF)
 Service Number (regimental): No service numbers for officers   
-Born:  
 Died:   
 Buried: MENIN GATE (YPRES) MEMORIAL, Belgium  
 Grave ref: Panel 24 - 26 - 28 - 30  
