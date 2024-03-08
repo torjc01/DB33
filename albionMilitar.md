@@ -43,6 +43,20 @@
 
 ## Fr Major Alexander Young
 
+Rank: Major
+Force: Army  
+Unit: Canadian Infantry (Manitoba Regiment)  
+Division: 52nd Bn  
+Service Number (regimental): No service numbers for officers   
+Born:  
+Died:   
+Buried: MENIN GATE (YPRES) MEMORIAL, Belgium  
+Grave ref: Panel 24 - 26 - 28 - 30  
+Decorations: Long Service and Good Conduct Medal  
+
+Son of the late Robert Young, of Aberdeen, Scotland; husband of Annie Gardiner (formerly Young), of 89, Lockwell Avenue, Quebec.   
+Twenty-four years with the Royal Canadian Regt. in Toronto and Quebec. Served in the South African Campaign. Father of Florence. 
+
 https://www.veterans.gc.ca/eng/remembrance/memorials/canadian-virtual-war-memorial/detail/1597253?Alexander%20Young
 
 https://www.bac-lac.gc.ca/eng/discover/military-heritage/first-world-war/personnel-records/Pages/item.aspx?IdNumber=330729
