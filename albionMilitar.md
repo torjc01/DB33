@@ -109,6 +109,8 @@ The Quebec Chronicle, 10 juin 1916, samedi
                 Wor. Master.
 
 
+https://canadianfallen.ca/9875/YOUNG
+
 https://www.veterans.gc.ca/eng/remembrance/memorials/canadian-virtual-war-memorial/detail/1597253?Alexander%20Young
 
 https://www.bac-lac.gc.ca/eng/discover/military-heritage/first-world-war/personnel-records/Pages/item.aspx?IdNumber=330729
