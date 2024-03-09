@@ -119,6 +119,11 @@ https://numerique.banq.qc.ca/patrimoine/details/52327/3611083?docsearchtext=alex
 Quebec Chronicle, 8 juin 1916, Perfil Maj Alexander
 https://numerique.banq.qc.ca/patrimoine/details/52327/3611081?docsearchtext=alexander
 
+Daughter: May Florence Young ARRC
+Royal Red Cross, 2nd Class, in recognition of valuable services with the British Forces in Salonika. 
+Sister, Army Auxiliary Nursing Service, AANS
+Source: The London Gazette
+https://www.thegazette.co.uk/London/issue/31095/data.pdf
 
 ### Fr Joseph Stanley Marchant
 
