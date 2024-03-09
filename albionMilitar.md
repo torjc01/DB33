@@ -169,13 +169,18 @@ https://numerique.banq.qc.ca/patrimoine/details/52327/3101785?docsearchtext=jose
 ### Fr Maj Hamilton John Adair 
 
 Major
+Born 22 November 1873 in Quebec City, Quebec, Canada
+Enlisted  24 August 1917 in Ottawa, Ontario | Age: 43 years
+Buried 13 December 1918 - TERLINCTHUN BRITISH CEMETERY | Age: 45 years
 
 Service Number: 
 
 Force: Army
 
 Husband of Emily Adair, of 61, Blackburn Ave., Ottawa. 
-Born at Quebec, P.Q. A member of the Permanent Force (Army Medical Corps.
+Born at Quebec, P.Q. A member of the Permanent Force (Army Medical Corps. Left behind his wife and their four daughters: Bernie, Doris, Edith & Marjorie
+
+https://canadianfallen.ca/profile.php?id=64145
 
 https://www.veterans.gc.ca/eng/remembrance/memorials/canadian-virtual-war-memorial/detail/4024257
 
