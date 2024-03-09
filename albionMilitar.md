@@ -43,26 +43,71 @@
 
 ## Fr Major Alexander Young
 
-Rank: Major
-DOB: 1869-02-01
-Place of Birth: Aberdeen, Scotland
-Force: Army  
-Unit: Canadian Infantry (Manitoba Regiment)  
-    	52nd Overseas Battalion
-
-Enlistment Date:	1915-10-31
-Place of Enlistment:	Port Arthur ON Canada
-Reference:	RG 150, Accession 1992-93/166, Box 10642 - 49
-Item Number:	330729
-Record Group:	Canadian Expeditionary Force (CEF)
-Service Number (regimental): No service numbers for officers   
-Died:   
-Buried: MENIN GATE (YPRES) MEMORIAL, Belgium  
-Grave ref: Panel 24 - 26 - 28 - 30  
-Decorations: Long Service and Good Conduct Medal  
+Rank: Major  
+DOB: 1869-02-01  
+Place of Birth: Aberdeen, Scotland  
+Force: Army   
+Unit: Canadian Infantry (Manitoba Regiment)   
+    	52nd Overseas Battalion  
+Enlistment Date:	1915-10-31  
+Place of Enlistment:	Port Arthur ON Canada  
+Reference:	RG 150, Accession 1992-93/166, Box 10642 - 49  
+Item Number:	330729  
+Record Group:	Canadian Expeditionary Force (CEF)  
+Service Number (regimental): No service numbers for officers     
+Died: 1916-06-03 Killed in action    
+Buried: MENIN GATE (YPRES) MEMORIAL, Belgium   
+Grave ref: Panel 24 - 26 - 28 - 30   
+Decorations: Long Service and Good Conduct Medal   
 
 Son of the late Robert Young, of Aberdeen, Scotland; husband of Annie Gardiner (formerly Young), of 89, Lockwell Avenue, Quebec.   
-Twenty-four years with the Royal Canadian Regt. in Toronto and Quebec. Served in the South African Campaign. Father of Florence. 
+Twenty-four years with the Royal Canadian Regt. in Toronto and Quebec. Served in the South African Campaign. Father of Florence.  
+
+From the service file (p. 51): 
+
+        RECORD OF SERVICE
+    CANADIAN EXPEDITIONARY FORCE 
+
+    Major Alexander Young. (Deceased).
+
+    1. Date and place of birth: 1*2*69, Aberdeen, Scotland. 
+    2. Appointed Lieutenant & Adjutant, 52nd Battalion, C.E.F. 4-5-15
+    3. Promoted Captain, 11-5-15
+    4. Appointed Major, 18-7-15
+    5. Embarked for England, 23-11-15
+    6. Proceeded to France, 21-2-16, with Unit. 
+    7. Killed in action, 3-6-16
+
+        CERTIFIED CORRECT 
+           FROM RECORDS 
+
+                                  (W.E.L Coleman), Major
+                                  Officer i/c Records, 
+                                  for Adjutant-General. 
+
+
+La Patrie, 8 juin 1916, jeudi
+
+      UN QUEBECOIS TUE, UN AUTRE BLESSE 
+
+      LA MAJOR YOUNG EST MORT AU CHAMP D'HONNEUR, LE LT-COL HAY EST BLESSE 
+
+      (Dépêche spéciale à la PATRIE)
+
+      QUEBEC, 8 - Sur la liste des pertes canadiennes publiées ce matin apparaît le nom d'un autre officier Québecois tué au front: c'est celui du major A. Young. Le major Young était très populaire dans le cercle de la milice à Québec: Il vint à Québec voilà plusieurs années comme sergent-instructeur: il avait pris du service dans un régiment de Port-Arthur afin de partir pour la guerre. C'est là qu'il fût promu major après avoir obtenu ses autres grades à Québec: il a fait la campagne d'Afrique et a été décoré de la medaille du couronnement du Roi. Il laisse une femme, un fils et une fille qui sont à Québec. 
+
+      Quand il obtint sa commission de lieutenant dans la 5e brigade, il servait sous les ordres du lientenant A. Hay, dont le nom ce matin apparait sur la liste de blessés. Ce dernier, au premier camp de Valcartier était commandant en second du 2e batallion qui était alors commandé par le général D. Watson. 
+
+The Quebec Chronicle, 10 juin 1916, samedi
+
+      Albion Lodge No. 2 
+      A.F.& A.M.
+
+      Members of Albion Lodge, No. 2, A.F. & A.M., are requested, and members of sister Lodges invited, to attend Memorial Service for the late Earl Kitchener and the late Wor. Bro. Major Alexander Young, 52nd battalion, C.E.F., which will be held in the Methodist Chrch, on Sundat Evening, the 11th instant, at 7 o'clock.
+          By order, 
+             C. H. KNOWLES, 
+                Wor. Master.
+
 
 https://www.veterans.gc.ca/eng/remembrance/memorials/canadian-virtual-war-memorial/detail/1597253?Alexander%20Young
 
@@ -179,6 +224,46 @@ War Diary.
 https://www.hkvca.ca/Gallery/Individuals/Maj%20Charles%20Young/index.htm
 
 http://battleofhongkong.com/19.htm
+
+Military Cross  
+La Croix militaire peut être décernée aux officiers de grades ne dépassant pas le grade effectif de capitaine (autrement dit, les majors à titre temporaire et par intérim y sont admissibles) ou aux adjudants, en reconnaissance de services distingués et méritoires au combat. En 1920, les conditions ont été modifiées afin de préciser clairement que la Croix devait reconnaître les services courageux et distingués en présence de l’ennemi, et que les officiers de la marine et de l’aviation pouvaient l’obtenir pour des services courageux et distingués au sol. - Anciens Combattants Canada.   
+https://www.worldanvil.com/w/je-me-souviens/a/croix-militaire-item
+
+Identifying the need to recognize junior commissioned officers and senior non-commissioned officers, the Military Cross was established on 28 December 1914 for commissioned officers of the substantive rank of Captain or below and for Warrant Officers. It was awarded for gallant and distinguished service in battle and recipients were entitled to the post-nominal letters MC.   
+https://www.warmuseum.ca/tilston-medals-collection/medals/25/
+
+**Obituary and Albion's Invitation  Chronicle, 1693-10-03, p. 12**   
+https://news.google.com/newspapers?nid=9tXw7Op4-u0C&dat=19631003&printsec=frontpage&hl=en
+YOUNG - Suddenly at Toronto, Ont. on October 2nd 1963, Lt-Col C.A. Young, MC, VC, ED, beloved husband of the late Irene Fellows and dear father of Donald and Phyllis (Mrs Harry Thompson). Resting at the D.S. Rickaby Funeral Home, 707 St John Street, corner Geneviève (...). Funeral Saturday, at 2.00 service in Chalmers Wesley Church, Interment Mount Hermon Cemetery. 
+
+**ALBION LODGE**
+A Masonic Service will be held for our late brother, Charles Alexander Young, at D.S. Rickaby Funeral Parlor, 707 St John Street, on Friday, October 4th at 8.00 pm.
+
+**Info about Lt-Col Young. Chronicle, 1963-10-05, p. 3**   
+https://news.google.com/newspapers?nid=9tXw7Op4-u0C&dat=19631005&printsec=frontpage&hl=en
+
+Lt-Col C.A. Young Known as a Soldier and Sportsman 
+
+Lt-Col C.A. Young of Quebec, who died recently at Toronto, spent the Second World War wit the Royal Rifles of Canda and commanded the last group of soldiers to surrender on the island. 
+
+A veteran of both world wars, he was awarded the Military Cross for bravery in the Second World War. 
+
+Well know in his youth as a sportsman, he became quite famous as a hockey player here. Among other sporting activities, he also excelled at curling. 
+
+He was also a president of the Army, Navy and Airforce Association for many years. 
+
+The 68-year-old army officer, who leaves many friends behind, was greatly admired by the men serving under his command. 
+
+At the time of his sudden death, he was visiting his daughter, Mrs Harry Thompson, in Toronto. 
+
+His father, the late Maj Alexander Young, was also a soldier and commanded the 52nd Battalion in the First World War. 
+
+
+Phyllis Alexandra (Young) Thompson  
+January 10, 1931 — April 5, 2020  
+https://www.basicfunerals.ca/obituaries/Phyllis-Thompson
+
+
 
 ## Bibliografia 
 
