@@ -115,6 +115,12 @@ https://www.bac-lac.gc.ca/eng/discover/military-heritage/first-world-war/personn
 
 https://books.google.ca/books?id=gpYfAAAAIBAJ&printsec=frontcover&hl=pt-BR&source=gbs_ge_summary_r&cad=0#v=onepage&q=heroes&f=false
 
+Demande de attendance ao servico religioso
+https://numerique.banq.qc.ca/patrimoine/details/52327/3611083?docsearchtext=alexander
+
+Quebec Chronicle, 8 juin 1916, Perfil Maj Alexander
+https://numerique.banq.qc.ca/patrimoine/details/52327/3611083?docsearchtext=alexander
+
 
 ### Fr Joseph Stanley Marchant
 
