@@ -195,7 +195,7 @@ http://battleofhongkong.com/19.htm
 https://numerique.banq.qc.ca/patrimoine/details/52327/2021763 
 
 
-*Duncan, Capt. Francis.* **History of the Royal Regiment of Artillery: Compiled from the original records.** London: Jonh Murray Ed, 1872.
+*Duncan, Capt. Francis.* **History of the Royal Regiment of Artillery: Compiled from the original records.** London: John Murray Ed, 1872.
 https://www.gutenberg.org/files/52258/52258-h/52258-h.htm#Page_251
 
 
