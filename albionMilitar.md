@@ -194,6 +194,11 @@ http://battleofhongkong.com/19.htm
 *Hamon, É.*, **La franc-maçonnerie dans la province de Québec en 1883** /, Québec (Province), s.n., 1883, 276 p. ; 19 cm, Collections de BAnQ. 
 https://numerique.banq.qc.ca/patrimoine/details/52327/2021763 
 
+
+*Duncan, Capt. Francis.* **History of the Royal Regiment of Artillery: Compiled from the original records.** London: Jonh Murray Ed, 1872.
+https://www.gutenberg.org/files/52258/52258-h/52258-h.htm#Page_251
+
+
 ### Web 
 
 Lane's Masonic Record: is an authoritative listing of all the lodges established by the English Grand Lodges from the foundation of the first Grand Lodge in 1717 up until 1894. 
