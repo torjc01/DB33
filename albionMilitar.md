@@ -174,6 +174,9 @@ Service Number:
 
 Force: Army
 
+Husband of Emily Adair, of 61, Blackburn Ave., Ottawa. 
+Born at Quebec, P.Q. A member of the Permanent Force (Army Medical Corps.
+
 https://www.veterans.gc.ca/eng/remembrance/memorials/canadian-virtual-war-memorial/detail/4024257
 
 https://astreetnearyou.org/person/4024257/Major-Hamilton-John-Adair
