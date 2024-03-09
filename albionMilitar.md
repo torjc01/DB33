@@ -70,7 +70,7 @@ From the service file (p. 51):
 
     Major Alexander Young. (Deceased).
 
-    1. Date and place of birth: 1*2*69, Aberdeen, Scotland. 
+    1. Date and place of birth: 1-2-69, Aberdeen, Scotland. 
     2. Appointed Lieutenant & Adjutant, 52nd Battalion, C.E.F. 4-5-15
     3. Promoted Captain, 11-5-15
     4. Appointed Major, 18-7-15
