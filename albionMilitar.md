@@ -117,7 +117,7 @@ Quebec Chronicle, 10 juin 1916,Demande Albion de presença ao servico religioso
 https://numerique.banq.qc.ca/patrimoine/details/52327/3611083?docsearchtext=alexander
 
 Quebec Chronicle, 8 juin 1916, Perfil Maj Alexander
-https://numerique.banq.qc.ca/patrimoine/details/52327/3611083?docsearchtext=alexander
+https://numerique.banq.qc.ca/patrimoine/details/52327/3611081?docsearchtext=alexander
 
 
 ### Fr Joseph Stanley Marchant
