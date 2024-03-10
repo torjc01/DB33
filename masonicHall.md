@@ -75,6 +75,9 @@ https://numerique.banq.qc.ca/patrimoine/details/52327/3996426
 QM01. Venda do lote. The Quebec mercury, 1860-04-03, Collections de BAnQ. p.2
 https://numerique.banq.qc.ca/patrimoine/details/52327/3667493
 
+Masons pay honour to craft heroes.   
+Quebec Chronicle Telegraph, Nov 22nd 1921, p. 4    
+
 ### Web
 
 Dictionary Biographic Canada  
