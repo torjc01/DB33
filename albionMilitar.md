@@ -192,6 +192,12 @@ https://canadianfallen.ca/profile.php?id=64145
 
 https://www.veterans.gc.ca/eng/remembrance/memorials/canadian-virtual-war-memorial/detail/4024257
 
+Imperial War Museum  
+https://livesofthefirstworldwar.iwm.org.uk/lifestory/5535125
+
+First World War Book of Remembrance  
+https://www.veterans.gc.ca/eng/remembrance/memorials/books/page?page=357&book=1&sort=pageAsc
+
 https://astreetnearyou.org/person/4024257/Major-Hamilton-John-Adair
 
 https://canadiangreatwarproject.com/search.php?cod=Died%20of%20illness&pob=QUEBEC&col=nam,pob,dob,hocc,cod,rgm,rnk,rgn
