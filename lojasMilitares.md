@@ -65,3 +65,7 @@ Mackey, History of Freemasonry, vol VIII, p. 1933
 "Bro Pierre Gamlin has a grand warrant from the Grand Master of France for the whole Province of Canada, which is ordered to be registered in the procedings here: as I thought it better to assemble together promiscuously than set up any such distinction as English and French Workmen"  
 
 Smith, Pemberton. Early Canadian Masonry. As account on a written letter from Edward Antill, the acting DDGM, to the Provincial Grand Master at Quebec. 
+
+Rouillard, Eugène. Les premiers fran-maçons canadiens. Dans Bulletins de Recherches Historiques, vol IV, no. 6, pp. 188-190 Juin 1898
+https://numerique.banq.qc.ca/patrimoine/details/52327/2656970?docsearchtext=Franc-maçons
+
