@@ -259,6 +259,11 @@ https://www.findagrave.com/memorial/55974012/hamilton_john-adair/photo#source
 Information about burial   
 https://numerique.banq.qc.ca/patrimoine/details/52327/2561487?docref=jyvm7GBZHfYTLlkxYSmn7w
 
+Hamilton John Adair 
+The Quebec chronicle, 1919-04-08, Collections de BAnQ.
+https://numerique.banq.qc.ca/patrimoine/details/52327/3611977?docsearchtext=Hamilton%20John%20Adair
+
+
 
 ## Fr Maj Charles Alexander Young, MC, VD
 
