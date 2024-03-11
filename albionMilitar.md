@@ -41,93 +41,7 @@
 
 ## Biografias 
 
-## Fr Major Alexander Young
-
-Rank: Major  
-DOB: 1869-02-01  
-Place of Birth: Aberdeen, Scotland  
-Force: Army   
-Unit: Canadian Infantry (Manitoba Regiment)   
-    	52nd Overseas Battalion  
-Enlistment Date:	1915-10-31  
-Place of Enlistment:	Port Arthur ON Canada  
-Reference:	RG 150, Accession 1992-93/166, Box 10642 - 49  
-Item Number:	330729  
-Record Group:	Canadian Expeditionary Force (CEF)  
-Service Number (regimental): No service numbers for officers     
-Died: 1916-06-03 Killed in action    
-Buried: MENIN GATE (YPRES) MEMORIAL, Belgium   
-Grave ref: Panel 24 - 26 - 28 - 30   
-Decorations: Long Service and Good Conduct Medal   
-
-Son of the late Robert Young, of Aberdeen, Scotland; husband of Annie Gardiner (formerly Young), of 89, Lockwell Avenue, Quebec.   
-Twenty-four years with the Royal Canadian Regt. in Toronto and Quebec. Served in the South African Campaign. Father of Florence.  
-
-From the service file (p. 51): 
-
-        RECORD OF SERVICE
-    CANADIAN EXPEDITIONARY FORCE 
-
-    Major Alexander Young. (Deceased).
-
-    1. Date and place of birth: 1-2-69, Aberdeen, Scotland. 
-    2. Appointed Lieutenant & Adjutant, 52nd Battalion, C.E.F. 4-5-15
-    3. Promoted Captain, 11-5-15
-    4. Appointed Major, 18-7-15
-    5. Embarked for England, 23-11-15
-    6. Proceeded to France, 21-2-16, with Unit. 
-    7. Killed in action, 3-6-16
-
-        CERTIFIED CORRECT 
-           FROM RECORDS 
-
-                                  (W.E.L Coleman), Major
-                                  Officer i/c Records, 
-                                  for Adjutant-General. 
-
-
-La Patrie, 8 juin 1916, jeudi
-
-      UN QUEBECOIS TUE, UN AUTRE BLESSE 
-
-      LA MAJOR YOUNG EST MORT AU CHAMP D'HONNEUR, LE LT-COL HAY EST BLESSE 
-
-      (Dépêche spéciale à la PATRIE)
-
-      QUEBEC, 8 - Sur la liste des pertes canadiennes publiées ce matin apparaît le nom d'un autre officier Québecois tué au front: c'est celui du major A. Young. Le major Young était très populaire dans le cercle de la milice à Québec: Il vint à Québec voilà plusieurs années comme sergent-instructeur: il avait pris du service dans un régiment de Port-Arthur afin de partir pour la guerre. C'est là qu'il fût promu major après avoir obtenu ses autres grades à Québec: il a fait la campagne d'Afrique et a été décoré de la medaille du couronnement du Roi. Il laisse une femme, un fils et une fille qui sont à Québec. 
-
-      Quand il obtint sa commission de lieutenant dans la 5e brigade, il servait sous les ordres du lientenant A. Hay, dont le nom ce matin apparait sur la liste de blessés. Ce dernier, au premier camp de Valcartier était commandant en second du 2e batallion qui était alors commandé par le général D. Watson. 
-
-The Quebec Chronicle, 10 juin 1916, samedi
-
-      Albion Lodge No. 2 
-      A.F.& A.M.
-
-      Members of Albion Lodge, No. 2, A.F. & A.M., are requested, and members of sister Lodges invited, to attend Memorial Service for the late Earl Kitchener and the late Wor. Bro. Major Alexander Young, 52nd battalion, C.E.F., which will be held in the Methodist Chrch, on Sundat Evening, the 11th instant, at 7 o'clock.
-          By order, 
-             C. H. KNOWLES, 
-                Wor. Master.
-
-
-https://canadianfallen.ca/9875/YOUNG
-
-https://www.veterans.gc.ca/eng/remembrance/memorials/canadian-virtual-war-memorial/detail/1597253?Alexander%20Young
-
-https://www.bac-lac.gc.ca/eng/discover/military-heritage/first-world-war/personnel-records/Pages/item.aspx?IdNumber=330729
-
-Quebec Chronicle, 10 juin 1916,Demande Albion de presença ao servico religioso
-https://numerique.banq.qc.ca/patrimoine/details/52327/3611083?docsearchtext=alexander
-
-Quebec Chronicle, 8 juin 1916, Perfil Maj Alexander
-https://numerique.banq.qc.ca/patrimoine/details/52327/3611081?docsearchtext=alexander
-
-Daughter: May Florence Young ARRC
-Royal Red Cross, 2nd Class, in recognition of valuable services with the British Forces in Salonika. 
-Sister, Army Auxiliary Nursing Service, AANS
-Source: The London Gazette
-https://www.thegazette.co.uk/London/issue/31095/data.pdf
-
-### Fr Joseph Stanley Marchant
+## Fr Joseph Stanley Marchant
 
 Lance Corporal 
 
@@ -168,21 +82,126 @@ https://www.cwgc.org/find-records/find-war-dead/casualty-details/168067/j-s-marc
 Sherbrooke daily record, 1915-05-29, Collections de BAnQ.  
 https://numerique.banq.qc.ca/patrimoine/details/52327/3101785?docsearchtext=joseph%20stanley%20marchant
 
-### Fr Maj Hamilton John Adair 
+
+## Fr Major Alexander Young
+
+Rank: Major  
+DOB: 1869-02-01  
+Place of Birth: Aberdeen, Scotland  
+Force: Army   
+Unit: Canadian Infantry (Manitoba Regiment)   
+    	52nd Overseas Battalion  
+Enlistment Date:	1915-10-31  
+Place of Enlistment:	Port Arthur ON Canada  
+Reference:	RG 150, Accession 1992-93/166, Box 10642 - 49  
+Item Number:	330729  
+Record Group:	Canadian Expeditionary Force (CEF)  
+Service Number (regimental): No service numbers for officers     
+Died: 1916-06-03 Killed in action    
+Buried: MENIN GATE (YPRES) MEMORIAL, Belgium   
+Grave ref: Panel 24 - 26 - 28 - 30   
+Decorations: Long Service and Good Conduct Medal   
+
+Son of the late Robert Young, of Aberdeen, Scotland; husband of Annie Gardiner (formerly Young), of 89, Lockwell Avenue, Quebec.   
+Twenty-four years with the Royal Canadian Regt. in Toronto and Quebec. Served in the South African Campaign. Father of Florence.  
+
+<img src="https://cvwm.images.cloud.veterans.gc.ca/1597253_1.jpg"/>
+
+<img src="https://cvwm.images.cloud.veterans.gc.ca/1597253_3.jpg"/>
+
+
+From the service file (p. 51): 
+
+        RECORD OF SERVICE
+    CANADIAN EXPEDITIONARY FORCE 
+
+    Major Alexander Young. (Deceased).
+
+    1. Date and place of birth: 1-2-69, Aberdeen, Scotland. 
+    2. Appointed Lieutenant & Adjutant, 52nd Battalion, C.E.F. 4-5-15
+    3. Promoted Captain, 11-5-15
+    4. Appointed Major, 18-7-15
+    5. Embarked for England, 23-11-15
+    6. Proceeded to France, 21-2-16, with Unit. 
+    7. Killed in action, 3-6-16
+
+        CERTIFIED CORRECT 
+           FROM RECORDS 
+
+                                  (W.E.L Coleman), Major
+                                  Officer i/c Records, 
+                                  for Adjutant-General. 
+
+
+La Patrie, 8 juin 1916, jeudi
+
+      UN QUEBECOIS TUE, UN AUTRE BLESSE 
+
+      LA MAJOR YOUNG EST MORT AU CHAMP D'HONNEUR, LE LT-COL HAY EST BLESSE 
+
+      (Dépêche spéciale à la PATRIE)
+
+      QUEBEC, 8 - Sur la liste des pertes canadiennes publiées ce matin apparaît le nom d'un autre 
+      officier Québecois tué au front: c'est celui du major A. Young. Le major Young était très 
+      populaire dans le cercle de la milice à Québec: Il vint à Québec voilà plusieurs années 
+      comme sergent-instructeur: il avait pris du service dans un régiment de Port-Arthur afin de 
+      partir pour la guerre. C'est là qu'il fût promu major après avoir obtenu ses autres grades à 
+      Québec: il a fait la campagne d'Afrique et a été décoré de la medaille du couronnement du Roi. 
+      Il laisse une femme, un fils et une fille qui sont à Québec. 
+
+      Quand il obtint sa commission de lieutenant dans la 5e brigade, il servait sous les ordres du 
+      lientenant A. Hay, dont le nom ce matin apparait sur la liste de blessés. Ce dernier, au premier 
+      camp de Valcartier était commandant en second du 2e batallion qui était alors commandé par le 
+      général D. Watson. 
+
+The Quebec Chronicle, 10 juin 1916, samedi
+
+      Albion Lodge No. 2 
+      A.F.& A.M.
+
+      Members of Albion Lodge, No. 2, A.F. & A.M., are requested, and members of sister Lodges invited, 
+      to attend Memorial Service for the late Earl Kitchener and the late Wor. Bro. Major Alexander Young, 
+      52nd battalion, C.E.F., which will be held in the Methodist Chrch, on Sundat Evening, the 11th 
+      instant, at 7 o'clock.
+          By order, 
+             C. H. KNOWLES, 
+                Wor. Master.
+
+
+https://canadianfallen.ca/9875/YOUNG
+
+https://www.veterans.gc.ca/eng/remembrance/memorials/canadian-virtual-war-memorial/detail/1597253?Alexander%20Young
+
+https://www.bac-lac.gc.ca/eng/discover/military-heritage/first-world-war/personnel-records/Pages/item.aspx?IdNumber=330729
+
+Quebec Chronicle, 10 juin 1916,Demande Albion de presença ao servico religioso
+https://numerique.banq.qc.ca/patrimoine/details/52327/3611083?docsearchtext=alexander
+
+Quebec Chronicle, 8 juin 1916, Perfil Maj Alexander
+https://numerique.banq.qc.ca/patrimoine/details/52327/3611081?docsearchtext=alexander
+
+Daughter: May Florence Young ARRC
+Royal Red Cross, 2nd Class, in recognition of valuable services with the British Forces in Salonika. 
+Sister, Army Auxiliary Nursing Service, AANS
+Source: The London Gazette
+https://www.thegazette.co.uk/London/issue/31095/data.pdf
+
+
+## Fr Maj Hamilton John Adair 
 
 Major
-Fullname: HAMILTON JOHN (H J) ADAIR. 
-Date of Birth: 22 November 1873. 
-Place of Birth: Quebec City, Quebec, Canada. 
-Enlisted: 24 August 1917 in Ottawa, Ontario, CA. Age: 43 years
-Rank: Major and Quartermaster. 
-Unit: Canadian Army Medical Corps.  
-Date of Death: 13 December 1918. 
-Incident: Died of illness (uremia). 
-Buried 13 December 1918 
-Age at Death: 45 years.   
-Cemetery: TERLINCTHUN BRITISH CEMETERY. 
-Grave Reference: XII. C. 37.  
+Fullname: HAMILTON JOHN (H J) ADAIR.   
+Date of Birth: 22 November 1873.   
+Place of Birth: Quebec City, Quebec, Canada.   
+Enlisted: 24 August 1917 in Ottawa, Ontario, CA. Age: 43 years   
+Rank: Major and Quartermaster.   
+Unit: Canadian Army Medical Corps.    
+Date of Death: 13 December 1918.   
+Incident: Died of illness (uremia).   
+Buried 13 December 1918   
+Age at Death: 45 years.     
+Cemetery: TERLINCTHUN BRITISH CEMETERY.   
+Grave Reference: XII. C. 37.    
 
 
 Husband of Emily Adair, of 61, Blackburn Ave., Ottawa.   
@@ -219,18 +238,35 @@ https://www.findagrave.com/memorial/55974012/hamilton_john-adair/photo#source
 Information about burial   
 https://numerique.banq.qc.ca/patrimoine/details/52327/2561487?docref=jyvm7GBZHfYTLlkxYSmn7w
 
-### Fr Maj Charles Alexander Young, MC, VD
 
-Major.  
-Force: Army - 1st Btn The Royal Rifles Canada.  
-Service Number (regimental): X96.  
-Born: November 26, 1895, York, On.  
-POW: from Dec 30, 1941 to Sep 10, 1945.  
-Died: Outober 2, 1963, Toronto, On.  
-Buried: Mount Hermon Cemetery, Quebec, QC.  
-Decorations: Military Cross, Volunteer's Officer Decoration.  
+## Fr Maj Charles Alexander Young, MC, VD
+
+<table border="0" width="100%">
+  <tr>
+    <td><img src="https://www.hkvca.ca/cforcedata/ext_files/masterimage/X96.jpg" ALIGN=”right” HSPACE=”50” VSPACE=”50”/></td>
+    <td align="top">
+      <b>Rank:</b> Major (retired Lieutenant-Colonel)   <br/>
+      <b>Force:</b> Army - 1st Btn The Royal Rifles Canada.  <br/>
+      <b>Service Number (regimental):</b> X96.  <br/>
+      <b>Born:</b> November 26, 1895, York, On.  <br/>
+      <b>POW:</b> from Dec 30, 1941 to Sep 10, 1945.  <br/>
+      <b>Died:</b> Outober 2, 1963, Toronto, On.  <br/>
+      <b>Buried:</b> Mount Hermon Cemetery, Quebec, QC.<br/>  
+      <b>Decorations:</b> Military Cross, Volunteer's Officer Decoration.  <br/>
+    </td>
+  </tr>
+</table>
 
 Il est capturé à la fin de la Bataille d'Hong Kong, sera envoyé en camp de prisonniers dans lesquels il restera jusqu'à la fin de la guerre en 1945.
+
+Liste des camps de prisonniers et les dates d'internement et de sortie: 
+
+|Camp ID 	|Camp Name 	|Location 	|Company 	|Type of Work 	|Reference 	|Arrival Date 	|Departure Date|
+|---|----|----|---|---|---|---|---|
+|HK-NP-01	|North Point	|North Point, Hong Kong Island|||				|41 Dec 30	|42 Sep 26|
+|HK-SA-02	|Shamshuipo	|Kowloon, Hong Kong||||				|42 Sep 26	|43 Aug 19|
+|HK-AS-02	|Argyle Street	|Kowloon, Hong Kong|||			20, 33|	43 Aug 19 	|44 May 11|
+|HK-SA-02	|Shamshuipo	|Kowloon, Hong Kong|||			20, 33|	44 May 11	|45 Sep 10|
 
 <img src="https://www.hkvca.ca/cforcedata/ext_files/comments/images/X96.jpg" />
 
@@ -290,6 +326,7 @@ At the time of his sudden death, he was visiting his daughter, Mrs Harry Thompso
 His father, the late Maj Alexander Young, was also a soldier and commanded the 52nd Battalion in the First World War. 
 
 
+**His daughter:**   
 Phyllis Alexandra (Young) Thompson  
 January 10, 1931 — April 5, 2020  
 https://www.basicfunerals.ca/obituaries/Phyllis-Thompson
