@@ -107,13 +107,18 @@ https://www.thecanadianencyclopedia.ca/en/collection/the-memory-project-archive-
 https://www.historicacanada.ca/
 Historica Canada is a charitable organization that offers programs in both official languages that you can use to explore, learn, reflect on our history, and consider what it means to be Canadian.
 
+### Military Records 
 
+https://library-archives.canada.ca/eng/collection/research-help/military-heritage/Pages/military-heritage.aspx
 
+How to find military service records and attestation papers  
+https://www.veterans.gc.ca/eng/remembrance/how-to-find-service-records
 
+Service records  
+https://www.canada.ca/en/department-national-defence/services/military-history/history-heritage/service-records.html
 
+Military History Research Centre  
+https://www.warmuseum.ca/learn/research-collections/military-history-research-centre/
 
-
-
-
-
-
+Canadian war records - find and explore world war records - graves  
+https://www.cwgc.org/our-work/blog/canadian-war-records-find-and-explore-world-war-records/
