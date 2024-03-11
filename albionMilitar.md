@@ -212,6 +212,8 @@ https://www.thegazette.co.uk/London/issue/31095/data.pdf
 
 ## Fr Maj Hamilton John Adair 
 
+  *"Death is swallowed up in Victory"*
+
 Major
 Fullname: HAMILTON JOHN (H J) ADAIR.   
 Date of Birth: 22 November 1873.   
