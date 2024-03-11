@@ -226,7 +226,10 @@ Grave Reference: XII. C. 37.
 
 
 Husband of Emily Adair, of 61, Blackburn Ave., Ottawa.   
-Born at Quebec, P.Q. A member of the Permanent Force (Army Medical Corps. Left behind his wife and their four daughters: Bernie, Doris, Edith & Marjorie
+Born at Quebec, P.Q. A member of the Permanent Force (Army Medical Corps. Left behind his wife and their four daughters: Bernie, Doris, Edith & Marjorie)
+
+<img src="images/hjadair/Funeral HJ Adair.png" />
+
 
 https://canadianfallen.ca/profile.php?id=64145
 
@@ -394,11 +397,13 @@ Identifying the need to recognize junior commissioned officers and senior non-co
 https://www.warmuseum.ca/tilston-medals-collection/medals/25/
 
 **Obituary and Albion's Invitation  Chronicle, 1693-10-03, p. 12**   
-https://news.google.com/newspapers?nid=9tXw7Op4-u0C&dat=19631003&printsec=frontpage&hl=en
+https://news.google.com/newspapers?nid=9tXw7Op4-u0C&dat=19631003&printsec=frontpage&hl=en    
 YOUNG - Suddenly at Toronto, Ont. on October 2nd 1963, Lt-Col C.A. Young, MC, VC, ED, beloved husband of the late Irene Fellows and dear father of Donald and Phyllis (Mrs Harry Thompson). Resting at the D.S. Rickaby Funeral Home, 707 St John Street, corner Geneviève (...). Funeral Saturday, at 2.00 service in Chalmers Wesley Church, Interment Mount Hermon Cemetery. 
 
 **ALBION LODGE**
 A Masonic Service will be held for our late brother, Charles Alexander Young, at D.S. Rickaby Funeral Parlor, 707 St John Street, on Friday, October 4th at 8.00 pm.
+
+<img src="images/cayoung/CAYAlbion.png" />
 
 **Info about Lt-Col Young. Chronicle, 1963-10-05, p. 3**   
 https://news.google.com/newspapers?nid=9tXw7Op4-u0C&dat=19631005&printsec=frontpage&hl=en
