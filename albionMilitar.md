@@ -38,6 +38,8 @@
     - outras notas em ata;
     - registro sobre a morte
     
+<img src="images/Plaque.jpg" width="800" />    <br />
+*Plaque commemorative des frères d'Albion tombés dans la Première Guerre Mondiale*
 
 ## Biografias 
 
