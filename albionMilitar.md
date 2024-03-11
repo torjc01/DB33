@@ -41,27 +41,27 @@
 
 ## Biografias 
 
-## Fr Joseph Stanley Marchant
+## Fr Joseph Stanley Marchant   
+**Rank:** Lance Corporal   
+**Born:** August 18, 1890  
+**Service Number:** 22900   
+**Force:** Army   
+**Unit:** Canadian Infantry (Eastern Ontario Regiment) Canadian Expeditionary Force    
+**Division:** 2nd Btn   
+**Decoration:** Cross of the Order of Saint George, 4th Class    
+**Profession:** Agent de douane    
+**Passed:** May 08, 1915 Age: 24      
+**Buried:** BOULOGNE EASTERN CEMETERY, Pas de Calais, France   
+**Grave reference:** VIII. C. 9.   
+**Veteran's reference:**  RG 150, Accession 1992-93/166, Box 5915 - 11
+**Item number:** 197849
+**Record Group:**  Canadian Expeditionary Force (CEF)
+**Service File:** [B5915-S011](http://central.bac-lac.gc.ca/.item/?op=pdf&app=CEF&id=B5915-S011)
 
-Lance Corporal 
-
-Service Number: 22900
-
-Force: Army
-
-Unit: Canadian Infantry (Eastern Ontario Regiment)
-
-Division: 2nd Btn
-
-Born: August 18, 1890
-
-Profession: Agent de douane 
-
-Passed: May 08, 1915
-
-Buried: BOULOGNE EASTERN CEMETERY, Pas de Calais, France
-
-Grave reference: VIII. C. 9.
+**Decoration:** Cross of the Order of Saint George, 4th Class   
+             Citation: THE EDINBURGH GAZETTE, AUGUST 27, 1915, pp. 1312-1314   
+https://www.thegazette.co.uk/Edinburgh/issue/12845/page/1314/data.pdf   
+https://www.thegazette.co.uk/Edinburgh/issue/12845/page/1314/data.pdf
 
 https://www.veterans.gc.ca/eng/remembrance/memorials/canadian-virtual-war-memorial/detail/168067?Joseph%20Stanley%20Marchant
 
@@ -98,6 +98,7 @@ Item Number:	330729
 Record Group:	Canadian Expeditionary Force (CEF)  
 Service Number (regimental): No service numbers for officers     
 Died: 1916-06-03 Killed in action    
+Battle killed: [Battle of Sactuary Wood](https://www.veterans.gc.ca/eng/remembrance/memorials/hill-62)    
 Buried: MENIN GATE (YPRES) MEMORIAL, Belgium   
 Grave ref: Panel 24 - 26 - 28 - 30   
 Decorations: Long Service and Good Conduct Medal   
@@ -176,6 +177,9 @@ https://www.bac-lac.gc.ca/eng/discover/military-heritage/first-world-war/personn
 
 Quebec Chronicle, 10 juin 1916,Demande Albion de presença ao servico religioso
 https://numerique.banq.qc.ca/patrimoine/details/52327/3611083?docsearchtext=alexander
+
+https://canadiangreatwarproject.com/person.php?pid=60436
+
 
 Quebec Chronicle, 8 juin 1916, Perfil Maj Alexander
 https://numerique.banq.qc.ca/patrimoine/details/52327/3611081?docsearchtext=alexander
@@ -257,7 +261,12 @@ https://numerique.banq.qc.ca/patrimoine/details/52327/2561487?docref=jyvm7GBZHfY
   </tr>
 </table>
 
-Il est capturé à la fin de la Bataille d'Hong Kong, sera envoyé en camp de prisonniers dans lesquels il restera jusqu'à la fin de la guerre en 1945.
+Son of Major Alexander 'Alex' Young (52nd Battalion) and Annie Buxton Young (nee Gardiner); husband of Irene May Young (nee Fellows)
+
+After the Great War, he joined the Royal Rifles of Canada and rose through the ranks to become Lieutenant-Colonel in 1934.
+
+À la Second Guerre mondiale, il est capturé à la fin de la Bataille d'Hong Kong, sera envoyé en camp de prisonniers dans lesquels il restera jusqu'à la fin de la guerre en 1945.
+
 
 Liste des camps de prisonniers et les dates d'internement et de sortie: 
 
@@ -291,6 +300,10 @@ War Diary.
 https://www.hkvca.ca/Gallery/Individuals/Maj%20Charles%20Young/index.htm
 
 http://battleofhongkong.com/19.htm
+
+First World War Records:   
+https://canadiangreatwarproject.com/person.php?pid=193906
+
 
 Military Cross  
 La Croix militaire peut être décernée aux officiers de grades ne dépassant pas le grade effectif de capitaine (autrement dit, les majors à titre temporaire et par intérim y sont admissibles) ou aux adjudants, en reconnaissance de services distingués et méritoires au combat. En 1920, les conditions ont été modifiées afin de préciser clairement que la Croix devait reconnaître les services courageux et distingués en présence de l’ennemi, et que les officiers de la marine et de l’aviation pouvaient l’obtenir pour des services courageux et distingués au sol. - Anciens Combattants Canada.   
