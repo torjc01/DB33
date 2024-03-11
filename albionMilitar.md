@@ -82,6 +82,23 @@ https://www.cwgc.org/find-records/find-war-dead/casualty-details/168067/j-s-marc
 Sherbrooke daily record, 1915-05-29, Collections de BAnQ.  
 https://numerique.banq.qc.ca/patrimoine/details/52327/3101785?docsearchtext=joseph%20stanley%20marchant
 
+**Decoration:** Cross of the Order of Saint George, 4th Class   
+             Citation: THE EDINBURGH GAZETTE, AUGUST 27, 1915, pp. 1312-1314   
+https://www.thegazette.co.uk/Edinburgh/issue/12845/page/1314/data.pdf   
+https://www.thegazette.co.uk/Edinburgh/issue/12845/page/1314/data.pdf
+
+See 'Ribbons and Medals', by H Taprell Dorling:
+
+The Order of St. George...was awarded only for conspicuous bravery in action against the enemy...
+
+Over two million Crosses and Medals of St. George were distributed to soldiers, sisters of mercy, and members of Red Cross institutions and hospitals during the First World War...
+
+The Order of St. George was essentially military, and could never be conferred upon civilians except for services actually under fire...
+
+The black and orange ribbon of this Order meant **'through Darkness to Light,'** ...
+
+https://www.greatwarforum.org/topic/213631-st-george-cross-4th-class/
+
 
 ## Fr Major Alexander Young
 
@@ -245,6 +262,41 @@ https://numerique.banq.qc.ca/patrimoine/details/52327/2561487?docref=jyvm7GBZHfY
 
 ## Fr Maj Charles Alexander Young, MC, VD
 
+Date of birth: Nov 26th 1895     
+Place of birth: Toronto, ON   
+Next of kin: Alexander Young, father, 24 St-Julia St, Quebec, Quebec   
+Occupation: Machinist, metalworking machine setter-operator    
+Religion: Methodist   
+
+Date of Death: Oct 2nd 1963    
+Buried: Mount Hermon Cemetery, Quebec City    
+
+*First World War:*   
+**Regimental number:** 22822
+**Highest rank:** Lieutenant 
+**Rank detail:**     
+1. Lieutenant (Army) 1918-03-19 to 1919-06-12    
+2. Lieutenant (Army) 1917-08-31 to 1918-03-19    
+3. Lieutenant (Army) 1917-04-14 to 1917-08-30    
+4. Sergeant   (Army) 1917-02-01 to 1917-04-14    
+5. Sergeant   (Army) 1916-06-13 to 1917-02-01    
+6. Sergeant   (Army) 1915-10-14 to 1916-06-13    
+7. Quarter-Master Sergeant, 12th Battalion, Infantry (Army) 1915-08-23 to 1915-10-14    
+8. Sergeant, 12th Battalion, Infantry (Army) 1914-09-29 to 1915-08-23  
+Degree of service: Europe
+Awards:
+- Military Cross   
+  Date of award: 1919-06-03   
+  Source: London Gazette, No. 31370, pg. 6837   
+
+LACID:  [330882](https://www.bac-lac.gc.ca/eng/discover/military-heritage/first-world-war/personnel-records/Pages/item.aspx?IdNumber=330882)    
+Service File: [B10645-S029](https://central.bac-lac.gc.ca/.item/?op=pdf&app=CEF&id=B10645-S029)    
+Reference: RG 150, Accession 1992-93/166, Box 10645 - 29    
+Item Number: 330882    
+Record Group: Canadian Expeditionary Force (CEF)     
+
+
+*Second World War*
 <table border="0" width="100%">
   <tr>
     <td><img src="https://www.hkvca.ca/cforcedata/ext_files/masterimage/X96.jpg" ALIGN=”right” HSPACE=”50” VSPACE=”50”/></td>
@@ -260,6 +312,8 @@ https://numerique.banq.qc.ca/patrimoine/details/52327/2561487?docref=jyvm7GBZHfY
     </td>
   </tr>
 </table>
+
+
 
 Son of Major Alexander 'Alex' Young (52nd Battalion) and Annie Buxton Young (nee Gardiner); husband of Irene May Young (nee Fellows)
 
@@ -304,6 +358,18 @@ http://battleofhongkong.com/19.htm
 First World War Records:   
 https://canadiangreatwarproject.com/person.php?pid=193906
 
+
+**Wife**: 
+Irene May Fellows (Imperial War Museum - Lives of the First World War)    
+Date of birth: Sept 16th 1894   
+Place of birth: Quebec, PQ   
+https://livesofthefirstworldwar.iwm.org.uk/lifestory/5857947    
+Service: Canadian Expeditionary Force    	  
+Unit: Canadian Army Medical Corps 	 
+Rank: Nursing Sister	 
+Service File:  [B3029-S033](https://central.bac-lac.gc.ca/.item/?op=pdf&app=CEF&id=B3029-S033)     
+
+**Decorations:**   
 
 Military Cross  
 La Croix militaire peut être décernée aux officiers de grades ne dépassant pas le grade effectif de capitaine (autrement dit, les majors à titre temporaire et par intérim y sont admissibles) ou aux adjudants, en reconnaissance de services distingués et méritoires au combat. En 1920, les conditions ont été modifiées afin de préciser clairement que la Croix devait reconnaître les services courageux et distingués en présence de l’ennemi, et que les officiers de la marine et de l’aviation pouvaient l’obtenir pour des services courageux et distingués au sol. - Anciens Combattants Canada.   
