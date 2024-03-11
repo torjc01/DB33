@@ -272,6 +272,7 @@ Date of Death: Oct 2nd 1963
 Buried: Mount Hermon Cemetery, Quebec City    
 
 *First World War:*   
+**Service:** Canadian Expeditionary Force   
 **Regimental number:** 22822
 **Highest rank:** Lieutenant 
 **Rank detail:**     
@@ -361,13 +362,22 @@ https://canadiangreatwarproject.com/person.php?pid=193906
 
 **Wife**: 
 Irene May Fellows (Imperial War Museum - Lives of the First World War)    
+Daughter of **Alfred G Fellows** and **Catherine Fellows** (nee Black); wife of **Charles Alexander Young** (Service No. 22822)
 Date of birth: Sept 16th 1894   
 Place of birth: Quebec, PQ   
-https://livesofthefirstworldwar.iwm.org.uk/lifestory/5857947    
+Next of kin: Major William Grincell Fellows, uncle. 243 Fairmount Avenue, Montreal, Quebec   
+Occupation (attested): Trained Nurse    
+Address: 61 St. Cyrille Street, Quebec, Quebec    
+Religion: Church of England    
+Date of death: 1958-12-05    
+Buried: St. Catharines (Victoria Lawn) Cemetery    
 Service: Canadian Expeditionary Force    	  
 Unit: Canadian Army Medical Corps 	 
-Rank: Nursing Sister	 
+Rank: Nursing Sister (Lieutenant)	  
 Service File:  [B3029-S033](https://central.bac-lac.gc.ca/.item/?op=pdf&app=CEF&id=B3029-S033)     
+IWM: https://livesofthefirstworldwar.iwm.org.uk/lifestory/5857947    
+Great War Project: https://canadiangreatwarproject.com/person.php?pid=87189
+
 
 **Decorations:**   
 
