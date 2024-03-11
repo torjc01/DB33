@@ -218,17 +218,18 @@ Date of Birth: 22 November 1873.
 Place of Birth: Quebec City, Quebec, Canada.   
 Enlisted: 24 August 1917 in Ottawa, Ontario, CA. Age: 43 years   
 Rank: Major and Quartermaster.   
-Unit: Canadian Army Medical Corps.    
+Unit: Canadian Army Medical Corps. No. 3 Canadian General Hospital.      
 Date of Death: 13 December 1918.   
 Incident: Died of illness (uremia).   
-Buried 13 December 1918   
+Buried: December 13th 1918   
 Age at Death: 45 years.     
 Cemetery: TERLINCTHUN BRITISH CEMETERY.   
 Grave Reference: XII. C. 37.    
 
+Husband of Emily Adair (née Eley), of 61, Blackburn Ave., Ottawa.   
+Born at Quebec, P.Q. A member of the Permanent Force (Army Medical Corps). Left behind his wife and their four daughters: Bernie, Doris, Edith & Marjorie.
 
-Husband of Emily Adair, of 61, Blackburn Ave., Ottawa.   
-Born at Quebec, P.Q. A member of the Permanent Force (Army Medical Corps. Left behind his wife and their four daughters: Bernie, Doris, Edith & Marjorie)
+Fait curieux: Maj Adair a servi avec le Lt-Col John McCrae, dans la même unité No. 3 Canadian General Hospital et ont travaillé ensemble près d'Ypres.  Lt-Col McCrae est l'auteur deu poème `In Flanders Fields`. 
 
 <img src="images/hjadair/Funeral HJ Adair.png" />
 
@@ -463,3 +464,30 @@ https://antients.org
 
 Quebec Chronicle, 22 nov 1921 Inauguração da placa na loja Albion
 https://books.google.ca/books?id=gpYfAAAAIBAJ&printsec=frontcover&hl=pt-BR&source=gbs_ge_summary_r&cad=0#v=onepage&q=heroes&f=false
+
+
+## Poem 
+
+```
+In Flanders fields 
+
+In Flanders fields the poppies blow
+Between the crosses, row on row,
+That mark our place; and in the sky
+The larks, still bravely singing, fly
+Scarce heard amid the guns below.
+
+We are the Dead. Short days ago
+We lived, felt dawn, saw sunset glow,
+Loved, and were loved, and now we lie
+In Flanders Fields.
+
+Take up our quarrel with the foe:
+To you from failing hands we throw
+The torch; be yours to hold it high.
+If ye break faith with us who die
+We shall not sleep, though poppies grow
+In Flanders Fields.
+
+                    - Lt-Col John McCrae
+```
