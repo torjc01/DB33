@@ -4,7 +4,7 @@
 
 **Plano geográfico:** Cidade de Québec
 
-**Timeframe:** séc XVIII, XIX e XX (a partir de 1752) 
+**Timeframe:** séc XIX e XX (a partir de 1855) 
 
 **Público alvo:** público maçônico interno, todos os graus. Possívelmente apresentar como presente para a AMBQ. 
 
@@ -32,7 +32,7 @@
 
 
 
-## Questões para pesquisa
+## Questions pour la recherche
 
 - Act of Incorporation da Quebec Masonic Hall Association
 - Percurso das lojas Albion e St John's
