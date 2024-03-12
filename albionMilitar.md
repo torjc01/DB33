@@ -55,10 +55,10 @@
 **Passed:** May 08, 1915 Age: 24      
 **Buried:** BOULOGNE EASTERN CEMETERY, Pas de Calais, France   
 **Grave reference:** VIII. C. 9.   
-**Veteran's reference:**  RG 150, Accession 1992-93/166, Box 5915 - 11
-**Item number:** 197849
-**Record Group:**  Canadian Expeditionary Force (CEF)
-**Service File:** [B5915-S011](http://central.bac-lac.gc.ca/.item/?op=pdf&app=CEF&id=B5915-S011)
+**Veteran's reference:**  RG 150, Accession 1992-93/166, Box 5915 - 11   
+**Item number:** 197849   
+**Record Group:**  Canadian Expeditionary Force (CEF)   
+**Service File:** [B5915-S011](http://central.bac-lac.gc.ca/.item/?op=pdf&app=CEF&id=B5915-S011)   
 
 **Decoration:** Cross of the Order of Saint George, 4th Class   
              Citation: THE EDINBURGH GAZETTE, AUGUST 27, 1915, pp. 1312-1314   
@@ -88,6 +88,8 @@ https://numerique.banq.qc.ca/patrimoine/details/52327/3101785?docsearchtext=jose
              Citation: THE EDINBURGH GAZETTE, AUGUST 27, 1915, pp. 1312-1314   
 https://www.thegazette.co.uk/Edinburgh/issue/12845/page/1314/data.pdf   
 https://www.thegazette.co.uk/Edinburgh/issue/12845/page/1314/data.pdf
+
+<img src="https://static.miraheze.org/battleofjutlandcrewlistswiki/1/1e/St.George_Cross.jpg" />
 
 See 'Ribbons and Medals', by H Taprell Dorling:
 
