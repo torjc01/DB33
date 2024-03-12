@@ -97,7 +97,7 @@ https://www.ville.quebec.qc.ca/citoyens/propriete/docs/patrimoine/guide_tech06.p
 
 Ville de Montréal. La Maçonnerie: Fiche-patrimoine. https://ville.montreal.qc.ca/pls/portal/docs/page/arrond_mhm_fr/media/documents/fiche-patrimoine_maconnerie.pdf 
 
-### Planos arquitetônicos
+### Plans architectoniques
 
 **Masonic Hall  (D44)**  
 Plans d'architecture concernant une salle franc-maçonne située au coin des rues Desjardins et Saint-Louis à Québec. Le projet contient les dessins suivants : plan, élévation, coupe.  
@@ -126,7 +126,12 @@ Dans cet article, on a parlé à plusieurs réprises de valeurs monetaires qui o
 
 Avec l'objective de (sanar) la curiosité du lecteur, on va essayer de faire l'actualisation de ces valeurs vers la valeur courante en dollar canadien. 
 
-Par convention dans cet article, on adopte les nomenclarures suivantes: 
+Par convention dans cet article, on adopte les nomenclarures suivantes: ... 
+
+- CAD : dollar canadien, siècle XXI
+- GBP : livre sterling , siècle XXI
+- C$  : dollar canadien, siècle XIX
+- £   : livre sterling , siècle XIX
 
 -----
 
@@ -143,12 +148,6 @@ le maintient à jour en fonction de la réalité du moment, quel que soit le mom
 les informations ont été enregistrées, restant utiles pour les utilisateurs de l'information.
 
 -----
-
-- CAD : dollar canadien, siècle XXI
-- GBP : livre sterling , siècle XXI
-- C$  : dollar canadien, siècle XIX
-- £   : livre sterling , siècle XIX
-
 
 <!--
 To convert £1000 from the year 1860 to an equivalent value in Canadian dollars (CAD) in the same year, we need to use historical exchange rates or purchasing power parity (PPP) adjustments. However, historical exchange rate data for the year 1860 might be challenging to find, especially for currencies like the Canadian dollar, which didn't exist until 1858.
