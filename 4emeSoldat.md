@@ -13,8 +13,8 @@ Buried: Mount Hermon Cemetery, Quebec City
 
 *First World War:*   
 **Service:** Canadian Expeditionary Force   
-**Regimental number:** 22822
-**Highest rank:** Lieutenant 
+**Regimental number:** 22822   
+**Highest rank:** Lieutenant   
 **Rank detail:**     
 1. Lieutenant (Army) 1918-03-19 to 1919-06-12    
 2. Lieutenant (Army) 1917-08-31 to 1918-03-19    
@@ -28,7 +28,9 @@ Degree of service: Europe
 Awards:
 - Military Cross   
   Date of award: 1919-06-03   
-  Source: London Gazette, No. 31370, pg. 6837   
+  Source: London Gazette, No. 31370, pg. 6837    
+    *Lt. Charles Alexander Young, 4th Bn., Can.    
+    M.G. Corps*
 
 LACID:  [330882](https://www.bac-lac.gc.ca/eng/discover/military-heritage/first-world-war/personnel-records/Pages/item.aspx?IdNumber=330882)    
 Service File: [B10645-S029](https://central.bac-lac.gc.ca/.item/?op=pdf&app=CEF&id=B10645-S029)    
@@ -54,16 +56,13 @@ Record Group: Canadian Expeditionary Force (CEF)
   </tr>
 </table>
 
-
-
-Son of Major Alexander 'Alex' Young (52nd Battalion) and Annie Buxton Young (nee Gardiner); husband of Irene May Young (nee Fellows)
+Son of Major Alexander 'Alex' Young (52nd Battalion) and Annie Buxton Young (née Gardiner); husband of Irene May Young (née Fellows).
 
 After the Great War, he joined the Royal Rifles of Canada and rose through the ranks to become Lieutenant-Colonel in 1934.
 
 À la Second Guerre mondiale, il est capturé à la fin de la Bataille d'Hong Kong, sera envoyé en camp de prisonniers dans lesquels il restera jusqu'à la fin de la guerre en 1945.
 
-
-Liste des camps de prisonniers et les dates d'internement et de sortie: 
+**Liste des camps de prisonniers et les dates d'internement et de sortie:** 
 
 |Camp ID 	|Camp Name 	|Location 	|Company 	|Type of Work 	|Reference 	|Arrival Date 	|Departure Date|
 |---|----|----|---|---|---|---|---|
@@ -77,7 +76,7 @@ Liste des camps de prisonniers et les dates d'internement et de sortie:
 *In the fourth row from the bottom, 3rd from the left is X96 Major Charles A. Young of the Royal Rifles of Canada. Apparently this photo was taken just after liberation*
 
 Hong Kong Veterans Commemorative Association,   
-https://www.hkvca.ca/cforcedata/unitreport/index.php
+https://www.hkvca.ca/cforcedata/unitreport/index.php 
 
 Details from HKVCA.   
 https://www.hkvca.ca/cforcedata/indivreport/indivdetailed.php?regtno=X96
@@ -98,38 +97,6 @@ http://battleofhongkong.com/19.htm
 
 First World War Records:   
 https://canadiangreatwarproject.com/person.php?pid=193906
-
-
-**Wife**: 
-Irene May Fellows (Imperial War Museum - Lives of the First World War)    
-Daughter of **Alfred Grincell Fellows** and **Catherine Fellows** (nee Black); wife of **Charles Alexander Young** (Service No. 22822)
-Date of birth: Sept 16th 1894   
-Place of birth: Quebec, PQ   
-Next of kin: Major William Grincell Fellows, uncle. 243 Fairmount Avenue, Montreal, Quebec   
-Occupation (attested): Trained Nurse    
-Address: 61 St. Cyrille Street, Quebec, Quebec    
-Religion: Church of England    
-Date of death: 1958-12-05    
-Buried: St. Catharines (Victoria Lawn) Cemetery    
-Service: Canadian Expeditionary Force    	  
-Unit: Canadian Army Medical Corps 	 
-Rank: Nursing Sister (Lieutenant)	  
-Service File:  [B3029-S033](https://central.bac-lac.gc.ca/.item/?op=pdf&app=CEF&id=B3029-S033)     
-IWM: https://livesofthefirstworldwar.iwm.org.uk/lifestory/5857947    
-Great War Project: https://canadiangreatwarproject.com/person.php?pid=87189
-
-Father: SGM Alfred Grincell Fellows   
-Sergeant-Major RCGA - Royal Canadian Garrison Artillery, 8th Regiment, "B" Battery - Québec City  
-Husband of Caroline H Reid (1873 – 1948)   
-Born: May   7th 1868, England   
-Died: April 6th 1912 (44 years old)   
-Grave of Alfred Grincell Fellows:   
-https://www.findagrave.com/memorial/156652478/alfred_grincell_fellows   
-
-Brother :    
-Ivor Herbert Fellows, son of Alfred Grincell Fellows, Sergeant-Major R C G A, of Québec, and of his wife Caroline, born the fifth day of April, A D 1906, was baptised on June 18th of the same. Died on the twenty-third and was buried on the twenty-fourth day of February, A D 1914 (7 years old). 
-Grave:   
-https://www.findagrave.com/memorial/156648143/ivor_herbert_fellows
 
 **Decorations:**   
 
@@ -170,6 +137,38 @@ His father, the late Maj Alexander Young, was also a soldier and commanded the 5
 
 
 **His daughter:**   
-Phyllis Alexandra (Young) Thompson  
+Phyllis Alexandra Thompson, née Young   
 January 10, 1931 — April 5, 2020  
 https://www.basicfunerals.ca/obituaries/Phyllis-Thompson
+
+**Wife**: 
+Irene May Fellows (Imperial War Museum - Lives of the First World War)    
+Daughter of **Alfred Grincell Fellows** and **Catherine Fellows** (nee Black); wife of **Charles Alexander Young** (Service No. 22822)
+Date of birth: Sept 16th 1894   
+Place of birth: Quebec, PQ   
+Next of kin: Major William Grincell Fellows, uncle. 243 Fairmount Avenue, Montreal, Quebec   
+Occupation (attested): Trained Nurse    
+Address: 61 St. Cyrille Street, Quebec, Quebec    
+Religion: Church of England    
+Date of death: 1958-12-05    
+Buried: St. Catharines (Victoria Lawn) Cemetery    
+Service: Canadian Expeditionary Force    	  
+Unit: Canadian Army Medical Corps 	 
+Rank: Nursing Sister (Lieutenant)	  
+Service File:  [B3029-S033](https://central.bac-lac.gc.ca/.item/?op=pdf&app=CEF&id=B3029-S033)     
+IWM: https://livesofthefirstworldwar.iwm.org.uk/lifestory/5857947    
+Great War Project: https://canadiangreatwarproject.com/person.php?pid=87189
+
+Wife's Father: SGM Alfred Grincell Fellows   
+Sergeant-Major RCGA - Royal Canadian Garrison Artillery, 8th Regiment, "B" Battery - Québec City  
+Husband of Caroline H Reid (1873 – 1948)   
+Born: May   7th 1868, England   
+Died: April 6th 1912 (44 years old)   
+Grave of Alfred Grincell Fellows:   
+https://www.findagrave.com/memorial/156652478/alfred_grincell_fellows   
+
+Wife's Brother :    
+Ivor Herbert Fellows, son of Alfred Grincell Fellows, Sergeant-Major R C G A, of Québec, and of his wife Caroline, born the fifth day of April, A D 1906, was baptised on June 18th of the same. Died on the twenty-third and was buried on the twenty-fourth day of February, A D 1914 (7 years old). 
+Grave:   
+https://www.findagrave.com/memorial/156648143/ivor_herbert_fellows
+
