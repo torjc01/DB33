@@ -377,7 +377,7 @@ https://canadiangreatwarproject.com/person.php?pid=193906
 
 **Wife**: 
 Irene May Fellows (Imperial War Museum - Lives of the First World War)    
-Daughter of **Alfred G Fellows** and **Catherine Fellows** (nee Black); wife of **Charles Alexander Young** (Service No. 22822)
+Daughter of **Alfred Grincell Fellows** and **Catherine Fellows** (nee Black); wife of **Charles Alexander Young** (Service No. 22822)
 Date of birth: Sept 16th 1894   
 Place of birth: Quebec, PQ   
 Next of kin: Major William Grincell Fellows, uncle. 243 Fairmount Avenue, Montreal, Quebec   
@@ -393,6 +393,18 @@ Service File:  [B3029-S033](https://central.bac-lac.gc.ca/.item/?op=pdf&app=CEF&
 IWM: https://livesofthefirstworldwar.iwm.org.uk/lifestory/5857947    
 Great War Project: https://canadiangreatwarproject.com/person.php?pid=87189
 
+Father: SGM Alfred Grincell Fellows   
+Sergeant-Major RCGA - Royal Canadian Garrison Artillery, 8th Regiment, "B" Battery - Québec City  
+Husband of Caroline H Reid (1873 – 1948)   
+Born: May   7th 1868, England   
+Died: April 6th 1912 (44 years old)   
+Grave of Alfred Grincell Fellows:   
+https://www.findagrave.com/memorial/156652478/alfred_grincell_fellows   
+
+Brother :    
+Ivor Herbert Fellows, son of Alfred Grincell Fellows, Sergeant-Major R C G A, of Québec, and of his wife Caroline, born the fifth day of April, A D 1906, was baptised on June 18th of the same. Died on the twenty-third and was buried on the twenty-fourth day of February, A D 1914 (7 years old). 
+Grave:   
+https://www.findagrave.com/memorial/156648143/ivor_herbert_fellows
 
 **Decorations:**   
 
