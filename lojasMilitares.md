@@ -69,3 +69,5 @@ Smith, Pemberton. Early Canadian Masonry. As account on a written letter from Ed
 Rouillard, Eugène. Les premiers fran-maçons canadiens. Dans Bulletins de Recherches Historiques, vol IV, no. 6, pp. 188-190 Juin 1898
 https://numerique.banq.qc.ca/patrimoine/details/52327/2656970?docsearchtext=Franc-maçons
 
+FREEMASONRY AT THE SIEGE OF QUEBEC 1759-60 by RW Bro. A.J.B. Milborne    
+http://www.cedarcitylodge.org/books/Freemasonry%20-%20Vol2No09..Freemasonry%20at%20the%20Siege%20of%20Quebec%20(10%20pgs).pdf
