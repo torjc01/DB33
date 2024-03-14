@@ -172,3 +172,10 @@ Ivor Herbert Fellows, son of Alfred Grincell Fellows, Sergeant-Major R C G A, of
 Grave:   
 https://www.findagrave.com/memorial/156648143/ivor_herbert_fellows
 
+
+
+
+
+54 Rifles un Jap's hands.    
+https://www.proquest.com/docview/2158853737/ED9F788F4219403CPQ/2?accountid=8612&sourcetype=Historical%20Newspapers
+
