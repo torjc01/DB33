@@ -71,3 +71,6 @@ https://numerique.banq.qc.ca/patrimoine/details/52327/2656970?docsearchtext=Fran
 
 FREEMASONRY AT THE SIEGE OF QUEBEC 1759-60 by RW Bro. A.J.B. Milborne    
 http://www.cedarcitylodge.org/books/Freemasonry%20-%20Vol2No09..Freemasonry%20at%20the%20Siege%20of%20Quebec%20(10%20pgs).pdf
+
+THE PROVINCIAL GRAND LODGE OF QUEBEC, 1759-1792 PART I   
+https://www.quatuorcoronati.com/wp-content/uploads/2023/12/AQC-68-1955.pdf
