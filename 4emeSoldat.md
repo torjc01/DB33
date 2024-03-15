@@ -45,7 +45,7 @@ Record Group: Canadian Expeditionary Force (CEF)
     <td><img src="https://www.hkvca.ca/cforcedata/ext_files/masterimage/X96.jpg" ALIGN=”right” HSPACE=”50” VSPACE=”50”/></td>
     <td align="top">
       <b>Rank:</b> Major (retired Lieutenant-Colonel)   <br/>
-      <b>Force:</b> Army - 1st Btn The Royal Rifles Canada.  <br/>
+      <b>Force:</b> Army - 1st Btn The Royal Rifles of Canada.  <br/>
       <b>Service Number (regimental):</b> X96.  <br/>
       <b>Born:</b> November 26, 1895, York, On.  <br/>
       <b>POW:</b> from Dec 30, 1941 to Sep 10, 1945.  <br/>
