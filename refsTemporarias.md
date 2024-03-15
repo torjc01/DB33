@@ -27,11 +27,11 @@ http://www.archivesnationales.culture.gouv.fr/anom/fr/
 Dictionary Biographic Canada 
 http://www.biographi.ca/fr/ 
 
-
-
 Referências de livros (ABNT) 
 Elementos essenciais : autor(es), titulo, edição, local, editora e data de publicação. 
 
+Archives Grand Lodge of Ireland.   
+https://freemason.ie/museum-library-archive/
 
 Estrutura minima de um artigo 
 IMRAD: Introduction, Methods, Results and Discussion
