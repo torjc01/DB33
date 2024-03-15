@@ -179,6 +179,9 @@ Ivor Herbert Fellows, son of Alfred Grincell Fellows, Sergeant-Major R C G A, of
 Grave:   
 https://www.findagrave.com/memorial/156648143/ivor_herbert_fellows
 
+Grand-daughter: Jayne Cascagnette
+
+
 
 
 
