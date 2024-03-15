@@ -12,6 +12,9 @@ Date of Death: Oct 2nd 1963
 Buried: Mount Hermon Cemetery, Quebec City    
 
 *First World War:*   
+
+<img src="https://scontent.fymq1-1.fna.fbcdn.net/v/t1.18169-9/27067735_2044266525600043_870996824954040448_n.jpg?stp=dst-jpg_s600x600&_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-nvXic5nKkYAX_BZzTO&_nc_ht=scontent.fymq1-1.fna&oh=00_AfCk6CuGs-Cn8wqIPqxynMgaHqmUuismGNZfG_lL5ATaYA&oe=661B4744" />
+
 **Service:** Canadian Expeditionary Force   
 **Regimental number:** 22822   
 **Highest rank:** Lieutenant   
@@ -42,7 +45,9 @@ Record Group: Canadian Expeditionary Force (CEF)
 *Second World War*
 <table border="0" width="100%">
   <tr>
-    <td><img src="https://www.hkvca.ca/cforcedata/ext_files/masterimage/X96.jpg" ALIGN=”right” HSPACE=”50” VSPACE=”50”/></td>
+    <td><!-- img src="https://www.hkvca.ca/cforcedata/ext_files/masterimage/X96.jpg" ALIGN=”right” HSPACE=”50” VSPACE=”50”/ -->
+      <img src="https://scontent.fymq1-2.fna.fbcdn.net/v/t1.6435-9/46766036_2472262566133768_7452336018876792832_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=1Kp1Qpb1BccAX-61561&_nc_ht=scontent.fymq1-2.fna&oh=00_AfAxMxMKzPlNwKpx7gPVNmTZw22TnPB3ehvB3Ex4Hp6xKQ&oe=661B5418">
+    </td>
     <td align="top">
       <b>Rank:</b> Major (retired Lieutenant-Colonel)   <br/>
       <b>Force:</b> Army - 1st Btn The Royal Rifles of Canada.  <br/>
@@ -61,6 +66,8 @@ Son of Major Alexander 'Alex' Young (52nd Battalion) and Annie Buxton Young (né
 After the Great War, he joined the Royal Rifles of Canada and rose through the ranks to become Lieutenant-Colonel in 1934.
 
 À la Second Guerre mondiale, il est capturé à la fin de la Bataille d'Hong Kong, sera envoyé en camp de prisonniers dans lesquels il restera jusqu'à la fin de la guerre en 1945.
+
+<img src="https://www.warmuseum.ca/ke/_resources/3124503/19700036-024.jpg" />
 
 **Liste des camps de prisonniers et les dates d'internement et de sortie:** 
 
