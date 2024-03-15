@@ -1,17 +1,10 @@
 ARQUIVOS DE MIDIA 
 
-Quebec Masonic Hall Association. 
-Act of incorporation and by-laws of the Quebec Masonic Hall Association. 
-[Quebec : publisher not identified], 1855. 
-https://www.canadiana.ca/view/oocihm.52936/20 
-
 Portal Periodico CAPES
 https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br/index.php?option=com_pmetabusca&mn=88&smn=88&type=m&metalib=aHR0cHM6Ly9ybnAtcHJpbW8uaG9zdGVkLmV4bGlicmlzZ3JvdXAuY29tL3ByaW1vX2xpYnJhcnkvbGlid2ViL2FjdGlvbi9zZWFyY2guZG8/dmlkPUNBUEVTX1Yx&Itemid=124 
 
 Estado de São Paulo – Acervo – Pay Wall
 https://www.estadao.com.br/acervo/ 
-
-
 
 Newspaper Archive – PayWall 
 https://newspaperarchive.com/free-trial 
