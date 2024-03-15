@@ -74,3 +74,11 @@ http://www.cedarcitylodge.org/books/Freemasonry%20-%20Vol2No09..Freemasonry%20at
 
 THE PROVINCIAL GRAND LODGE OF QUEBEC, 1759-1792 PART I   
 https://www.quatuorcoronati.com/wp-content/uploads/2023/12/AQC-68-1955.pdf
+
+Military Lodges UK    
+https://www.militarymasons.org.uk/
+
+Photos soirée militaire UGLE   
+https://www.dropbox.com/sh/4ji8filyitkkg1g/AADSe4acJWMNEOvUQThUBccaa?dl=0
+
+
