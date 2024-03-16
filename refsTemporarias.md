@@ -1,7 +1,3 @@
-ARQUIVOS DE MIDIA 
-
-
-
     
 Correio Braziliense 
 De Junho, 1808. 
@@ -17,22 +13,3 @@ O primeiro dever do homem em sociedade he ser util aos membros della; e cada um 
 Ir.'. Hyppolito Joseph da Costa Pereita Furtado de Mendonça
 
 https://memoria.bn.br/DocReader/docreader.aspx?bib=700142x&pesq=&pagfis=4
-
-
-
-LOJAS DE PESQUISAS / REVISTAS MAÇÔNICAS
-
-Loja Dom Bosco n. 33.   
-https://lojadepesquisas.com.br
-
-O Buscador - Revista da loja de pesquisas da Grande Loja da Paraiba.   
-https://www.gvaa.com.br/revista/index.php/OBuscador/issue/archive
-
-Revista Ciência e Maçonaria
-https://www.cienciaemaconaria.com.br/index.php/cem/issue/current
-
-
-
-
-
-
