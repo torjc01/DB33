@@ -107,6 +107,9 @@ https://www.bibl.ulaval.ca/
 Corpus Université Laval    
 https://corpus.ulaval.ca/home   
 
+Brock University - Masonic Ressources    
+https://dr.library.brocku.ca/handle/10464/3146
+
 Societes historiques de Québec   
 https://www.societeshistoirequebec.qc.ca/fr/ 
 
@@ -127,12 +130,10 @@ https://www.britishnewspaperarchive.co.uk/
 Archives Grand Lodge of Ireland   
 https://freemason.ie/museum-library-archive/
 
-
 ### Internacional 
 
 Newspapers Google News    
 https://news.google.com/newspapers   
-
 
 Newspaper Archive – PayWall    
 https://newspaperarchive.com/free-trial 
