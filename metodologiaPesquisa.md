@@ -130,6 +130,10 @@ https://www.britishnewspaperarchive.co.uk/
 Archives Grand Lodge of Ireland   
 https://freemason.ie/museum-library-archive/
 
+Lane's Masonic Record: is an authoritative listing of all the lodges established by the 
+English Grand Lodges from the foundation of the first Grand Lodge in 1717 up until 1894     
+https://www.dhi.ac.uk/lane/
+
 ### Internacional 
 
 Newspapers Google News    
