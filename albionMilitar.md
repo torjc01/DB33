@@ -183,7 +183,7 @@ The Quebec Chronicle, 10 juin 1916, samedi
 
       Members of Albion Lodge, No. 2, A.F. & A.M., are requested, and members of sister Lodges invited, 
       to attend Memorial Service for the late Earl Kitchener and the late Wor. Bro. Major Alexander Young, 
-      52nd battalion, C.E.F., which will be held in the Methodist Chrch, on Sundat Evening, the 11th 
+      52nd battalion, C.E.F., which will be held in the Methodist Church, on Sunday Evening, the 11th 
       instant, at 7 o'clock.
           By order, 
              C. H. KNOWLES, 
