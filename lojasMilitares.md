@@ -39,40 +39,46 @@
 *de Lagrave, Jean-Paul*. **Les débuts de la Maçonnerie au Québec**. Man and Nature / L'homme et la nature 7, (1988) : 195–207. https://doi.org/10.7202/1011936ar
 
 *Hamon, É.*, **La franc-maçonnerie dans la province de Québec en 1883** /, Québec (Province), s.n., 1883, 276 p. ; 19 cm, Collections de BAnQ. 
-https://numerique.banq.qc.ca/patrimoine/details/52327/2021763 
+https://numerique.banq.qc.ca/patrimoine/details/52327/2021763
 
-### Web 
-
-Lane's Masonic Record: is an authoritative listing of all the lodges established by the English Grand Lodges from the foundation of the first Grand Lodge in 1717 up until 1894. 
-https://www.dhi.ac.uk/lane/
-
-Grande Loja Unida da Inglaterrra  
-https://www.ugle.org.uk/
-
-Grande Loja da Escócia  
-https://www.grandlodgescotland.com/
-
-Grande Loja da Irlanda  
-https://freemason.ie/
-
-Atholl Lodge List - Antients  
-https://antients.org 
+-----
 
 "Although it has been affirmed by French and other writers that a lodge of freemasons existed in the city of Quebec in the year 1755, no records or other evidences are known to be in existence, and Masonry in the province only dates its existence from the time of Wolfe when the "Lily" flag of the Bourbon replaced by the "Union Jack" over the citadel of Quebec. 
 
 Mackey, History of Freemasonry, vol VIII, p. 1933
 
+-----
+
 "Bro Pierre Gamlin has a grand warrant from the Grand Master of France for the whole Province of Canada, which is ordered to be registered in the procedings here: as I thought it better to assemble together promiscuously than set up any such distinction as English and French Workmen"  
 
 Smith, Pemberton. Early Canadian Masonry. As account on a written letter from Edward Antill, the acting DDGM, to the Provincial Grand Master at Quebec. 
 
-Rouillard, Eugène. Les premiers fran-maçons canadiens. Dans Bulletins de Recherches Historiques, vol IV, no. 6, pp. 188-190 Juin 1898
+-----
+
+### Web 
+
+Lane's Masonic Record: is an authoritative listing of all the lodges established by the English Grand Lodges from the foundation of the first Grand Lodge in 1717 up until 1894.    
+https://www.dhi.ac.uk/lane/
+
+Grande Loja Unida da Inglaterrra   
+https://www.ugle.org.uk/
+
+Grande Loja da Escócia   
+https://www.grandlodgescotland.com/
+
+Grande Loja da Irlanda   
+https://freemason.ie/
+
+Atholl Lodge List - Antients  
+https://antients.org 
+
+Rouillard, Eugène. Les premiers franc-maçons canadiens. Dans Bulletins de Recherches Historiques, vol IV, no. 6, pp. 188-190 Juin 1898   
 https://numerique.banq.qc.ca/patrimoine/details/52327/2656970?docsearchtext=Franc-maçons
 
-FREEMASONRY AT THE SIEGE OF QUEBEC 1759-60 by RW Bro. A.J.B. Milborne    
+Freemasonry at the siege of Quebec, 1759-60 by RW Bro. A.J.B. Milborne     
 http://www.cedarcitylodge.org/books/Freemasonry%20-%20Vol2No09..Freemasonry%20at%20the%20Siege%20of%20Quebec%20(10%20pgs).pdf
 
-THE PROVINCIAL GRAND LODGE OF QUEBEC, 1759-1792 PART I   
+The Provincial Grand Lodge of Quebec, 1759-1792 Part I and Part II, by RW Bro. A.J.B. Milborne     
 https://www.quatuorcoronati.com/wp-content/uploads/2023/12/AQC-68-1955.pdf
 
 Military Lodges UK    
