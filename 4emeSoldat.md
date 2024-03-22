@@ -150,7 +150,10 @@ https://www.basicfunerals.ca/obituaries/Phyllis-Thompson
 
 **Wife**: 
 Irene May Fellows (Imperial War Museum - Lives of the First World War)    
-Daughter of **Alfred Grincell Fellows** and **Catherine Fellows** (nee Black); wife of **Charles Alexander Young** (Service No. 22822)
+
+<img src="images/cayoung/IreneMayYoung.jpeg" />
+
+Daughter of **Alfred Grincell Fellows** and **Catherine Agnes Fellows** (nee Black); wife of **Charles Alexander Young** (Service No. 22822)
 Date of birth: Sept 16th 1894   
 Place of birth: Quebec, PQ   
 Next of kin: Major William Grincell Fellows, uncle. 243 Fairmount Avenue, Montreal, Quebec   
@@ -167,8 +170,9 @@ IWM: https://livesofthefirstworldwar.iwm.org.uk/lifestory/5857947
 Great War Project: https://canadiangreatwarproject.com/person.php?pid=87189
 
 Wife's Father: SGM Alfred Grincell Fellows   
+<img src="images/cayoung/Alfred Grincell Fellows.jpeg" />
 Sergeant-Major RCGA - Royal Canadian Garrison Artillery, 8th Regiment, "B" Battery - Québec City  
-Husband of Caroline H Reid (1873 – 1948)   
+Husband of Caroline H Reid (1873 – 1948)   ????  
 Born: May   7th 1868, England   
 Died: April 6th 1912 (44 years old)   
 Grave of Alfred Grincell Fellows:   
