@@ -185,11 +185,10 @@ https://www.findagrave.com/memorial/156648143/ivor_herbert_fellows
 
 Grand-daughter: Jayne Cascagnette
 
-
-
-
-
-
-54 Rifles un Jap's hands.    
+54 Rifles in Jap's hands.    
 https://www.proquest.com/docview/2158853737/ED9F788F4219403CPQ/2?accountid=8612&sourcetype=Historical%20Newspapers
 
+# References 
+
+*Hong Kong Veteran’s Association of Canada.* **The Royal Rifles of Canada in Hong   
+Kong:1941-1945.** Progressive Publications, Sherbrooke, QC, 1980
