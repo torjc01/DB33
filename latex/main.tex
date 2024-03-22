@@ -1,0 +1,23 @@
+\documentclass{article}
+\usepackage{graphicx} % Required for inserting images
+\usepackage[T1]{fontenc} 
+\usepackage{natbib}
+\usepackage{url}
+
+\title{Referências Bibliográficas Maçônicas para \LaTeX}
+\author{Julio Cesar Torres dos Santos}
+\date{March 2024}
+
+\begin{document}
+
+\maketitle
+
+%----------------------------------------------------------------------------------------
+%	RÉFÉRENCES - REFERENCES
+%----------------------------------------------------------------------------------------
+
+\nocite{*} % Insert publications even if they are not cited in the poster
+\small{\bibliographystyle{abntex2-alf}    % Alternatives: unsrt plain plainnat abntex2-alf chicago
+\bibliography{generalRefs.bib}\vspace{0.75in}}
+
+\end{document}
