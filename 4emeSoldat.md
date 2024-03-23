@@ -1,19 +1,19 @@
-# Le Quatrième Soldat
-
-## Fr Maj Charles Alexander Young, MC, VD
+# Le Quatrième Soldat:  Fr Lt-Col Charles Alexander Young, MC, VD
 
 Date of birth: Nov 26th 1895     
 Place of birth: Toronto, ON   
 Next of kin: Alexander Young, father, 24 St-Julia St, Quebec, Quebec   
-Occupation: Machinist, metalworking machine setter-operator    
+Occupation: Machi## ist, metalworking machine setter-operator    
 Religion: Methodist   
 
 Date of Death: Oct 2nd 1963    
 Buried: Mount Hermon Cemetery, Quebec City    
 
-*First World War:*   
+## First World War
 
 <img src="https://scontent.fymq1-1.fna.fbcdn.net/v/t1.18169-9/27067735_2044266525600043_870996824954040448_n.jpg?stp=dst-jpg_s600x600&_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-nvXic5nKkYAX_BZzTO&_nc_ht=scontent.fymq1-1.fna&oh=00_AfCk6CuGs-Cn8wqIPqxynMgaHqmUuismGNZfG_lL5ATaYA&oe=661B4744" />
+
+*Lt Charles Alexander Young, 12th Battalion*
 
 **Service:** Canadian Expeditionary Force   
 **Regimental number:** 22822   
@@ -42,11 +42,11 @@ Item Number: 330882
 Record Group: Canadian Expeditionary Force (CEF)     
 
 
-*Second World War*
+## Second World War
 <table border="0" width="100%">
   <tr>
     <td><!-- img src="https://www.hkvca.ca/cforcedata/ext_files/masterimage/X96.jpg" ALIGN=”right” HSPACE=”50” VSPACE=”50”/ -->
-      <img src="https://scontent.fymq1-2.fna.fbcdn.net/v/t1.6435-9/46766036_2472262566133768_7452336018876792832_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=1Kp1Qpb1BccAX-61561&_nc_ht=scontent.fymq1-2.fna&oh=00_AfAxMxMKzPlNwKpx7gPVNmTZw22TnPB3ehvB3Ex4Hp6xKQ&oe=661B5418">
+      <img src="https://scontent.fymq1-2.fna.fbcdn.net/v/t1.6435-9/46766036_2472262566133768_7452336018876792832_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=1Kp1Qpb1BccAX-61561&_nc_ht=scontent.fymq1-2.fna&oh=00_AfAxMxMKzPlNwKpx7gPVNmTZw22TnPB3ehvB3Ex4Hp6xKQ&oe=661B5418">   
     </td>
     <td align="top">
       <b>Rank:</b> Major (retired Lieutenant-Colonel)   <br/>
@@ -60,6 +60,8 @@ Record Group: Canadian Expeditionary Force (CEF)
     </td>
   </tr>
 </table>
+*Maj Charles Alexander Young, 1st Btn The Royal Rifles of Canada*
+
 
 Son of Major Alexander 'Alex' Young (52nd Battalion) and Annie Buxton Young (née Gardiner); husband of Irene May Young (née Fellows).
 
@@ -192,3 +194,39 @@ https://www.proquest.com/docview/2158853737/ED9F788F4219403CPQ/2?accountid=8612&
 
 *Hong Kong Veteran’s Association of Canada.* **The Royal Rifles of Canada in Hong   
 Kong:1941-1945.** Progressive Publications, Sherbrooke, QC, 1980
+
+
+# TODO
+
+- Vérifier les dates d'Initiation, passage et elevation du Fr Charles Young 
+- Checker s'il y a des faits saillants sur Fr Young dans les procès verbaux de la secretairie
+- Vérifier si l'on a une statistique de la proportion de frères qui sont militaires dans l'active, ou qui sont passés par les forces. 
+
+## Email to Mrs Thompson, Jayne
+
+Dear Mrs. Thompson, 
+
+Greetings. Allow me to introduce myself. My name is Julio Cesar Torres, I live in Québec City, and I am a member of the Masonic lodge Albion #2. 
+
+I suppose you know that your grandfather, Charles Alexander Young and your great-grandfather, Alexander Young, were both freemasons, and both members of Albion Lodge. 
+
+Brother Alexander Young was in fact the Master of the Lodge for the year of 1913, shortly before deploying to the European theatre on First World War, where he would pay the ultimate sacrifice for his country. 
+
+Our Lodge has its roots deeply into the military tradition: it was founded in 1752, as a military lodge attached to the 4th Battalion of the Royal Regiment of Artillery, British army; ever since, a large proportion of our members come from one of the three branches of the Forces. Today, almost half of our active brothers come from the military. 
+
+To complement this beautiful relationship with the Forces, our lodge has a lasting tradition of over 100 years. Our November meeting every year is changed into a "Military Soirée" to celebrate the service of our military in the defence of our country and our values. We also celebrate those who fell on battle and remember the sacrifice they have done so that we may have peace.  
+
+This year I have the task of preparing a presentation about our Brother Charles Alexander Young, your grandfather. I am going to tell about his experience in the First World War and about his hard experience as POW in WWII. Besides that, I am going to mention that your family has contributed greatly with the military: his father, his wife, his father-in-law, all have served the country... 
+
+So, the reason why I am writing to you is that in my research I have found your gallery on ""Thompson family tree" in ancestry.com, where you have some photos I would love to include in the presentation: Brother Charles' two photos, Brother Alexander's, your grandmother in a nurse's uniform. These are the images that would illustrate perfectly the words of praise that I will say on our "Military Soirée". 
+
+I would like to request your permission to use these photos in my PowerPoint if you are comfortable with it. If not, there's no problem, I understand it and won't touch your photos. 
+
+You may rest assured, the presentation will be private, it is going to be used on the "Soirée", only shown to our Masonic brothers. Of course, if you would like to see it, it will be my pleasure to share it with you. 
+
+Thank you very much for your time, Mrs. Thompson. 
+
+Sincerely yours, 
+
+Julio Cesar Torres dos Santos
+Québec, QC
