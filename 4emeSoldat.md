@@ -232,12 +232,15 @@ https://www.proquest.com/docview/2158853737/ED9F788F4219403CPQ/2?accountid=8612&
 
 # TODO
 
+- Possibilité d'en discuter avec le T V Fr Arthur Ward - il était le VM de la loge lors du décès du Fr Young
 - Vérifier les dates d'Initiation, passage et elevation du Fr Charles Young 
 - Checker s'il y a des faits saillants sur Fr Young dans les procès verbaux de la secretairie
 - Vérifier si l'on a une statistique de la proportion de frères qui sont militaires dans l'active, ou qui sont passés par les forces. 
-- Vérifier les données du V Fr William Grincell Fellows
+- Vérifier les données du V Fr William Grincell Fellows (oncle de l'epouse) - vénérable Maître d'Albion l'année 1908
+- Vérifier les donnés du Fr Alfred Grincell Fellows (Père de l'épouse)
+- Vérifier si Harry Ralph Thompson (beau-fils - mari à Phylis) était membre de la loge 
 
-## Email to Mrs Thompson-Cascagnetta, Jayne
+## Email to Mrs Thompson-Cascagnette, Jayne
 
 Dear Mrs. Thompson, 
 
