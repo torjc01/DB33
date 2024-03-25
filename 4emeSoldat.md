@@ -145,12 +145,12 @@ At the time of his sudden death, he was visiting his daughter, Mrs Harry Thompso
 His father, the late Maj Alexander Young, was also a soldier and commanded the 52nd Battalion in the First World War. 
 
 
-**His daughter:**   
+### **His daughter:**   
 Phyllis Alexandra Thompson, née Young   
 January 10, 1931 — April 5, 2020  
 https://www.basicfunerals.ca/obituaries/Phyllis-Thompson
 
-**Wife**: 
+### **Wife**: 
 Irene May Fellows (Imperial War Museum - Lives of the First World War)    
 
 <img src="images/cayoung/IreneMayYoung.jpeg" />
@@ -171,21 +171,42 @@ Service File:  [B3029-S033](https://central.bac-lac.gc.ca/.item/?op=pdf&app=CEF&
 IWM: https://livesofthefirstworldwar.iwm.org.uk/lifestory/5857947    
 Great War Project: https://canadiangreatwarproject.com/person.php?pid=87189
 
-Wife's Father: SGM Alfred Grincell Fellows   
+### **Wife's Father: SGM Alfred Grincell Fellows**
+
 <img src="images/cayoung/Alfred Grincell Fellows.jpeg" />
+
 Sergeant-Major RCGA - Royal Canadian Garrison Artillery, 8th Regiment, "B" Battery - Québec City  
-Husband of Caroline H Reid (1873 – 1948)   ????  
+
+Husband of Caroline H Reid (1873 – 1948)   ????   
 Born: May   7th 1868, England   
 Died: April 6th 1912 (44 years old)   
 Grave of Alfred Grincell Fellows:   
 https://www.findagrave.com/memorial/156652478/alfred_grincell_fellows   
 
-Wife's Brother :    
+<img src="images/agfellowes/agfellowes-obituary1.png" />
+
+*The Quebec chronicle, Apr 8th  1912*
+
+<img src="images/agfellowes/agfellowes-obituary2.png" />
+
+*The Quebec chronicle, Apr 8th  1912*
+
+<img src="images/agfellowes/agfellowes-masonic-obituary.png" />
+
+*The Quebec chronicle, Apr 8th  1912*
+
+
+The Quebec chronicle, 1912-04-08, Collections de BAnQ. Alfred G Fellows Obituary.   
+https://numerique.banq.qc.ca/patrimoine/details/52327/3609784
+
+
+
+### **Wife's Brother :**    
 Ivor Herbert Fellows, son of Alfred Grincell Fellows, Sergeant-Major R C G A, of Québec, and of his wife Caroline, born the fifth day of April, A D 1906, was baptised on June 18th of the same. Died on the twenty-third and was buried on the twenty-fourth day of February, A D 1914 (7 years old). 
 Grave:   
 https://www.findagrave.com/memorial/156648143/ivor_herbert_fellows
 
-Grand-daughter: Jayne Cascagnette
+**Grand-daughter: Jayne Thompson-Cascagnette**
 
 54 Rifles in Jap's hands.    
 https://www.proquest.com/docview/2158853737/ED9F788F4219403CPQ/2?accountid=8612&sourcetype=Historical%20Newspapers
