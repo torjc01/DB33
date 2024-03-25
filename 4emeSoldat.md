@@ -144,12 +144,6 @@ At the time of his sudden death, he was visiting his daughter, Mrs Harry Thompso
 
 His father, the late Maj Alexander Young, was also a soldier and commanded the 52nd Battalion in the First World War. 
 
-
-### **His daughter:**   
-Phyllis Alexandra Thompson, née Young   
-January 10, 1931 — April 5, 2020  
-https://www.basicfunerals.ca/obituaries/Phyllis-Thompson
-
 ### **Wife**: 
 Irene May Fellows (Imperial War Museum - Lives of the First World War)    
 
@@ -200,21 +194,29 @@ The Quebec chronicle, 1912-04-08, Collections de BAnQ. Alfred G Fellows Obituary
 https://numerique.banq.qc.ca/patrimoine/details/52327/3609784
 
 
+### **His daughter:**   
+Phyllis Alexandra Thompson, née Young   
+January 10, 1931 — April 5, 2020  
+https://www.basicfunerals.ca/obituaries/Phyllis-Thompson
+
+**Grand-daughter: Jayne Thompson-Cascagnette**
+
+
 
 ### **Wife's Brother :**    
 Ivor Herbert Fellows, son of Alfred Grincell Fellows, Sergeant-Major R C G A, of Québec, and of his wife Caroline, born the fifth day of April, A D 1906, was baptised on June 18th of the same. Died on the twenty-third and was buried on the twenty-fourth day of February, A D 1914 (7 years old). 
 Grave:   
 https://www.findagrave.com/memorial/156648143/ivor_herbert_fellows
 
-**Grand-daughter: Jayne Thompson-Cascagnette**
 
-54 Rifles in Jap's hands.    
-https://www.proquest.com/docview/2158853737/ED9F788F4219403CPQ/2?accountid=8612&sourcetype=Historical%20Newspapers
 
 # References 
 
 *Hong Kong Veteran’s Association of Canada.* **The Royal Rifles of Canada in Hong   
 Kong:1941-1945.** Progressive Publications, Sherbrooke, QC, 1980
+
+54 Rifles in Jap's hands.    
+https://www.proquest.com/docview/2158853737/ED9F788F4219403CPQ/2?accountid=8612&sourcetype=Historical%20Newspapers
 
 
 # TODO
