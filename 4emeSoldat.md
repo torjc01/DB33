@@ -111,13 +111,16 @@ https://canadiangreatwarproject.com/person.php?pid=193906
 
 Military Cross  
 La Croix militaire peut être décernée aux officiers de grades ne dépassant pas le grade effectif de capitaine (autrement dit, les majors à titre temporaire et par intérim y sont admissibles) ou aux adjudants, en reconnaissance de services distingués et méritoires au combat. En 1920, les conditions ont été modifiées afin de préciser clairement que la Croix devait reconnaître les services courageux et distingués en présence de l’ennemi, et que les officiers de la marine et de l’aviation pouvaient l’obtenir pour des services courageux et distingués au sol. - Anciens Combattants Canada.   
+
 https://www.worldanvil.com/w/je-me-souviens/a/croix-militaire-item
 
 Identifying the need to recognize junior commissioned officers and senior non-commissioned officers, the Military Cross was established on 28 December 1914 for commissioned officers of the substantive rank of Captain or below and for Warrant Officers. It was awarded for gallant and distinguished service in battle and recipients were entitled to the post-nominal letters MC.   
+
 https://www.warmuseum.ca/tilston-medals-collection/medals/25/
 
 **Obituary and Albion's Invitation  Chronicle, 1693-10-03, p. 12**   
 https://news.google.com/newspapers?nid=9tXw7Op4-u0C&dat=19631003&printsec=frontpage&hl=en    
+
 YOUNG - Suddenly at Toronto, Ont. on October 2nd 1963, Lt-Col C.A. Young, MC, VC, ED, beloved husband of the late Irene Fellows and dear father of Donald and Phyllis (Mrs Harry Thompson). Resting at the D.S. Rickaby Funeral Home, 707 St John Street, corner Geneviève (...). Funeral Saturday, at 2.00 service in Chalmers Wesley Church, Interment Mount Hermon Cemetery. 
 
 **ALBION LODGE**
@@ -201,9 +204,17 @@ https://www.basicfunerals.ca/obituaries/Phyllis-Thompson
 
 **Grand-daughter: Jayne Thompson-Cascagnette**
 
+### **His Uncle: Maj William Grincell Fellows** 
+
+William Grincell Fellows 
+
+<img src="images/wgfellows/wgFellows-obirtuary.png" />
+
+### **His son-in-law: Harry Ralph Thompson** 
 
 
-### **Wife's Brother :**    
+
+### **Wife's Brother : Ivor Herbert Fellows**    
 Ivor Herbert Fellows, son of Alfred Grincell Fellows, Sergeant-Major R C G A, of Québec, and of his wife Caroline, born the fifth day of April, A D 1906, was baptised on June 18th of the same. Died on the twenty-third and was buried on the twenty-fourth day of February, A D 1914 (7 years old). 
 Grave:   
 https://www.findagrave.com/memorial/156648143/ivor_herbert_fellows
@@ -224,8 +235,9 @@ https://www.proquest.com/docview/2158853737/ED9F788F4219403CPQ/2?accountid=8612&
 - Vérifier les dates d'Initiation, passage et elevation du Fr Charles Young 
 - Checker s'il y a des faits saillants sur Fr Young dans les procès verbaux de la secretairie
 - Vérifier si l'on a une statistique de la proportion de frères qui sont militaires dans l'active, ou qui sont passés par les forces. 
+- Vérifier les données du V Fr William Grincell Fellows
 
-## Email to Mrs Thompson, Jayne
+## Email to Mrs Thompson-Cascagnetta, Jayne
 
 Dear Mrs. Thompson, 
 
