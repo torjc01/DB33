@@ -208,6 +208,42 @@ https://www.basicfunerals.ca/obituaries/Phyllis-Thompson
 
 William Grincell Fellows 
 
+      APPOINTMENTS, PROMOTIONS AND RETIREMENTS.    
+      CANADIAN MILITIA.    
+      1908.    
+      HEADQUARTERS, OTTAWA, 7th January, 1908.    
+
+      The following appointments, promotions, retirements, and confirmations of ranks are promulgated to the Militia by the Honourable Minister of Militia and Defence in Militia Council. 
+
+      (...)
+
+      PERMANENT FORCE.
+
+      THE ROYAL CANADIAN ARTILLERY - To the Lieutenant (District Officer) : Warrant Officer (Master Gunner) William Grincell Fellows, The Royal Canadian Artillery, to complete establishment. 2nd December, 1907. 
+
+
+------
+
+      NOMINATIONS, PROMOTIONS    
+      ET RETRAITES.    
+      MILICE CANADIENNE.    
+      1908.    
+      QUARTIER GÉNÉRAL.    
+      OTTAWA, 7 janvier 1908.   
+
+      Les nominations, promotions, retraites et confirmations de grade qui suivent sont promulguées pour l'usage de la milice par l'honorable Ministre de la Milice et de la Défense en conseil de la milice. 
+
+      (...) 
+
+      TROUPES PERMANENTES. 
+
+      ARTILLERIE ROYALE CANADIENNE - Est nommé lieutenant (officier de district): l'officier breveté (maître cannonier) William Grincell Fellows, de l'artillerie royale canadienne, pour compléter l'effectif. 2 décembre 1907. 
+
+
+The Canada Gazette. Ottawa, Saturday, Jan 4th, 1908. Promotions William Grincell Fellows.    
+https://books.google.ca/books?id=ICU-AQAAMAAJ&lpg=PA1923&ots=fSxzPNBJfE&dq=%22william%20grincell%20fellows%22&hl=pt-BR&pg=PA1701#v=onepage&q&f=false
+
+
 <img src="images/wgfellows/wgFellows-obirtuary.png" />
 
 La presse, 1947-09-19, Collections de BAnQ. Obituaire de William Gincell Fellows.    
