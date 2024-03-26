@@ -35,3 +35,8 @@
 *.gz
 *.bbl
 *.pdf
+*.aux
+*.blg
+*.fdb_*
+*.fls
+*.log
