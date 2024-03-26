@@ -60,6 +60,9 @@ The Canadian Virtual War Memorial (CVWM) is a registry to honour and remember th
 
 The Canadian Virtual War Memorial also includes the Royal Canadian Mounted Police (RCMP)’s Honour Roll. The RCMP Honour Roll remembers those who lost their lives while performing operational police functions.
 
+**War Diaries**   
+https://canadiangreatwarproject.com/diaries/   
+https://www.bac-lac.gc.ca/eng/discover/military-heritage/first-world-war/Pages/war-diaries.aspx
 
 ## VETERANS AFFAIRS
 
