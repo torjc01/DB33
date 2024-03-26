@@ -210,7 +210,8 @@ William Grincell Fellows
 
 <img src="images/wgfellows/wgFellows-obirtuary.png" />
 
-
+La presse, 1947-09-19, Collections de BAnQ. Obituaire de William Gincell Fellows.    
+https://numerique.banq.qc.ca/patrimoine/details/52327/2959538?docsearchtext=grincell%20fellows
 
 ### **His son-in-law: Harry Ralph Thompson** 
 
