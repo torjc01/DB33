@@ -45,7 +45,7 @@
 Awards:
 - Military Cross   
   Date of award: 1919-06-03   
-  Source: London Gazette, No. 31370, pg. 6837    
+  Source: [London Gazette, No. 31370, pg. 6837](https://www.thegazette.co.uk/London/issue/31370/page/6837)    
     *Lt. Charles Alexander Young, 4th Bn., Can.    
     M.G. Corps*
 
