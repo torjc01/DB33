@@ -1,13 +1,17 @@
 # Le Quatrième Soldat:  Fr Lt-Col Charles Alexander Young, MC, VD
 
-Date of birth: Nov 26th 1895     
-Place of birth: Toronto, ON   
-Next of kin: Alexander Young, father, 24 St-Julia St, Quebec, Quebec   
-Occupation: Machinist, metalworking machine setter-operator    
-Religion: Methodist   
+|||
+|---|---|
+|Date of birth|Nov 26th 1895|
+|Place of birth|York, ON|
+|Next of kin|Alexander Young, father, 24 St-Julia St, Quebec, Quebec|
+|Occupation|Machinist, metalworking machine setter-operator|
+|Religion|Methodist|
+|Date of Death|Oct 2nd 1963|
+|Place of death|Toronto, ON|
+|Age at death|67 y-o|
+|Burial Site|[Mount Hermon Cemetery](https://www.mounthermoncemetery.com/), Quebec City, QC|
 
-Date of Death: Oct 2nd 1963    
-Buried: Mount Hermon Cemetery, Quebec City    
 
 ## First World War
 
@@ -15,9 +19,19 @@ Buried: Mount Hermon Cemetery, Quebec City
 
 *Lt Charles Alexander Young, 12th Battalion*
 
-**Service:** Canadian Expeditionary Force   
-**Regimental number:** 22822   
-**Highest rank:** Lieutenant   
+
+|||
+|---|---|
+|Service|Canadian Expeditionary Force|
+|Regimental number|22822|
+|Highest rank|Lieutenant|
+|Degree of service|Europe|
+|LACID|[330882](https://www.bac-lac.gc.ca/eng/discover/military-heritage/first-world-war/personnel-records/Pages/item.aspx?IdNumber=330882)|
+|Service File|[B10645-S029](https://central.bac-lac.gc.ca/.item/?op=pdf&app=CEF&id=B10645-S029)|
+|Reference|RG 150, Accession 1992-93/166, Box 10645 - 29|
+|Item Number|330882|
+|Record Group|Canadian Expeditionary Force (CEF)|
+
 **Rank detail:**     
 1. Lieutenant (Army) 1918-03-19 to 1919-06-12    
 2. Lieutenant (Army) 1917-08-31 to 1918-03-19    
@@ -27,7 +41,7 @@ Buried: Mount Hermon Cemetery, Quebec City
 6. Sergeant   (Army) 1915-10-14 to 1916-06-13    
 7. Quarter-Master Sergeant, 12th Battalion, Infantry (Army) 1915-08-23 to 1915-10-14    
 8. Sergeant, 12th Battalion, Infantry (Army) 1914-09-29 to 1915-08-23  
-Degree of service: Europe
+
 Awards:
 - Military Cross   
   Date of award: 1919-06-03   
@@ -35,34 +49,25 @@ Awards:
     *Lt. Charles Alexander Young, 4th Bn., Can.    
     M.G. Corps*
 
-LACID:  [330882](https://www.bac-lac.gc.ca/eng/discover/military-heritage/first-world-war/personnel-records/Pages/item.aspx?IdNumber=330882)    
-Service File: [B10645-S029](https://central.bac-lac.gc.ca/.item/?op=pdf&app=CEF&id=B10645-S029)    
-Reference: RG 150, Accession 1992-93/166, Box 10645 - 29    
-Item Number: 330882    
-Record Group: Canadian Expeditionary Force (CEF)     
+   
 
 
 ## Second World War
-<table border="0" width="100%">
-  <tr>
-    <td><!-- img src="https://www.hkvca.ca/cforcedata/ext_files/masterimage/X96.jpg" ALIGN=”right” HSPACE=”50” VSPACE=”50”/ -->
-      <img src="https://scontent.fymq1-2.fna.fbcdn.net/v/t1.6435-9/46766036_2472262566133768_7452336018876792832_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=1Kp1Qpb1BccAX-61561&_nc_ht=scontent.fymq1-2.fna&oh=00_AfAxMxMKzPlNwKpx7gPVNmTZw22TnPB3ehvB3Ex4Hp6xKQ&oe=661B5418">   
-    </td>
-    <td align="top">
-      <b>Rank:</b> Major (retired Lieutenant-Colonel)   <br/>
-      <b>Force:</b> Army - 1st Btn The Royal Rifles of Canada.  <br/>
-      <b>Service Number (regimental):</b> X96.  <br/>
-      <b>Born:</b> November 26, 1895, York, On.  <br/>
-      <b>POW:</b> from Dec 30, 1941 to Sep 10, 1945.  <br/>
-      <b>Died:</b> Outober 2, 1963, Toronto, On.  <br/>
-      <b>Buried:</b> Mount Hermon Cemetery, Quebec, QC.<br/>  
-      <b>Decorations:</b> Military Cross, Volunteer's Officer Decoration.  <br/>
-    </td>
-  </tr>
-</table>
+
+<img src="https://scontent.fymq1-2.fna.fbcdn.net/v/t1.6435-9/46766036_2472262566133768_7452336018876792832_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=1Kp1Qpb1BccAX-61561&_nc_ht=scontent.fymq1-2.fna&oh=00_AfAxMxMKzPlNwKpx7gPVNmTZw22TnPB3ehvB3Ex4Hp6xKQ&oe=661B5418">
+
 *Maj Charles Alexander Young, 1st Btn The Royal Rifles of Canada*
 
+|||
+|---|---|
+|Rank|Major (retired Lieutenant-Colonel)|
+|Force|Army - 1st Btn The Royal Rifles of Canada.|
+|Service Number (regimental)|X96|
+|POW|from Dec 30, 1941 to Sep 10, 1945|
+|Decorations|Military Cross, Volunteer's Officer Decoration|
+|||
 
+**Bio:**
 Son of Major Alexander 'Alex' Young (52nd Battalion) and Annie Buxton Young (née Gardiner); husband of Irene May Young (née Fellows).
 
 After the Great War, he joined the Royal Rifles of Canada and rose through the ranks to become Lieutenant-Colonel in 1934.
@@ -263,16 +268,6 @@ Grave:
 https://www.findagrave.com/memorial/156648143/ivor_herbert_fellows
 
 
-
-# References 
-
-*Hong Kong Veteran’s Association of Canada.* **The Royal Rifles of Canada in Hong   
-Kong:1941-1945.** Progressive Publications, Sherbrooke, QC, 1980
-
-54 Rifles in Jap's hands.    
-https://www.proquest.com/docview/2158853737/ED9F788F4219403CPQ/2?accountid=8612&sourcetype=Historical%20Newspapers
-
-
 # TODO
 
 - Possibilité d'en discuter avec le T V Fr Arthur Ward - il était le VM de la loge lors du décès du Fr Young
@@ -311,3 +306,13 @@ Sincerely yours,
 
 Julio Cesar Torres dos Santos
 Québec, QC
+
+
+# References 
+
+*Hong Kong Veteran’s Association of Canada.* **The Royal Rifles of Canada in Hong   
+Kong:1941-1945.** Progressive Publications, Sherbrooke, QC, 1980
+
+54 Rifles in Jap's hands.    
+https://www.proquest.com/docview/2158853737/ED9F788F4219403CPQ/2?accountid=8612&sourcetype=Historical%20Newspapers
+
