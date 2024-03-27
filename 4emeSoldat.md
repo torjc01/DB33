@@ -1,6 +1,6 @@
 <!-- ENTETE -->
-[![img](https://img.shields.io/badge/Cycle%20de%20Vie-Phase%20d%C3%A9couverte-339999)](https://www.quebec.ca/gouv/politiques-orientations/vitrine-numeriqc/accompagnement-des-organismes-publics/demarche-conception-services-numeriques)
-[![License](https://img.shields.io/badge/Licence-LiLiQ--R-blue)](LICENSE)
+[![img](https://img.shields.io/badge/Cycle%20de%20Vie-Édition-339999)](https://www.quebec.ca/gouv/politiques-orientations/vitrine-numeriqc/accompagnement-des-organismes-publics/demarche-conception-services-numeriques)
+[![License](https://img.shields.io/badge/Licence-MIT-blue)](LICENSE)
 
 ---
 
@@ -9,6 +9,9 @@
       <img src="images/logo.png" alt="Julio Torres Freemasonry" width="400"/>
     </a>
 </div>
+
+--- 
+
 <!-- FIN ENTETE -->
 
 # Le Quatrième Soldat:  Fr Lt-Col Charles Alexander Young, MC, VD
