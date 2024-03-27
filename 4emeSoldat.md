@@ -3,7 +3,7 @@
 Date of birth: Nov 26th 1895     
 Place of birth: Toronto, ON   
 Next of kin: Alexander Young, father, 24 St-Julia St, Quebec, Quebec   
-Occupation: Machi## ist, metalworking machine setter-operator    
+Occupation: Machinist, metalworking machine setter-operator    
 Religion: Methodist   
 
 Date of Death: Oct 2nd 1963    
