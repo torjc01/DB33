@@ -181,7 +181,7 @@ Great War Project: https://canadiangreatwarproject.com/person.php?pid=87189
 
 <img src="images/cayoung/Alfred Grincell Fellows.jpeg" />
 
-Sergeant-Major RCGA - Royal Canadian Garrison Artillery, 8th Regiment, "B" Battery - Québec City  
+Sergeant-Major RCGA - Royal Canadian Garrison Artillery, 8th Regiment, "B" Battery - Québec City, QC  
 
 Husband of Caroline H Reid (1873 – 1948)   ????   
 Born: May   7th 1868, England   
@@ -208,8 +208,18 @@ https://numerique.banq.qc.ca/patrimoine/details/52327/3609784
 
 ### **His daughter:**   
 Phyllis Alexandra Thompson, née Young   
-January 10, 1931 — April 5, 2020  
+January 10th, 1931, Quebec City, QC — April 5th, 2020 Scarborough, ON
 https://www.basicfunerals.ca/obituaries/Phyllis-Thompson
+
+
+### **His sister:** 
+
+Mis Florence MayYoung, ARRC   
+Associate Royal Red Cross, Second Class   
+Nursong Sister, Army Auxiliary Nursing Service AANS
+
+"In recognition of her valuable service with the British Forces in Salonika, Greece"   
+Source: The London Gazette, thegazette.co.uk   
 
 **Grand-daughter: Jayne Thompson-Cascagnette**
 
