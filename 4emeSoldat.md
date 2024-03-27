@@ -6,7 +6,7 @@
 
 <div>
     <a target="_blank" href="https://franc-maconnerie.ca">
-      <img src="images/logo.png" alt="Julio Torres Freemasonry" width="400"/>
+      <img src="images/logo.png" alt="Julio Torres Freemasonry" width="300"/>
     </a>
 </div>
 
