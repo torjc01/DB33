@@ -1,3 +1,19 @@
+<!-- ENTETE -->
+[![img](https://img.shields.io/badge/Cycle%20de%20Vie-Édition-339999)](https://www.quebec.ca/gouv/politiques-orientations/vitrine-numeriqc/accompagnement-des-organismes-publics/demarche-conception-services-numeriques)
+[![License](https://img.shields.io/badge/Licence-MIT-blue)](LICENSE)
+
+---
+
+<div>
+    <a target="_blank" href="https://franc-maconnerie.ca">
+      <img src="images/logo.png" alt="Julio Torres Freemasonry" width="300"/>
+    </a>
+</div>
+
+--- 
+
+<!-- FIN ENTETE -->
+
 # Masonic Hall 
 
 **Título provisório:** *Projeto e financiamento do Templo Maçônico de Québec pela Quebec Masonic Hall Association*, ou *Financiamento popular (crowdfunding) do Masonic Hall de Québec* ou ainda *Quebec Masonic Hall Association e a construção do Templo Maçônico de Québec*. 
