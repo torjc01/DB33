@@ -147,6 +147,10 @@ At the time of his sudden death, he was visiting his daughter, Mrs Harry Thompso
 
 His father, the late Maj Alexander Young, was also a soldier and commanded the 52nd Battalion in the First World War. 
 
+## Family
+
+<img src="images/genealogy.png">
+
 ### **Wife**: 
 Irene May Fellows (Imperial War Museum - Lives of the First World War)    
 
