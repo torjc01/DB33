@@ -6,7 +6,7 @@
 
 <div>
     <a target="_blank" href="https://www.quebec.ca/gouvernement/ministere/cybersecurite-numerique">
-      <img src="images/LogoBW.png" alt="Logo du Ministère de la cybersécurité et du numérique" />
+      <img src="images/logo.png" alt="Logo du Ministère de la cybersécurité et du numérique" />
     </a>
 </div>
 <!-- FIN ENTETE -->
