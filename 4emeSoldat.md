@@ -61,10 +61,14 @@ Awards:
   Source: [London Gazette, No. 31370, pg. 6837](https://www.thegazette.co.uk/London/issue/31370/page/6837)    
     *Lt. Charles Alexander Young, 4th Bn., Can.    
     M.G. Corps*
+<img src="images/cayoung/military_cross.jpg" width="300" />
 
+---
    
+<img src="images/cayoung/LtCharlesAYoung.jpeg" /> 
 
-
+**Lt Charles A Young, de retour du théatre d'Europe, fim 1ere Guerre Mondiale. Source: photo familliale.** 
+ 
 ## Second World War
 
 <img src="https://scontent.fymq1-2.fna.fbcdn.net/v/t1.6435-9/46766036_2472262566133768_7452336018876792832_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=1Kp1Qpb1BccAX-61561&_nc_ht=scontent.fymq1-2.fna&oh=00_AfAxMxMKzPlNwKpx7gPVNmTZw22TnPB3ehvB3Ex4Hp6xKQ&oe=661B5418">
@@ -136,6 +140,14 @@ Identifying the need to recognize junior commissioned officers and senior non-co
 
 https://www.warmuseum.ca/tilston-medals-collection/medals/25/
 
+<img src="images/cayoung/MedalsCharlesAYoung.jpeg" />
+
+**Médailles du Lt-Col Charles A Young. Source: photo familliale**
+
+<img src="images/cayoung/Coronation.jpeg" />
+
+**Souvenirs de la présence à la Coronation de la Reine Elizabeth II, à l'Abbaie de Westminster, le 2 juin 1953. Source: photo familliale**
+
 **Obituary and Albion's Invitation  Chronicle, 1693-10-03, p. 12**   
 https://news.google.com/newspapers?nid=9tXw7Op4-u0C&dat=19631003&printsec=frontpage&hl=en    
 
@@ -151,9 +163,9 @@ https://news.google.com/newspapers?nid=9tXw7Op4-u0C&dat=19631005&printsec=frontp
 
 Lt-Col C.A. Young Known as a Soldier and Sportsman 
 
-Lt-Col C.A. Young of Quebec, who died recently at Toronto, spent the Second World War wit the Royal Rifles of Canda and commanded the last group of soldiers to surrender on the island. 
+Lt-Col C.A. Young of Quebec, who died recently at Toronto, spent the Second World War with the Royal Rifles of Canada and commanded the last group of soldiers to surrender on the island. 
 
-A veteran of both world wars, he was awarded the Military Cross for bravery in the Second World War. 
+A veteran of both world wars, he was awarded the Military Cross for bravery in the Second (sic) World War. 
 
 Well know in his youth as a sportsman, he became quite famous as a hockey player here. Among other sporting activities, he also excelled at curling. 
 
@@ -219,12 +231,12 @@ The Quebec chronicle, 1912-04-08, Collections de BAnQ. Alfred G Fellows Obituary
 https://numerique.banq.qc.ca/patrimoine/details/52327/3609784
 
 
-### **His daughter:**   
+### **Daughter:**   
 Phyllis Alexandra Thompson, née Young   
 January 10th, 1931, Quebec City, QC — April 5th, 2020 Scarborough, ON
 https://www.basicfunerals.ca/obituaries/Phyllis-Thompson
 
-### **His sister:** 
+### **Sister:**  
 
 Miss Florence May Young, ARRC   
 Associate Royal Red Cross, Second Class   
@@ -235,7 +247,7 @@ Source: The London Gazette, thegazette.co.uk
 
 ### **Grand-daughter: Jayne Thompson-Cascagnette**
 
-### **His Uncle: Maj William Grincell Fellows** 
+### **Wife's Uncle: Maj William Grincell Fellows** 
 
  Maj William Grincell Fellows 
 
@@ -280,7 +292,7 @@ https://books.google.ca/books?id=ICU-AQAAMAAJ&lpg=PA1923&ots=fSxzPNBJfE&dq=%22wi
 La presse, 1947-09-19, Collections de BAnQ. Obituaire de William Gincell Fellows.    
 https://numerique.banq.qc.ca/patrimoine/details/52327/2959538?docsearchtext=grincell%20fellows
 
-### **His son-in-law: Harry Ralph Thompson** 
+### **Son-in-law: Harry Ralph Thompson** 
 
 Initiated in [Riverdale Lodge #494](http://www.rjrr494.com/index.html) in April 9th 1965   
 Grand Lodge of Canada in the Province of Ontario   
@@ -291,8 +303,8 @@ https://www.flickr.com/photos/21728045@N08/albums/
 Served in the Korea War, Canadian Navy
 
 
-### **Wife's Brother : Ivor Herbert Fellows**    
-Ivor Herbert Fellows, son of Alfred Grincell Fellows, Sergeant-Major R C G A, of Québec, and of his wife Caroline, born the fifth day of April, A D 1906, was baptised on June 18th of the same. Died on the twenty-third and was buried on the twenty-fourth day of February, A D 1914 (7 years old). 
+### **Wife's Half-Brother : Ivor Herbert Fellows**    
+Ivor Herbert Fellows, son of Alfred Grincell Fellows, Sergeant-Major R C G A, of Québec, and of his wife Caroline, born the fifth day of April, AD 1906, was baptised on June 18th of the same. Died on the twenty-third and was buried on the twenty-fourth day of February, AD 1914 (7 years old).   
 Grave:   
 https://www.findagrave.com/memorial/156648143/ivor_herbert_fellows
 
