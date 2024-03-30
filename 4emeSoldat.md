@@ -224,21 +224,20 @@ Phyllis Alexandra Thompson, née Young
 January 10th, 1931, Quebec City, QC — April 5th, 2020 Scarborough, ON
 https://www.basicfunerals.ca/obituaries/Phyllis-Thompson
 
-
 ### **His sister:** 
 
-Mis Florence MayYoung, ARRC   
+Miss Florence May Young, ARRC   
 Associate Royal Red Cross, Second Class   
-Nursong Sister, Army Auxiliary Nursing Service AANS
+Nursing Sister, Army Auxiliary Nursing Service AANS
 
 "In recognition of her valuable service with the British Forces in Salonika, Greece"   
 Source: The London Gazette, thegazette.co.uk   
 
-**Grand-daughter: Jayne Thompson-Cascagnette**
+### **Grand-daughter: Jayne Thompson-Cascagnette**
 
 ### **His Uncle: Maj William Grincell Fellows** 
 
-William Grincell Fellows 
+ Maj William Grincell Fellows 
 
       APPOINTMENTS, PROMOTIONS AND RETIREMENTS.    
       CANADIAN MILITIA.    
