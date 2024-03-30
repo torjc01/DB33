@@ -1,17 +1,14 @@
 <!-- ENTETE -->
-[![img](https://img.shields.io/badge/Cycle%20de%20Vie-Édition-339999)](https://www.quebec.ca/gouv/politiques-orientations/vitrine-numeriqc/accompagnement-des-organismes-publics/demarche-conception-services-numeriques)
-[![License](https://img.shields.io/badge/Licence-MIT-blue)](LICENSE)
+[![img](https://img.shields.io/badge/Cycle%20de%20Vie-Phase%20d%C3%A9couverte-339999)](https://www.quebec.ca/gouv/politiques-orientations/vitrine-numeriqc/accompagnement-des-organismes-publics/demarche-conception-services-numeriques)
+[![License](https://img.shields.io/badge/Licence-LiLiQ--R-blue)](LICENSE)
 
 ---
 
 <div>
-    <a target="_blank" href="https://franc-maconnerie.ca">
-      <img src="images/logo.png" alt="Julio Torres Freemasonry" width="300"/>
+    <a target="_blank" href="https://www.quebec.ca/gouvernement/ministere/cybersecurite-numerique">
+      <img src="images/LogoBW.png" alt="Logo du Ministère de la cybersécurité et du numérique" />
     </a>
 </div>
-
---- 
-
 <!-- FIN ENTETE -->
 
 # Le Quatrième Soldat:  Fr Lt-Col Charles Alexander Young, MC, VD
@@ -86,9 +83,9 @@ Awards:
 **Bio:**
 Son of Major Alexander 'Alex' Young (52nd Battalion) and Annie Buxton Young (née Gardiner); husband of Irene May Young (née Fellows).
 
-After the Great War, he joined the Royal Rifles of Canada and rose through the ranks to become Lieutenant-Colonel in 1934.
+After the Great War, he joined the Royal Rifles of Canada and rose through the ranks to become Lieutenant Colonel in 1934.
 
-À la Second Guerre mondiale, il est capturé à la fin de la Bataille d'Hong Kong, sera envoyé en camp de prisonniers dans lesquels il restera jusqu'à la fin de la guerre en 1945.
+À la Seconde Guerre mondiale, il est capturé à la fin de la Bataille de Hong Kong, sera envoyé en camps de prisonniers dans lesquels il restera jusqu'à la fin de la guerre en 1945.
 
 <img src="https://www.warmuseum.ca/ke/_resources/3124503/19700036-024.jpg" />
 
@@ -286,6 +283,13 @@ https://numerique.banq.qc.ca/patrimoine/details/52327/2959538?docsearchtext=grin
 
 ### **His son-in-law: Harry Ralph Thompson** 
 
+Initiated in [Riverdale Lodge #494](http://www.rjrr494.com/index.html) in April 9th 1965   
+Grand Lodge of Canada in the Province of Ontario   
+
+http://www.rjrr494.com/index.html
+https://www.flickr.com/photos/21728045@N08/albums/
+
+Served in the Korea War, Canadian Navy
 
 
 ### **Wife's Brother : Ivor Herbert Fellows**    
@@ -297,14 +301,14 @@ https://www.findagrave.com/memorial/156648143/ivor_herbert_fellows
 # TODO
 
 - Possibilité d'en discuter avec le T V Fr Arthur Ward - il était le VM de la loge lors du décès du Fr Young
-- Vérifier les dates d'Initiation, passage et elevation du Fr Charles Young 
-- Checker s'il y a des faits saillants sur Fr Young dans les procès verbaux de la secretairie
+- Vérifier les dates d'Initiation, passage et élévation du Fr Charles Young 
+- Checker s'il y a des faits saillants sur Fr Young dans les procès-verbaux de la secrétaire
 - Vérifier si l'on a une statistique de la proportion de frères qui sont militaires dans l'active, ou qui sont passés par les forces. 
-- Vérifier les données du V Fr William Grincell Fellows (oncle de l'epouse) - vénérable Maître d'Albion l'année 1908
-- Vérifier les donnés du Fr Alfred Grincell Fellows (Père de l'épouse)
+- Vérifier les données du V Fr William Grincell Fellows (oncle de l'épouse) - vénérable Maître d'Albion l'année 1908
+- Vérifier les données du Fr Alfred Grincell Fellows (Père de l'épouse)
 - Vérifier si Harry Ralph Thompson (beau-fils - mari à Phylis) était membre de la loge 
 
-## Email to Mrs Thompson-Cascagnette, Jayne
+## Email to Mrs. Thompson-Cascagnette, Jayne
 
 Dear Mrs. Thompson, 
 
