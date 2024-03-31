@@ -309,6 +309,9 @@ Grave:
 https://www.findagrave.com/memorial/156648143/ivor_herbert_fellows
 
 
+Alfred Edward Fellows, born about 1902 and buried Nov 20th 1912. 
+https://www.ancestry.ca/discoveryui-content/view/1086793:1091
+
 # TODO
 
 - Possibilité d'en discuter avec le T V Fr Arthur Ward - il était le VM de la loge lors du décès du Fr Young
