@@ -179,7 +179,15 @@ His father, the late Maj Alexander Young, was also a soldier and commanded the 5
 
 ## Family
 
-<img src="images/genealogy.png">
+<img src="./images/genealogy.png" usemap="#image_map">
+<map name="image_map">
+  <area alt="Lt-Col Charles Alexander Young" title="Lt-Col Charles Alexander Young" href="./4emeSoldat.md" coords="356,285 356,341 444,342 444,323 473,322 474,284 473,282 473,285 473,285 473,285 " shape="polygon">
+  <area alt="Major Alexander Young" title="Major Alexander Young" href="./majAYoung.md" coords="275,143,395,204" shape="rect">
+  <area alt="Sergeant-Major Alfred Grincell Fellows" title="Sergeant-Major Alfred Grincell Fellows" href="./sgmAGFellows" coords="444,144 446,204 526,206 527,193 564,193 564,145 " shape="polygon">
+  <area alt="Lieutenant Irene May Young" title="Lieutenant Irene May Young" href="./ltIMYoung.md" coords="445,324,564,382" shape="rect">
+  <area alt="Major William Grincell Fellows" title="Major William Grincell Fellows" href="./majWGFellows.md" coords="676,145,795,206" shape="rect">
+  <area alt="Harry Ralph Thompson" title="Harry Ralph Thompson" href="./hrThompson.md" coords="796,175,797,175" shape="rect">
+</map>
 
 ### **Wife**: 
 Irene May Fellows (Imperial War Museum - Lives of the First World War)    
