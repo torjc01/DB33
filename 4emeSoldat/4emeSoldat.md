@@ -5,26 +5,34 @@
 ---
 
 <div>
-    <a target="_blank" href="https://www.quebec.ca/gouvernement/ministere/cybersecurite-numerique">
-      <img src="images/logo.png" alt="Logo du Ministère de la cybersécurité et du numérique" />
+    <a target="_blank" href="https://franc-maconnerie.ca">
+      <img src="../images/logo.png" alt="Julio Torres Freemasonry" width="300"/>
     </a>
 </div>
+
 <!-- FIN ENTETE -->
 
-# Le Quatrième Soldat:  Fr Lt-Col Charles Alexander Young, MC, VD
+# Le Quatrième Soldat:  TVF Lt-Col Charles Alexander Young, MC, VD
 
 |||
 |---|---|
 |Date of birth|Nov 26th 1895|
 |Place of birth|York, ON|
-|Next of kin|Alexander Young, father, 24 St-Julia St, Quebec, Quebec|
+|Next of kin|Alexander Young, father, 24 St-Julia St, Quebec City, QC|
 |Occupation|Machinist, metalworking machine setter-operator|
-|Religion|Methodist|
+|Religion|Methodist ([Chalmers Wesley United Church](https://chalmerswesley.org/), Quebe City, QC)|
 |Date of Death|Oct 2nd 1963|
 |Place of death|Toronto, ON|
 |Age at death|67 y-o|
 |Burial Site|[Mount Hermon Cemetery](https://www.mounthermoncemetery.com/), Quebec City, QC|
 
+Son of Major Alexander 'Alex' Young (52nd Battalion) and Annie Buxton Young (née Gardiner); husband of Nursing Sister Lieutenant Irene May Young (née Fellows).
+
+At the First World War, he served the Canadian Machine Gun Corps, with a rank of Lieutenant, teaching Machine Gun usage to the troops in England, before being shipped to the French front. 
+
+After the Great War, he joined the Royal Rifles of Canada and rose through the ranks to become Lieutenant Colonel in 1934.
+
+À la Seconde Guerre mondiale, il est capturé à la fin de la Bataille de Hong Kong, sera envoyé en camps de prisonniers dans lesquels il restera jusqu'à la fin de la guerre en 1945.
 
 ## First World War
 
@@ -32,10 +40,11 @@
 
 *Lt Charles Alexander Young, 12th Battalion*
 
-
 |||
 |---|---|
 |Service|Canadian Expeditionary Force|
+|Date of ENlistment|Sept 29th 1914|
+|Unit|CMGC Canadian Machine Gun Corps, 4th Btn|
 |Regimental number|22822|
 |Highest rank|Lieutenant|
 |Degree of service|Europe|
@@ -55,17 +64,24 @@
 7. Quarter-Master Sergeant, 12th Battalion, Infantry (Army) 1915-08-23 to 1915-10-14    
 8. Sergeant, 12th Battalion, Infantry (Army) 1914-09-29 to 1915-08-23  
 
+**From the Certificate of Service:** 
+
+He served in CANADA, England and France with the 12th Battalion. 11th Brigade Machine Gun Company. 16th Canadian Machine Gun Company. Canadian Machine Gun Pool, and 4th Battalion CMCG, and was STRUCK OFF THE STRENGTH on the Twelfth day of June 1919 by reason of General Demobilization.  
+
+
 Awards:
 - Military Cross   
   Date of award: 1919-06-03   
   Source: [London Gazette, No. 31370, pg. 6837](https://www.thegazette.co.uk/London/issue/31370/page/6837)    
     *Lt. Charles Alexander Young, 4th Bn., Can.    
     M.G. Corps*
-<img src="images/cayoung/military_cross.jpg" width="300" />
+
+
+<img src="../images/cayoung/military_cross.jpg" width="300" />
 
 ---
    
-<img src="images/cayoung/LtCharlesAYoung.jpeg" /> 
+<img src="../images/cayoung/LtCharlesAYoung.jpeg" /> 
 
 **Lt Charles A Young, de retour du théatre d'Europe, fim 1ere Guerre Mondiale. Source: photo familliale.** 
  
@@ -73,7 +89,7 @@ Awards:
 
 <img src="https://scontent.fymq1-2.fna.fbcdn.net/v/t1.6435-9/46766036_2472262566133768_7452336018876792832_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=1Kp1Qpb1BccAX-61561&_nc_ht=scontent.fymq1-2.fna&oh=00_AfAxMxMKzPlNwKpx7gPVNmTZw22TnPB3ehvB3Ex4Hp6xKQ&oe=661B5418">
 
-*Maj Charles Alexander Young, 1st Btn The Royal Rifles of Canada*
+**Maj Charles Alexander Young, 1st Btn The Royal Rifles of Canada**
 
 |||
 |---|---|
@@ -84,12 +100,7 @@ Awards:
 |Decorations|Military Cross, Volunteer's Officer Decoration|
 |||
 
-**Bio:**
-Son of Major Alexander 'Alex' Young (52nd Battalion) and Annie Buxton Young (née Gardiner); husband of Irene May Young (née Fellows).
 
-After the Great War, he joined the Royal Rifles of Canada and rose through the ranks to become Lieutenant Colonel in 1934.
-
-À la Seconde Guerre mondiale, il est capturé à la fin de la Bataille de Hong Kong, sera envoyé en camps de prisonniers dans lesquels il restera jusqu'à la fin de la guerre en 1945.
 
 <img src="https://www.warmuseum.ca/ke/_resources/3124503/19700036-024.jpg" />
 
@@ -140,11 +151,11 @@ Identifying the need to recognize junior commissioned officers and senior non-co
 
 https://www.warmuseum.ca/tilston-medals-collection/medals/25/
 
-<img src="images/cayoung/MedalsCharlesAYoung.jpeg" />
+<img src="../images/cayoung/MedalsCharlesAYoung.jpeg" />
 
 **Médailles du Lt-Col Charles A Young. Source: photo familliale**
 
-<img src="images/cayoung/Coronation.jpeg" />
+<img src="../images/cayoung/Coronation.jpeg" />
 
 **Souvenirs de la présence à la Coronation de la Reine Elizabeth II, à l'Abbaie de Westminster, le 2 juin 1953. Source: photo familliale**
 
@@ -156,7 +167,7 @@ YOUNG - Suddenly at Toronto, Ont. on October 2nd 1963, Lt-Col C.A. Young, MC, VC
 **ALBION LODGE**
 A Masonic Service will be held for our late brother, Charles Alexander Young, at D.S. Rickaby Funeral Parlor, 707 St John Street, on Friday, October 4th at 8.00 pm.
 
-<img src="images/cayoung/CAYAlbion.png" />
+<img src="../images/cayoung/CAYAlbion.png" />
 
 **Info about Lt-Col Young. Chronicle, 1963-10-05, p. 3**   
 https://news.google.com/newspapers?nid=9tXw7Op4-u0C&dat=19631005&printsec=frontpage&hl=en
@@ -179,7 +190,7 @@ His father, the late Maj Alexander Young, was also a soldier and commanded the 5
 
 ## Family
 
-<img src="./images/genealogy.png" usemap="#image_map">
+<img src="../images/genealogy.png" usemap="#image_map">
 <map name="image_map">
   <area alt="Lt-Col Charles Alexander Young" title="Lt-Col Charles Alexander Young" href="./4emeSoldat.md" coords="356,285 356,341 444,342 444,323 473,322 474,284 473,282 473,285 473,285 473,285 " shape="polygon">
   <area alt="Major Alexander Young" title="Major Alexander Young" href="./majAYoung.md" coords="275,143,395,204" shape="rect">
@@ -189,10 +200,118 @@ His father, the late Maj Alexander Young, was also a soldier and commanded the 5
   <area alt="Harry Ralph Thompson" title="Harry Ralph Thompson" href="./hrThompson.md" coords="796,175,797,175" shape="rect">
 </map>
 
+### **Father: Maj TVF Alexander Young**
+
+Rank: Major  
+DOB: 1869-02-01  
+Place of Birth: Aberdeen, Scotland  
+Force: Army   
+Unit: Canadian Infantry (Manitoba Regiment)   
+    	52nd Overseas Battalion  
+Enlistment Date:	1915-10-31  
+Place of Enlistment:	Port Arthur ON Canada  
+Reference:	RG 150, Accession 1992-93/166, Box 10642 - 49  
+Item Number:	330729  
+Record Group:	Canadian Expeditionary Force (CEF)  
+Service Number (regimental): No service numbers for officers     
+Died: 1916-06-03 Killed in action    
+Battle killed: [Battle of Sactuary Wood](https://www.veterans.gc.ca/eng/remembrance/memorials/hill-62)    
+Buried: MENIN GATE (YPRES) MEMORIAL, Belgium   
+Grave ref: Panel 24 - 26 - 28 - 30   
+Decorations: Long Service and Good Conduct Medal   
+
+Son of the late Robert Young, of Aberdeen, Scotland; husband of Annie Gardiner (formerly Young), of 89, Lockwell Avenue, Quebec.   
+Twenty-four years with the Royal Canadian Regt. in Toronto and Quebec. Served in the South African Campaign. Father of Florence.  
+
+<img src="https://cvwm.images.cloud.veterans.gc.ca/1597253_1.jpg"/>
+
+<img src="https://cvwm.images.cloud.veterans.gc.ca/1597253_3.jpg"/>
+
+
+From the service file (p. 51): 
+
+        RECORD OF SERVICE
+    CANADIAN EXPEDITIONARY FORCE 
+
+    Major Alexander Young. (Deceased).
+
+    1. Date and place of birth: 1-2-69, Aberdeen, Scotland. 
+    2. Appointed Lieutenant & Adjutant, 52nd Battalion, C.E.F. 4-5-15
+    3. Promoted Captain, 11-5-15
+    4. Appointed Major, 18-7-15
+    5. Embarked for England, 23-11-15
+    6. Proceeded to France, 21-2-16, with Unit. 
+    7. Killed in action, 3-6-16
+
+        CERTIFIED CORRECT 
+           FROM RECORDS 
+
+                                  (W.E.L Coleman), Major
+                                  Officer i/c Records, 
+                                  for Adjutant-General. 
+
+
+La Patrie, 8 juin 1916, jeudi
+
+      UN QUEBECOIS TUE, UN AUTRE BLESSE 
+
+      LA MAJOR YOUNG EST MORT AU CHAMP D'HONNEUR, LE LT-COL HAY EST BLESSE 
+
+      (Dépêche spéciale à la PATRIE)
+
+      QUEBEC, 8 - Sur la liste des pertes canadiennes publiées ce matin apparaît le nom d'un autre 
+      officier Québecois tué au front: c'est celui du major A. Young. Le major Young était très 
+      populaire dans le cercle de la milice à Québec: Il vint à Québec voilà plusieurs années 
+      comme sergent-instructeur: il avait pris du service dans un régiment de Port-Arthur afin de 
+      partir pour la guerre. C'est là qu'il fût promu major après avoir obtenu ses autres grades à 
+      Québec: il a fait la campagne d'Afrique et a été décoré de la medaille du couronnement du Roi. 
+      Il laisse une femme, un fils et une fille qui sont à Québec. 
+
+      Quand il obtint sa commission de lieutenant dans la 5e brigade, il servait sous les ordres du 
+      lientenant A. Hay, dont le nom ce matin apparait sur la liste de blessés. Ce dernier, au premier 
+      camp de Valcartier était commandant en second du 2e batallion qui était alors commandé par le 
+      général D. Watson. 
+
+The Quebec Chronicle, 10 juin 1916, samedi
+
+      Albion Lodge No. 2 
+      A.F.& A.M.
+
+      Members of Albion Lodge, No. 2, A.F. & A.M., are requested, and members of sister Lodges invited, 
+      to attend Memorial Service for the late Earl Kitchener and the late Wor. Bro. Major Alexander Young, 
+      52nd battalion, C.E.F., which will be held in the Methodist Church, on Sunday Evening, the 11th 
+      instant, at 7 o'clock.
+          By order, 
+             C. H. KNOWLES, 
+                Wor. Master.
+
+
+https://canadianfallen.ca/9875/YOUNG
+
+https://www.veterans.gc.ca/eng/remembrance/memorials/canadian-virtual-war-memorial/detail/1597253?Alexander%20Young
+
+https://www.bac-lac.gc.ca/eng/discover/military-heritage/first-world-war/personnel-records/Pages/item.aspx?IdNumber=330729
+
+Quebec Chronicle, 10 juin 1916,Demande Albion de presença ao servico religioso
+https://numerique.banq.qc.ca/patrimoine/details/52327/3611083?docsearchtext=alexander
+
+https://canadiangreatwarproject.com/person.php?pid=60436
+
+
+Quebec Chronicle, 8 juin 1916, Perfil Maj Alexander
+https://numerique.banq.qc.ca/patrimoine/details/52327/3611081?docsearchtext=alexander
+
+Daughter: May Florence Young ARRC
+Royal Red Cross, 2nd Class, in recognition of valuable services with the British Forces in Salonika. 
+Sister, Army Auxiliary Nursing Service, AANS
+Source: The London Gazette
+https://www.thegazette.co.uk/London/issue/31095/data.pdf
+
+
 ### **Wife**: 
 Irene May Fellows (Imperial War Museum - Lives of the First World War)    
 
-<img src="images/cayoung/IreneMayYoung.jpeg" />
+<img src="../images/cayoung/IreneMayYoung.jpeg" />
 
 Daughter of **Alfred Grincell Fellows** and **Catherine Agnes Fellows** (nee Black); wife of **Charles Alexander Young** (Service No. 22822)
 Date of birth: Sept 16th 1894   
@@ -212,7 +331,7 @@ Great War Project: https://canadiangreatwarproject.com/person.php?pid=87189
 
 ### **Wife's Father: SGM Alfred Grincell Fellows**
 
-<img src="images/cayoung/Alfred Grincell Fellows.jpeg" />
+<img src="../images/cayoung/Alfred Grincell Fellows.jpeg" />
 
 Sergeant-Major RCGA - Royal Canadian Garrison Artillery, 8th Regiment, "B" Battery - Québec City, QC  
 
@@ -222,15 +341,15 @@ Died: April 6th 1912 (44 years old)
 Grave of Alfred Grincell Fellows:   
 https://www.findagrave.com/memorial/156652478/alfred_grincell_fellows   
 
-<img src="images/agfellowes/agfellowes-obituary1.png" />
+<img src="../images/agfellowes/agfellowes-obituary1.png" />
 
 *The Quebec chronicle, Apr 8th  1912*
 
-<img src="images/agfellowes/agfellowes-obituary2.png" />
+<img src="../images/agfellowes/agfellowes-obituary2.png" />
 
 *The Quebec chronicle, Apr 8th  1912*
 
-<img src="images/agfellowes/agfellowes-masonic-obituary.png" />
+<img src="../images/agfellowes/agfellowes-masonic-obituary.png" />
 
 *The Quebec chronicle, Apr 8th  1912*
 
@@ -295,7 +414,7 @@ The Canada Gazette. Ottawa, Saturday, Jan 4th, 1908. Promotions William Grincell
 https://books.google.ca/books?id=ICU-AQAAMAAJ&lpg=PA1923&ots=fSxzPNBJfE&dq=%22william%20grincell%20fellows%22&hl=pt-BR&pg=PA1701#v=onepage&q&f=false
 
 
-<img src="images/wgfellows/wgFellows-obirtuary.png" />
+<img src="../images/wgfellows/wgFellows-obirtuary.png" />
 
 La presse, 1947-09-19, Collections de BAnQ. Obituaire de William Gincell Fellows.    
 https://numerique.banq.qc.ca/patrimoine/details/52327/2959538?docsearchtext=grincell%20fellows
