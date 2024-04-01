@@ -151,6 +151,8 @@ Identifying the need to recognize junior commissioned officers and senior non-co
 
 https://www.warmuseum.ca/tilston-medals-collection/medals/25/
 
+**Memorabilia**
+
 <img src="../images/cayoung/MedalsCharlesAYoung.jpeg" />
 
 **Médailles du Lt-Col Charles A Young. Source: photo familliale**
