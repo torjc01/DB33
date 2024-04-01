@@ -429,6 +429,19 @@ https://www.flickr.com/photos/21728045@N08/albums/
 
 Served in the Korea War, Canadian Navy
 
+**Memorabilia**
+
+<img src="../images/hrthompson/Certificate.jpg" />
+
+**Certificate Master Mason H R Thompson. Source: photo familliale.**
+
+<img src="../images/hrthompson/Bible.jpg" />
+
+**Bible presented to Harry R Thompson. Source: photo familliale.**
+
+<img src="../images/hrthompson/Sign.jpg" />
+
+**Visitors signing Bible of Harry R Thompson. Source: photo familliale.**
 
 ### **Wife's Half-Brother : Ivor Herbert Fellows**    
 Ivor Herbert Fellows, son of Alfred Grincell Fellows, Sergeant-Major R C G A, of Québec, and of his wife Caroline, born the fifth day of April, AD 1906, was baptised on June 18th of the same. Died on the twenty-third and was buried on the twenty-fourth day of February, AD 1914 (7 years old).   
