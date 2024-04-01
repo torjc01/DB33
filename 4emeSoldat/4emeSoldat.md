@@ -161,6 +161,13 @@ https://www.warmuseum.ca/tilston-medals-collection/medals/25/
 
 **Souvenirs de la présence à la Coronation de la Reine Elizabeth II, à l'Abbaie de Westminster, le 2 juin 1953. Source: photo familliale**
 
+<img src="../images/cayoung/platAlbion.jpg" />
+
+**Plat commemoratif des 175 ans de la loge Albion donné au Fr Charles Alexander Young. Source: photo familliale**
+
+
+### Obituaries 
+
 **Obituary and Albion's Invitation  Chronicle, 1693-10-03, p. 12**   
 https://news.google.com/newspapers?nid=9tXw7Op4-u0C&dat=19631003&printsec=frontpage&hl=en    
 
@@ -173,6 +180,8 @@ A Masonic Service will be held for our late brother, Charles Alexander Young, at
 
 **Info about Lt-Col Young. Chronicle, 1963-10-05, p. 3**   
 https://news.google.com/newspapers?nid=9tXw7Op4-u0C&dat=19631005&printsec=frontpage&hl=en
+
+<img src="../images/cayoung/CAYMercury.png" />
 
 Lt-Col C.A. Young Known as a Soldier and Sportsman 
 
@@ -192,6 +201,10 @@ His father, the late Maj Alexander Young, was also a soldier and commanded the 5
 
 ## Family
 
+### Arbre généalogique
+
+Arbre généalogique approximative de la famille du Fr Charles Alexander Young. J'ai identifié à date trois générations de la famille qui ont appartenues à la franc-maçonnerie (quatre qui ont appartenu à Albion), et quatre générations qui ont appartenues aux Forces Canadiennes, dans le service militaire actif dans des zones de conflit (Great War, WWII et guerre de la Corée). 
+
 <img src="../images/genealogy.png" usemap="#image_map">
 <map name="image_map">
   <area alt="Lt-Col Charles Alexander Young" title="Lt-Col Charles Alexander Young" href="./4emeSoldat.md" coords="356,285 356,341 444,342 444,323 473,322 474,284 473,282 473,285 473,285 473,285 " shape="polygon">
@@ -201,6 +214,14 @@ His father, the late Maj Alexander Young, was also a soldier and commanded the 5
   <area alt="Major William Grincell Fellows" title="Major William Grincell Fellows" href="./majWGFellows.md" coords="676,145,795,206" shape="rect">
   <area alt="Harry Ralph Thompson" title="Harry Ralph Thompson" href="./hrThompson.md" coords="796,175,797,175" shape="rect">
 </map>
+
+### Membres de la famille ayant étés Vénérable Maîtres d'Albion
+
+Le TVF Maj William Grincell Fellows, oncle de la femme du Fr Young, a été le VM d'Albion pendant l'année 1908; ensuite, son père, le TVF Maj Alexander Young à été le VM pendant l'année 1913, peu de temps avant d'être envoyé au théatre de guerre d'Europe, 
+
+<img src="../images/pastMasters.png" />
+
+**Past-Masters de la Loge Albion, débuts 20 siécle. *Source: convocations de la Loge***
 
 ### **Father: Maj TVF Alexander Young**
 
@@ -222,8 +243,8 @@ Buried: MENIN GATE (YPRES) MEMORIAL, Belgium
 Grave ref: Panel 24 - 26 - 28 - 30   
 Decorations: Long Service and Good Conduct Medal   
 
-Son of the late Robert Young, of Aberdeen, Scotland; husband of Annie Gardiner (formerly Young), of 89, Lockwell Avenue, Quebec.   
-Twenty-four years with the Royal Canadian Regt. in Toronto and Quebec. Served in the South African Campaign. Father of Florence.  
+Son of the late Robert Young, of Aberdeen, Scotland; husband of Annie Buxton Young née Gardiner (formerly Young), of 89, Lockwell Avenue, Quebec.   
+Twenty-four years with the Royal Canadian Regt. in Toronto and Quebec. Served in the South African Campaign. Father of Florence May Young and Charles Alexander Young.   
 
 <img src="https://cvwm.images.cloud.veterans.gc.ca/1597253_1.jpg"/>
 
@@ -303,6 +324,10 @@ https://canadiangreatwarproject.com/person.php?pid=60436
 Quebec Chronicle, 8 juin 1916, Perfil Maj Alexander
 https://numerique.banq.qc.ca/patrimoine/details/52327/3611081?docsearchtext=alexander
 
+<img src="../images/ayoung/MemorialMajYoung.jpeg" />
+
+**Memorial card commemorating Maj Alexander Young's death, sent by government to the family. Source: family's photo.**
+
 Daughter: May Florence Young ARRC
 Royal Red Cross, 2nd Class, in recognition of valuable services with the British Forces in Salonika. 
 Sister, Army Auxiliary Nursing Service, AANS
@@ -310,7 +335,7 @@ Source: The London Gazette
 https://www.thegazette.co.uk/London/issue/31095/data.pdf
 
 
-### **Wife**: 
+### **Wife: Nursing Sister Lieut. Irene May Young née Fellows**
 Irene May Fellows (Imperial War Museum - Lives of the First World War)    
 
 <img src="../images/cayoung/IreneMayYoung.jpeg" />
@@ -336,10 +361,26 @@ Great War Project: https://canadiangreatwarproject.com/person.php?pid=87189
 <img src="../images/cayoung/Alfred Grincell Fellows.jpeg" />
 
 Sergeant-Major RCGA - Royal Canadian Garrison Artillery, 8th Regiment, "B" Battery - Québec City, QC  
-
-Husband of Caroline H Reid (1873 – 1948)   ????   
 Born: May   7th 1868, England   
 Died: April 6th 1912 (44 years old)   
+
+Husband of Catherine Agnes Fellows née Black and ( - 1897)    
+
+Catherine death Feb 5th 1897 (Friday)    
+Service from residence at the Citadel to St Matthew's Church, by Revd Lennox Williams, Revd Mr Scott.    
+Burial Mount Hermon Cemetery   Feb 8th 1897 (Monday)   
+Still-born child buried Feb 6th 1897 (Saturday)
+Their daughter, Irene May Fellows, is sent to be raised by her uncle and aunt, TVF Maj William Grincell Fellows and Mrs Fellows, that live in Montréal at this time. 
+
+
+Remaried Caroline H Reid (1873 – 1948)   
+
+Alfred Edward Fellows, born about 1902 and buried Nov 20th 1912, at the age of 10 y-o.    
+https://www.ancestry.ca/discoveryui-content/view/1086793:1091
+
+Ivor Herbert Fellows, son of Alfred Grincell Fellows, Sergeant-Major R C G A, of Québec, and of his wife Caroline, born the fifth day of April, AD 1906, was baptised on June 18th of the same. Died on the twenty-third and was buried on the twenty-fourth day of February, AD 1914 (7 years old). 
+
+
 Grave of Alfred Grincell Fellows:   
 https://www.findagrave.com/memorial/156652478/alfred_grincell_fellows   
 
@@ -360,12 +401,12 @@ The Quebec chronicle, 1912-04-08, Collections de BAnQ. Alfred G Fellows Obituary
 https://numerique.banq.qc.ca/patrimoine/details/52327/3609784
 
 
-### **Daughter:**   
+### **Daughter: Phylis Alexandra Thompson née Young**   
 Phyllis Alexandra Thompson, née Young   
 January 10th, 1931, Quebec City, QC — April 5th, 2020 Scarborough, ON
 https://www.basicfunerals.ca/obituaries/Phyllis-Thompson
 
-### **Sister:**  
+### **Sister: Nursing Sister Lieut. Florence May Young**  
 
 Miss Florence May Young, ARRC   
 Associate Royal Red Cross, Second Class   
@@ -379,6 +420,16 @@ Source: The London Gazette, thegazette.co.uk
 ### **Wife's Uncle: Maj William Grincell Fellows** 
 
  Maj William Grincell Fellows 
+
+Born: Mar 1st 1865   
+Place of Birth: England  
+B Battery Québec, RCA Royal Canadian Artillery  
+
+In ranks 19yrs 8 mths   
+WO 3 yrs 8 mths 16 dys   
+Lt (DO) RCA - Dec 2nd 1907   
+Capt RCA - Dec 2nd 1912   
+
 
       APPOINTMENTS, PROMOTIONS AND RETIREMENTS.    
       CANADIAN MILITIA.    
