@@ -1,14 +1,16 @@
 <!-- ENTETE -->
-[![img](https://img.shields.io/badge/Cycle%20de%20Vie-Phase%20d%C3%A9couverte-339999)](https://www.quebec.ca/gouv/politiques-orientations/vitrine-numeriqc/accompagnement-des-organismes-publics/demarche-conception-services-numeriques)
-[![License](https://img.shields.io/badge/Licence-LiLiQ--R-blue)](LICENSE)
+[![img](https://img.shields.io/badge/Cycle%20de%20Vie-Édition-339999)](https://franc-maconnerie.ca)
+[![License](https://img.shields.io/badge/Licence-MIT-blue)](LICENSE)
 
 ---
 
 <div>
     <a target="_blank" href="https://franc-maconnerie.ca">
-      <img src="../images/logo.png" alt="Julio Torres Freemasonry" width="300"/>
+      <img src="images/logo.png" alt="Julio Torres Freemasonry" width="300"/>
     </a>
 </div>
+
+--- 
 
 <!-- FIN ENTETE -->
 
@@ -419,16 +421,22 @@ Source: The London Gazette, thegazette.co.uk
 
 ### **Wife's Uncle: Maj William Grincell Fellows** 
 
- Maj William Grincell Fellows 
+Maj William Grincell Fellows 
 
 Born: Mar 1st 1865   
 Place of Birth: England  
 B Battery Québec, RCA Royal Canadian Artillery  
+Death: Sept 17th 1947 (82 years)
+Wife: Alice Maud Emily Higgins 
 
 In ranks 19yrs 8 mths   
 WO 3 yrs 8 mths 16 dys   
 Lt (DO) RCA - Dec 2nd 1907   
 Capt RCA - Dec 2nd 1912   
+
+
+
+https://canadianheadstones.ca/wp/headstone-vendor/?wpda_search_column_idperson=1410654
 
 
       APPOINTMENTS, PROMOTIONS AND RETIREMENTS.    

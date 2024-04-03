@@ -1,5 +1,5 @@
 <!-- ENTETE -->
-[![img](https://img.shields.io/badge/Cycle%20de%20Vie-Édition-339999)](https://www.quebec.ca/gouv/politiques-orientations/vitrine-numeriqc/accompagnement-des-organismes-publics/demarche-conception-services-numeriques)
+[![img](https://img.shields.io/badge/Cycle%20de%20Vie-Édition-339999)](https://franc-maconnerie.ca)
 [![License](https://img.shields.io/badge/Licence-MIT-blue)](LICENSE)
 
 ---
@@ -13,7 +13,6 @@
 --- 
 
 <!-- FIN ENTETE -->
-
 # Inspiração maçônica na bandeira e no brasão gaúchos (símbolos cívicos)
 
 **Título provisório**: Inspiração maçônica na bandeira e no brasão gaúchos
