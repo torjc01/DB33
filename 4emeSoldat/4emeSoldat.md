@@ -48,7 +48,7 @@ After the Great War, he joined the Royal Rifles of Canada and rose through the r
 |||
 |---|---|
 |Service|Canadian Expeditionary Force|
-|Date of ENlistment|Sept 29th 1914|
+|Date of Enlistment|Sept 29th 1914|
 |Unit|CMGC Canadian Machine Gun Corps, 4th Btn|
 |Regimental number|22822|
 |Highest rank|Lieutenant|
