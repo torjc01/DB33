@@ -18,16 +18,16 @@
 ||CIVIL DATA|
 |---|---|
 |Name|Florence May Young|
-|Date of birth||
-|Place of birth||
-|Father||
-|Mother||
+|Date of birth|Aug 9th 1894|
+|Place of birth|Halton, ON|
+|Father|Alexander Young|
+|Mother|Annie Buxton Young, née Gardiner|
 |Next of kin||
 |Occupation||
 |Religion||
-|Date of death||
-|Place of death||
-|Age at death||
+|Date of death|Feb 13th 1981|
+|Place of death|Toronto, ON|
+|Age at death|86 y-o|
 |Burial site||
 
 

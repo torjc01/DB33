@@ -84,3 +84,20 @@ https://www.findagrave.com/memorial/156648143/ivor_herbert_fellows
 
 Alfred Edward Fellows, born about 1902 and buried Nov 20th 1912. 
 https://www.ancestry.ca/discoveryui-content/view/1086793:1091
+
+Timeline of Alfred's sad history
+
+```
+1872 Birth of Catherine Agnes Black (Sept 16th)
+1894 Birth Irene May Fellows (Sept)
+1895 Birth Vera Blanche Fellows (Sept 11th)
+1897 Death of Catherine and stillborn child (Feb 5th - 24 y-o) 
+Somewhere between 1897 and 1902 Marriage with Caroline H Reed 
+1902 Birth Alfred Edward Fellows
+1906 Birth Ivor Herbert Fellows (Apr 5th)
+1912 Death SGM Alfred Grincell Fellows (Apr - 44 y-o)
+1912 Death of Alfred Edward Fellows (Nov 20th  +- 10 y-o)
+1914 Death of Ivor Herbert Fellows (Feb 24th  +- 7 y-o)
+1958 Death of Irene May Fellows 
+1965 Death of Vera Blanche Fellows 
+```
