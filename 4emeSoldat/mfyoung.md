@@ -13,7 +13,7 @@
 --- 
 
 <!-- FIN ENTETE -->
-# **Sister: Nursing Sister Lieut. Florence May Young**  
+# **Nursing Sister Lieut. Florence May Young**  
 
 Miss Florence May Young, ARRC   
 

@@ -16,17 +16,20 @@
 
 # Le Quatrième Soldat:  TVF Lt-Col Charles Alexander Young, MC, VD
 
-|||
+||CIVIL DATA|
 |---|---|
+|Name|Charles Alexander Young|
 |Date of birth|Nov 26th 1895|
 |Place of birth|York, ON|
+|Father|Alexander Young|
+|Mother|Annie Buxton Young, née Gardiner|
 |Next of kin|Alexander Young, father, 24 St-Julia St, Quebec City, QC|
 |Occupation|Machinist, metalworking machine setter-operator|
 |Religion|Methodist ([Chalmers Wesley United Church](https://chalmerswesley.org/), Quebe City, QC)|
-|Date of Death|Oct 2nd 1963|
+|Date of death|Oct 2nd 1963|
 |Place of death|Toronto, ON|
 |Age at death|67 y-o|
-|Burial Site|[Mount Hermon Cemetery](https://www.mounthermoncemetery.com/), Quebec City, QC|
+|Burial site|[Mount Hermon Cemetery](https://www.mounthermoncemetery.com/), Quebec City, QC|
 
 Son of Major Alexander 'Alex' Young (52nd Battalion) and Annie Buxton Young (née Gardiner); husband of Nursing Sister Lieutenant Irene May Young (née Fellows).
 

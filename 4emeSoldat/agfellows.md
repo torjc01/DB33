@@ -18,16 +18,33 @@
 
 <img src="../images/cayoung/Alfred Grincell Fellows.jpeg" />
 
+||CIVIL DATA|
+|---|---|
+|Name|Alfred Grincell Fellows|
+|Date of birth|May   7th 1868|
+|Place of birth|Durham, England|
+|Father||
+|Mother||
+|Next of kin||
+|Occupation|Sergeant-Major RCGA|
+|Religion|Methodist ([Chalmers Wesley United Church](https://chalmerswesley.org/), Quebe City, QC)|
+|Date of death|April 6th 1912|
+|Place of death|Québec, QC|
+|Age at death|44 y-o|
+|Burial site|[Mount Hermon Cemetery](https://www.mounthermoncemetery.com/), Quebec City, QC|
+
 Sergeant-Major RCGA - Royal Canadian Garrison Artillery, 8th Regiment, "B" Battery - Québec City, QC  
-Born: May   7th 1868, England   
-Died: April 6th 1912 (44 years old)   
 
 Husband of Catherine Agnes Fellows née Black and ( - 1897)    
 
 Catherine death Feb 5th 1897 (Friday)    
+
 Service from residence at the Citadel to St Matthew's Church, by Revd Lennox Williams, Revd Mr Scott.    
+
 Burial Mount Hermon Cemetery   Feb 8th 1897 (Monday)   
+
 Still-born child buried Feb 6th 1897 (Saturday)
+
 Their daughter, Irene May Fellows, is sent to be raised by her uncle and aunt, TVF Maj William Grincell Fellows and Mrs Fellows, that live in Montréal at this time. 
 
 
