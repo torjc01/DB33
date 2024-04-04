@@ -20,6 +20,22 @@ Irene May Fellows (Imperial War Museum - Lives of the First World War)
 
 <img src="../images/cayoung/IreneMayYoung.jpeg" />
 
+||CIVIL DATA|
+|---|---|
+|Name|Irene May Young, née Fellows|
+|Date of birth||
+|Place of birth||
+|Father||
+|Mother||
+|Next of kin||
+|Occupation||
+|Religion||
+|Date of death||
+|Place of death||
+|Age at death||
+|Burial site||
+
+
 Daughter of **Alfred Grincell Fellows** and **Catherine Agnes Fellows** (nee Black); wife of **Charles Alexander Young** (Service No. 22822)
 Date of birth: Sept 16th 1894   
 Place of birth: Quebec, PQ   

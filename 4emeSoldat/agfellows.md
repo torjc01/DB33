@@ -14,7 +14,7 @@
 
 <!-- FIN ENTETE -->
 
-### **Wife's Father: SGM Fr Alfred Grincell Fellows**
+### **SGM Fr Alfred Grincell Fellows**
 
 <img src="../images/cayoung/Alfred Grincell Fellows.jpeg" />
 

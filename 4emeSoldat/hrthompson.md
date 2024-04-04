@@ -14,7 +14,22 @@
 
 <!-- FIN ENTETE -->
 
-# **Son-in-law: Harry Ralph Thompson** 
+# **Harry Ralph Thompson** 
+
+||CIVIL DATA|
+|---|---|
+|Name|Harry Ralph Thompson|
+|Date of birth||
+|Place of birth||
+|Father||
+|Mother||
+|Next of kin||
+|Occupation||
+|Religion||
+|Date of death||
+|Place of death||
+|Age at death||
+|Burial site||
 
 Initiated in [Riverdale Lodge #494](http://www.rjrr494.com/index.html) in April 9th 1965   
 Grand Lodge of Canada in the Province of Ontario   

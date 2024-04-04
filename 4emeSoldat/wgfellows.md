@@ -16,19 +16,28 @@
 
 ### **Maj TVF William Grincell Fellows** 
 
-Maj William Grincell Fellows 
+||CIVIL DATA|
+|---|---|
+|Name|William Grincell Fellows|
+|Date of birth|Mar 1st 1865|
+|Place of birth|England|
+|Father||
+|Mother||
+|Next of kin||
+|Occupation||
+|Religion||
+|Date of death|Sept 17th 1947|
+|Place of death||
+|Age at death|82 years|
+|Burial site||
 
-Born: Mar 1st 1865   
-Place of Birth: England  
 B Battery Québec, RCA Royal Canadian Artillery  
-Death: Sept 17th 1947 (82 years)
 Wife: Alice Maud Emily Higgins 
 
 In ranks 19yrs 8 mths   
 WO 3 yrs 8 mths 16 dys   
 Lt (DO) RCA - Dec 2nd 1907   
 Capt RCA - Dec 2nd 1912   
-
 
 
 https://canadianheadstones.ca/wp/headstone-vendor/?wpda_search_column_idperson=1410654

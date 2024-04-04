@@ -16,6 +16,21 @@
 
 ### **Maj TVF Alexander Young**
 
+||CIVIL DATA|
+|---|---|
+|Name|Alexander Young|
+|Date of birth||
+|Place of birth|Aberdeen, Aberdeenshire, Scotland|
+|Father||
+|Mother||
+|Next of kin||
+|Occupation||
+|Religion||
+|Date of death||
+|Place of death||
+|Age at death||
+|Burial site||
+
 Rank: Major  
 DOB: 1869-02-01  
 Place of Birth: Aberdeen, Scotland  

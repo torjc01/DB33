@@ -15,6 +15,22 @@
 <!-- FIN ENTETE -->
 # **Nursing Sister Lieut. Florence May Young**  
 
+||CIVIL DATA|
+|---|---|
+|Name|Florence May Young|
+|Date of birth||
+|Place of birth||
+|Father||
+|Mother||
+|Next of kin||
+|Occupation||
+|Religion||
+|Date of death||
+|Place of death||
+|Age at death||
+|Burial site||
+
+
 Miss Florence May Young, ARRC   
 
 Associate Royal Red Cross, Second Class   
@@ -29,3 +45,5 @@ https://www.thegazette.co.uk/London/issue/31095/data.pdf
 
 "In recognition of her valuable service with the British Forces in Salonika, Greece"   
 Source: The London Gazette, thegazette.co.uk   
+
+<img src="../images/mfyoung/RRC2class.jpg" width="600">
