@@ -6,7 +6,7 @@
 
 <div>
     <a target="_blank" href="https://franc-maconnerie.ca">
-      <img src="images/logo.png" alt="Julio Torres Freemasonry" width="300"/>
+      <img src="../images/logo.png" alt="Julio Torres Freemasonry" width="300"/>
     </a>
 </div>
 
@@ -223,272 +223,28 @@ Le TVF Maj William Grincell Fellows, oncle de la femme du Fr Young, a été le V
 
 <img src="../images/pastMasters.png" />
 
+
+
+
+
+
+
+
 **Past-Masters de la Loge Albion, débuts 20 siécle. *Source: convocations de la Loge***
 
-### **Father: Maj TVF Alexander Young**
 
-Rank: Major  
-DOB: 1869-02-01  
-Place of Birth: Aberdeen, Scotland  
-Force: Army   
-Unit: Canadian Infantry (Manitoba Regiment)   
-    	52nd Overseas Battalion  
-Enlistment Date:	1915-10-31  
-Place of Enlistment:	Port Arthur ON Canada  
-Reference:	RG 150, Accession 1992-93/166, Box 10642 - 49  
-Item Number:	330729  
-Record Group:	Canadian Expeditionary Force (CEF)  
-Service Number (regimental): No service numbers for officers     
-Died: 1916-06-03 Killed in action    
-Battle killed: [Battle of Sactuary Wood](https://www.veterans.gc.ca/eng/remembrance/memorials/hill-62)    
-Buried: MENIN GATE (YPRES) MEMORIAL, Belgium   
-Grave ref: Panel 24 - 26 - 28 - 30   
-Decorations: Long Service and Good Conduct Medal   
+[His father: Maj TVF Alexander Young](./ayoung.md)
 
-Son of the late Robert Young, of Aberdeen, Scotland; husband of Annie Buxton Young née Gardiner (formerly Young), of 89, Lockwell Avenue, Quebec.   
-Twenty-four years with the Royal Canadian Regt. in Toronto and Quebec. Served in the South African Campaign. Father of Florence May Young and Charles Alexander Young.   
+[His Sister: Lieutenant May Florence Young](./mfyoung.md)
 
-<img src="https://cvwm.images.cloud.veterans.gc.ca/1597253_1.jpg"/>
+[His Wife: Lieut Irene May Young](./imyoung.md)
 
-<img src="https://cvwm.images.cloud.veterans.gc.ca/1597253_3.jpg"/>
+[His Father-in-law: SGM Alfred Grincell Fellows](./agfellows.md)
 
+[His Wife"s Uncle: Maj TVF William Grincell Fellows](./mfyoung.md)
 
-From the service file (p. 51): 
+[His son-in-law: Fr Harry Ralph Thompson](./hrthompson.md)
 
-        RECORD OF SERVICE
-    CANADIAN EXPEDITIONARY FORCE 
-
-    Major Alexander Young. (Deceased).
-
-    1. Date and place of birth: 1-2-69, Aberdeen, Scotland. 
-    2. Appointed Lieutenant & Adjutant, 52nd Battalion, C.E.F. 4-5-15
-    3. Promoted Captain, 11-5-15
-    4. Appointed Major, 18-7-15
-    5. Embarked for England, 23-11-15
-    6. Proceeded to France, 21-2-16, with Unit. 
-    7. Killed in action, 3-6-16
-
-        CERTIFIED CORRECT 
-           FROM RECORDS 
-
-                                  (W.E.L Coleman), Major
-                                  Officer i/c Records, 
-                                  for Adjutant-General. 
-
-
-La Patrie, 8 juin 1916, jeudi
-
-      UN QUEBECOIS TUE, UN AUTRE BLESSE 
-
-      LA MAJOR YOUNG EST MORT AU CHAMP D'HONNEUR, LE LT-COL HAY EST BLESSE 
-
-      (Dépêche spéciale à la PATRIE)
-
-      QUEBEC, 8 - Sur la liste des pertes canadiennes publiées ce matin apparaît le nom d'un autre 
-      officier Québecois tué au front: c'est celui du major A. Young. Le major Young était très 
-      populaire dans le cercle de la milice à Québec: Il vint à Québec voilà plusieurs années 
-      comme sergent-instructeur: il avait pris du service dans un régiment de Port-Arthur afin de 
-      partir pour la guerre. C'est là qu'il fût promu major après avoir obtenu ses autres grades à 
-      Québec: il a fait la campagne d'Afrique et a été décoré de la medaille du couronnement du Roi. 
-      Il laisse une femme, un fils et une fille qui sont à Québec. 
-
-      Quand il obtint sa commission de lieutenant dans la 5e brigade, il servait sous les ordres du 
-      lientenant A. Hay, dont le nom ce matin apparait sur la liste de blessés. Ce dernier, au premier 
-      camp de Valcartier était commandant en second du 2e batallion qui était alors commandé par le 
-      général D. Watson. 
-
-The Quebec Chronicle, 10 juin 1916, samedi
-
-      Albion Lodge No. 2 
-      A.F.& A.M.
-
-      Members of Albion Lodge, No. 2, A.F. & A.M., are requested, and members of sister Lodges invited, 
-      to attend Memorial Service for the late Earl Kitchener and the late Wor. Bro. Major Alexander Young, 
-      52nd battalion, C.E.F., which will be held in the Methodist Church, on Sunday Evening, the 11th 
-      instant, at 7 o'clock.
-          By order, 
-             C. H. KNOWLES, 
-                Wor. Master.
-
-
-https://canadianfallen.ca/9875/YOUNG
-
-https://www.veterans.gc.ca/eng/remembrance/memorials/canadian-virtual-war-memorial/detail/1597253?Alexander%20Young
-
-https://www.bac-lac.gc.ca/eng/discover/military-heritage/first-world-war/personnel-records/Pages/item.aspx?IdNumber=330729
-
-Quebec Chronicle, 10 juin 1916,Demande Albion de presença ao servico religioso
-https://numerique.banq.qc.ca/patrimoine/details/52327/3611083?docsearchtext=alexander
-
-https://canadiangreatwarproject.com/person.php?pid=60436
-
-
-Quebec Chronicle, 8 juin 1916, Perfil Maj Alexander
-https://numerique.banq.qc.ca/patrimoine/details/52327/3611081?docsearchtext=alexander
-
-<img src="../images/ayoung/MemorialMajYoung.jpeg" />
-
-**Memorial card commemorating Maj Alexander Young's death, sent by government to the family. Source: family's photo.**
-
-Daughter: May Florence Young ARRC
-Royal Red Cross, 2nd Class, in recognition of valuable services with the British Forces in Salonika. 
-Sister, Army Auxiliary Nursing Service, AANS
-Source: The London Gazette
-https://www.thegazette.co.uk/London/issue/31095/data.pdf
-
-
-### **Wife: Nursing Sister Lieut. Irene May Young née Fellows**
-Irene May Fellows (Imperial War Museum - Lives of the First World War)    
-
-<img src="../images/cayoung/IreneMayYoung.jpeg" />
-
-Daughter of **Alfred Grincell Fellows** and **Catherine Agnes Fellows** (nee Black); wife of **Charles Alexander Young** (Service No. 22822)
-Date of birth: Sept 16th 1894   
-Place of birth: Quebec, PQ   
-Next of kin: Major William Grincell Fellows, uncle. 243 Fairmount Avenue, Montreal, Quebec   
-Occupation (attested): Trained Nurse    
-Address: 61 St. Cyrille Street, Quebec, Quebec    
-Religion: Church of England    
-Date of death: 1958-12-05    
-Buried: St. Catharines (Victoria Lawn) Cemetery    
-Service: Canadian Expeditionary Force    	  
-Unit: Canadian Army Medical Corps 	 
-Rank: Nursing Sister (Lieutenant)	  
-Service File:  [B3029-S033](https://central.bac-lac.gc.ca/.item/?op=pdf&app=CEF&id=B3029-S033)     
-IWM: https://livesofthefirstworldwar.iwm.org.uk/lifestory/5857947    
-Great War Project: https://canadiangreatwarproject.com/person.php?pid=87189
-
-### **Wife's Father: SGM Alfred Grincell Fellows**
-
-<img src="../images/cayoung/Alfred Grincell Fellows.jpeg" />
-
-Sergeant-Major RCGA - Royal Canadian Garrison Artillery, 8th Regiment, "B" Battery - Québec City, QC  
-Born: May   7th 1868, England   
-Died: April 6th 1912 (44 years old)   
-
-Husband of Catherine Agnes Fellows née Black and ( - 1897)    
-
-Catherine death Feb 5th 1897 (Friday)    
-Service from residence at the Citadel to St Matthew's Church, by Revd Lennox Williams, Revd Mr Scott.    
-Burial Mount Hermon Cemetery   Feb 8th 1897 (Monday)   
-Still-born child buried Feb 6th 1897 (Saturday)
-Their daughter, Irene May Fellows, is sent to be raised by her uncle and aunt, TVF Maj William Grincell Fellows and Mrs Fellows, that live in Montréal at this time. 
-
-
-Remaried Caroline H Reid (1873 – 1948)   
-
-Alfred Edward Fellows, born about 1902 and buried Nov 20th 1912, at the age of 10 y-o.    
-https://www.ancestry.ca/discoveryui-content/view/1086793:1091
-
-Ivor Herbert Fellows, son of Alfred Grincell Fellows, Sergeant-Major R C G A, of Québec, and of his wife Caroline, born the fifth day of April, AD 1906, was baptised on June 18th of the same. Died on the twenty-third and was buried on the twenty-fourth day of February, AD 1914 (7 years old). 
-
-
-Grave of Alfred Grincell Fellows:   
-https://www.findagrave.com/memorial/156652478/alfred_grincell_fellows   
-
-<img src="../images/agfellowes/agfellowes-obituary1.png" />
-
-*The Quebec chronicle, Apr 8th  1912*
-
-<img src="../images/agfellowes/agfellowes-obituary2.png" />
-
-*The Quebec chronicle, Apr 8th  1912*
-
-<img src="../images/agfellowes/agfellowes-masonic-obituary.png" />
-
-*The Quebec chronicle, Apr 8th  1912*
-
-
-The Quebec chronicle, 1912-04-08, Collections de BAnQ. Alfred G Fellows Obituary.   
-https://numerique.banq.qc.ca/patrimoine/details/52327/3609784
-
-
-### **Daughter: Phylis Alexandra Thompson née Young**   
-Phyllis Alexandra Thompson, née Young   
-January 10th, 1931, Quebec City, QC — April 5th, 2020 Scarborough, ON
-https://www.basicfunerals.ca/obituaries/Phyllis-Thompson
-
-### **Sister: Nursing Sister Lieut. Florence May Young**  
-
-Miss Florence May Young, ARRC   
-Associate Royal Red Cross, Second Class   
-Nursing Sister, Army Auxiliary Nursing Service AANS
-
-"In recognition of her valuable service with the British Forces in Salonika, Greece"   
-Source: The London Gazette, thegazette.co.uk   
-
-### **Grand-daughter: Jayne Thompson-Cascagnette**
-
-### **Wife's Uncle: Maj William Grincell Fellows** 
-
-Maj William Grincell Fellows 
-
-Born: Mar 1st 1865   
-Place of Birth: England  
-B Battery Québec, RCA Royal Canadian Artillery  
-Death: Sept 17th 1947 (82 years)
-Wife: Alice Maud Emily Higgins 
-
-In ranks 19yrs 8 mths   
-WO 3 yrs 8 mths 16 dys   
-Lt (DO) RCA - Dec 2nd 1907   
-Capt RCA - Dec 2nd 1912   
-
-
-
-https://canadianheadstones.ca/wp/headstone-vendor/?wpda_search_column_idperson=1410654
-
-
-      APPOINTMENTS, PROMOTIONS AND RETIREMENTS.    
-      CANADIAN MILITIA.    
-      1908.    
-      HEADQUARTERS, OTTAWA, 7th January, 1908.    
-
-      The following appointments, promotions, retirements, and confirmations of ranks are promulgated to the Militia by the Honourable Minister of Militia and Defence in Militia Council. 
-
-      (...)
-
-      PERMANENT FORCE.
-
-      THE ROYAL CANADIAN ARTILLERY - To the Lieutenant (District Officer) : Warrant Officer (Master Gunner) William Grincell Fellows, The Royal Canadian Artillery, to complete establishment. 2nd December, 1907. 
-
-
-------
-
-      NOMINATIONS, PROMOTIONS    
-      ET RETRAITES.    
-      MILICE CANADIENNE.    
-      1908.    
-      QUARTIER GÉNÉRAL.    
-      OTTAWA, 7 janvier 1908.   
-
-      Les nominations, promotions, retraites et confirmations de grade qui suivent sont promulguées pour l'usage de la milice par l'honorable Ministre de la Milice et de la Défense en conseil de la milice. 
-
-      (...) 
-
-      TROUPES PERMANENTES. 
-
-      ARTILLERIE ROYALE CANADIENNE - Est nommé lieutenant (officier de district): l'officier breveté (maître cannonier) William Grincell Fellows, de l'artillerie royale canadienne, pour compléter l'effectif. 2 décembre 1907. 
-
-
-The Canada Gazette. Ottawa, Saturday, Jan 4th, 1908. Promotions William Grincell Fellows.    
-https://books.google.ca/books?id=ICU-AQAAMAAJ&lpg=PA1923&ots=fSxzPNBJfE&dq=%22william%20grincell%20fellows%22&hl=pt-BR&pg=PA1701#v=onepage&q&f=false
-
-
-<img src="../images/wgfellows/wgFellows-obirtuary.png" />
-
-La presse, 1947-09-19, Collections de BAnQ. Obituaire de William Gincell Fellows.    
-https://numerique.banq.qc.ca/patrimoine/details/52327/2959538?docsearchtext=grincell%20fellows
-
-### **Son-in-law: Harry Ralph Thompson** 
-
-Initiated in [Riverdale Lodge #494](http://www.rjrr494.com/index.html) in April 9th 1965   
-Grand Lodge of Canada in the Province of Ontario   
-
-http://www.rjrr494.com/index.html
-https://www.flickr.com/photos/21728045@N08/albums/
-
-Served in the Korea War, Canadian Navy
 
 **Memorabilia**
 
@@ -504,14 +260,7 @@ Served in the Korea War, Canadian Navy
 
 **Visitors signing Bible of Harry R Thompson. Source: photo familliale.**
 
-### **Wife's Half-Brother : Ivor Herbert Fellows**    
-Ivor Herbert Fellows, son of Alfred Grincell Fellows, Sergeant-Major R C G A, of Québec, and of his wife Caroline, born the fifth day of April, AD 1906, was baptised on June 18th of the same. Died on the twenty-third and was buried on the twenty-fourth day of February, AD 1914 (7 years old).   
-Grave:   
-https://www.findagrave.com/memorial/156648143/ivor_herbert_fellows
 
-
-Alfred Edward Fellows, born about 1902 and buried Nov 20th 1912. 
-https://www.ancestry.ca/discoveryui-content/view/1086793:1091
 
 # TODO
 

@@ -1,0 +1,31 @@
+<!-- ENTETE -->
+[![img](https://img.shields.io/badge/Cycle%20de%20Vie-Édition-339999)](https://franc-maconnerie.ca)
+[![License](https://img.shields.io/badge/Licence-MIT-blue)](LICENSE)
+
+---
+
+<div>
+    <a target="_blank" href="https://franc-maconnerie.ca">
+      <img src="../images/logo.png" alt="Julio Torres Freemasonry" width="300"/>
+    </a>
+</div>
+
+--- 
+
+<!-- FIN ENTETE -->
+# **Sister: Nursing Sister Lieut. Florence May Young**  
+
+Miss Florence May Young, ARRC   
+
+Associate Royal Red Cross, Second Class   
+
+Nursing Sister, Army Auxiliary Nursing Service AANS
+
+Royal Red Cross, 2nd Class, in recognition of valuable services with the British Forces in Salonika. 
+
+Source: The London Gazette
+
+https://www.thegazette.co.uk/London/issue/31095/data.pdf
+
+"In recognition of her valuable service with the British Forces in Salonika, Greece"   
+Source: The London Gazette, thegazette.co.uk   
