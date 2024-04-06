@@ -122,29 +122,6 @@ Awards:
 
 *In the fourth row from the bottom, 3rd from the left is X96 Major Charles A. Young of the Royal Rifles of Canada. Apparently this photo was taken just after liberation*
 
-Hong Kong Veterans Commemorative Association,   
-https://www.hkvca.ca/cforcedata/unitreport/index.php 
-
-Details from HKVCA.   
-https://www.hkvca.ca/cforcedata/indivreport/indivdetailed.php?regtno=X96
-
-Je me souviens   
-https://www.worldanvil.com/w/je-me-souviens/a/young2C-charles-alexander--ww2--person
-
-HKVCA Vault. Search by reg'l number.   
-https://drive.google.com/drive/folders/1u0605cQjINZtg6Xp33LPBr4FxOQ1MOcJ
-
-CANADIAN PARTICIPATION IN THE DEFENCE OF HONG KONG, DECEMBER, 1941   
-https://www.ibiblio.org/hyperwar/UN/Canada/CA/163-HongKong/index.html#pow
-
-War Diary.  
-https://www.hkvca.ca/Gallery/Individuals/Maj%20Charles%20Young/index.htm
-
-http://battleofhongkong.com/19.htm
-
-First World War Records:   
-https://canadiangreatwarproject.com/person.php?pid=193906
-
 **Decorations:**   
 
 Military Cross  
@@ -203,17 +180,6 @@ The 68-year-old army officer, who leaves many friends behind, was greatly admire
 At the time of his sudden death, he was visiting his daughter, Mrs Harry Thompson, in Toronto. 
 
 His father, the late Maj Alexander Young, was also a soldier and commanded the 52nd Battalion in the First World War. 
-
-
-
-
-*Hong Kong Veteran’s Association of Canada.* **The Royal Rifles of Canada in Hong   
-Kong:1941-1945.** Progressive Publications, Sherbrooke, QC, 1980
-
-54 Rifles in Jap's hands.    
-https://www.proquest.com/docview/2158853737/ED9F788F4219403CPQ/2?accountid=8612&sourcetype=Historical%20Newspapers
-
-
 
 ## Family
 
@@ -279,5 +245,35 @@ Le TVF Maj William Grincell Fellows, oncle de la femme du Fr Young, a été le V
 - Vérifier les données du Fr Alfred Grincell Fellows (Père de l'épouse)
 - Vérifier si Harry Ralph Thompson (beau-fils - mari à Phylis) était membre de la loge 
 
+# References 
+
+*Hong Kong Veteran’s Association of Canada.* **The Royal Rifles of Canada in Hong   
+Kong:1941-1945.** Progressive Publications, Sherbrooke, QC, 1980
+
+54 Rifles in Jap's hands.    
+https://www.proquest.com/docview/2158853737/ED9F788F4219403CPQ/2?accountid=8612&sourcetype=Historical%20Newspapers
+
+Hong Kong Veterans Commemorative Association,   
+https://www.hkvca.ca/cforcedata/unitreport/index.php 
+
+Details from HKVCA.   
+https://www.hkvca.ca/cforcedata/indivreport/indivdetailed.php?regtno=X96
+
+Je me souviens   
+https://www.worldanvil.com/w/je-me-souviens/a/young2C-charles-alexander--ww2--person
+
+HKVCA Vault. Search by reg'l number.   
+https://drive.google.com/drive/folders/1u0605cQjINZtg6Xp33LPBr4FxOQ1MOcJ
+
+CANADIAN PARTICIPATION IN THE DEFENCE OF HONG KONG, DECEMBER, 1941   
+https://www.ibiblio.org/hyperwar/UN/Canada/CA/163-HongKong/index.html#pow
+
+War Diary.  
+https://www.hkvca.ca/Gallery/Individuals/Maj%20Charles%20Young/index.htm
+
+http://battleofhongkong.com/19.htm
+
+First World War Records:   
+https://canadiangreatwarproject.com/person.php?pid=193906
 
 
