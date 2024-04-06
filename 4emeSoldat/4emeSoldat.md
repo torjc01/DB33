@@ -204,6 +204,17 @@ At the time of his sudden death, he was visiting his daughter, Mrs Harry Thompso
 
 His father, the late Maj Alexander Young, was also a soldier and commanded the 52nd Battalion in the First World War. 
 
+
+
+
+*Hong Kong Veteran’s Association of Canada.* **The Royal Rifles of Canada in Hong   
+Kong:1941-1945.** Progressive Publications, Sherbrooke, QC, 1980
+
+54 Rifles in Jap's hands.    
+https://www.proquest.com/docview/2158853737/ED9F788F4219403CPQ/2?accountid=8612&sourcetype=Historical%20Newspapers
+
+
+
 ## Family
 
 ### Arbre généalogique
@@ -225,13 +236,6 @@ Arbre généalogique approximative de la famille du Fr Charles Alexander Young. 
 Le TVF Maj William Grincell Fellows, oncle de la femme du Fr Young, a été le VM d'Albion pendant l'année 1908; ensuite, son père, le TVF Maj Alexander Young à été le VM pendant l'année 1913, peu de temps avant d'être envoyé au théatre de guerre d'Europe, 
 
 <img src="../images/pastMasters.png" />
-
-
-
-
-
-
-
 
 **Past-Masters de la Loge Albion, débuts 20 siécle. *Source: convocations de la Loge***
 
@@ -275,41 +279,5 @@ Le TVF Maj William Grincell Fellows, oncle de la femme du Fr Young, a été le V
 - Vérifier les données du Fr Alfred Grincell Fellows (Père de l'épouse)
 - Vérifier si Harry Ralph Thompson (beau-fils - mari à Phylis) était membre de la loge 
 
-## Email to Mrs. Thompson-Cascagnette, Jayne
 
-Dear Mrs. Thompson, 
-
-Greetings. Allow me to introduce myself. My name is Julio Cesar Torres, I live in Québec City, and I am a member of the Masonic lodge Albion #2. 
-
-I suppose you know that your grandfather, Charles Alexander Young and your great-grandfather, Alexander Young, were both freemasons, and both members of Albion Lodge. 
-
-Brother Alexander Young was in fact the Master of the Lodge for the year of 1913, shortly before deploying to the European theatre on First World War, where he would pay the ultimate sacrifice for his country. 
-
-Our Lodge has its roots deeply into the military tradition: it was founded in 1752, as a military lodge attached to the 4th Battalion of the Royal Regiment of Artillery, British army; ever since, a large proportion of our members come from one of the three branches of the Forces. Today, almost half of our active brothers come from the military. 
-
-To complement this beautiful relationship with the Forces, our lodge has a lasting tradition of over 100 years. Our November meeting every year is changed into a "Military Soirée" to remember and celebrate the service of our military in the defence of our country and our values. We also celebrate those who fell on battle and remember the sacrifice they have done so that we may have peace.  
-
-This year I have the task of preparing a presentation about our Brother Charles Alexander Young, your grandfather. I am going to tell about his experience on First World War and about his hard experience as POW in WWII. Besides that, I am going to mention that your family has contributed greatly with the military: his father, his wife, his father-in-law, all have served the country... 
-
-So, the reason why I am writing to you is that in my research I have found your gallery on "Thompson family tree" in ancestry.com, where you have some photos I would love to include in the presentation: Brother Charles' two photos, Brother Alexander's, your grandmother in a nurse's uniform. These are the images that would illustrate perfectly the words of praise that I will say on our "Military Soirée". 
-
-I would like to request your permission to use these photos in my PowerPoint if you are comfortable with it. If not, there's no problem, I understand it and won't touch your photos. 
-
-You may rest assured, the presentation will be private, it is going to be used on the "Soirée", only shown to our Masonic brothers. Of course, if you would like to see it, it will be my pleasure to share it with you. 
-
-Thank you very much for your time, Mrs. Thompson. 
-
-Sincerely yours, 
-
-Julio Cesar Torres dos Santos
-Québec, QC
-
-
-# References 
-
-*Hong Kong Veteran’s Association of Canada.* **The Royal Rifles of Canada in Hong   
-Kong:1941-1945.** Progressive Publications, Sherbrooke, QC, 1980
-
-54 Rifles in Jap's hands.    
-https://www.proquest.com/docview/2158853737/ED9F788F4219403CPQ/2?accountid=8612&sourcetype=Historical%20Newspapers
 
