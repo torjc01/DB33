@@ -256,7 +256,7 @@ https://www.proquest.com/docview/2158853737/ED9F788F4219403CPQ/2?accountid=8612&
 Hong Kong Veterans Commemorative Association,   
 https://www.hkvca.ca/cforcedata/unitreport/index.php 
 
-Details from HKVCA.   
+Individual Report: X96 Charles YOUNG (Details from HKVCA).   
 https://www.hkvca.ca/cforcedata/indivreport/indivdetailed.php?regtno=X96
 
 Je me souviens   
