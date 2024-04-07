@@ -227,13 +227,12 @@ His sister, Florence May Young was a Nursing Sister in the war, decorated with t
 
 Le TVF Maj William Grincell Fellows, oncle de la femme du Fr Young, a été le VM d'Albion pendant l'année 1908; ensuite, son père, le TVF Maj Alexander Young à été le VM pendant l'année 1913, peu de temps avant d'être envoyé au théatre de guerre d'Europe, 
 
+Right Worshipful Brother Alexander Young was the Master of the Lodge for the year of 1913, shortly before deploying to the European theatre on First World War, where he would pay the ultimate sacrifice for his country.
+
+
 <img src="../images/pastMasters.png" />
 
 **Past-Masters de la Loge Albion, débuts 20 siécle. *Source: convocations de la Loge***
-
-
-
-
 
 # Memorabilia
 
