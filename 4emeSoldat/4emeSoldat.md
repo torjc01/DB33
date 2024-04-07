@@ -192,6 +192,14 @@ His father, the late Maj Alexander Young, was also a soldier and commanded the 5
 
 Arbre généalogique approximative de la famille du Fr Charles Alexander Young. J'ai identifié à date trois générations de la famille qui ont appartenues à la franc-maçonnerie (quatre qui ont appartenu à Albion), et quatre générations qui ont appartenues aux Forces Canadiennes, dans le service militaire actif dans des zones de conflit (Great War, WWII et guerre de la Corée). 
 
+Brother Alexander Young was a Major at the time he fell in the battle of Sanctuary Wood (Hill 62) near Ypres; before, he had fought the Campaign in South Africa. 
+
+Brother Alfred Grincell Fellows was a most beloved Sergeant-Major of 8th Regt RCGA in Québec City, who passed away before the war. He was lamented by a large crowd in his inhumation.
+
+Brother William Grincell Fellows was a Major when he retired from the militia because of health issues.
+
+His sister, Florence May Young was a Nursing Sister in the war, decorated with the Associate Royal Red Cross, Second Class. And his wife, who he met in Europe during the war, was also a Nursing Sister! 
+
 <img src="../images/genealogy.png" usemap="#image_map">
 <map name="image_map">
   <area alt="Lt-Col Charles Alexander Young" title="Lt-Col Charles Alexander Young" href="./4emeSoldat.md" coords="356,285 356,341 444,342 444,323 473,322 474,284 473,282 473,285 473,285 473,285 " shape="polygon">
@@ -201,15 +209,6 @@ Arbre généalogique approximative de la famille du Fr Charles Alexander Young. 
   <area alt="Major William Grincell Fellows" title="Major William Grincell Fellows" href="./majWGFellows.md" coords="676,145,795,206" shape="rect">
   <area alt="Harry Ralph Thompson" title="Harry Ralph Thompson" href="./hrThompson.md" coords="796,175,797,175" shape="rect">
 </map>
-
-## Membres de la famille ayant étés Vénérable Maîtres d'Albion
-
-Le TVF Maj William Grincell Fellows, oncle de la femme du Fr Young, a été le VM d'Albion pendant l'année 1908; ensuite, son père, le TVF Maj Alexander Young à été le VM pendant l'année 1913, peu de temps avant d'être envoyé au théatre de guerre d'Europe, 
-
-<img src="../images/pastMasters.png" />
-
-**Past-Masters de la Loge Albion, débuts 20 siécle. *Source: convocations de la Loge***
-
 
 [His father: Maj TVF Alexander Young](./ayoung.md)
 
@@ -222,6 +221,18 @@ Le TVF Maj William Grincell Fellows, oncle de la femme du Fr Young, a été le V
 [His Wife"s Uncle: Maj TVF William Grincell Fellows](./mfyoung.md)
 
 [His son-in-law: Fr Harry Ralph Thompson](./hrthompson.md)
+
+
+## Membres de la famille ayant étés Vénérable Maîtres d'Albion
+
+Le TVF Maj William Grincell Fellows, oncle de la femme du Fr Young, a été le VM d'Albion pendant l'année 1908; ensuite, son père, le TVF Maj Alexander Young à été le VM pendant l'année 1913, peu de temps avant d'être envoyé au théatre de guerre d'Europe, 
+
+<img src="../images/pastMasters.png" />
+
+**Past-Masters de la Loge Albion, débuts 20 siécle. *Source: convocations de la Loge***
+
+
+
 
 
 # Memorabilia
