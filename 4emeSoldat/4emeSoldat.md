@@ -132,14 +132,21 @@ Awards:
 
 **Decorations:**   
 
-Military Cross  
+**Military Cross, MC**  
 La Croix militaire peut être décernée aux officiers de grades ne dépassant pas le grade effectif de capitaine (autrement dit, les majors à titre temporaire et par intérim y sont admissibles) ou aux adjudants, en reconnaissance de services distingués et méritoires au combat. En 1920, les conditions ont été modifiées afin de préciser clairement que la Croix devait reconnaître les services courageux et distingués en présence de l’ennemi, et que les officiers de la marine et de l’aviation pouvaient l’obtenir pour des services courageux et distingués au sol. - Anciens Combattants Canada.[^2]   
 
 [^2]: https://www.worldanvil.com/w/je-me-souviens/a/croix-militaire-item
 
 Identifying the need to recognize junior commissioned officers and senior non-commissioned officers, the Military Cross was established on 28 December 1914 for commissioned officers of the substantive rank of Captain or below and for Warrant Officers. It was awarded for gallant and distinguished service in battle and recipients were entitled to the post-nominal letters MC.[^3]   
-
 [^3]: https://www.warmuseum.ca/tilston-medals-collection/medals/25/
+
+**Volunteer Officers' Decoration, VD**
+The Volunteer Officers' Decoration, post-nominal letters VD, was instituted in 1892 as an award for long and meritorious service by officers of the United Kingdom's Volunteer Force. Award of the decoration was discontinued in the United Kingdom when it was superseded by the Territorial Decoration in 1908, but it continued to be awarded in some Crown Dependencies until 1930.
+
+The Volunteer Officers' Decoration, post-nominal letters VD and colloquially known as the Volunteer Decoration, was instituted by Queen Victoria's Royal Warrant on 25 July 1892. The decoration could be awarded to efficient and thoroughly capable officers of proven capacity for long and meritorious service in the part-time Volunteer Force of the United Kingdom.[^VD]
+
+[^VD]: [Voluntary Officers' Decoration](https://en.wikipedia.org/wiki/Volunteer_Officers%27_Decoration#:~:text=The%20Volunteer%20Officers'%20Decoration%2C%20post%2Dnominal%20letters%20VD%20and,Warrant%20on%2025%20July%201892)
+
 
 **Memorabilia**
 
