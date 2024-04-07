@@ -192,7 +192,7 @@ His father, the late Maj Alexander Young, was also a soldier and commanded the 5
 
 Arbre généalogique approximative de la famille du Fr Charles Alexander Young. J'ai identifié à date trois générations de la famille qui ont appartenues à la franc-maçonnerie (quatre qui ont appartenu à Albion), et quatre générations qui ont appartenues aux Forces Canadiennes, dans le service militaire actif dans des zones de conflit (Great War, WWII et guerre de la Corée). 
 
-Brother Alexander Young was a Major at the time he fell in the battle of Sanctuary Wood (Hill 62) near Ypres; before, he had fought the Campaign in South Africa. 
+Brother Alexander Young was a Major at the time he fell in the [Battle of Sactuary Wood](https://www.veterans.gc.ca/eng/remembrance/memorials/hill-62) (Hill 62) near Ypres; before, he had fought the Campaign in South Africa. 
 
 Brother Alfred Grincell Fellows was a most beloved Sergeant-Major of 8th Regt RCGA in Québec City, who passed away before the war. He was lamented by a large crowd in his inhumation.
 
