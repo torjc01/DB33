@@ -21,7 +21,7 @@
 ||CIVIL DATA|
 |---|---|
 |Name|Alfred Grincell Fellows|
-|Date of birth|May   7th 1868|
+|Date of birth|May 7th 1868|
 |Place of birth|Durham, England|
 |Father||
 |Mother||
@@ -35,7 +35,7 @@
 
 Sergeant-Major RCGA - Royal Canadian Garrison Artillery, 8th Regiment, "B" Battery - Québec City, QC  
 
-Husband of Catherine Agnes Fellows née Black and ( - 1897)    
+Husband of Catherine Agnes Fellows née Black and ( - Feb 5th 1897)    
 
 Catherine death Feb 5th 1897 (Friday)    
 
