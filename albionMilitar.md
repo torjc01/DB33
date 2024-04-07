@@ -57,7 +57,7 @@
 <img src="images/Plaque.jpg" width="800" />    <br />
 *Plaque commemorative des frères d'Albion tombés dans la Première Guerre Mondiale*[^hero]
 
-[^hero]: Masons honor craft heroes, Quebec Chronicle, p. 4, 22/11/1921   
+[^hero]: Masons honor craft heroes, Quebec Telegraph, p. 4, 22/11/1921   
   https://books.google.ca/books?id=gpYfAAAAIBAJ&printsec=frontcover&hl=pt-BR#v=snippet&q=heroes&f=false
 
 
