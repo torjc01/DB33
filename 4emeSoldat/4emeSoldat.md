@@ -102,7 +102,7 @@ Awards:
 
 <img src="https://scontent.fymq1-2.fna.fbcdn.net/v/t1.6435-9/46766036_2472262566133768_7452336018876792832_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=1Kp1Qpb1BccAX-61561&_nc_ht=scontent.fymq1-2.fna&oh=00_AfAxMxMKzPlNwKpx7gPVNmTZw22TnPB3ehvB3Ex4Hp6xKQ&oe=661B5418">
 
-**Maj Charles Alexander Young, 1st Btn The Royal Rifles of Canada**
+**Maj Charles Alexander Young, 1st Btn The Royal Rifles of Canada, C Force** 
 
 |||
 |---|---|
