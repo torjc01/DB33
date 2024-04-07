@@ -132,7 +132,7 @@ La Croix militaire peut être décernée aux officiers de grades ne dépassant p
 
 Identifying the need to recognize junior commissioned officers and senior non-commissioned officers, the Military Cross was established on 28 December 1914 for commissioned officers of the substantive rank of Captain or below and for Warrant Officers. It was awarded for gallant and distinguished service in battle and recipients were entitled to the post-nominal letters MC.[^3]   
 
-[^3]https://www.warmuseum.ca/tilston-medals-collection/medals/25/
+[^3]: https://www.warmuseum.ca/tilston-medals-collection/medals/25/
 
 **Memorabilia**
 
