@@ -24,10 +24,10 @@
 |Father||
 |Mother||
 |Next of kin||
-|Occupation||
+|Occupation|Military, Major Royal Canadian Artillery|
 |Religion||
 |Date of death|Sept 17th 1947|
-|Place of death||
+|Place of death|Montreal, Qc|
 |Age at death|82 years|
 |Burial site||
 
