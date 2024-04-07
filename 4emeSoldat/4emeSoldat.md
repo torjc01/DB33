@@ -77,9 +77,10 @@ He served in CANADA, England and France with the 12th Battalion. 11th Brigade Ma
 Awards:
 - Military Cross   
   Date of award: 1919-06-03   
-  Source: [London Gazette, No. 31370, pg. 6837](https://www.thegazette.co.uk/London/issue/31370/page/6837)    
-    *Lt. Charles Alexander Young, 4th Bn., Can.    
-    M.G. Corps*
+  Source: London Gazette, No. 31370, pg. 6837[^1]
+  [^1]:(https://www.thegazette.co.uk/London/issue/31370/page/6837)    
+  *Lt. Charles Alexander Young, 4th Bn., Can.    
+  M.G. Corps*
 
 
 <img src="../images/cayoung/military_cross.jpg" width="300" />
@@ -125,13 +126,13 @@ Awards:
 **Decorations:**   
 
 Military Cross  
-La Croix militaire peut être décernée aux officiers de grades ne dépassant pas le grade effectif de capitaine (autrement dit, les majors à titre temporaire et par intérim y sont admissibles) ou aux adjudants, en reconnaissance de services distingués et méritoires au combat. En 1920, les conditions ont été modifiées afin de préciser clairement que la Croix devait reconnaître les services courageux et distingués en présence de l’ennemi, et que les officiers de la marine et de l’aviation pouvaient l’obtenir pour des services courageux et distingués au sol. - Anciens Combattants Canada.   
+La Croix militaire peut être décernée aux officiers de grades ne dépassant pas le grade effectif de capitaine (autrement dit, les majors à titre temporaire et par intérim y sont admissibles) ou aux adjudants, en reconnaissance de services distingués et méritoires au combat. En 1920, les conditions ont été modifiées afin de préciser clairement que la Croix devait reconnaître les services courageux et distingués en présence de l’ennemi, et que les officiers de la marine et de l’aviation pouvaient l’obtenir pour des services courageux et distingués au sol. - Anciens Combattants Canada.[^2]   
 
-https://www.worldanvil.com/w/je-me-souviens/a/croix-militaire-item
+[^2]: https://www.worldanvil.com/w/je-me-souviens/a/croix-militaire-item
 
-Identifying the need to recognize junior commissioned officers and senior non-commissioned officers, the Military Cross was established on 28 December 1914 for commissioned officers of the substantive rank of Captain or below and for Warrant Officers. It was awarded for gallant and distinguished service in battle and recipients were entitled to the post-nominal letters MC.   
+Identifying the need to recognize junior commissioned officers and senior non-commissioned officers, the Military Cross was established on 28 December 1914 for commissioned officers of the substantive rank of Captain or below and for Warrant Officers. It was awarded for gallant and distinguished service in battle and recipients were entitled to the post-nominal letters MC.[^3]   
 
-https://www.warmuseum.ca/tilston-medals-collection/medals/25/
+[^3]https://www.warmuseum.ca/tilston-medals-collection/medals/25/
 
 **Memorabilia**
 
