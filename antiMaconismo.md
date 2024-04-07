@@ -31,6 +31,7 @@
 
 ## Questões para pesquisa
 
+- Panorama político em Quebec no séc XIX
 - Background histórico: Nouvelle France
 - Conquista
 - Francês x Inglês
