@@ -147,6 +147,7 @@ The Volunteer Officers' Decoration, post-nominal letters VD and colloquially kno
 [^VD]: [Voluntary Officers' Decoration](https://en.wikipedia.org/wiki/Volunteer_Officers%27_Decoration#:~:text=The%20Volunteer%20Officers'%20Decoration%2C%20post%2Dnominal%20letters%20VD%20and,Warrant%20on%2025%20July%201892)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Volunteer_Officers%27_Decoration_%28Edward_VII%29.jpg/425px-Volunteer_Officers%27_Decoration_%28Edward_VII%29.jpg" />
+
 **Memorabilia**
 
 <img src="../images/cayoung/MedalsCharlesAYoung.jpeg" />
