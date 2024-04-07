@@ -60,7 +60,10 @@ After the Great War, he joined the Royal Rifles of Canada and rose through the r
 |Item Number|330882|
 |Record Group|Canadian Expeditionary Force (CEF)|
 
-The Sgt Charles Alexander served in the 8th Regiment "Royal Rifles" from 1908. With the ecclosion of the war, details from the 8th, 9th and 87th regiments were put on active service for local protection duty. On Aug 10 1914, thr 12th Battalion, CEF was authorized and elements from these regiments composed its contingent. [^8thReg]. Sgt Charles Alexander is considered fit for active duty overseas on Sept 29 1914, by Dr R A Sutherland, Capt AMC, and embarks towards Great Britain aboard the SS Scotian, arriving in England Oct 14th 1914. [^Voyage]? The battalion keeps embarked until the 25th, when it is authorized to disembark and mach towards the Bustard Camp, on the Salisbury Plain[^Salisbury]. (Curiosity: Salisbury Plain is the same region where is located Stonehenge!)
+The Sgt Charles Alexander served in the 8th Regiment "Royal Rifles" from 1908. With the ecclosion of the war, details from the 8th, 9th and 87th regiments were put on active service for local protection duty. On Aug 10 1914, thr 12th Battalion, CEF was authorized and elements from these regiments composed its contingent. [^8thReg]. Sgt Charles Alexander is considered fit for active duty overseas on Sept 29 1914, by Dr R A Sutherland, Capt AMC, and embarks towards Great Britain aboard the SS Scotian, arriving in England Oct 14th 1914. [^Voyage]? The battalion keeps embarked until the 25th, when it is authorized to disembark and mach towards the Bustard Camp, on the Salisbury Plain[^Salisbury]. 
+
+> [!TIP]
+> Curiosity: Salisbury Plain is the same region where Stonehenge is located !
 
 [^8thReg]: https://www.canada.ca/en/department-national-defence/services/military-history/history-heritage/official-military-history-lineages/lineages/infantry-regiments/voltigeurs-quebec.html
 [^Voyage]: https://www.canadiansoldiers.com/regiments/cef/012battalion.htm
