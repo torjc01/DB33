@@ -83,11 +83,12 @@ The Sgt Charles Alexander served in the 8th Regiment "Royal Rifles" from 1908. W
 
 He served in CANADA, England and France with the 12th Battalion. 11th Brigade Machine Gun Company. 16th Canadian Machine Gun Company. Canadian Machine Gun Pool, and 4th Battalion CMCG, and was STRUCK OFF THE STRENGTH on the Twelfth day of June 1919 by reason of General Demobilization.  
 
+> [!IMPORTANT]
+> **Awards:**   
+> Military Cross  
+> Date of award: 1919-06-03   
+> Source: London Gazette, No. 31370, pg. 6837[^MC]
 
-Awards:
-- Military Cross   
-  Date of award: 1919-06-03    
-  Source: London Gazette, No. 31370, pg. 6837[^MC]
   [^MC]:(https://www.thegazette.co.uk/London/issue/31370/page/6837)    
   *Lt. Charles Alexander Young, 4th Bn., Can.    
   M.G. Corps*
@@ -150,20 +151,6 @@ The Volunteer Officers' Decoration, post-nominal letters VD and colloquially kno
 [^VD]: [Voluntary Officers' Decoration](https://en.wikipedia.org/wiki/Volunteer_Officers%27_Decoration#:~:text=The%20Volunteer%20Officers'%20Decoration%2C%20post%2Dnominal%20letters%20VD%20and,Warrant%20on%2025%20July%201892)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Volunteer_Officers%27_Decoration_%28Edward_VII%29.jpg/425px-Volunteer_Officers%27_Decoration_%28Edward_VII%29.jpg" />
-
-**Memorabilia**
-
-<img src="../images/cayoung/MedalsCharlesAYoung.jpeg" />
-
-**Médailles du Lt-Col Charles A Young. Source: photo familliale**
-
-<img src="../images/cayoung/Coronation.jpeg" />
-
-**Souvenirs de la présence à la Coronation de la Reine Elizabeth II, à l'Abbaie de Westminster, le 2 juin 1953. Source: photo familliale**
-
-<img src="../images/cayoung/platAlbion.jpg" />
-
-**Plat commemoratif des 175 ans de la loge Albion donné au Fr Charles Alexander Young. Source: photo familliale**
 
 
 ### Obituaries 
@@ -238,6 +225,18 @@ Le TVF Maj William Grincell Fellows, oncle de la femme du Fr Young, a été le V
 
 
 # Memorabilia
+
+<img src="../images/cayoung/MedalsCharlesAYoung.jpeg" />
+
+**Médailles du Lt-Col Charles A Young. Source: photo familliale**
+
+<img src="../images/cayoung/Coronation.jpeg" />
+
+**Souvenirs de la présence à la Coronation de la Reine Elizabeth II, à l'Abbaie de Westminster, le 2 juin 1953. Source: photo familliale**
+
+<img src="../images/cayoung/platAlbion.jpg" />
+
+**Plat commemoratif des 175 ans de la loge Albion donné au Fr Charles Alexander Young. Source: photo familliale**
 
 <img src="../images/hrthompson/Certificate.jpg" />
 
