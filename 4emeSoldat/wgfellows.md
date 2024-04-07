@@ -24,7 +24,7 @@
 |Father||
 |Mother||
 |Next of kin||
-|Occupation|Military, Major Royal Canadian Artillery|
+|Occupation|Military, Major, Royal Canadian Artillery|
 |Religion||
 |Date of death|Sept 17th 1947|
 |Place of death|Montreal, Qc|
