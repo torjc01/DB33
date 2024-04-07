@@ -280,6 +280,9 @@ https://www.hkvca.ca/Gallery/Individuals/Maj%20Charles%20Young/index.htm
 Book Battle of Hong Kong   
 http://battleofhongkong.com/19.htm
 
+Report #163: Canadian participation in the defense of Hong Kong, Department of Defense.  
+https://www.ibiblio.org/hyperwar/UN/Canada/CA/163-HongKong/index.html
+
 First World War Records:   
 https://canadiangreatwarproject.com/person.php?pid=193906
 
