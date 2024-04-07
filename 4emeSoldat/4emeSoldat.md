@@ -158,8 +158,8 @@ Identifying the need to recognize junior commissioned officers and senior non-co
 
 ### Obituaries 
 
-**Obituary and Albion's Invitation  Chronicle, 1693-10-03, p. 12**   
-https://news.google.com/newspapers?nid=9tXw7Op4-u0C&dat=19631003&printsec=frontpage&hl=en    
+**Obituary and Albion's Invitation  Chronicle, 1693-10-03, p. 12**[^Obt1]   
+[^Obt1]: https://news.google.com/newspapers?nid=9tXw7Op4-u0C&dat=19631003&printsec=frontpage&hl=en    
 
 YOUNG - Suddenly at Toronto, Ont. on October 2nd 1963, Lt-Col C.A. Young, MC, VC, ED, beloved husband of the late Irene Fellows and dear father of Donald and Phyllis (Mrs Harry Thompson). Resting at the D.S. Rickaby Funeral Home, 707 St John Street, corner Geneviève (...). Funeral Saturday, at 2.00 service in Chalmers Wesley Church, Interment Mount Hermon Cemetery. 
 
@@ -168,8 +168,8 @@ A Masonic Service will be held for our late brother, Charles Alexander Young, at
 
 <img src="../images/cayoung/CAYAlbion.png" />
 
-**Info about Lt-Col Young. Chronicle, 1963-10-05, p. 3**   
-https://news.google.com/newspapers?nid=9tXw7Op4-u0C&dat=19631005&printsec=frontpage&hl=en
+**Info about Lt-Col Young. Chronicle, 1963-10-05, p. 3**[^Obt2]   
+[^Obt2]: https://news.google.com/newspapers?nid=9tXw7Op4-u0C&dat=19631005&printsec=frontpage&hl=en
 
 <img src="../images/cayoung/CAYMercury.png" />
 
@@ -189,9 +189,9 @@ At the time of his sudden death, he was visiting his daughter, Mrs Harry Thompso
 
 His father, the late Maj Alexander Young, was also a soldier and commanded the 52nd Battalion in the First World War. 
 
-## Family
+# Family
 
-### Arbre généalogique
+## Arbre généalogique
 
 Arbre généalogique approximative de la famille du Fr Charles Alexander Young. J'ai identifié à date trois générations de la famille qui ont appartenues à la franc-maçonnerie (quatre qui ont appartenu à Albion), et quatre générations qui ont appartenues aux Forces Canadiennes, dans le service militaire actif dans des zones de conflit (Great War, WWII et guerre de la Corée). 
 
@@ -205,7 +205,7 @@ Arbre généalogique approximative de la famille du Fr Charles Alexander Young. 
   <area alt="Harry Ralph Thompson" title="Harry Ralph Thompson" href="./hrThompson.md" coords="796,175,797,175" shape="rect">
 </map>
 
-### Membres de la famille ayant étés Vénérable Maîtres d'Albion
+## Membres de la famille ayant étés Vénérable Maîtres d'Albion
 
 Le TVF Maj William Grincell Fellows, oncle de la femme du Fr Young, a été le VM d'Albion pendant l'année 1908; ensuite, son père, le TVF Maj Alexander Young à été le VM pendant l'année 1913, peu de temps avant d'être envoyé au théatre de guerre d'Europe, 
 
@@ -227,7 +227,7 @@ Le TVF Maj William Grincell Fellows, oncle de la femme du Fr Young, a été le V
 [His son-in-law: Fr Harry Ralph Thompson](./hrthompson.md)
 
 
-**Memorabilia**
+# Memorabilia
 
 <img src="../images/hrthompson/Certificate.jpg" />
 
@@ -240,8 +240,6 @@ Le TVF Maj William Grincell Fellows, oncle de la femme du Fr Young, a été le V
 <img src="../images/hrthompson/Sign.jpg" />
 
 **Visitors signing Bible of Harry R Thompson. Source: photo familliale.**
-
-
 
 # TODO
 
@@ -279,9 +277,10 @@ https://www.ibiblio.org/hyperwar/UN/Canada/CA/163-HongKong/index.html#pow
 War Diary.  
 https://www.hkvca.ca/Gallery/Individuals/Maj%20Charles%20Young/index.htm
 
+Book Battle of Hong Kong   
 http://battleofhongkong.com/19.htm
 
 First World War Records:   
 https://canadiangreatwarproject.com/person.php?pid=193906
 
-
+## Footnotes
