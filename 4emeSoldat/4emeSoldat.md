@@ -274,6 +274,7 @@ Right Worshipful Brother Alexander Young was the Master of the Lodge for the yea
 - Check with Jayne des infos sur le service militaire de son père 
 - Écrire un résumé du drama des Fellows 
 - Vérifier auprès des archives si les frères Alfred Fellows, bien comme le frère Charles, étaient des membres effectifs d'Albion ou d'autre loge
+- Faire recherche au registre foncier de la municipalité de Lac-St-Joseph pour retrouver le challet familial. 
 
 # References 
 
@@ -310,7 +311,7 @@ https://www.ibiblio.org/hyperwar/UN/Canada/CA/163-HongKong/index.html
 First World War Records:   
 https://canadiangreatwarproject.com/person.php?pid=193906
 
-Charles Alexander as a businessman. Quebec Gazette, Cambrai Bowling Alleys Inc.
+Charles Alexander as a businessman. Quebec Gazette, Cambrai Bowling Alleys Inc.   
 Gazette officielle du Québec. Québec official gazette., 1957-03-30, Collections de BAnQ, p. 1128.      
 https://numerique.banq.qc.ca/patrimoine/details/52327/2358987
 
