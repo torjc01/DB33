@@ -310,4 +310,8 @@ https://www.ibiblio.org/hyperwar/UN/Canada/CA/163-HongKong/index.html
 First World War Records:   
 https://canadiangreatwarproject.com/person.php?pid=193906
 
+Charles Alexander as a businessman. Quebec Gazette, Cambrai Bowling Alleys Inc.
+Gazette officielle du Québec. Québec official gazette., 1957-03-30, Collections de BAnQ, p. 1128.      
+https://numerique.banq.qc.ca/patrimoine/details/52327/2358987
+
 ## Footnotes
