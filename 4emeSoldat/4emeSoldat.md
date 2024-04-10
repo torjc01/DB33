@@ -20,7 +20,7 @@
 |---|---|
 |Name|Charles Alexander Young|
 |Date of birth|Nov 26th 1895|
-|Place of birth|York, ON|
+|Place of birth|County of York, Toronto, ON|
 |Father|Alexander Young|
 |Mother|Annie Buxton Young, née Gardiner|
 |Next of kin|Alexander Young, father, 24 St-Julia St, Quebec City, QC|
@@ -268,7 +268,7 @@ Right Worshipful Brother Alexander Young was the Master of the Lodge for the yea
 - Vérifier si l'on a une statistique de la proportion de frères qui sont militaires dans l'active, ou qui sont passés par les forces. 
 - Vérifier les données du TVF William Grincell Fellows (oncle de l'épouse) - vénérable Maître d'Albion l'année 1908
 - Vérifier les données du Fr Alfred Grincell Fellows (Père de l'épouse)
-- [OK] Vérifier si le Fr Harry Ralph Thompson (beau-fils - mari à Phylis) était membre de la loge - **Non, il était membre de la Riverdale Lodge, à l'Orient de Toronto.** 
+- [OK] Vérifier si le Fr Harry Ralph Thompson (beau-fils - mari à Phylis) était membre de la loge - **Non, il était membre de la Riverdale Lodge #494, à l'Orient de Toronto.** 
 - Demander le logo de la loge à Éric ou à Richard 
 - Acheter un shooter extra pour faire cadeau à Jayne 
 - Check with Jayne des infos sur le service militaire de son père 
