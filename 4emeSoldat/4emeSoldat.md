@@ -330,7 +330,7 @@ Kong:1941-1945.** Progressive Publications, Sherbrooke, QC, 1980
 ##  Partners 
 <img src="https://www.sgq.qc.ca/client_file/themes/logos/logo_tag.png?rand=264617">
 
-Société de Généalogie du Québec   
+Société de Généalogie de Québec   
 https://www.sgq.qc.ca/
 
 ## Footnotes
