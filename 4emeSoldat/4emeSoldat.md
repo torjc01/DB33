@@ -200,7 +200,7 @@ Brother William Grincell Fellows was a Major when he retired from the militia be
 
 His sister, Florence May Young was a Nursing Sister in the war, decorated with the Associate Royal Red Cross, Second Class. And his wife, who he met in Europe during the war, was also a Nursing Sister! 
 
-<img src="../images/genealogy.png" usemap="#image_map">
+<img src="../images/genTree.png" usemap="#image_map">
 <map name="image_map">
   <area alt="Lt-Col Charles Alexander Young" title="Lt-Col Charles Alexander Young" href="./4emeSoldat.md" coords="356,285 356,341 444,342 444,323 473,322 474,284 473,282 473,285 473,285 473,285 " shape="polygon">
   <area alt="Major Alexander Young" title="Major Alexander Young" href="./majAYoung.md" coords="275,143,395,204" shape="rect">
