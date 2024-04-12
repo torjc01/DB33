@@ -327,5 +327,10 @@ https://numerique.banq.qc.ca/patrimoine/details/52327/2358987
 *Hong Kong Veteran’s Association of Canada.* **The Royal Rifles of Canada in Hong   
 Kong:1941-1945.** Progressive Publications, Sherbrooke, QC, 1980
 
+##  Partners 
+<img src="https://www.sgq.qc.ca/client_file/themes/logos/logo_tag.png?rand=264617">
+
+Société de Généalogie du Québec   
+https://www.sgq.qc.ca/
 
 ## Footnotes
