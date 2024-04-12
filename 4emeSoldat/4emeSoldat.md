@@ -278,6 +278,12 @@ Right Worshipful Brother Alexander Young was the Master of the Lodge for the yea
 
 # References 
 
+Library and Archives Canada - Personnel records of the First World War  
+https://www.bac-lac.gc.ca/eng/discover/military-heritage/first-world-war/personnel-records/Pages/item.aspx?IdNumber=330882
+
+Imperial War Museum - Lives of the First World War   
+https://livesofthefirstworldwar.iwm.org.uk/lifestory/5807192
+
 *Hong Kong Veteran’s Association of Canada.* **The Royal Rifles of Canada in Hong   
 Kong:1941-1945.** Progressive Publications, Sherbrooke, QC, 1980
 
