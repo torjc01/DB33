@@ -278,14 +278,27 @@ Right Worshipful Brother Alexander Young was the Master of the Lodge for the yea
 
 # References 
 
+## Charles Alexander's profiles 
+
 Library and Archives Canada - Personnel records of the First World War  
 https://www.bac-lac.gc.ca/eng/discover/military-heritage/first-world-war/personnel-records/Pages/item.aspx?IdNumber=330882
 
 Imperial War Museum - Lives of the First World War   
 https://livesofthefirstworldwar.iwm.org.uk/lifestory/5807192
 
-*Hong Kong Veteran’s Association of Canada.* **The Royal Rifles of Canada in Hong   
-Kong:1941-1945.** Progressive Publications, Sherbrooke, QC, 1980
+Canadian Great War Project   
+https://canadiangreatwarproject.com/person.php?pid=193906
+
+Je me souviens   
+https://www.worldanvil.com/w/je-me-souviens/a/young2C-charles-alexander--ww2--person
+
+Individual Report: X96 Charles YOUNG (Details from HKVCA).   
+https://www.hkvca.ca/cforcedata/indivreport/indivdetailed.php?regtno=X96
+
+War Diary     
+https://www.hkvca.ca/Gallery/Individuals/Maj%20Charles%20Young/index.htm
+
+## Links to web pages 
 
 54 Rifles in Jap's hands.    
 https://www.proquest.com/docview/2158853737/ED9F788F4219403CPQ/2?accountid=8612&sourcetype=Historical%20Newspapers
@@ -293,32 +306,26 @@ https://www.proquest.com/docview/2158853737/ED9F788F4219403CPQ/2?accountid=8612&
 Hong Kong Veterans Commemorative Association,   
 https://www.hkvca.ca/cforcedata/unitreport/index.php 
 
-Individual Report: X96 Charles YOUNG (Details from HKVCA).   
-https://www.hkvca.ca/cforcedata/indivreport/indivdetailed.php?regtno=X96
-
-Je me souviens   
-https://www.worldanvil.com/w/je-me-souviens/a/young2C-charles-alexander--ww2--person
-
-HKVCA Vault. Search by reg'l number.   
+HKVCA Vault. Search by reg'l number     
 https://drive.google.com/drive/folders/1u0605cQjINZtg6Xp33LPBr4FxOQ1MOcJ
 
 CANADIAN PARTICIPATION IN THE DEFENCE OF HONG KONG, DECEMBER, 1941   
 https://www.ibiblio.org/hyperwar/UN/Canada/CA/163-HongKong/index.html#pow
 
-War Diary.  
-https://www.hkvca.ca/Gallery/Individuals/Maj%20Charles%20Young/index.htm
-
 Book Battle of Hong Kong   
 http://battleofhongkong.com/19.htm
 
-Report #163: Canadian participation in the defense of Hong Kong, Department of Defense.  
+Report #163: Canadian participation in the defense of Hong Kong, Department of Defense    
 https://www.ibiblio.org/hyperwar/UN/Canada/CA/163-HongKong/index.html
 
-First World War Records:   
-https://canadiangreatwarproject.com/person.php?pid=193906
-
-Charles Alexander as a businessman. Quebec Gazette, Cambrai Bowling Alleys Inc.   
+Charles Alexander as a businessman. Quebec Gazette, Cambrai Bowling Alleys Inc     
 Gazette officielle du Québec. Québec official gazette., 1957-03-30, Collections de BAnQ, p. 1128.      
 https://numerique.banq.qc.ca/patrimoine/details/52327/2358987
+
+## Bibliography
+
+*Hong Kong Veteran’s Association of Canada.* **The Royal Rifles of Canada in Hong   
+Kong:1941-1945.** Progressive Publications, Sherbrooke, QC, 1980
+
 
 ## Footnotes
