@@ -20,12 +20,16 @@ Brother Alexander Young was in fact the Worshipful Master of our lodge for the y
 
 ... as a testament to thier loyalty to our country... 
 
+Il est tout à fait naturel que lorsqu'on fait la présentation ou qu'on celèbre la mémoire d'un frère d'armes qu'on le fasse de quelqu'un qui est aussi un frère de la franc-maçonnerie. C'est exactement ce que je vais faire ce soir, mais j'irai aussi un peu plus loin: j'honnorerai la mémoire d'un frère d'Albion, mais aussi important que cela, j'honnorerai sa famille qui, comme on verra bien, elle est aussi impliquée aux Force Canadiennes qu'à la notre Fraternité. 
 
 
 
 Charles Alexander Young 
+
 Grande Guerre 1914-1918
+
 WWII Battle of Hong Kong
+
 Prisonnier de Guerre Japon, 1941-1945
 
 De souche anglo-écossaise, Charles Alexander Young est né le 26 novembre 1895, à Toronto, Ontario. Il était un des deux enfants d'Alexander Young, un écossais originaire de la ville d'Aberdeen, Aberdeenshire, et d'Annie Buxton Young née Gardiner, originaire de Durham, Angleterre. 
