@@ -41,7 +41,7 @@ After the Great War, he joined the Royal Rifles of Canada and rose through the r
 
 ## First World War
 
-<img src="../images/cayoung/LtCharlesAYoung.jpeg" /> 
+<img src="../images/cayoung/LtCharlesYoungPortrait.jpg" /> 
 
 **Lt Charles Alexander Young, 12th Battalion. Source: family photo.**
 
@@ -93,12 +93,16 @@ He served in CANADA, England and France with the 12th Battalion. 11th Brigade Ma
   *Lt. Charles Alexander Young, 4th Bn., Can.    
   M.G. Corps*
 
+<img src="../images/cayoung/LtCharlesAYoung.jpeg" /> 
+
+**Lt Charles Alexander Young, 4th Battalion CEF, Canadian Machine Gun Corps. Source: family photo.**
+
 ---
 
  
 ## Second World War
 
-<img src="https://scontent.fymq1-2.fna.fbcdn.net/v/t1.6435-9/46766036_2472262566133768_7452336018876792832_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=1Kp1Qpb1BccAX-61561&_nc_ht=scontent.fymq1-2.fna&oh=00_AfAxMxMKzPlNwKpx7gPVNmTZw22TnPB3ehvB3Ex4Hp6xKQ&oe=661B5418">
+<img src="../images/cayoung/MajCharlesYoungPortrait.jpg">
 
 **Maj Charles Alexander Young, 1st Btn The Royal Rifles of Canada, C Force** 
 
