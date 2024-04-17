@@ -104,7 +104,7 @@ He served in CANADA, England and France with the 12th Battalion. 11th Brigade Ma
 
 <img src="../images/cayoung/MajCharlesYoungPortrait.jpg">
 
-**Maj Charles Alexander Young, 1st Btn The Royal Rifles of Canada, C Force** 
+**Maj Charles Alexander Young, 1st Btn "A" Coy, The Royal Rifles of Canada, C Force** 
 
 |||
 |---|---|
@@ -123,10 +123,10 @@ He served in CANADA, England and France with the 12th Battalion. 11th Brigade Ma
 
 |Camp ID 	|Camp Name 	|Location 	|Company 	|Type of Work 	|Reference 	|Arrival Date 	|Departure Date|
 |---|----|----|---|---|---|---|---|
-|HK-NP-01	|North Point	|North Point, Hong Kong Island|||				|41 Dec 30	|42 Sep 26|
-|HK-SA-02	|Shamshuipo	|Kowloon, Hong Kong||||				|42 Sep 26	|43 Aug 19|
-|HK-AS-02	|Argyle Street	|Kowloon, Hong Kong|||			20, 33|	43 Aug 19 	|44 May 11|
-|HK-SA-02	|Shamshuipo	|Kowloon, Hong Kong|||			20, 33|	44 May 11	|45 Sep 10|
+|HK-NP-01	|North Point	  |North Point, Hong Kong Island|||   | 41 Dec 30	|42 Sep 26|
+|HK-SA-02	|Shamshuipo	    |Kowloon, Hong Kong||||             | 42 Sep 26	|43 Aug 19|
+|HK-AS-02	|Argyle Street	|Kowloon, Hong Kong|||20, 33        |	43 Aug 19 |44 May 11|
+|HK-SA-02	|Shamshuipo	    |Kowloon, Hong Kong|||20, 33        |	44 May 11	|45 Sep 10|
 
 <img src="https://www.hkvca.ca/cforcedata/ext_files/comments/images/X96.jpg" />
 
