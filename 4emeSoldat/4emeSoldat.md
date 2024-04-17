@@ -41,9 +41,9 @@ After the Great War, he joined the Royal Rifles of Canada and rose through the r
 
 ## First World War
 
-<img src="https://scontent.fymq1-1.fna.fbcdn.net/v/t1.18169-9/27067735_2044266525600043_870996824954040448_n.jpg?stp=dst-jpg_s600x600&_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-nvXic5nKkYAX_BZzTO&_nc_ht=scontent.fymq1-1.fna&oh=00_AfCk6CuGs-Cn8wqIPqxynMgaHqmUuismGNZfG_lL5ATaYA&oe=661B4744" />
+<img src="../images/cayoung/LtCharlesAYoung.jpeg" /> 
 
-*Lt Charles Alexander Young, 12th Battalion*
+**Lt Charles Alexander Young, 12th Battalion. Source: family photo.**
 
 |||
 |---|---|
@@ -94,10 +94,7 @@ He served in CANADA, England and France with the 12th Battalion. 11th Brigade Ma
   M.G. Corps*
 
 ---
-   
-<img src="../images/cayoung/LtCharlesAYoung.jpeg" /> 
 
-**Lt Charles A Young, de retour du théatre d'Europe, fim 1ere Guerre Mondiale. Source: photo familliale.** 
  
 ## Second World War
 
