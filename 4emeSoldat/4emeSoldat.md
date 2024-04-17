@@ -29,7 +29,7 @@
 |Date of death|Oct 2nd 1963|
 |Place of death|Toronto, ON|
 |Age at death|67 y-o|
-|Burial site|[Mount Hermon Cemetery](https://www.mounthermoncemetery.com/), Quebec City, QC. Lot #1804, Section K. GPS coords: 46.7787065583,-71.2467289583 |
+|Burial site|[Mount Hermon Cemetery](https://www.mounthermoncemetery.com/), Quebec City, QC. Lot #1804, Section K. GPS coords: [46.7787065583,-71.2467289583](https://www.google.com/maps/search/?api=1&query=46.7787065583,-71.2467289583) |
 
 Son of Major Alexander 'Alex' Young (52nd Battalion) and Annie Buxton Young (née Gardiner); husband of Nursing Sister Lieutenant Irene May Young (née Fellows).
 
@@ -186,6 +186,17 @@ The 68-year-old army officer, who leaves many friends behind, was greatly admire
 At the time of his sudden death, he was visiting his daughter, Mrs Harry Thompson, in Toronto. 
 
 His father, the late Maj Alexander Young, was also a soldier and commanded the 52nd Battalion in the First World War. 
+
+Headstone 
+
+His final resting place is in Québec City Cemetery Mount Hermon, in a quiet part of city, in the most peaceful place inside the cemetery, near its centre, where the silence and peace reign absolute for his eternal rest. 
+
+<img src="../images/cayoung/Headstone.JPG" width="800">
+
+The tomb is located in lot #1840, section K, and is located by the GPS coordinates [46.7787065583,-71.2467289583](https://www.google.com/maps/search/?api=1&query=46.7787065583,-71.2467289583). Use the QRCode below to get the Google instructions to the gravesite. 
+
+<img src="../images/cayoung/gravesiteCoords.png" width="200">
+
 
 # Family
 
