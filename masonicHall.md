@@ -339,3 +339,11 @@ https://www.jstor.org/stable/24684448
 
 HISTORICAL EVOLUTION OF INFLATION AND METHODS OF RECOGNITION p. 8   
 http://repositorio.aee.edu.br/bitstream/aee/8065/1/Artigo%20TCC%20%20Murillo%20Lima%20Assun%C3%A7%C3%A3o%20.pdf
+
+
+<img src="images/masonicHall/Equivalencies.png">
+
+**Equivalent Sums, in Sterling, Currency and Dollars and cents** Annuaires de la ville de Québec, 1822-1976
+1850 - Part III- Public Office and Institutions, pg 260
+https://numerique.banq.qc.ca/patrimoine/details/52327/3690765
+https://collections.banq.qc.ca/ark:/52327/3690765
