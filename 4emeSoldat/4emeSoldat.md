@@ -29,7 +29,7 @@
 |Date of death|Oct 2nd 1963|
 |Place of death|Toronto, ON|
 |Age at death|67 y-o|
-|Burial site|[Mount Hermon Cemetery](https://www.mounthermoncemetery.com/), Quebec City, QC. Lot #1804, Section K. |
+|Burial site|[Mount Hermon Cemetery](https://www.mounthermoncemetery.com/), Quebec City, QC. Lot #1804, Section K. GPS coords: 46.7787065583,-71.2467289583 |
 
 Son of Major Alexander 'Alex' Young (52nd Battalion) and Annie Buxton Young (née Gardiner); husband of Nursing Sister Lieutenant Irene May Young (née Fellows).
 
