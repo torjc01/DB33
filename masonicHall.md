@@ -63,6 +63,9 @@
 - Uso nos primeiros anos: lojas, apartamentos, bureaux; aluguel para eventos
 - Necessidade de reforma 100 anos após; dissolução da QMHA e criação da AMBQ
 - O prédio hoje
+- Descrever a historia da Albion: warrant militar e ambulante pela GL Antients; fundação em NY; retirada com exercito Britanico; Newfoundland; Woolwich; Quebec; compra da charte n. 9; estabelecimento de charte civil e sedentária; mostrar o processo de adesão à UGLE, e posteriormente à GLQ
+- Albion hoje: orgulhosa raízes militares; homenagem aos membros que foram perdidos nas guerras do Canada; muitos membros são ou foram das Forces; Descrever a soirée militaire anual com banquete
+- breve biografia dos irmãos da Albion caídos nas guerras 
 
 ## Informações diversas
 
