@@ -14,7 +14,9 @@
 
 <!-- FIN ENTETE -->
 
-# Le Quatrième Soldat:  TVF Lt-Col Charles Alexander Young, MC, VD
+# Le Quatrième Soldat  
+
+## TVF Lt-Col Charles Alexander Young, MC, VD 1895-1963
 
 ||CIVIL DATA|
 |---|---|
@@ -171,7 +173,7 @@ A Masonic Service will be held for our late brother, Charles Alexander Young, at
 
 <img src="../images/cayoung/CAYMercury.png" />
 
-Lt-Col C.A. Young Known as a Soldier and Sportsman 
+**Lt-Col C.A. Young Known as a Soldier and Sportsman** 
 
 Lt-Col C.A. Young of Quebec, who died recently at Toronto, spent the Second World War with the Royal Rifles of Canada and commanded the last group of soldiers to surrender on the island. 
 
