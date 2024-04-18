@@ -39,3 +39,9 @@
 - Panorama político em Québec no sec XIX
 - Reação católica: Chevaliers de Coulombe;  Ordre de Jacques Cartier (tardiamente)
 - Cobertura midiática sobre a FM
+
+https://padrepauloricardo.org/blog/a-verdadeira-razao-pela-qual-catolicos-nao-podem-ser-macons
+
+Bulas papais:
+- Humanum genus
+- 
