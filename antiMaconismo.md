@@ -42,8 +42,20 @@
 
 Referências:
 
+Hamon, É., La maçonnerie canadienne-française /, Québec (Province), s.n., 1886, v, 189 p. ; 15 cm, Collections de BAnQ.   
+https://numerique.banq.qc.ca/patrimoine/details/52327/2023030
+
+La Franc-Maçonnerie Ennemie de l'Église et de la patrie   
+https://collections.banq.qc.ca/bitstream/52327/2241085/1/75353.pdf
+
+La franc-maçonnerie dans la province de Québec en 1883 (Jean d'Erbrée)   
+Hamon, É., La franc-maçonnerie dans la province de Québec en 1883 /, Québec (Province), s.n., 1883, 276 p. ; 19 cm, Collections de BAnQ.   
+https://numerique.banq.qc.ca/patrimoine/details/52327/2021763?docref=j5V_5jg0X6XiYVaWmYoPTg
+
+Padre Paulo Ricardo   
 https://padrepauloricardo.org/blog/a-verdadeira-razao-pela-qual-catolicos-nao-podem-ser-macons
 
 Bulas papais:
-- Humanum genus
-- 
+- In eminenti apostolatus, Papa Clemente XII, 1738 
+- Providas romanorum, Bento XIV, 1751
+- Humanum genus, Leão XIII, 1884
