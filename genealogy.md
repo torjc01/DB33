@@ -18,21 +18,26 @@
 
 # Sociedades e Associações genealógicas
 
-**Société de Généalogie de Québec** [https://sgq.qc.ca](https://sgq.qc.ca) Signon juliozohar A@4   
+**Société de Généalogie de Québec** [https://sgq.qc.ca](https://sgq.qc.ca)  
 
 **Fédération Québecoise des Sociétés de Généalogie** [https://www.federationgenealogie.com/](https://www.federationgenealogie.com/)
 
-**Portail Savoir: centre de formation de la Fédération** [https://savoir.federationgenealogie.com/home/index](https://savoir.federationgenealogie.com/home/index) (*Signon Google IdP juliozohar*) 
+**Portail Savoir: centre de formation de la Fédération** [https://savoir.federationgenealogie.com/home/index](https://savoir.federationgenealogie.com/home/index)   
 
 **Société Généalogique canadienne-française** [https://sgcf.com/](https://sgcf.com/)
 
 **Bibliotheque Nationale de Québec - Généalogie** https://www.banq.qc.ca/genealogie/
 
+**Registres de l'état civil - Québec** https://www.banq.qc.ca/plateformes-numeriques/registres-de-letat-civil-du-quebec/
+
+**Irish Historical Society** http://www.irishheritagequebec.net/genealogy/
+
+
 # Sites de genealogia 
 
-**Ancestry** [https://ancestry.ca](https://ancestry.ca) Signon juliozohar
+**Ancestry** [https://ancestry.ca](https://ancestry.ca)  
 
-**FamilySearch** [https://www.familysearch.org/en/](https://www.familysearch.org/en/) Signon Google IdP juliozohar
+**FamilySearch** [https://www.familysearch.org/en/](https://www.familysearch.org/en/)  
 
 **MyHeritage** [https://www.myheritage.com/](https://www.myheritage.com/); **site pessoal:**
 [https://www.myheritage.com/site-870115191/torres](https://www.myheritage.com/site-870115191/torres)
