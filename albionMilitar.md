@@ -208,12 +208,27 @@ https://numerique.banq.qc.ca/patrimoine/details/52327/3611977?docsearchtext=Hami
 
 *Milborne, Alfred John Bidder.* **Freemasonry in the Province of Quebec.** 1st ed. Knowlton(QC): [s.n.], 1960. 
 
-*Hamon, É.*, **La franc-maçonnerie dans la province de Québec en 1883** /, Québec (Province), s.n., 1883, 276 p. ; 19 cm, Collections de BAnQ. 
+*Hamon, É.*, **La franc-maçonnerie dans la province de Québec en 1883**, Québec (Province), s.n., 1883, 276 p. ; 19 cm, Collections de BAnQ. 
 https://numerique.banq.qc.ca/patrimoine/details/52327/2021763 
 
 
 *Duncan, Capt. Francis.* **History of the Royal Regiment of Artillery: Compiled from the original records.** London: John Murray Ed, 1872.
 https://www.gutenberg.org/files/52258/52258-h/52258-h.htm#Page_251
+
+
+La franc-maçonnerie sous le régime français - État de la question   
+Roger Le Moine, S.R.C.   
+Les Cahiers des dix, Numéro 44, 1989   
+https://www.erudit.org/fr/revues/cdd/1989-n44-cdd0568/1015558ar.pdf
+	
+Francs-maçons francophones du temps de la «Province of Quebec» (1763-1791)   
+Roger Le Moine, S.R.C.   
+Les Cahiers des dix, Numéro 48, 1993   
+https://www.erudit.org/fr/revues/cdd/1993-n48-cdd0572/1015604ar.pdf
+
+
+Marrying a Redcoat: Women's Experiences of Marriage in the British Garrison of Quebec City, 1763-1820   
+https://qspace.library.queensu.ca/items/2e97ac9c-2d74-4066-84e4-22b26b9cab82
 
 
 ### Web 
