@@ -334,15 +334,20 @@ Charles Alexander as a businessman. Quebec Gazette, Cambrai Bowling Alleys Inc
 Gazette officielle du Québec. Québec official gazette., 1957-03-30, Collections de BAnQ, p. 1128.      
 https://numerique.banq.qc.ca/patrimoine/details/52327/2358987
 
+
+Ancient toponymes in Québec City   
+https://www.ville.quebec.qc.ca/citoyens/patrimoine/toponymie/anciens_toponymes.aspx
+
+
 ## Bibliography
 
 *Hong Kong Veteran’s Association of Canada.* **The Royal Rifles of Canada in Hong   
 Kong:1941-1945.** Progressive Publications, Sherbrooke, QC, 1980
 
 ##  Partners 
-<img src="https://www.sgq.qc.ca/client_file/themes/logos/logo_tag.png?rand=264617">
+<img src="../images/logoSGQ.png">
 
-Société de Généalogie de Québec   
+**Société de Généalogie de Québec**   
 https://www.sgq.qc.ca/
 
 ## Footnotes
