@@ -1,6 +1,6 @@
 Vénérable Maître, mes frères, 
 
-Retraçant see origines au sein d'une loge militaire anglaise, la loge Albion a toujours su hororer cet héritage qui est le privilège que d'un petit nombre de loges encore actives. 
+Retraçant ses origines au sein d'une loge militaire anglaise, la loge Albion a toujours su hororer cet héritage qui est le privilège que d'un petit nombre de loges encore actives. 
 
 Ses liens indeniables avec la British Army d'antan et avec les Forces Canadiennes d'aujourd'hui sont témoins d'une infinité de frères d'armes qui ont été reçus en Franc-Maçonnerie, devenant ainsi des frères de coeur. 
 

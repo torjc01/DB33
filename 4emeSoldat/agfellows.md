@@ -37,7 +37,7 @@ Sergeant-Major RCGA - Royal Canadian Garrison Artillery, 8th Regiment, "B" Batte
 
 Husband of Catherine Agnes Fellows née Black and ( - Feb 5th 1897)    
 
-Catherine death Feb 5th 1897 (Friday)    
+Catherine Black death Feb 5th 1897 (Friday)    
 
 Service from residence at the Citadel to St Matthew's Church, by Revd Lennox Williams, Revd Mr Scott.    
 
