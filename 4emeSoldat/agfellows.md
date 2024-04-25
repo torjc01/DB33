@@ -22,7 +22,7 @@
 |---|---|
 |Name|Alfred Grincell Fellows|
 |Date of birth|May 7th 1868|
-|Place of birth|Durham, England|
+|Place of birth|Kent, England|
 |Father||
 |Mother||
 |Next of kin||

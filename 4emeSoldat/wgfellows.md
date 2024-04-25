@@ -20,9 +20,10 @@
 |---|---|
 |Name|William Grincell Fellows|
 |Date of birth|Mar 1st 1865|
-|Place of birth|England|
+|Place of birth|Limerick, Ireland|
 |Father||
 |Mother||
+|Spouse| Alice Maud Emily Higgins| 
 |Next of kin||
 |Occupation|Military, Major, Royal Canadian Artillery|
 |Religion||
@@ -32,7 +33,8 @@
 |Burial site||
 
 B Battery Québec, RCA Royal Canadian Artillery  
-Wife: Alice Maud Emily Higgins 
+Wife: Alice Maud Emily Higgins d Mar 12th 1936 (65 y-o)
+Daughter: Doris Adelade Fellows b Jan 14th 1907 bp Jan 19th 1907
 
 In ranks 19yrs 8 mths   
 WO 3 yrs 8 mths 16 dys   
