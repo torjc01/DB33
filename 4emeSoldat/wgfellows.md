@@ -87,3 +87,14 @@ https://books.google.ca/books?id=ICU-AQAAMAAJ&lpg=PA1923&ots=fSxzPNBJfE&dq=%22wi
 
 La presse, 1947-09-19, Collections de BAnQ. Obituaire de William Gincell Fellows.    
 https://numerique.banq.qc.ca/patrimoine/details/52327/2959538?docsearchtext=grincell%20fellows
+
+In ranks 19 yrs 8 mths
+
+WO 3 yrs 8 mths 16 dys 
+
+Lt (DO) RCA 2 Dec 1907
+
+Capt  RCA 2 Dec 1912
+
+Canadiana Govt Records
+

@@ -14,30 +14,39 @@
 
 <!-- FIN ENTETE -->
 
-### **Maj TVF Alexander Young**
+# **Maj TVF Alexander Young**
 
 ||CIVIL DATA|
 |---|---|
 |Name|Alexander Young|
-|Date of birth||
+|Date of birth|Feb 1st 1869|
 |Place of birth|Aberdeen, Aberdeenshire, Scotland|
 |Father||
 |Mother||
-|Next of kin||
-|Occupation||
-|Religion||
-|Date of death||
-|Place of death||
-|Age at death||
-|Burial site||
+|Marriage|Oct 11th 1893, Toronto|
+|Spouse|Annie Buxton Young, née Gardiner|
+|Occupation|Soldier|
+|Religion|Methodist|
+|Date of death|June 3rd 1916, killed in action|
+|Place of death|[Battle of Sactuary Wood](https://www.veterans.gc.ca/eng/remembrance/memorials/hill-62)    |
+|Age at death|47 years-old|
+|Burial site|MENIN GATE (YPRES) MEMORIAL, Belgium, Grave ref: Panel 24 - 26 - 28 - 30  |
+
+
+Adesao ao exército: 1891
+Private Infantry School, York County
+
+Promoted Major June 1915, before enlisting for active duty
+
+## First World War 
+
 
 Rank: Major  
-DOB: 1869-02-01  
-Place of Birth: Aberdeen, Scotland  
 Force: Army   
 Unit: Canadian Infantry (Manitoba Regiment)   
     	52nd Overseas Battalion  
 Enlistment Date:	1915-10-31  
+Next of kin: 
 Place of Enlistment:	Port Arthur ON Canada  
 Reference:	RG 150, Accession 1992-93/166, Box 10642 - 49  
 Item Number:	330729  
@@ -45,8 +54,8 @@ Record Group:	Canadian Expeditionary Force (CEF)
 Service Number (regimental): No service numbers for officers     
 Died: 1916-06-03 Killed in action    
 Battle killed: [Battle of Sactuary Wood](https://www.veterans.gc.ca/eng/remembrance/memorials/hill-62)    
-Buried: MENIN GATE (YPRES) MEMORIAL, Belgium   
-Grave ref: Panel 24 - 26 - 28 - 30   
+Buried: 
+ 
 Decorations: Long Service and Good Conduct Medal   
 
 Son of the late Robert Young, of Aberdeen, Scotland; husband of Annie Buxton Young née Gardiner (formerly Young), of 89, Lockwell Avenue, Quebec.   

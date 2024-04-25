@@ -42,7 +42,11 @@
 **MyHeritage** [https://www.myheritage.com/](https://www.myheritage.com/); **site pessoal:**
 [https://www.myheritage.com/site-870115191/torres](https://www.myheritage.com/site-870115191/torres)
 
+# Militares
 
+**Canadian military records** https://www.familysearch.org/en/wiki/Canada_Military_Records
+
+**Quebec military records** https://www.familysearch.org/en/wiki/Quebec_Military_Records
 
 # Artigos e formações 
 

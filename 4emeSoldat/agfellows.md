@@ -101,3 +101,7 @@ Somewhere between 1897 and 1902 Marriage with Caroline H Reed
 1958 Death of Irene May Fellows 
 1965 Death of Vera Blanche Fellows 
 ```
+Census 1901: https://www.ancestry.ca/discoveryui-content/view/7966890:8826   
+Census 1911: https://www.ancestry.ca/discoveryui-content/view/1666571:8947   
+Grave: https://www.ancestry.ca/discoveryui-content/view/4031144:60527     
+https://www.findagrave.com/memorial/156652478/alfred-grincell-fellows
