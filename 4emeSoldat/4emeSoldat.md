@@ -104,9 +104,13 @@ He served in CANADA, England and France with the 12th Battalion. 11th Brigade Ma
  
 ## Second World War
 
-<img src="../images/cayoung/MajCharlesYoungPortrait.jpg">
+<img src="../images/cayoung/MajCharlesYoungPortrait.jpg"  width="600"/>
 
 **Maj Charles Alexander Young, 1st Btn "A" Coy, The Royal Rifles of Canada, C Force** 
+
+<img src="../images/cayoung/MajorCharlesYoungHK.jpg" width="600" />
+
+**Maj Charles Alexander Young, before embarking to the Hong Kong mission.<br/>Source: family photo.**
 
 |||
 |---|---|
@@ -130,9 +134,13 @@ He served in CANADA, England and France with the 12th Battalion. 11th Brigade Ma
 |HK-AS-02	|Argyle Street	|Kowloon, Hong Kong|||20, 33        |	43 Aug 19 |44 May 11|
 |HK-SA-02	|Shamshuipo	    |Kowloon, Hong Kong|||20, 33        |	44 May 11	|45 Sep 10|
 
+<img src="../images/cayoung/POWBarracks.jpg" width="600" />
+
+**Photo of a typical POW barrack in Honk Kong, where the canadian troops were kept. <br/>Source: family photo.**
+
 <img src="https://www.hkvca.ca/cforcedata/ext_files/comments/images/X96.jpg" />
 
-*In the fourth row from the bottom, 3rd from the left is X96 Major Charles A. Young of the Royal Rifles of Canada. Apparently this photo was taken just after liberation*
+**In the fourth row from the bottom, 3rd from the left is X96 Major Charles A. Young of the Royal Rifles of Canada. <br/>Apparently this photo was taken just after liberation. <br/>Source: Hong Kong Verterans Association.**
 
 **Decorations:**   
 
