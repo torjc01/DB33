@@ -33,8 +33,11 @@
 |Burial site||
 
 B Battery Québec, RCA Royal Canadian Artillery  
-Wife: Alice Maud Emily Higgins d Mar 12th 1936 (65 y-o)
-Daughter: Doris Adelade Fellows b Jan 14th 1907 bp Jan 19th 1907
+Wife: Alice Maud Emily Higgins d Mar 12th 1936 (65 y-o)  
+Daughter: Doris Adelade Fellows b Jan 14th 1907 bp Jan 19th 1907  
+
+
+<img src="../images/genTreeFellows.jpg" width="1200"/>
 
 In ranks 19yrs 8 mths   
 WO 3 yrs 8 mths 16 dys   
@@ -98,5 +101,4 @@ Lt (DO) RCA 2 Dec 1907
 
 Capt  RCA 2 Dec 1912
 
-Canadiana Govt Records
-
+*Canadiana Govt Records*

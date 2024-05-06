@@ -282,6 +282,23 @@ Right Worshipful Brother Alexander Young was the Master of the Lodge for the yea
 
 **Visitors signing Bible of Harry R Thompson. Source: photo familliale.**
 
+
+## Brother Charles' War Diary 
+
+Brother Charles kept a diary throughout the captivity period where he and other fellows jotted down, scribbled, and let out on paper the fellings of being held prisoners. 
+
+All the photos are provided by the kind contribution of Mrs Thompson-Castagnette, who takes active steps in preserving her family's memory. 
+
+<img src="../images/cayoung/HKDiary01.JPG" width="600"/>
+<img src="../images/cayoung/HKDiary02.JPG" width="600"/>
+<img src="../images/cayoung/HKDiary03.JPG" width="600"/>
+<img src="../images/cayoung/HKDiary08.JPG" width="600"/>
+<img src="../images/cayoung/HKDiary04.JPG" width="600"/>
+<img src="../images/cayoung/HKDiary05.JPG" width="600"/>
+<img src="../images/cayoung/HKDiary06.JPG" width="600"/>
+<img src="../images/cayoung/HKDiary07.JPG" width="600"/>
+
+
 # TODO
 
 - Possibilité d'en discuter avec le T V Fr Arthur Ward - il était le VM de la loge lors du décès du Fr Young
@@ -354,10 +371,21 @@ https://www.ville.quebec.qc.ca/citoyens/patrimoine/toponymie/anciens_toponymes.a
 *Hong Kong Veteran’s Association of Canada.* **The Royal Rifles of Canada in Hong   
 Kong:1941-1945.** Progressive Publications, Sherbrooke, QC, 1980
 
-##  Partners 
+##  Acknowledgements / Remeriements  
+
+### **Société de Généalogie de Québec**   
+
+https://www.sgq.qc.ca/
+
 <img src="../images/logoSGQ.png">
 
-**Société de Généalogie de Québec**   
-https://www.sgq.qc.ca/
+The courses on genealogical research offered by the Société de Généalogie du Québec allowed me to pursue the research of a richer set of documents that added to the density of sorces I had available to draw a picture of Brother Charles Alexander's life. 
+
+### **Mrs Jayne Thompson-Cascagnette** 
+
+Brother Charles' granddaughter, whose help with personal and family insight were invaluable to the consecution of the project. 
+
+She's also provided great photos that allowed a peek into the private life of Brother Charles Alexander. 
+
 
 ## Footnotes

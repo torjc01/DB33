@@ -124,23 +124,37 @@ The Quebec Chronicle, 10 juin 1916, samedi
                 Wor. Master.
 
 
+
+## Obituaries
+
+<img src="../images/ayoung/QcChronicle19120610-01.png" />
+<img src="../images/ayoung/QcChronicle19120610-02.png" />
+
+**Obituary and notice to Albion's members to attend the memorial service of the late W Bro Alexander Young. Source: Quebec Chronicle, June 10th 1916.**
+
+<img src="../images/ayoung/MemorialMajYoung.jpeg" />
+
+**Memorial card commemorating Maj Alexander Young's death, sent by government to the family. Source: family photo.**
+
+
+
+<img src="../images/ayoung/AlexanderYougHeadstone.JPG" width="700"/>
+
+**Alexander Young's commemorative headstone in Mount Hermon Cemetery, Quebec. Source: family photo.**
+
+## References 
+
 https://canadianfallen.ca/9875/YOUNG
 
 https://www.veterans.gc.ca/eng/remembrance/memorials/canadian-virtual-war-memorial/detail/1597253?Alexander%20Young
 
 https://www.bac-lac.gc.ca/eng/discover/military-heritage/first-world-war/personnel-records/Pages/item.aspx?IdNumber=330729
 
-Quebec Chronicle, 10 juin 1916,Demande Albion de presença ao servico religioso
+Quebec Chronicle, 10 juin 1916,Demande Albion de presença ao servico religioso  
 https://numerique.banq.qc.ca/patrimoine/details/52327/3611083?docsearchtext=alexander
 
 https://canadiangreatwarproject.com/person.php?pid=60436
 
 
-Quebec Chronicle, 8 juin 1916, Perfil Maj Alexander
+Quebec Chronicle, 8 juin 1916, Perfil Maj Alexander  
 https://numerique.banq.qc.ca/patrimoine/details/52327/3611081?docsearchtext=alexander
-
-<img src="../images/ayoung/MemorialMajYoung.jpeg" />
-
-**Memorial card commemorating Maj Alexander Young's death, sent by government to the family. Source: family's photo.**
-
-
