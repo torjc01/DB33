@@ -18,7 +18,7 @@
 
 ||CIVIL DATA|
 |---|---|
-|Name|Alexander Young|
+|Name|[Alexander Young](https://www.ancestry.ca/family-tree/person/tree/197335275/person/332580257102/facts)|
 |Date of birth|Feb 1st 1869|
 |Place of birth|Aberdeen, Aberdeenshire, Scotland|
 |Father||

@@ -20,7 +20,7 @@
 
 ||CIVIL DATA|
 |---|---|
-|Name|Charles Alexander Young|
+|Name|[Charles Alexander Young](https://www.ancestry.ca/family-tree/person/tree/197335275/person/332580256962/facts)|
 |Date of birth|Nov 26th 1895|
 |Place of birth|County of York, Toronto, ON|
 |Father|Alexander Young|

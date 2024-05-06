@@ -22,7 +22,7 @@ Irene May Fellows (Imperial War Museum - Lives of the First World War)
 
 ||CIVIL DATA|
 |---|---|
-|Name|Irene May Young, née Fellows|
+|Name|[Irene May Young, née Fellows](https://www.ancestry.ca/family-tree/person/tree/197335275/person/332580256963/facts)|
 |Date of birth|Sept 16th 1894 |
 |Place of birth|Quebec, PQ  Alfred |
 |Baptism| Oct 14th 1894, Anglican Saint Mathew's Church; Québec|

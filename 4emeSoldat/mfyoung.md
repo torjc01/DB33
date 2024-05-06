@@ -17,7 +17,7 @@
 
 ||CIVIL DATA|
 |---|---|
-|Name|Florence May Young|
+|Name|[Florence May Young](https://www.ancestry.ca/family-tree/person/tree/197335275/person/332580344705/facts)|
 |Date of birth|Aug 9th 1894|
 |Place of birth|Halton, ON|
 |Father|Alexander Young|

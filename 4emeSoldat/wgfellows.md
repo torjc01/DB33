@@ -18,7 +18,7 @@
 
 ||CIVIL DATA|
 |---|---|
-|Name|William Grincell Fellows|
+|Name|[William Grincell Fellows](https://www.ancestry.ca/family-tree/person/tree/197335275/person/332580303118/facts)|
 |Date of birth|Mar 1st 1865|
 |Place of birth|Limerick, Ireland|
 |Father||
@@ -102,3 +102,7 @@ Lt (DO) RCA 2 Dec 1907
 Capt  RCA 2 Dec 1912
 
 *Canadiana Govt Records*
+
+# Headstone
+
+<img src="../images/wgfellows/WilliamGFellowsHeadstone.jpg" />

@@ -20,7 +20,7 @@
 
 ||CIVIL DATA|
 |---|---|
-|Name|Alfred Grincell Fellows|
+|Name|[Alfred Grincell Fellows](https://www.ancestry.ca/family-tree/person/tree/197335275/person/332580300467/facts)|
 |Date of birth|May 7th 1868|
 |Place of birth|Kent, England|
 |Father||
