@@ -16,7 +16,7 @@
 
 # Lojas militares 
 
-**Título provisório:** *O papel das lojas militares na disseminação da Franco-Maçonaria na América do Norte* 
+**Título provisório:** *O papel das lojas militares na disseminação da Franco-Maçonaria na América do Norte* *Le rôle des Loges Militaires dans la dissemination de la Franc-Maçonnerie à Québec*
 
 **Plano geográfico:** América do Norte (EUA e Canadá); focar no Canadá e província de Québec
 
