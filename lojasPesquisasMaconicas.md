@@ -51,7 +51,8 @@ http://pythagoraslodge.com/
 # Ressources 
 
 ## Mini-bio 
-Bacharel em Economia pela União Pioneira de Integração Social (UPIS), especializado em Gestão de Mercados de Capitais e em Engenharia de Software pela Fundação Getúlio Vargas (FGV). Mestre Maçom oriundo do GOB/GODF (Loja Universitária Verdade e Evolução, nº 3492), atualmente Capelão da Loja Albion nº 2, jurisdicionada à Grande Loge du Québec, no Oriente de Québec, Canada. Email: juliozohar@gmail.com
+Bacharel em Economia pela União Pioneira de Integração Social (UPIS), especializado em Gestão de Mercados de Capitais e em Engenharia de Software pela Fundação Getúlio Vargas (FGV). Mestre Maçom oriundo do GOB/GODF (Loja Universitária Verdade e Evolução, nº 3492), atualmente Capelão da Loja Albion nº 2, jurisdicionada à Grande Loge du Québec, no Oriente de Québec, Canada. Email: juliozohar@gmail.com   
+ISNI: [0000000514481682](https://isni.org/isni/0000000514481682)
 
 ## ISNI International Standard Name Identifier 
 Home page ISNI Institute   
