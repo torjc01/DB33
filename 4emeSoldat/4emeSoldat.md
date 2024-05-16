@@ -301,18 +301,23 @@ All the photos are provided by the kind contribution of Mrs Thompson-Castagnette
 
 # TODO
 
+ALBION 
+
 - Possibilité d'en discuter avec le T V Fr Arthur Ward - il était le VM de la loge lors du décès du Fr Young
 - Vérifier dans les archives les dates d'Initiation, passage et élévation du Fr Charles Young 
 - Checker s'il y a des faits saillants sur Fr Young dans les procès-verbaux de la secrétaire
 - Vérifier si l'on a une statistique de la proportion de frères qui sont militaires dans l'active, ou qui sont passés par les forces. 
 - Vérifier les données du TVF William Grincell Fellows (oncle de l'épouse) - vénérable Maître d'Albion l'année 1908
 - Vérifier les données du Fr Alfred Grincell Fellows (Père de l'épouse)
-- [OK] Vérifier si le Fr Harry Ralph Thompson (beau-fils - mari à Phylis) était membre de la loge - **Non, il était membre de la Riverdale Lodge #494, à l'Orient de Toronto.** 
+- Vérifier auprès des archives si les frères Alfred Fellows, bien comme le frère Charles, étaient des membres effectifs d'Albion ou d'autre loge
 - Demander le logo de la loge à Éric ou à Richard 
+
+OTHER TASKS
+
+- [OK] Vérifier si le Fr Harry Ralph Thompson (beau-fils - mari à Phylis) était membre de la loge - **Non, il était membre de la Riverdale Lodge #494, à l'Orient de Toronto.** 
 - Acheter un shooter extra pour faire cadeau à Jayne 
 - Check with Jayne des infos sur le service militaire de son père 
-- Écrire un résumé du drama des Fellows 
-- Vérifier auprès des archives si les frères Alfred Fellows, bien comme le frère Charles, étaient des membres effectifs d'Albion ou d'autre loge
+- [OK] Écrire un résumé du drama des Fellows 
 - Faire recherche au registre foncier de la municipalité de Lac-St-Joseph pour retrouver le challet familial. 
 
 # References 
