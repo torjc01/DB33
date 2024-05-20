@@ -131,7 +131,7 @@ Member of Albion Lodge, #2. Right Worshipful Brother Alexander Young was the Wor
 ## Obituaries
 
 **Circumstance of death:**    
-as written in letters to the family by Major Young's brothers-in-arms who were eye witness of his death, his grand-daughter tells us of the circumstances ofhis death:
+as written in letters to the family by Major Young's brothers-in-arms who were eye witness of his death, his grand-daughter tells us of the circumstances of his death:
 
 *"His men saw him go into a fox hole and then the explosion from the bomb that followed him in. It was very heavy fighting and by the time they could go back to look for him, there was nothing to be found."*
 
