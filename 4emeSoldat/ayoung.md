@@ -21,8 +21,8 @@
 |Name|[Alexander Young](https://www.ancestry.ca/family-tree/person/tree/197335275/person/332580257102/facts)|
 |Date of birth|Feb 1st 1869|
 |Place of birth|Aberdeen, Aberdeenshire, Scotland|
-|Father||
-|Mother||
+|Father|James Young|
+|Mother|Jane Troup|
 |Marriage|Oct 11th 1893, Toronto|
 |Spouse|Annie Buxton Young, née Gardiner|
 |Occupation|Soldier|
