@@ -144,17 +144,28 @@ The Quebec Chronicle, 10 juin 1916, samedi
 
 ## References 
 
+
+Service File - Library and Archives Canada    
+https://www.bac-lac.gc.ca/eng/discover/military-heritage/first-world-war/personnel-records/Pages/item.aspx?IdNumber=330729
+
+Commonwealth War Graves Commission     
+https://www.cwgc.org/find-records/find-war-dead/casualty-details/1597253/alexander-young/
+
+Canadian Fallen    
 https://canadianfallen.ca/9875/YOUNG
 
+Canadian Virtual War Memorial  
 https://www.veterans.gc.ca/eng/remembrance/memorials/canadian-virtual-war-memorial/detail/1597253?Alexander%20Young
+ 
+Canadian Great War Project   
+https://canadiangreatwarproject.com/person.php?pid=60436
 
-https://www.bac-lac.gc.ca/eng/discover/military-heritage/first-world-war/personnel-records/Pages/item.aspx?IdNumber=330729
+### Newspaper clippings
+
+Quebec Chronicle, 8 juin 1916, Perfil Maj Alexander  
+https://numerique.banq.qc.ca/patrimoine/details/52327/3611081?docsearchtext=alexander
 
 Quebec Chronicle, 10 juin 1916,Demande Albion de presença ao servico religioso  
 https://numerique.banq.qc.ca/patrimoine/details/52327/3611083?docsearchtext=alexander
 
-https://canadiangreatwarproject.com/person.php?pid=60436
 
-
-Quebec Chronicle, 8 juin 1916, Perfil Maj Alexander  
-https://numerique.banq.qc.ca/patrimoine/details/52327/3611081?docsearchtext=alexander
