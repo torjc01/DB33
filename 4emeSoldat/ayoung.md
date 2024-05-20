@@ -164,6 +164,9 @@ As his body could never be retrieved, there is no grave with his remains to be v
 
 **Alexander Young's commemorative headstone in Mount Hermon Cemetery, Quebec. Source: family photo.**
 
+Monument 52nd (New Ontario) Battalion, Canadin Expeditionary Force
+[Google Maps](https://maps.app.goo.gl/r9rtzu6qTUV5i5Nn7?g_st=ic)
+
 ## References 
 
 
