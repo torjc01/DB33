@@ -129,3 +129,24 @@ Census 1901: https://www.ancestry.ca/discoveryui-content/view/7966890:8826
 Census 1911: https://www.ancestry.ca/discoveryui-content/view/1666571:8947   
 Grave: https://www.ancestry.ca/discoveryui-content/view/4031144:60527     
 https://www.findagrave.com/memorial/156652478/alfred-grincell-fellows
+
+## Newspaper clippings
+
+The Quebec chronicle, 1914-02-24, Collections de BAnQ.
+https://numerique.banq.qc.ca/patrimoine/details/52327/3610366
+
+The Quebec chronicle, 1914-02-25, Collections de BAnQ.
+https://numerique.banq.qc.ca/patrimoine/details/52327/3610367
+
+The daily witness, 1912-11-19, Collections de BAnQ.
+https://numerique.banq.qc.ca/patrimoine/details/52327/4698841
+
+L'action sociale, 1912-11-19, Collections de BAnQ.
+https://numerique.banq.qc.ca/patrimoine/details/52327/2784474
+
+L'action sociale, 1912-11-21, Collections de BAnQ.
+https://numerique.banq.qc.ca/patrimoine/details/52327/2783107
+
+The Quebec chronicle, 1912-11-19, Collections de BAnQ.
+https://numerique.banq.qc.ca/patrimoine/details/52327/3609975
+
