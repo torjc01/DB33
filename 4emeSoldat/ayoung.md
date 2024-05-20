@@ -38,13 +38,17 @@ Private Infantry School, York County
 
 Promoted Major June 1915, before enlisting for active duty
 
-## Boer War
+## South African War (Boer War)
 
 Rank: Lieutenant
 Force: Militia
 Unit: Royal Canadian Regiment (RCR)
 
 [Land Grant Application](https://www.bac-lac.gc.ca/eng/discover/military-heritage/south-african-war-1899-1902/Pages/item.aspx?IdNumber=7346&) Library and Archives Canada - must be ordered a copy
+
+**Refs:**
+
+[South African War, 1899-1902 - Service Files, Medals and Land Applications](https://www.bac-lac.gc.ca/eng/discover/military-heritage/south-african-war-1899-1902/Pages/service-files-south-african-war.aspx#g) - Library and Archives Canada
 
 ## First World War 
 
