@@ -44,7 +44,7 @@ Promoted Major June 1915, before enlisting for active duty
 Rank: Major  
 Force: Army   
 Unit: Canadian Infantry (Manitoba Regiment)   
-    	52nd Overseas Battalion  
+Division: 52nd Overseas Battalion  
 Enlistment Date:	1915-10-31  
 Next of kin: 
 Place of Enlistment:	Port Arthur ON Canada  
