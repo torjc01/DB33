@@ -54,7 +54,7 @@ Record Group:	Canadian Expeditionary Force (CEF)
 Service Number (regimental): No service numbers for officers     
 Died: 1916-06-03 Killed in action    
 Battle killed: [Battle of Sactuary Wood](https://www.veterans.gc.ca/eng/remembrance/memorials/hill-62)    
-Buried: 
+Buried: MENIN GATE (YPRES) MEMORIAL, Belgium, Grave ref: Panel 24 - 26 - 28 - 30
  
 Decorations: Long Service and Good Conduct Medal   
 
@@ -110,7 +110,26 @@ La Patrie, 8 juin 1916, jeudi
       camp de Valcartier était commandant en second du 2e batallion qui était alors commandé par le 
       général D. Watson. 
 
-The Quebec Chronicle, 10 juin 1916, samedi
+
+## Masonic Life 
+
+Member of Albion Lodge, #2. Right Worshipful Brother Alexander Young was the Worshipful Master of the Lodge for the year of 1913, shortly before deploying to the European theatre on First World War, where he would pay the ultimate sacrifice for his country.
+
+<img src="../images/pastMasters.png"/>
+
+## Obituaries
+
+**Circumstance of death:**    
+as written in letters to the family by Major Young's brothers-in-arms who were eye witness of his death, his grand-daughter tells us of the circumstances ofhis death:
+
+*"His men saw him go into a fox hole and then the explosion from the bomb that followed him in.  It was very heavy fighting and by the time they could go back to look for him, there was nothing to be found."*
+
+As his body could never be retrieved, there is no grave with his remains to be visited. The Commonwealth War Graves Commission has a [memorial](https://www.cwgc.org/find-records/find-war-dead/casualty-details/1597253/alexander-young/) for him at the Menin Gate Memorial, in Ypres, Belgium. 
+
+<img src="../images/ayoung/QcChronicle19120610-01.png" />
+<img src="../images/ayoung/QcChronicle19120610-02.png" />
+
+**Obituary and notice to Albion's members to attend the memorial service of the late W Bro Alexander Young. Source: Quebec Chronicle, June 10th 1916.**
 
       Albion Lodge No. 2 
       A.F.& A.M.
@@ -125,18 +144,10 @@ The Quebec Chronicle, 10 juin 1916, samedi
 
 
 
-## Obituaries
-
-<img src="../images/ayoung/QcChronicle19120610-01.png" />
-<img src="../images/ayoung/QcChronicle19120610-02.png" />
-
-**Obituary and notice to Albion's members to attend the memorial service of the late W Bro Alexander Young. Source: Quebec Chronicle, June 10th 1916.**
 
 <img src="../images/ayoung/MemorialMajYoung.jpeg" />
 
-**Memorial card commemorating Maj Alexander Young's death, sent by government to the family. Source: family photo.**
-
-
+**Memorial card commemorating Maj Alexander Young's death, sent by the Canadian government to the family. Source: family photo.**
 
 <img src="../images/ayoung/AlexanderYougHeadstone.JPG" width="700"/>
 
