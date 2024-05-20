@@ -33,7 +33,7 @@
 |Burial site|MENIN GATE (YPRES) MEMORIAL, Belgium, Grave ref: Panel 24 - 26 - 28 - 30  |
 
 
-Adesao ao exército: 1891
+Joined the Militia: 1891
 Private Infantry School, York County
 
 Promoted Major June 1915, before enlisting for active duty
