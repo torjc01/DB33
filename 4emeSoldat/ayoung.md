@@ -40,9 +40,9 @@ Promoted Major June 1915, before enlisting for active duty
 
 ## South African War (Boer War)
 
-Rank: Lieutenant
-Force: Militia
-Unit: Royal Canadian Regiment (RCR)
+Rank: Lieutenant   
+Force: Militia   
+Unit: Royal Canadian Regiment (RCR)   
 
 [Land Grant Application](https://www.bac-lac.gc.ca/eng/discover/military-heritage/south-african-war-1899-1902/Pages/item.aspx?IdNumber=7346&) Library and Archives Canada - must be ordered a copy
 
