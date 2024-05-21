@@ -108,4 +108,8 @@ https://www.militarymasons.org.uk/
 Photos soirée militaire UGLE   
 https://www.dropbox.com/sh/4ji8filyitkkg1g/AADSe4acJWMNEOvUQThUBccaa?dl=0
 
+Canadian Soldiers     
+https://www.canadiansoldiers.com/index.htm
 
+Doing our bit - Military and family history research    
+https://militaryandfamilyhistory.blog/
