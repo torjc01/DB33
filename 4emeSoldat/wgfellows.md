@@ -165,6 +165,10 @@ https://canadiangreatwarproject.com/person.php?pid=962599
 
 ## Newspapers clippings 
 
+The daily witness, 1904-04-20, Collections de BAnQ.
+https://numerique.banq.qc.ca/patrimoine/details/52327/4704113?docsearchtext=william%20fellows
+A military Promotion - W G Fellows
+
 The Canada Gazette. Ottawa, Saturday, Jan 4th, 1908. Promotions William Grincell Fellows.    
 https://books.google.ca/books?id=ICU-AQAAMAAJ&lpg=PA1923&ots=fSxzPNBJfE&dq=%22william%20grincell%20fellows%22&hl=pt-BR&pg=PA1701#v=onepage&q&f=false
 
