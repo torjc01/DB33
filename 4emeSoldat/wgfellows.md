@@ -135,11 +135,12 @@ https://canadiangreatwarproject.com/person.php?pid=962599
 
 ## Newspapers clippings 
 
-La presse, 1947-09-19, Collections de BAnQ. Obituaire de William Gincell Fellows.    
-https://numerique.banq.qc.ca/patrimoine/details/52327/2959538?docsearchtext=grincell%20fellows
-
 The Canada Gazette. Ottawa, Saturday, Jan 4th, 1908. Promotions William Grincell Fellows.    
 https://books.google.ca/books?id=ICU-AQAAMAAJ&lpg=PA1923&ots=fSxzPNBJfE&dq=%22william%20grincell%20fellows%22&hl=pt-BR&pg=PA1701#v=onepage&q&f=false
 
-The Quebec chronicle, 1918-09-27, Collections de BAnQ.
+The Quebec chronicle, 1918-09-27, Collections de BAnQ. Departure of a popular officer. 
 https://numerique.banq.qc.ca/patrimoine/details/52327/3611812?docsearchtext=william%20fellows
+
+La presse, 1947-09-19, Collections de BAnQ. Obituaire de William Gincell Fellows.    
+https://numerique.banq.qc.ca/patrimoine/details/52327/2959538?docsearchtext=grincell%20fellows
+
