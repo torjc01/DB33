@@ -84,11 +84,6 @@ Capt RCA - Dec 2nd 1912
 **Source: The Canada Gazette. Jan 4th, 1908. Promotions William Grincell Fellows**
 
 
-<img src="../images/wgfellows/wgFellows-obirtuary.png" />
-
-**Source: La Presse, 19 sept 1947**
-
-
 In ranks 19 yrs 8 mths
 
 WO 3 yrs 8 mths 16 dys 
@@ -99,7 +94,23 @@ Capt  RCA 2 Dec 1912
 
 *Canadiana Govt Records*
 
-# Headstone
+# Masonic Life
+
+- Worshipful Master of The Lodge of Antiquity, #1, Montréal, Québec, year 1899. 
+
+- Worshipful Master of Albion Lodge #2, Québec, Québec, year 1908. 
+
+Sources: Albion Roll Call
+
+<img src="../images/pastMasters.png" />
+
+# Obituary
+
+<img src="../images/wgfellows/wgFellows-obirtuary.png" />
+
+**Source: La Presse, 19 sept 1947**
+
+## Headstone 
 
 <img src="../images/wgfellows/WilliamGFellowsHeadstone.jpg" />
 
