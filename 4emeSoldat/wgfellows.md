@@ -32,12 +32,18 @@
 |Age at death|82 years|
 |Burial site|Les Jardins Commémoratifs Lakeview Memorial Gardens (Pointe-Claire), Montréal, Quebec|
 
+<img src="../images/genTreeFellows.jpg" width="1200"/>
+
+# Northwest Rebellion 1885
+
+Relief of Battleford (24th April); Action at Cut Knife Hill (2nd May); Operations against Chief Big Bear (june-July); Medal with clasp.
+
+
+# Military carreer 
+
 B Battery Québec, RCA Royal Canadian Artillery  
 Wife: Alice Maud Emily Higgins d Mar 12th 1936 (65 y-o)  
 Daughter: Doris Adelade Fellows b Jan 14th 1907 bp Jan 19th 1907  
-
-
-<img src="../images/genTreeFellows.jpg" width="1200"/>
 
 In ranks 19yrs 8 mths   
 WO 3 yrs 8 mths 16 dys   
