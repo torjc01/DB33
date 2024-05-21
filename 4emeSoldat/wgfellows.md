@@ -96,13 +96,18 @@ Capt  RCA 2 Dec 1912
 
 # Masonic Life
 
+In the Masonic Order he has had the distinction of being Past-Master of the two oldest lodges in Canada, Antiquity No.1 of Montreal and Albion No.2, of Quebec, both of which are under the Grand Registry of Quebec. In addition he has been honoured by his brethren in the Order by being elected to the important position of District Grand Master of Quebec and Three Rivers.
+
 - Worshipful Master of The Lodge of Antiquity, #1, Montréal, Québec, year 1899. 
 
 - Worshipful Master of Albion Lodge #2, Québec, Québec, year 1908. 
 
-Sources: Albion Roll Call
-
 <img src="../images/pastMasters.png" />
+
+Sources:    
+Albion Roll Call.     
+The Quebec chronicle, 1918-09-27.   
+Antiquity Lodge 2 books.
 
 # Obituary
 
@@ -136,3 +141,5 @@ https://numerique.banq.qc.ca/patrimoine/details/52327/2959538?docsearchtext=grin
 The Canada Gazette. Ottawa, Saturday, Jan 4th, 1908. Promotions William Grincell Fellows.    
 https://books.google.ca/books?id=ICU-AQAAMAAJ&lpg=PA1923&ots=fSxzPNBJfE&dq=%22william%20grincell%20fellows%22&hl=pt-BR&pg=PA1701#v=onepage&q&f=false
 
+The Quebec chronicle, 1918-09-27, Collections de BAnQ.
+https://numerique.banq.qc.ca/patrimoine/details/52327/3611812?docsearchtext=william%20fellows
