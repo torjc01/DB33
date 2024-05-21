@@ -32,23 +32,62 @@
 |Age at death|47 years-old|
 |Burial site|MENIN GATE (YPRES) MEMORIAL, Belgium, Grave ref: Panel 24 - 26 - 28 - 30  |
 
+## Military carreer
 
 Joined the Militia: 1891
 Private Infantry School, York County
 
+Colour Sergeant RCR
+
 Promoted Major June 1915, before enlisting for active duty
+
+Awarded The Long Service and Good Conduct Medal, 1910 
+
+Source : The Royal Canadian Regiment, 1883-1933, Robert Collier Fetherstonhaugh, p. 449
+
+<img src="../images/ayoung/LongServiceAward.png" width="600" />
+
+### **Colour-Sergeant** 
+
+It is the senior NCO of a Coy; it is a rank equivalent to warrant officer. He wears the rank insignia of a warrant officer 
+(a royal crown) on all uniforms, except on No.1 Cerimonial Dress, on which a special rank badge is worn: three chevrons, 
+pointing down, surmonted by an image of the regimental Colours. The rank was introduced by the British Army Infantry 
+Regiments in 1813 during the Napoleonic Wars to reward long serving sergeants. 
+
+Source: https://www.canadiansoldiers.com/ranks/tableofranksandresponsibilities.htm
+
+<img src="../images/ayoung/InsigniaColourSergeant.png" width="300" />
+
+**Insignia of Colour-Sergeant**
+
+Source: https://www.canadiansoldiers.com/ranks/tableofranksandresponsibilities.htm
+
+
 
 ## South African War (Boer War)
 
-Rank: Lieutenant   
+Rank: Colour Sergeant; Lieutenant   
 Force: Militia   
 Unit: Royal Canadian Regiment (RCR)   
+
+2nd (Special Service) Battalion, Royal Canadian Regiment, 
+
+"E" Coy Recruited in Montréal, PQ
+
+"E" Coy Colour-Sargeant A. Young 
+
+Embarked to South Africa October 30th 1899 in Quebec City, on the Allan Line S.S. Sardinian. 
+
+There were two stowaways on the ship, that upon discovery were taken on strength on the force. 
+
 
 [Land Grant Application](https://www.bac-lac.gc.ca/eng/discover/military-heritage/south-african-war-1899-1902/Pages/item.aspx?IdNumber=7346&) Library and Archives Canada - must be ordered a copy
 
 **Refs:**
 
 [South African War, 1899-1902 - Service Files, Medals and Land Applications](https://www.bac-lac.gc.ca/eng/discover/military-heritage/south-african-war-1899-1902/Pages/service-files-south-african-war.aspx#g) - Library and Archives Canada
+
+
 
 ## First World War 
 

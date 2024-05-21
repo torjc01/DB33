@@ -67,6 +67,32 @@ The Sgt Charles Alexander served in the 8th Regiment "Royal Rifles" from 1908. W
 > [!TIP]
 > Curiosity: Salisbury Plain is the same region where Stonehenge is located !
 
+
+June 3rd 1915 - Death of Alexander Young, in Ypres.
+
+**11th Canadian Infantry Brigade MG Coy**
+- Aug 12th 1916 - Dismbark at Le Havre   
+- **[SOMME]**   
+- Oct 21st to Nov 11th 1916 - Battle of the Somme (Regina and Desire trenches)
+
+**16 MCG Coy** 
+- **[VIMY]**
+- Apr 9th to 11th 1916 - Battle of Vimy Ridge   
+- **[PASSCHENDAELE]**   
+- June 3rd 1917 - Action newar La Coulette
+- June 27th 1917 - Action near Avion
+- Oct 27th 1917 - Action at Decline Copse 
+
+**4th CMGC**  
+- **[Canada 100 Days]**
+- Aug 9th to 11th 1918 - Battle of Amiens 
+- Sep 1st to 2nd 1918 - Battle of Drocout-Queant
+- Sep 27th to Oct 1st 1918 - Battle of Canal du Nord 
+- Nov 1st to 2nd 1918 - Battle of Valenciennes 
+
+
+
+
 [^8thReg]: https://www.canada.ca/en/department-national-defence/services/military-history/history-heritage/official-military-history-lineages/lineages/infantry-regiments/voltigeurs-quebec.html
 [^Voyage]: https://www.canadiansoldiers.com/regiments/cef/012battalion.htm
 [^Salisbury]: [The First Canadian Contingent on Salisbury Plain](https://militaryandfamilyhistory.blog/2014/10/25/the-first-canadian-contingent-on-salisbury-plain/)
