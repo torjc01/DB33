@@ -130,13 +130,6 @@ Member of Albion Lodge, #2. Right Worshipful Brother Alexander Young was the Wor
 
 ## Obituaries
 
-**Circumstance of death:**    
-as written in letters to the family by Major Young's brothers-in-arms who were eye witness of his death, his grand-daughter tells us of the circumstances of his death:
-
-*"His men saw him go into a fox hole and then the explosion from the bomb that followed him in. It was very heavy fighting and by the time they could go back to look for him, there was nothing to be found."*
-
-As his body could never be retrieved, there is no grave with his remains to be visited. The Commonwealth War Graves Commission has a [memorial](https://www.cwgc.org/find-records/find-war-dead/casualty-details/1597253/alexander-young/) for him at the [Menin Gate Memorial](https://www.cwgc.org/visit-us/find-cemeteries-memorials/cemetery-details/91800/ypres-menin-gate-memorial/), in Ypres, Belgium. 
-
 <img src="../images/ayoung/QcChronicle19120610-01.png" />
 <img src="../images/ayoung/QcChronicle19120610-02.png" />
 
@@ -153,6 +146,21 @@ As his body could never be retrieved, there is no grave with his remains to be v
              C. H. KNOWLES, 
                 Wor. Master.
 
+**Circumstance of death:**    
+as written in letters to the family by Major Young's brothers-in-arms who were eye witness of his death, his grand-daughter tells us of the circumstances of his death:
+
+*"His men saw him go into a fox hole and then the explosion from the bomb that followed him in. It was very heavy fighting and by the time they could go back to look for him, there was nothing to be found."*
+
+As his body could never be retrieved, there is no grave with his remains to be visited. The Commonwealth War Graves Commission has a [memorial](https://www.cwgc.org/find-records/find-war-dead/casualty-details/1597253/alexander-young/) for him at the [Menin Gate Memorial](https://www.cwgc.org/visit-us/find-cemeteries-memorials/cemetery-details/91800/ypres-menin-gate-memorial/), in Ypres, Belgium. 
+
+However, in Mount Hermon Cemetery, Quebec City, there is a memorial to Major Young in his beloved wife's headstone, where his memory can be cherished near his home. 
+
+<img src="../images/ayoung/AlexanderYougHeadstone.JPG" width="700"/>
+
+**Alexander Young's commemorative headstone in Mount Hermon Cemetery, Quebec. Source: family photo.**
+
+**Monument 52nd (New Ontario) Battalion, Canadin Expeditionary Force**
+[Google Maps](https://maps.app.goo.gl/r9rtzu6qTUV5i5Nn7?g_st=ic)
 
 
 
@@ -160,12 +168,6 @@ As his body could never be retrieved, there is no grave with his remains to be v
 
 **Memorial card commemorating Maj Alexander Young's death, sent by the Canadian government to the family. Source: family photo.**
 
-<img src="../images/ayoung/AlexanderYougHeadstone.JPG" width="700"/>
-
-**Alexander Young's commemorative headstone in Mount Hermon Cemetery, Quebec. Source: family photo.**
-
-Monument 52nd (New Ontario) Battalion, Canadin Expeditionary Force
-[Google Maps](https://maps.app.goo.gl/r9rtzu6qTUV5i5Nn7?g_st=ic)
 
 ## References 
 
