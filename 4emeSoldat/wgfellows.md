@@ -36,8 +36,11 @@
 
 # Northwest Rebellion 1885
 
-Relief of Battleford (24th April); Action at Cut Knife Hill (2nd May); Operations against Chief Big Bear (june-July); Medal with clasp.
+- Relief of Battleford (24th April);
+- Action at Cut Knife Hill (2nd May);
+- Operations against Chief Big Bear (june-July).
 
+Awarded with Medal with clasp for his actions on the field. 
 
 # Military carreer 
 
