@@ -296,8 +296,6 @@ Right Worshipful Brother Alexander Young was the Master of the Lodge for the yea
 
 **Plat commemoratif des 175 ans de la loge Albion donné au Fr Charles Alexander Young. Source: photo familliale**
 
-<img src="../images/hrthompson/Certificate.jpg" />
-
 ## Brother Charles' War Diary 
 
 Brother Charles kept a diary throughout the captivity period where he and other fellows jotted down, scribbled, and let out on paper the fellings of being held prisoners. 
