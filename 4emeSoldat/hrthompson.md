@@ -44,7 +44,15 @@ Phyllis Alexandra Thompson, née Young
 January 10th, 1931, Quebec City, QC — April 5th, 2020 Scarborough, ON
 https://www.basicfunerals.ca/obituaries/Phyllis-Thompson
 
+**Certificate Master Mason H R Thompson. Source: photo familliale.**
 
+<img src="../images/hrthompson/Bible.jpg" />
+
+**Bible presented to Harry R Thompson. Source: photo familliale.**
+
+<img src="../images/hrthompson/Sign.jpg" />
+
+**Visitors signing Bible of Harry R Thompson. Source: photo familliale.**
 
 ## **His Daughter: Jayne Thompson-Cascagnette**
 
