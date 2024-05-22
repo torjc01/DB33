@@ -44,6 +44,8 @@ Phyllis Alexandra Thompson, née Young
 January 10th, 1931, Quebec City, QC — April 5th, 2020 Scarborough, ON
 https://www.basicfunerals.ca/obituaries/Phyllis-Thompson
 
+<img src="../images/hrthompson/Certificate.jpg" />
+
 **Certificate Master Mason H R Thompson. Source: photo familliale.**
 
 <img src="../images/hrthompson/Bible.jpg" />
