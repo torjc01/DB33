@@ -298,17 +298,6 @@ Right Worshipful Brother Alexander Young was the Master of the Lodge for the yea
 
 <img src="../images/hrthompson/Certificate.jpg" />
 
-**Certificate Master Mason H R Thompson. Source: photo familliale.**
-
-<img src="../images/hrthompson/Bible.jpg" />
-
-**Bible presented to Harry R Thompson. Source: photo familliale.**
-
-<img src="../images/hrthompson/Sign.jpg" />
-
-**Visitors signing Bible of Harry R Thompson. Source: photo familliale.**
-
-
 ## Brother Charles' War Diary 
 
 Brother Charles kept a diary throughout the captivity period where he and other fellows jotted down, scribbled, and let out on paper the fellings of being held prisoners. 
