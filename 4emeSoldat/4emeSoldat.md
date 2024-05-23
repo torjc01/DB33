@@ -115,7 +115,8 @@ He served in CANADA, England and France with the 12th Battalion. 11th Brigade Ma
 > **Awards:**   
 > Military Cross  
 > Date of award: 1919-06-03   
-> Source: London Gazette, No. 31370, pg. 6837[^MC]
+> Source: The Fifth Supplement to the London Gazette(of Friday 3 May 1919), issue 31370 page 6837 [^MC]
+> There was no citation since it was awarded in the Kings birthday honours list.
 
   [^MC]:(https://www.thegazette.co.uk/London/issue/31370/page/6837)    
   *Lt. Charles Alexander Young, 4th Bn., Can.    
