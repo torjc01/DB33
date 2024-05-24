@@ -105,11 +105,11 @@ Capt  RCA 2 Dec 1912
 
 # Masonic Life
 
-In the Masonic Order he has had the distinction of being Past-Master of the two oldest lodges in Canada, Antiquity No.1 of Montreal ([^Lodge of Antiquity 1906], [^Nevinson 1963])and Albion No.2, of Quebec, both of which are under the Grand Registry of Quebec. In addition he has been honoured by his brethren in the Order by being elected to the important position of District Grand Master of Quebec and Three Rivers.
+In the Masonic Order he has had the distinction of being Past-Master of the two oldest lodges in Canada, Antiquity No.1 of Montreal [Lodge of Antiquity 1906][^1] [Nevinson 1963][^2] and Albion No.2 [Summons][^3], of Quebec, both of which are under the Grand Registry of Quebec. In addition he has been honoured by his brethren in the Order by being elected to the important position of District Grand Master of Quebec and Three Rivers.
 
-- Worshipful Master of The Lodge of Antiquity, #1, Montréal, Québec, year 1899. 
+- Worshipful Master of The Lodge of Antiquity, #1, Montréal, Québec, year 1899. [^1], [^2]
 
-- Worshipful Master of Albion Lodge #2, Québec, Québec, year 1908. 
+- Worshipful Master of Albion Lodge #2, Québec, Québec, year 1908. [^3]
 
 <img src="../images/pastMasters.png" />
 
@@ -187,7 +187,8 @@ https://numerique.banq.qc.ca/patrimoine/details/52327/2959538?docsearchtext=grin
 
 ## Bibliography
 
-[^Lodge of Antiquity 1906]: Lodge of Antiquity. By-Laws of The Lodge of Antiquity Ancient Free and Accepted Masons (Montreal:1906), 17.
+[^1]:[Lodge of Antiquity 1906] Lodge of Antiquity. By-Laws of The Lodge of Antiquity Ancient Free and Accepted Masons: Being Number One on the Registry of the Most Worshipful The Grand Lodge of Ancient Free and Accepted Masons of Quebec (Montreal:1906), 17.
 
-[^Nevinson 1963]: Harry M Nevinson. History of the Lodge of Antiquity (Momtreal:1963), 52, 120.
+[^2]:[Nevinson 1963] Harry M Nevinson. History of the Lodge of Antiquity (Momtreal:1963), 52, 120.
 
+[^3]:[Summons] Albion's monthly summons for the communications (Quebec:2024)
