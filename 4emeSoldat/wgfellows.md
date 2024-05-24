@@ -38,7 +38,7 @@
 
 - Relief of Battleford (24th April);
 - Action at Cut Knife Hill (2nd May);
-- Operations against Chief Big Bear (june-July).
+- Operations against Chief Big Bear (June-July).
 
 Awarded with Medal with clasp for his actions on the field. 
 
@@ -105,7 +105,7 @@ Capt  RCA 2 Dec 1912
 
 # Masonic Life
 
-In the Masonic Order he has had the distinction of being Past-Master of the two oldest lodges in Canada, Antiquity No.1 of Montreal and Albion No.2, of Quebec, both of which are under the Grand Registry of Quebec. In addition he has been honoured by his brethren in the Order by being elected to the important position of District Grand Master of Quebec and Three Rivers.
+In the Masonic Order he has had the distinction of being Past-Master of the two oldest lodges in Canada, Antiquity No.1 of Montreal ([^Lodge of Antiquity 1906], [^Nevinson 1963])and Albion No.2, of Quebec, both of which are under the Grand Registry of Quebec. In addition he has been honoured by his brethren in the Order by being elected to the important position of District Grand Master of Quebec and Three Rivers.
 
 - Worshipful Master of The Lodge of Antiquity, #1, Montréal, Québec, year 1899. 
 
@@ -185,5 +185,9 @@ La presse, 1947-09-19, Collections de BAnQ. Obituaire de William Gincell Fellows
 https://numerique.banq.qc.ca/patrimoine/details/52327/2959538?docsearchtext=grincell%20fellows
 
 
+## Bibliography
 
+[^Lodge of Antiquity 1906]: Lodge of Antiquity. By-Laws of The Lodge of Antiquity Ancient Free and Accepted Masons (Montreal:1906), 17.
+
+[^Nevinson 1963]: Harry M Nevinson. History of the Lodge of Antiquity (Momtreal:1963), 52, 120.
 
