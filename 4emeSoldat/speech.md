@@ -47,7 +47,13 @@ Après l'éclatement de la Grande Guerre en Europe, le jeune Charles Alexander s
 [Ils sont restés embarqués jusqu'au 25 octobre, en s'en occupant de "Physical training and sports"; ensuite ils sont débarques vers Bustard Camp] - Canadian Great War project ref:  https://canadiangreatwarproject.com/articles/life_on_salisbury_plain.php
 
 
+# Major Alexander Young 
 
+Alexander Young, brother Charles Alexander's father, was a Scotsman, born on the city on Glenmuick, Aberbdeenshire, on Feb 1st 1869, son of James Young and Jane Troup. When he wwas 16 years-old he took the courageous decision of embarking to the newe world for a new life leaving his family in Scotland. He arrived in Canada in 1885, setting residence in the city of Toronto. Six yeaers into his new life, in 1891, he enlists in the Permanent Militia, and joins the ranks of the Royal Canadian Regiment (RCR), ROyal School of Infantry. Upon graduation, the new NCO with the rank of Sergeant is sent to his first combat experience, which was also the first time Canada sent a combat contigent to a foreign conflict, the Boer War. He was in command of the E Coy, 2nd Special Service Battalion, Royal Canadian Regiment [^1]. 
+
+The Coy embarked to South Africa on October 30th 1899, from Quebec City aboard the Allan Line's SS Sardinian. There were two stowaways aboard who, after discovery were taken on strength  on the Battalion. On the South African campaign he takes part on the operations in Orange Free State between Feb and May 1900: in Paarderberg, Poplar Grove, Driefontein, Hout Nek and Zaud River; aafterwards he took part on the operations in the Transvaal between May and June: actions in Johannesburg(29th May) and Pretoria (4th June). The Royal Canadian Regiment represented gallantly Canada   
+
+[^1]: Royal Canadian Regiment
 
 
 
