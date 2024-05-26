@@ -231,7 +231,11 @@ https://canadiangreatwarproject.com/person.php?pid=60436
 Quebec Chronicle, 8 juin 1916, Perfil Maj Alexander  
 https://numerique.banq.qc.ca/patrimoine/details/52327/3611081?docsearchtext=alexander
 
+La Patrie, 8 juin 1916, Un québécois tué, un autre blessé    
+https://numerique.banq.qc.ca/patrimoine/details/52327/4318796?docsearchtext=Alexander
+
 Quebec Chronicle, 10 juin 1916,Demande Albion de presença ao servico religioso  
 https://numerique.banq.qc.ca/patrimoine/details/52327/3611083?docsearchtext=alexander
+
 
 
