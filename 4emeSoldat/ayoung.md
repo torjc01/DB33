@@ -47,23 +47,6 @@ Source : The Royal Canadian Regiment, 1883-1933, Robert Collier Fetherstonhaugh,
 
 <img src="../images/ayoung/LongServiceAward.png" width="600" />
 
-### **Colour-Sergeant** 
-
-It is the senior NCO of a Coy; it is a rank equivalent to warrant officer. He wears the rank insignia of a warrant officer 
-(a royal crown) on all uniforms, except on No.1 Cerimonial Dress, on which a special rank badge is worn: three chevrons, 
-pointing down, surmonted by an image of the regimental Colours. The rank was introduced by the British Army Infantry 
-Regiments in 1813 during the Napoleonic Wars to reward long serving sergeants. 
-
-Source: https://www.canadiansoldiers.com/ranks/tableofranksandresponsibilities.htm
-
-<img src="../images/ayoung/InsigniaColourSergeant.png" width="300" />
-
-**Insignia of Colour-Sergeant**
-
-Source: https://www.canadiansoldiers.com/ranks/tableofranksandresponsibilities.htm
-
-
-
 ## South African War (Boer War)
 
 Rank: Colour Sergeant; Lieutenant   
@@ -226,6 +209,10 @@ https://www.veterans.gc.ca/eng/remembrance/memorials/canadian-virtual-war-memori
 Canadian Great War Project   
 https://canadiangreatwarproject.com/person.php?pid=60436
 
+Table of ranks and resposibilities   
+https://www.canadiansoldiers.com/ranks/tableofranksandresponsibilities.htm
+
+
 ### Newspaper clippings
 
 Quebec Chronicle, 8 juin 1916, Perfil Maj Alexander  
@@ -237,5 +224,19 @@ https://numerique.banq.qc.ca/patrimoine/details/52327/4318796?docsearchtext=Alex
 Quebec Chronicle, 10 juin 1916,Demande Albion de presença ao servico religioso  
 https://numerique.banq.qc.ca/patrimoine/details/52327/3611083?docsearchtext=alexander
 
+# Annexes 
+
+## **Colour-Sergeant** 
+
+It is the senior NCO of a Coy; it is a rank equivalent to warrant officer. He wears the rank insignia of a warrant officer 
+(a royal crown) on all uniforms, except on No.1 Cerimonial Dress, on which a special rank badge is worn: three chevrons, 
+pointing down, surmonted by an image of the regimental Colours. The rank was introduced by the British Army Infantry 
+Regiments in 1813 during the Napoleonic Wars to reward long serving sergeants. 
+
+<img src="../images/ayoung/InsigniaColourSergeant.png" width="300" />
+
+**Insignia of Colour-Sergeant**
+
+*Source: Table of ranks and resposibilities*   
 
 
