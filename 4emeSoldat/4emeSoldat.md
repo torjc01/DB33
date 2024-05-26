@@ -68,7 +68,7 @@ The Sgt Charles Alexander served in the 8th Regiment "Royal Rifles" from 1908. W
 > Curiosity: Salisbury Plain is the same region where Stonehenge is located !
 
 
-June 3rd 1915 - Death of Alexander Young, in Ypres.
+June 3rd 1916 - Death of Alexander Young, in Ypres.
 
 **11th Canadian Infantry Brigade MG Coy**
 - Aug 12th 1916 - Dismbark at Le Havre   
