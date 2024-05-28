@@ -111,7 +111,7 @@ In the Masonic Order he has had the distinction of being Past-Master of the two 
 
 - Worshipful Master of Albion Lodge #2, Québec, Québec, year 1908. [^3]
 
-We can find him listed as Senior Warden of Albion Lodge on the "Annuaires de la ville de Québec", p.75.
+We can find him listed as Senior Warden of Albion Lodge on the "Annuaires de la ville de Québec", p.75.[^4]
 
 <img src="../images/pastMasters.png" />
 
@@ -168,8 +168,6 @@ Canadian Great War Project
 
 https://canadiangreatwarproject.com/person.php?pid=962599
 
-Annuaires de la ville de Québec, 1822-1976.   
-https://numerique.banq.qc.ca/patrimoine/details/52327/3691259?docsearchtext=william%20fellows
 
 ## Newspapers clippings 
 
@@ -197,3 +195,6 @@ https://numerique.banq.qc.ca/patrimoine/details/52327/2959538?docsearchtext=grin
 [^2]:[Nevinson 1963] Harry M Nevinson. History of the Lodge of Antiquity (Momtreal:1963), 52, 120.
 
 [^3]:[Summons] Albion's monthly summons for the communications (Quebec:2024)
+
+[^4]: Annuaires de la ville de Québec, 1822-1976. https://numerique.banq.qc.ca/patrimoine/details/52327/3691259?docsearchtext=william%20fellows
+
