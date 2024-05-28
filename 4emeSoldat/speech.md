@@ -49,7 +49,7 @@ Après l'éclatement de la Grande Guerre en Europe, le jeune Charles Alexander s
 
 # Major Alexander Young 
 
-Alexander Young, the father of Brother Charles Alexander, was a Scotsman born in the city of Glenmuick, Aberdeenshire, on 1st February 1869. He was the son of James Young and Jane Troup. At the tender age of 16, he made the brave decision to embark on a journey to the New World, leaving his family behind in Scotland. He arrived in Canada in 1885 and settled in the city of Toronto. Six years later, in 1891, he enlisted in the Permanent Militia and joined the ranks of the Royal Canadian Regiment (RCR), Royal School of Infantry. Upon graduation, the newly ranked Sergeant was sent to his first combat experience in the Boer War, marking the first time Canada had sent a combat contingent to a foreign conflict. He was in command of the E Coy, 2nd Special Service Battalion, Royal Canadian Regiment (Fetherstonhaugh 1981, p. 89) [^1].
+Alexander Young, the father of Brother Charles Alexander, was a Scotsman born in the city of Glenmuick, Aberdeenshire, on 1st February 1869. He was the son of James Young and Jane Troup. At the tender age of 16, he made the brave decision to embark on a journey to the New World, leaving his family behind in Scotland. He arrived in Canada in 1885[^6] and settled in the city of Toronto. Six years later, in 1891, he enlisted in the Permanent Militia and joined the ranks of the Royal Canadian Regiment (RCR), Royal School of Infantry[^7]. Upon graduation, the newly ranked Sergeant was sent to his first combat experience in the Boer War, marking the first time Canada had sent a combat contingent to a foreign conflict. He was in command of the E Coy, 2nd Special Service Battalion, Royal Canadian Regiment (Fetherstonhaugh 1981, p. 89) [^1].
 
 The Coy set sail for South Africa on 30th October 1899, from Quebec City aboard the Allan Line's SS Sardinian. Two stowaways were discovered on board and subsequently taken on strength in the Battalion. During the South African campaign, he participated in operations in the Orange Free State between February and May 1900, including actions at Paarderberg, Poplar Grove, Driefontein, Hout Nek, and Zaud River. He later took part in operations in the Transvaal between May and June, including actions in Johannesburg (29th May) and Pretoria (4th June). The Royal Canadian Regiment represented Canada gallantly during this campaign, and so did Sgt Young. He was awarded the Queen's South Africa Medal with four clasps (Paarderburg, Driefontein, Johannesburg, and Pretoria) for his actions and leadership in South Africa.
 
@@ -73,3 +73,7 @@ The Quebec Chronicle aptly stated in his obituary: "The late Maj Young was a sol
 [^4]: (Jayne 20240504) Email Jayne Thompson, May 4th 2024
 
 [^5]: (Chronicle 19160608) Quebec Chronicle, 8 juin 1916, Three Quebecers lose their lives. https://numerique.banq.qc.ca/patrimoine/details/52327/3611081
+
+[^6]: (Ancestry Census 1911) 1911 Census of Canada.https://www.ancestry.ca/discoveryui-content/view/1671293:8947?ssrc=pt&tid=197335275&pid=332580257102
+
+[^7]: The official lineage of the Royal Canadian Regiment. https://www.canada.ca/en/department-national-defence/services/military-history/history-heritage/official-military-history-lineages/lineages/infantry-regiments/royal-canadian-regiment.html
