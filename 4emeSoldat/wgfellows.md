@@ -111,6 +111,8 @@ In the Masonic Order he has had the distinction of being Past-Master of the two 
 
 - Worshipful Master of Albion Lodge #2, Québec, Québec, year 1908. [^3]
 
+We can find him listed as Senior Warden of Albion Lodge on the "Annuaires de la ville de Québec", p.75.
+
 <img src="../images/pastMasters.png" />
 
 Sources:    
@@ -166,6 +168,9 @@ Canadian Great War Project
 
 https://canadiangreatwarproject.com/person.php?pid=962599
 
+Annuaires de la ville de Québec, 1822-1976.   
+https://numerique.banq.qc.ca/patrimoine/details/52327/3691259?docsearchtext=william%20fellows
+
 ## Newspapers clippings 
 
 The daily witness, 1904-04-20, Collections de BAnQ.
@@ -185,7 +190,7 @@ La presse, 1947-09-19, Collections de BAnQ. Obituaire de William Gincell Fellows
 https://numerique.banq.qc.ca/patrimoine/details/52327/2959538?docsearchtext=grincell%20fellows
 
 
-## Bibliography
+## Footnotes
 
 [^1]:[Lodge of Antiquity 1906] Lodge of Antiquity. By-Laws of The Lodge of Antiquity Ancient Free and Accepted Masons: Being Number One on the Registry of the Most Worshipful The Grand Lodge of Ancient Free and Accepted Masons of Quebec (Montreal:1906), 17.
 
