@@ -43,9 +43,9 @@ Promoted Major June 1915, before enlisting for active duty
 
 Awarded The Long Service and Good Conduct Medal, 1910 
 
-Source : The Royal Canadian Regiment, 1883-1933, Robert Collier Fetherstonhaugh, p. 449
-
 <img src="../images/ayoung/LongServiceAward.png" width="600" />
+
+*Source : The Royal Canadian Regiment, 1883-1933, Robert Collier Fetherstonhaugh, p. 449*
 
 ## South African War (Boer War)
 
@@ -188,14 +188,12 @@ However, in Mount Hermon Cemetery, Quebec City, there is a memorial to Major You
 **Monument 52nd (New Ontario) Battalion, Canadin Expeditionary Force**
 [Google Maps](https://maps.app.goo.gl/r9rtzu6qTUV5i5Nn7?g_st=ic)
 
-
-
 <img src="../images/ayoung/MemorialMajYoung.jpeg" />
 
 **Memorial card commemorating Maj Alexander Young's death, sent by the Canadian government to the family. Source: family photo.**
 
-
 ## References 
+
 Boer Service File   
 https://heritage.canadiana.ca/view/oocihm.lac_reel_t13440/5942  
 
@@ -220,13 +218,13 @@ https://www.canadiansoldiers.com/ranks/tableofranksandresponsibilities.htm
 
 ### Newspaper clippings
 
-Quebec Chronicle, 8 juin 1916, Perfil Maj Alexander  
+Quebec Chronicle, 8 juin 1916, Three Quebecers lose their lives.   
 https://numerique.banq.qc.ca/patrimoine/details/52327/3611081?docsearchtext=alexander
 
-La Patrie, 8 juin 1916, Un québécois tué, un autre blessé    
+La Patrie, 8 juin 1916, Un québécois tué, un autre blessé.    
 https://numerique.banq.qc.ca/patrimoine/details/52327/4318796?docsearchtext=Alexander
 
-Quebec Chronicle, 10 juin 1916,Demande Albion de presença ao servico religioso  
+Quebec Chronicle, 10 juin 1916, Albion demande brethren to be present at memorial service.       
 https://numerique.banq.qc.ca/patrimoine/details/52327/3611083?docsearchtext=alexander
 
 # Annexes 
