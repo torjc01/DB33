@@ -49,11 +49,13 @@ Source : The Royal Canadian Regiment, 1883-1933, Robert Collier Fetherstonhaugh,
 
 ## South African War (Boer War)
 
+2nd S.S. Bn. R.C.R. (2nd Special Services Battalion Royal Canadian Regiment)   
+Regimental Number: 4026   
 Rank: Colour Sergeant; Lieutenant   
 Force: Militia   
 Unit: Royal Canadian Regiment (RCR)   
-
 2nd (Special Service) Battalion, Royal Canadian Regiment, 
+Ref: Boer Service File
 
 "E" Coy Recruited in Montréal, PQ
 
@@ -194,7 +196,8 @@ However, in Mount Hermon Cemetery, Quebec City, there is a memorial to Major You
 
 
 ## References 
-
+Boer Service File   
+https://heritage.canadiana.ca/view/oocihm.lac_reel_t13440/5942  
 
 Service File - Library and Archives Canada    
 https://www.bac-lac.gc.ca/eng/discover/military-heritage/first-world-war/personnel-records/Pages/item.aspx?IdNumber=330729
