@@ -66,6 +66,8 @@ There were two stowaways on the ship, that upon discovery were taken on strength
 
 [Land Grant Application](https://www.bac-lac.gc.ca/eng/discover/military-heritage/south-african-war-1899-1902/Pages/item.aspx?IdNumber=7346&) Library and Archives Canada - must be ordered a copy
 
+[Land Grant Record Image](https://heritage.canadiana.ca/view/oocihm.lac_reel_t13441/6444)
+
 **Refs:**
 
 [South African War, 1899-1902 - Service Files, Medals and Land Applications](https://www.bac-lac.gc.ca/eng/discover/military-heritage/south-african-war-1899-1902/Pages/service-files-south-african-war.aspx#g) - Library and Archives Canada
