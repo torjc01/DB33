@@ -23,9 +23,8 @@
 |Name|[Alfred Grincell Fellows](https://www.ancestry.ca/family-tree/person/tree/197335275/person/332580300467/facts)|
 |Date of birth|May 7th 1868|
 |Place of birth|Kent, England|
-|Father||
-|Mother||
-|Next of kin||
+|Father|Joseph Grinsell Fellowes|
+|Mother|Mary Anne Fletcher|
 |Occupation|Sergeant-Major RCGA|
 |Religion|Methodist ([Chalmers Wesley United Church](https://chalmerswesley.org/), Quebe City, QC)|
 |Date of death|April 6th 1912|
