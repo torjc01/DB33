@@ -73,6 +73,13 @@ Research hispanic ancestry
 Organize your digital genealogy files 
 [https://www.thoughtco.com/organize-your-digital-genealogy-files-4026699](https://www.thoughtco.com/organize-your-digital-genealogy-files-4026699)
 
+## Example de profil biographique militaire
+
+X was born ..., the son of ... and ..., brother of ... . He studied ..., became a ... . 
+X joined Y Coy, 0th Btn of (Unit, Regt). He fought in ..., the battle of ... . He accomplished ...; was awarded the ... for ... . 
+He died in July 1st ... , in Z, {KIA / of wounds} during the battle ... 
+The circumstances of death were ... 
+He is buried at the ... Cemetery, at {city}, {country}, lot/plot. 
 
 
 <!--
