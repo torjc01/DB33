@@ -40,7 +40,12 @@
 - Reação católica: Chevaliers de Coulombe;  Ordre de Jacques Cartier (tardiamente)
 - Cobertura midiática sobre a FM
 
-Referências:
+## Bulas papais:
+- In eminenti apostolatus, Papa Clemente XII, 1738 
+- Providas romanorum, Bento XIV, 1751
+- Humanum genus, Leão XIII, 1884
+
+# Referências
 
 Hamon, É., La maçonnerie canadienne-française /, Québec (Province), s.n., 1886, v, 189 p. ; 15 cm, Collections de BAnQ.   
 https://numerique.banq.qc.ca/patrimoine/details/52327/2023030
@@ -54,11 +59,6 @@ https://numerique.banq.qc.ca/patrimoine/details/52327/2021763?docref=j5V_5jg0X6X
 
 Padre Paulo Ricardo   
 https://padrepauloricardo.org/blog/a-verdadeira-razao-pela-qual-catolicos-nao-podem-ser-macons
-
-Bulas papais:
-- In eminenti apostolatus, Papa Clemente XII, 1738 
-- Providas romanorum, Bento XIV, 1751
-- Humanum genus, Leão XIII, 1884
 
 
 Country :	France.   
