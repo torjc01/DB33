@@ -68,4 +68,14 @@ Birth :	Vitré (Ille-et-Vilaine), 08-11-1841.
 Death :	Leeds (Québec), 11-06-1904.    
 Note :	Jean d'Erbrée est un pseudonyme utilisé par Édouard Hamon, jésuite, qui écrivit également sous son nom véritable.    
 Outre le titre signalé ci-dessous, le même auteur a publié sous le même pseudonyme, vers 1884 : «La Maçonnerie canadienne-française».    
-ISNI :	ISNI 0000 0001 0801 2231 (Information about ISNI)
+ISNI : 	[ISNI 0000 0001 0801 2231](https://isni.oclc.org/cbs/DB=1.2/CMD?ACT=SRCH&IKT=8006&TRM=ISN%3A0000000108012231&TERMS_OF_USE_AGREED=Y&terms_of_use_agree=send) (Information about ISNI)
+
+
+
+
+
+
+
+
+
+
