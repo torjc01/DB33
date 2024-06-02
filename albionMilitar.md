@@ -214,8 +214,8 @@ https://numerique.banq.qc.ca/patrimoine/details/52327/2021763
 
 
 *Duncan, Capt. Francis.* **History of the Royal Regiment of Artillery: Compiled from the original records.** London: John Murray Ed, 1872.
-https://www.gutenberg.org/files/52258/52258-h/52258-h.htm#Page_251
-
+VOL I: https://www.gutenberg.org/files/52258/52258-h/52258-h.htm#Page_251    
+VOL II: https://www.gutenberg.org/cache/epub/58209/pg58209-images.html
 
 La franc-maçonnerie sous le régime français - État de la question   
 Roger Le Moine, S.R.C.   
