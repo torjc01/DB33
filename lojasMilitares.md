@@ -54,7 +54,7 @@
 
 -----
 
-"Although it has been affirmed by French and other writers that a lodge of freemasons existed in the city of Quebec in the year 1755, no records or other evidences are known to be in existence, and Masonry in the province only dates its existence from the time of Wolfe when the "Lily" flag of the Bourbon replaced by the "Union Jack" over the citadel of Quebec. 
+"Although it has been affirmed by French and other writers that a lodge of freemasons existed in the city of Quebec in the year 1755, no records or other evidences are known to be in existence, and Masonry in the province only dates its existence from the time of Wolfe when the "Lily" flag of the Bourbon was replaced by the "Union Jack" over the citadel of Quebec. 
 
 Mackey, History of Freemasonry, vol VIII, p. 1933
 
