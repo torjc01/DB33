@@ -45,6 +45,25 @@
 - Providas romanorum, Bento XIV, 1751
 - Humanum genus, Leão XIII, 1884
 
+## Ordre de Jacques Cartier 
+
+**Fondation de l'Ordre de Jacques-Cartier**   
+https://perspective.usherbrooke.ca/bilan/quebec/evenements/20135
+
+**L'Ordre de Jacques Cartier, société secrète**   
+http://www.viefrancaisecapitale.ca/pouvoir/lordre_de_jacques_cartier_societe_secrete-fra#main-content  
+http://www.viefrancaisecapitale.ca/pouvoir/linitiation-fra#_ftn1  
+
+
+<img src="images/OJC/Temple.jpg" width="600" />
+
+**Photo du rituel, plan de la XC. Source: Vie Française Capitale** 
+
+
+## Knights of Columbus 
+
+
+
 # Referências
 
 Hamon, É., La maçonnerie canadienne-française /, Québec (Province), s.n., 1886, v, 189 p. ; 15 cm, Collections de BAnQ.   
