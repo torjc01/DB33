@@ -192,12 +192,6 @@ https://numerique.banq.qc.ca/patrimoine/details/52327/2561487?docref=jyvm7GBZHfY
 The Quebec chronicle, 1919-04-08, Collections de BAnQ. Hamilton John Adair.
 https://numerique.banq.qc.ca/patrimoine/details/52327/3611977?docsearchtext=Hamilton%20John%20Adair
 
-
-
-
-
-
-
 ## Bibliografia 
 
 *Graham, John H.* **Outlines of the History of Freemasonry in the Province of Quebec.** 1st ed. Montréal: John Lovell & Son, 1892. p 489-490.   
@@ -243,6 +237,8 @@ https://antients.org
 Quebec Chronicle, 22 nov 1921 Inauguração da placa na loja Albion
 https://books.google.ca/books?id=gpYfAAAAIBAJ&printsec=frontcover&hl=pt-BR&source=gbs_ge_summary_r&cad=0#v=onepage&q=heroes&f=false
 
+Royal Artillery Museum (to where write and retrieve the old minutes of Albion Lodge)
+https://royalartillerymuseum.com/
 
 ## Poem 
 
