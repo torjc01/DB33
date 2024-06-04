@@ -141,3 +141,33 @@ https://www.warmuseum.ca/learn/research-collections/military-history-research-ce
 
 Canadian war records - find and explore world war records - graves  
 https://www.cwgc.org/our-work/blog/canadian-war-records-find-and-explore-world-war-records/
+
+# Canadian Army 
+
+## Canadian Expeditionary Force (CEF)
+
+- Composed of the Canadian Corps and other units, like medical hospitals, Canadian Cavalry Brigade, etc. 
+- Canadian Corps is composed of two divisions, then up to four divisions, totaling around 100k troops by 1917
+- Under command of Lt. Gen. Sir Arthur Currie 
+- Each division is composed of 3 Infrantry Brigades 
+- Each Infanry Brigade is composed of 4 Infantry Battalions 
+
+
+
+```
+Corps
+  Division 
+    Brigade 
+    Regiment 
+      Battalion 
+        Company 
+          Platoon 
+            Squad 
+```
+
+Abbreviations 
+
+- Regiment - Regt 
+- Battalion - Btn 
+- Company - Coy 
+- Infantry - Infy
