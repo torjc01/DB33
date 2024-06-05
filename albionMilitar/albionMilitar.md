@@ -64,21 +64,10 @@
 ## Biografias 
 
 ## Fr Joseph Stanley Marchant   
-**Rank:** Lance Corporal   
-**Born:** August 18, 1890  
-**Service Number:** 22900   
-**Force:** Army   
-**Unit:** Canadian Infantry (Eastern Ontario Regiment) Canadian Expeditionary Force    
-**Division:** 2nd Btn   
-**Decoration:** Cross of the Order of Saint George, 4th Class    
-**Profession:** Agent de douane    
-**Passed:** May 08, 1915 Age: 24      
-**Buried:** BOULOGNE EASTERN CEMETERY, Pas de Calais, France   
-**Grave reference:** VIII. C. 9.   
-**Veteran's reference:**  RG 150, Accession 1992-93/166, Box 5915 - 11   
-**Item number:** 197849   
-**Record Group:**  Canadian Expeditionary Force (CEF)   
-**Service File:** [B5915-S011](http://central.bac-lac.gc.ca/.item/?op=pdf&app=CEF&id=B5915-S011)   
+
+
+
+
 
 **Decoration:** Cross of the Order of Saint George, 4th Class   
              Citation: THE EDINBURGH GAZETTE, AUGUST 27, 1915, pp. 1312-1314   
