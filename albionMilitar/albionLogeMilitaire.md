@@ -63,7 +63,7 @@
 
 [Fr Joseph Stanley Marchant](./josephStanleyMarchant.md) - Killed in action
 
-[TVFr Alexander Young](./alexanderYoung.md) - Killed in action
+[TVFr Alexander Young](https://github.com/torjc01/4eSoldat/blob/prod/ayoung.md) - Killed in action
 
 [Fr Hamilton John Adair](./hamiltonJohnAdair.md) - Died on active service
 
