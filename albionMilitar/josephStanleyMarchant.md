@@ -46,7 +46,6 @@
 |Highest rank|Lance Corporal|
 |Degree of service|Europe|
 |LACID|[330882](https://www.bac-lac.gc.ca/eng/discover/military-heritage/first-world-war/personnel-records/Pages/item.aspx?IdNumber=330882)|
-|Service File|[B10645-S029](https://central.bac-lac.gc.ca/.item/?op=pdf&app=CEF&id=B10645-S029)|
 |Reference|RG 150, Accession 1992-93/166, Box 5915 - 11|
 |Item Number|197849|
 |Record Group|Canadian Expeditionary Force (CEF)|

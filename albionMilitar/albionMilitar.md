@@ -6,7 +6,7 @@
 
 <div>
     <a target="_blank" href="https://franc-maconnerie.ca">
-      <img src="images/logo.png" alt="Julio Torres Freemasonry" width="300"/>
+      <img src="../images/logo.png" alt="Julio Torres Freemasonry" width="300"/>
     </a>
 </div>
 
@@ -61,24 +61,6 @@
   https://books.google.ca/books?id=gpYfAAAAIBAJ&printsec=frontcover&hl=pt-BR#v=snippet&q=heroes&f=false
 
 
-## Biografias 
-
-
-## TVFr Major Alexander Young
-
-Pour la biografie du TVF Maj Alexander Young, merci de consulter la page suivante: [TVFr Major Alexander Young](./4emeSoldat/ayoung.md)
-
-<img src="https://cvwm.images.cloud.veterans.gc.ca/1597253_1.jpg"/>
-
-## Fr Maj Hamilton John Adair 
-
-  *"Death is swallowed up in Victory"*
-
-
-
-
-
-
 
 ## Bibliografia 
 
@@ -108,7 +90,6 @@ Francs-maçons francophones du temps de la «Province of Quebec» (1763-1791)
 Roger Le Moine, S.R.C.   
 Les Cahiers des dix, Numéro 48, 1993   
 https://www.erudit.org/fr/revues/cdd/1993-n48-cdd0572/1015604ar.pdf
-
 
 Marrying a Redcoat: Women's Experiences of Marriage in the British Garrison of Quebec City, 1763-1820   
 https://qspace.library.queensu.ca/items/2e97ac9c-2d74-4066-84e4-22b26b9cab82

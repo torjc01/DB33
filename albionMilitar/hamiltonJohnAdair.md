@@ -47,18 +47,20 @@
 |Highest rank|Major|
 |Degree of service|Europe|
 |LACID||
-|Service File||
-|Reference||
-|Item Number||
+|Reference|RG 150, Volume 34 - 14|
+|Item Number|952|
 |Record Group|Canadian Expeditionary Force (CEF)|
-|Service File| |
+|Service File|[V0034-S014](http://central.bac-lac.gc.ca/.item/?op=pdf&app=CEF&id=V0034-S014)|
 |Medals and awards | |
 
-Born at Quebec, PQ. A member of the Permanent Force (Army Medical Corps). Left behind his wife Emily Adair née Eley and their four daughters: Bernie, Doris, Edith & Marjorie.
+
 
 > [!TIP]
-> Fait curieux: Maj Adair a servi avec le Lt-Col John McCrae, dans la même unité No. 3 Canadian General Hospital et ont travaillé ensemble près d'Ypres.  Lt-Col McCrae est l'auteur deu poème `In Flanders Fields`. 
+> Fait curieux: Maj Adair a servi avec le Lt-Col John McCrae, dans la même unité `No. 3 Canadian General Hospital` et ils ont travaillé ensemble près d'Ypres.  Lt-Col McCrae est l'auteur du poème `In Flanders Fields`. 
 
+**Obituary** 
+
+Born at Quebec, PQ. A member of the Permanent Force (Army Medical Corps). Left behind his wife Emily Adair née Eley and their four daughters: Bernie, Doris, Edith & Marjorie.
 
 <img src="../images/hjadair/Funeral HJ Adair.png" />
 
