@@ -63,55 +63,6 @@
 
 ## Biografias 
 
-## Fr Joseph Stanley Marchant   
-
-
-
-
-
-**Decoration:** Cross of the Order of Saint George, 4th Class   
-             Citation: THE EDINBURGH GAZETTE, AUGUST 27, 1915, pp. 1312-1314   
-https://www.thegazette.co.uk/Edinburgh/issue/12845/page/1314/data.pdf   
-https://www.thegazette.co.uk/Edinburgh/issue/12845/page/1314/data.pdf
-
-https://www.veterans.gc.ca/eng/remembrance/memorials/canadian-virtual-war-memorial/detail/168067?Joseph%20Stanley%20Marchant
-
-https://www.veterans.gc.ca/eng/remembrance/memorials/canadian-virtual-war-memorial/detail/168067
-
-https://astreetnearyou.org/person/168067/Lance-Corporal--Marchant
-
-https://livesofthefirstworldwar.iwm.org.uk/lifestory/5674161
-
-https://www.everyoneremembered.org/profiles/soldier/168067/
-
-https://www.bac-lac.gc.ca/eng/discover/military-heritage/first-world-war/personnel-records/Pages/item.aspx?IdNumber=197849
-
-https://canadiangreatwarproject.com/person.php?pid=8129
-
-https://www.cwgc.org/find-records/find-war-dead/casualty-details/168067/j-s-marchant/
-
-Sherbrooke daily record, 1915-05-29, Collections de BAnQ.  
-https://numerique.banq.qc.ca/patrimoine/details/52327/3101785?docsearchtext=joseph%20stanley%20marchant
-
-**Decoration:** Cross of the Order of Saint George, 4th Class   
-             Citation: THE EDINBURGH GAZETTE, AUGUST 27, 1915, pp. 1312-1314   
-https://www.thegazette.co.uk/Edinburgh/issue/12845/page/1314/data.pdf   
-https://www.thegazette.co.uk/Edinburgh/issue/12845/page/1314/data.pdf
-
-<img src="https://static.miraheze.org/battleofjutlandcrewlistswiki/1/1e/St.George_Cross.jpg" />
-
-See 'Ribbons and Medals', by H Taprell Dorling:
-
-The Order of St. George...was awarded only for conspicuous bravery in action against the enemy...
-
-Over two million Crosses and Medals of St. George were distributed to soldiers, sisters of mercy, and members of Red Cross institutions and hospitals during the First World War...
-
-The Order of St. George was essentially military, and could never be conferred upon civilians except for services actually under fire...
-
-The black and orange ribbon of this Order meant **'through Darkness to Light,'** ...
-
-https://www.greatwarforum.org/topic/213631-st-george-cross-4th-class/
-
 
 ## TVFr Major Alexander Young
 
@@ -123,63 +74,11 @@ Pour la biografie du TVF Maj Alexander Young, merci de consulter la page suivant
 
   *"Death is swallowed up in Victory"*
 
-Major
-Fullname: HAMILTON JOHN (H J) ADAIR.   
-Date of Birth: 22 November 1873.   
-Place of Birth: Quebec City, Quebec, Canada.   
-Enlisted: 24 August 1917 in Ottawa, Ontario, CA. Age: 43 years   
-Rank: Major and Quartermaster.   
-Unit: Canadian Army Medical Corps. No. 3 Canadian General Hospital.      
-Date of Death: 13 December 1918.   
-Incident: Died of illness (uremia).   
-Buried: December 13th 1918   
-Age at Death: 45 years.     
-Cemetery: TERLINCTHUN BRITISH CEMETERY.   
-Grave Reference: XII. C. 37.    
-
-Husband of Emily Adair (née Eley), of 61, Blackburn Ave., Ottawa.   
-Born at Quebec, P.Q. A member of the Permanent Force (Army Medical Corps). Left behind his wife and their four daughters: Bernie, Doris, Edith & Marjorie.
-
-Fait curieux: Maj Adair a servi avec le Lt-Col John McCrae, dans la même unité No. 3 Canadian General Hospital et ont travaillé ensemble près d'Ypres.  Lt-Col McCrae est l'auteur deu poème `In Flanders Fields`. 
-
-<img src="images/hjadair/Funeral HJ Adair.png" />
 
 
-https://canadianfallen.ca/profile.php?id=64145
-
-https://www.veterans.gc.ca/eng/remembrance/memorials/canadian-virtual-war-memorial/detail/4024257
-
-Imperial War Museum  
-https://livesofthefirstworldwar.iwm.org.uk/lifestory/5535125
-
-First World War Book of Remembrance  
-https://www.veterans.gc.ca/eng/remembrance/memorials/books/page?page=357&book=1&sort=pageAsc
-
-https://astreetnearyou.org/person/4024257/Major-Hamilton-John-Adair
-
-https://canadiangreatwarproject.com/search.php?cod=Died%20of%20illness&pob=QUEBEC&col=nam,pob,dob,hocc,cod,rgm,rnk,rgn
-
-https://www.bac-lac.gc.ca/eng/discover/military-heritage/first-world-war/personnel-records/Pages/item.aspx?IdNumber=952
-
-https://www.cwgc.org/find-records/find-war-dead/casualty-details/4024257/hamilton-john-adair/
-
-https://www.veterans.gc.ca/eng/remembrance/memorials/books/page?page=357&book=1
-
-https://public.cdn.cloud.veterans.gc.ca/images/remembrance/memorials/books/bww1/high-res/ww1357-hr.jpg
-
-https://www.everyoneremembered.org/profiles/soldier/4024257/
-
-https://www.findagrave.com/memorial/55974012/hamilton_john-adair/photo
-
-https://www.findagrave.com/memorial/55974012/hamilton_john-adair/photo#source
-
-Fetherstonhaugh, R.C., No. 3 Canadian General Hospital (McGill), Montreal, the Gazette Printing Company, 1928, Collections de BAnQ.    
-(Information about burial)   
-https://numerique.banq.qc.ca/patrimoine/details/52327/2561487?docref=jyvm7GBZHfYTLlkxYSmn7w
 
 
-The Quebec chronicle, 1919-04-08, Collections de BAnQ. Hamilton John Adair.
-https://numerique.banq.qc.ca/patrimoine/details/52327/3611977?docsearchtext=Hamilton%20John%20Adair
+
 
 ## Bibliografia 
 

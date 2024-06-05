@@ -59,11 +59,13 @@
 
 ## Biographies des frères tombés à la Grande Guerre
 
-[Fr Joseph Stanley Marchant](./josephStanleyMarchant.md) 
+<img src="../images/Plaque.jpg" width="600" />
 
-[Fr Hamilton John Adair](./hamiltonJohnAdair.md)
+[Fr Joseph Stanley Marchant](./josephStanleyMarchant.md) - Killed in action
 
-[TVFr Alexander Young](./alexanderYoung.md)
+[TVFr Alexander Young](./alexanderYoung.md) - Killed in action
+
+[Fr Hamilton John Adair](./hamiltonJohnAdair.md) - Died on active service
 
 ## Poème 
 

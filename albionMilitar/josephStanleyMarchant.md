@@ -78,19 +78,35 @@ https://www.greatwarforum.org/topic/213631-st-george-cross-4th-class/
 Personnel Records of the First World War - Military Service File 
 https://www.bac-lac.gc.ca/eng/discover/military-heritage/first-world-war/personnel-records/Pages/item.aspx?IdNumber=197849
 
+Veterans.ca - Canadian Virtual War Memorial 
+https://www.veterans.gc.ca/eng/remembrance/memorials/canadian-virtual-war-memorial/detail/168067 
+
+Veterans.ca - First World War Book of Remembrance  
+https://www.veterans.gc.ca/en/remembrance/memorials/books/page?page=27&book=1&sort=pageAsc
+
 ### Memorials 
 
-Canadian Virtual War Memorial https://www.veterans.gc.ca/eng/remembrance/memorials/canadian-virtual-war-memorial/detail/168067 
+Commonwealth War Graves Commission 
+https://www.cwgc.org/find-records/find-war-dead/casualty-details/168067/j-s-marchant/
 
-Imperial War Museums - Lives of the First World War - Memorial https://livesofthefirstworldwar.iwm.org.uk/lifestory/5674161
+Imperial War Museums - Lives of the First World War - Memorial 
+https://livesofthefirstworldwar.iwm.org.uk/lifestory/5674161
 
-Commonwealth war graves commission https://www.cwgc.org/find-records/find-war-dead/casualty-details/168067/j-s-marchant/
+Canadian Great War Project 
+https://canadiangreatwarproject.com/person.php?pid=8129
 
-Canadian Great War Project https://canadiangreatwarproject.com/person.php?pid=8129
+A Street Near You - Map visualizing the grave location 
+https://astreetnearyou.org/person/168067/Lance-Corporal--Marchant
 
-A Street Near You - Map visualizing the grave location https://astreetnearyou.org/person/168067/Lance-Corporal--Marchant
+Every One Remembered - Memorial 
+https://www.everyoneremembered.org/profiles/soldier/168067/
 
-Every One Remembered - Memorial https://www.everyoneremembered.org/profiles/soldier/168067/
+Canadian Fallen - NWORA Association
+https://canadianfallen.ca/3115/MARCHANT
+
+Find a Grave
+https://www.findagrave.com/memorial/56256659/joseph-stanley-marchant
 
 ### Newspapers clippings 
-Sherbrooke daily record, 1915-05-29, Collections de BAnQ. https://numerique.banq.qc.ca/patrimoine/details/52327/3101785?docsearchtext=joseph%20stanley%20marchant
+Sherbrooke daily record, 1915-05-29, Collections de BAnQ. 
+https://numerique.banq.qc.ca/patrimoine/details/52327/3101785?docsearchtext=joseph%20stanley%20marchant
