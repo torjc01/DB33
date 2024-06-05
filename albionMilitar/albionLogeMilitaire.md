@@ -61,6 +61,10 @@
 
 <img src="../images/Plaque.jpg" width="600" />
 
+*Plaque commemorative des frères d'Albion tombés dans la Première Guerre Mondiale*[^hero]
+
+
+
 [Fr Joseph Stanley Marchant](./josephStanleyMarchant.md) - Killed in action
 
 [TVFr Alexander Young](https://github.com/torjc01/4eSoldat/blob/prod/ayoung.md) - Killed in action
@@ -92,3 +96,8 @@ In Flanders Fields.
 
                     - Lt-Col John McCrae
 ```
+
+## Footnotes
+
+[^hero]: Masons honor craft heroes, Quebec Telegraph, p. 4, 22/11/1921   
+  https://books.google.ca/books?id=gpYfAAAAIBAJ&printsec=frontcover&hl=pt-BR#v=snippet&q=heroes&f=false
