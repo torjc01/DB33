@@ -79,11 +79,11 @@ https://numerique.banq.qc.ca/patrimoine/details/52327/2021763?docref=j5V_5jg0X6X
 Padre Paulo Ricardo   
 https://padrepauloricardo.org/blog/a-verdadeira-razao-pela-qual-catolicos-nao-podem-ser-macons
 
-Biographie
-Jean d'Erbrée pseud. Édouard Hamon, SJ
-Country :	France.   
-Language :	French.    
-Gender :	Masculin.   
+**Biographie**   
+Jean d'Erbrée pseud. Édouard Hamon, SJ   
+Country :	France.    
+Language :	French.     
+Gender :	Masculin.    
 Birth :	Vitré (Ille-et-Vilaine), 08-11-1841.    
 Death :	Leeds (Québec), 11-06-1904.    
 Note :	Jean d'Erbrée est un pseudonyme utilisé par Édouard Hamon, jésuite, qui écrivit également sous son nom véritable.    
