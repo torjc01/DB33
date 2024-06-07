@@ -79,7 +79,8 @@ https://numerique.banq.qc.ca/patrimoine/details/52327/2021763?docref=j5V_5jg0X6X
 Padre Paulo Ricardo   
 https://padrepauloricardo.org/blog/a-verdadeira-razao-pela-qual-catolicos-nao-podem-ser-macons
 
-
+Biographie
+Jean d'Erbrée pseud. Édouard Hamon, SJ
 Country :	France.   
 Language :	French.    
 Gender :	Masculin.   
