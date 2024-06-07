@@ -96,6 +96,10 @@ In Flanders Fields.
 
                     - Lt-Col John McCrae
 ```
+## References
+
+Royal Artillery Museum and Archives
+https://royalartillerymuseum.com
 
 ## Footnotes
 
