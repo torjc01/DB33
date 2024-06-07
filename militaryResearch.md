@@ -16,19 +16,9 @@
 
 # Military Research Ressources 
 
-## GOVERNMENT 
-### SERVICE FILES  
-**Personnel Records of the First World War**  
-https://www.bac-lac.gc.ca/eng/discover/military-heritage/first-world-war/personnel-records/Pages/personnel-records.aspx
+## GOVERNMENT  
 
-**First World War**  
-https://library-archives.canada.ca/eng/collection/research-help/military-heritage/first-world-war/Pages/fww-personnel.aspx  
-Many Canadians served in the First World War, 1914 to 1918. Different types of records document their service. On this page you will learn what records exist and how to access them.  
-
-**First World War (1914-1918)**  
-Canada’s role in the First World War (WW1). Timelines, remembrance and archival records, as well as the people who fought.  
-https://www.canada.ca/en/services/defence/caf/militaryhistory/wars-operations/wwi.html
-
+### WWII
 **Service Files of the Second World War - War Dead, 1939-1947**  
 https://www.bac-lac.gc.ca/eng/discover/military-heritage/second-world-war/second-world-war-dead-1939-1947/Pages/files-second-war-dead.aspx  
 Includes links to other research ressources 
@@ -41,6 +31,19 @@ https://library-archives.canada.ca/eng/collection/research-help/military-heritag
 https://www.canada.ca/en/services/defence/caf/militaryhistory/wars-operations/wwii.html  
 Canada’s role in the Second World War (WW2). Timelines, remembrance and archival records, as well as the people who fought.
 
+### WWI 
+**Personnel Records of the First World War**  
+https://www.bac-lac.gc.ca/eng/discover/military-heritage/first-world-war/personnel-records/Pages/personnel-records.aspx
+
+**First World War**  
+https://library-archives.canada.ca/eng/collection/research-help/military-heritage/first-world-war/Pages/fww-personnel.aspx  
+Many Canadians served in the First World War, 1914 to 1918. Different types of records document their service. On this page you will learn what records exist and how to access them.  
+
+**First World War (1914-1918)**  
+Canada’s role in the First World War (WW1). Timelines, remembrance and archival records, as well as the people who fought.  
+https://www.canada.ca/en/services/defence/caf/militaryhistory/wars-operations/wwi.html
+
+### Other wars
 **South African War (1899-1902)**  
 https://www.canada.ca/en/services/defence/caf/militaryhistory/wars-operations/south-african.html  
 Canada’s role in the South African War, also known as the Boer War. Timelines, remembrance and archival records, as well as the people who fought.
@@ -61,7 +64,11 @@ The first French settlement in North America, known as “New France” from 153
 This is the official blog of Library and Archives Canada (LAC)  
 https://thediscoverblog.com/2024/03/07/accessing-personnel-records-of-the-first-world-war-a-new-database-at-library-and-archives-canada/
 
-**Search tips**  
+### **War Diaries**   
+https://canadiangreatwarproject.com/diaries/   
+https://www.bac-lac.gc.ca/eng/discover/military-heritage/first-world-war/Pages/war-diaries.aspx
+
+### **Search tips**  
 - Some entries include only an initial for the given names. Try searching by surname only. Names can also be written different ways. The entries reflect the spelling of names as they appear in the files.
 - If you do not find a relevant reference, try searching with only one given name instead of all given names.
 - Try the * wildcard character, for example, Fran* for Frank, Francis, François.
@@ -70,17 +77,14 @@ https://thediscoverblog.com/2024/03/07/accessing-personnel-records-of-the-first-
 - Only a small number of the database entries include place of birth and address at time of enlistment (locality, province, country). Abbreviations (http://www.icq.eps.harvard.edu/ICQpost.html) were used for Canadian provinces and territories and American states based on the ones used by the postal services.
 
 
+
+### VETERANS AFFAIRS
+
 **Canadian Virtual War Memorial**  
 https://www.veterans.gc.ca/eng/remembrance/memorials/canadian-virtual-war-memorial  
 The Canadian Virtual War Memorial (CVWM) is a registry to honour and remember the sacrifices of the more than 118,000 Canadians and Newfoundlanders who, since Confederation, have given their lives serving in uniform. The names of fallen soldiers found in the CVWM are inscribed in the seven Books of Remembrance.
 
-The Canadian Virtual War Memorial also includes the Royal Canadian Mounted Police (RCMP)’s Honour Roll. The RCMP Honour Roll remembers those who lost their lives while performing operational police functions.
-
-**War Diaries**   
-https://canadiangreatwarproject.com/diaries/   
-https://www.bac-lac.gc.ca/eng/discover/military-heritage/first-world-war/Pages/war-diaries.aspx
-
-## VETERANS AFFAIRS
+The Canadian Virtual War Memorial also includes the Royal Canadian Mounted Police (RCMP)’s Honour Roll. The RCMP Honour Roll remembers those who lost their lives while performing operational police functions./wars-and-conflicts/afghanistan
 
 **Vererans affais Wars and conflicts**  
 https://www.veterans.gc.ca/eng/remembrance/wars-and-conflicts  
@@ -102,7 +106,8 @@ https://www.veterans.gc.ca/eng/remembrance/wars-and-conflicts/korean-war
 https://www.veterans.gc.ca/eng/remembrance/wars-and-conflicts/caf-operations/gulf-war
 
 **Afghanistan 2001 – 2014**  
-https://www.veterans.gc.ca/eng/remembrance/wars-and-conflicts/afghanistan
+https://www.veterans.gc.ca/eng/remembrance
+
 
 
 ## MILITARY LORE 
@@ -110,11 +115,15 @@ https://www.veterans.gc.ca/eng/remembrance/wars-and-conflicts/afghanistan
 **Military abbreviations used in service files**  
 https://library-archives.canada.ca/eng/collection/research-help/military-heritage/Pages/military-abbreviations.aspx
 
+**Writing**   
+Military Writing
+https://cloud.rampinteractive.com/287aircadets/files/Sr%20NCO/Military%20Writing%20Guide.pdf
 
-**The Commonwealth War Graves Commission**  
-https://www.cwgc.org/
+
 
 ## Historical projects
+**The Commonwealth War Graves Commission**  
+https://www.cwgc.org/
 
 **The Memory Project**  
 https://www.thememoryproject.com/
