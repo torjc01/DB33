@@ -97,6 +97,26 @@ In Flanders Fields.
                     - Lt-Col John McCrae
 ```
 
+## Citations
+
+To explain what is Atholl Grand Lodge:  
+
+    "In consequence new nicknames of the grand bodies began to be commonly used, instead of the terms "Ancient and Modern" (much to the satisfaction of the original Grand Lodge). Their adherents were now often called "Prince of Wales Masons", and the Antients "Atholl Masons". In the Masonic Year Book issued by the United Grand Lodge of England, each lodge that was originally "Ancient" carries this reference, "was formerly on Atholl or Ancient Grand Lodge Roll"."
+        Pemberton Smith, p. 57
+
+## References 
+
+### Bibliography
+
+Graham, John H. (1892). **Outlines of the History of Freemansonry in the Province of Quebec.** Montréal: John Lovell & Son.   
+- Albion: 20, 84, 86, 90, 91, 93, 95, 103 ,180, 182, 183, 251, 331.    
+- Masonic Hall Quebec: 185.    
+
+Smith, Pemberton. (1939). **A research into Early Canadian Masonry 1759-1869.** Montréal: Quality Press.   
+- Albion: 27, 63, 66, 81, 126, 128, 129.    
+- Masonic Hall Quebec: 122, 127, 128.    
+- St John's No.241: 26, 63, 81, 126, 128, 129.   
+
 ## Footnotes
 
 [^hero]: Masons honor craft heroes, Quebec Telegraph, p. 4, 22/11/1921   
