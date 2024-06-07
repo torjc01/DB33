@@ -148,6 +148,10 @@ https://www.canada.ca/en/department-national-defence/services/military-history/h
 Military History Research Centre  
 https://www.warmuseum.ca/learn/research-collections/military-history-research-centre/
 
+Democracy at War   
+Canadian Newspapers and the Second World War is a full-text searchable collection of 144,000 contemporary newspaper clippings that report on the events of the Second World War as that great conflict unfolded.   
+https://www.warmuseum.ca/cwm/exhibitions/newspapers/intro_e.html
+
 Canadian war records - find and explore world war records - graves  
 https://www.cwgc.org/our-work/blog/canadian-war-records-find-and-explore-world-war-records/
 
