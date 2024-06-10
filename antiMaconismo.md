@@ -66,7 +66,7 @@ http://www.viefrancaisecapitale.ca/pouvoir/linitiation-fra#_ftn1
 
 # Referências
 
-Hamon, É., La maçonnerie canadienne-française /, Québec (Province), s.n., 1886, v, 189 p. ; 15 cm, Collections de BAnQ.   
+Hamon, É., La maçonnerie canadienne-française / Québec (Province), s.n., 1886, v, 189 p. ; 15 cm, Collections de BAnQ.   
 https://numerique.banq.qc.ca/patrimoine/details/52327/2023030
 
 La Franc-Maçonnerie Ennemie de l'Église et de la patrie   
@@ -91,11 +91,14 @@ Outre le titre signalé ci-dessous, le même auteur a publié sous le même pseu
 ISNI : 	[ISNI 0000 0001 0801 2231](https://isni.oclc.org/cbs/DB=1.2/CMD?ACT=SRCH&IKT=8006&TRM=ISN%3A0000000108012231&TERMS_OF_USE_AGREED=Y&terms_of_use_agree=send) (Information about ISNI)
 
 
+## Bibliographie 
 
+Hugues Théorêt (2024). **La Patente: L’Ordre de Jacques Cartier, le dernier bastion du Canada Français.** Québec: Septentrion.
 
+Ordre de Jacques Cartier (1962). **L’Émerillon: Vol 41 N 8 Octobre 1962.** Ottawa:Imprimerie de Ordre de Jacques Cartier.
 
+Robillard, D. (2009). **L’Ordre de Jacques Cartier: Une société secrète pour les Canadiens français catholiques 1926-1965.** Montréal: Fides.
 
+Leon XIII (1942). **La Franc-Maçonnerie: Lettre Encyclique ”Humanun Genus” de Leon XIII.** Montréal: École Sociale Populaire.
 
-
-
-
+R P Couet, OP (1910). **La Franc-Maçonnerie et la Conscience Catholique: Étude sur la Dénonciation Juridique.** Montréal: Imprimerie de l’Action Sociale.
