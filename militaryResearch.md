@@ -119,7 +119,10 @@ https://library-archives.canada.ca/eng/collection/research-help/military-heritag
 Military Writing
 https://cloud.rampinteractive.com/287aircadets/files/Sr%20NCO/Military%20Writing%20Guide.pdf
 
+**Scholar Journals**
 
+Canadian Military History - Since its launch in 1992, Canadian Military History has become one of the premier journals in its field. CMH is a peer-reviewed academic journal published bi-annually by the Laurier Centre for the Study of Canada with editorial and financial support from the Canadian War Museum. Its purpose is to foster research, teaching and public discussion of historical and contemporary military and strategic issues.    
+https://scholars.wlu.ca/cmh/
 
 ## Historical projects
 **The Commonwealth War Graves Commission**  
