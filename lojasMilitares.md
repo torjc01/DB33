@@ -85,9 +85,11 @@ http://www.cedarcitylodge.org/books/Freemasonry%20-%20Vol2No09..Freemasonry%20at
 **The Provincial Grand Lodge of Quebec, 1759-1792 Part I and Part II**, by *RW Bro. A.J.B. Milborne*     
 https://www.quatuorcoronati.com/wp-content/uploads/2023/12/AQC-68-1955.pdf
 
-**Some notes on Irish Military Warrants**, by *V. W. Bro. R. E. Parkinson*
+**Military Lodges in the Irish Constitution**, by *Bro William D. Ewing*        
+The Transactions of the Lodge of Research No. CC, 1999-2002, Volume XXV, pages 207-214, published 2007    
+http://www.irishmasonichistory.com/military-lodges-in-the-irish-constitution-by-bro-william-d-ewing.html
 
-**Military Lodges in the Irish Constitution**, by *Bro. William D. Ewing*
+**Some notes on Irish Military Warrants**, by *V. W. Bro. R. E. Parkinson*
 
 #### **Sites**
 
