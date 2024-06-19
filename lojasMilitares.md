@@ -85,6 +85,10 @@ http://www.cedarcitylodge.org/books/Freemasonry%20-%20Vol2No09..Freemasonry%20at
 **The Provincial Grand Lodge of Quebec, 1759-1792 Part I and Part II**, by *RW Bro. A.J.B. Milborne*     
 https://www.quatuorcoronati.com/wp-content/uploads/2023/12/AQC-68-1955.pdf
 
+Military Lodges in the Irish Constitution   
+http://www.irishmasonichistory.com/military-lodges-in-the-irish-constitution-by-bro-william-d-ewing.html
+
+
 **Sites**
 
 Lane's Masonic Record: is an authoritative listing of all the lodges established by the English Grand Lodges from the foundation of the first Grand Lodge in 1717 up until 1894.    
