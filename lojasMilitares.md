@@ -68,12 +68,12 @@ Smith, Pemberton. Early Canadian Masonry. As account on a written letter from Ed
 
 ### Web 
 
-**Articles**
+#### **Articles**
 
 *de Lagrave, Jean-Paul*. **Les débuts de la Maçonnerie au Québec**. Man and Nature / L'homme et la nature 7, (1988) : 195–207    
 https://doi.org/10.7202/1011936ar
 
-*Hamon, É.*, **La franc-maçonnerie dans la province de Québec en 1883** /, Québec (Province), s.n., 1883, 276 p. ; 19 cm, Collections de BAnQ.   
+*Hamon, É.*, **La franc-maçonnerie dans la province de Québec en 1883**, Québec (Province), s.n., 1883, 276 p. ; 19 cm, Collections de BAnQ.   
 https://numerique.banq.qc.ca/patrimoine/details/52327/2021763
 
 *Rouillard, Eugène.* **Les premiers franc-maçons canadiens. Dans Bulletins de Recherches Historiques**, vol IV, no. 6, pp. 188-190 Juin 1898   
@@ -85,7 +85,11 @@ http://www.cedarcitylodge.org/books/Freemasonry%20-%20Vol2No09..Freemasonry%20at
 **The Provincial Grand Lodge of Quebec, 1759-1792 Part I and Part II**, by *RW Bro. A.J.B. Milborne*     
 https://www.quatuorcoronati.com/wp-content/uploads/2023/12/AQC-68-1955.pdf
 
-**Sites**
+**Some notes on Irish Military Warrants**, by *V. W. Bro. R. E. Parkinson*
+
+**Military Lodges in the Irish Constitution**, by *Bro. William D. Ewing*
+
+#### **Sites**
 
 Lane's Masonic Record: is an authoritative listing of all the lodges established by the English Grand Lodges from the foundation of the first Grand Lodge in 1717 up until 1894.    
 https://www.dhi.ac.uk/lane/
