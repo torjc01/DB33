@@ -16,7 +16,7 @@
 
 # Frère Joseph Stanley Marchant  
 
-<img src="../images/jsmarchand/jsmPhoto.png">
+<img src="../images/jsmarchand/PortraitJSMarchant.jpg" width="600" />
 
 ||CIVIL DATA|
 |---|---|
