@@ -77,6 +77,14 @@ Registros orais: testemunhos de pessoas que viveram determinados acontecimentos,
 
 ------
 
+## Metodologia 
+
+The 14 BibTeX entry types 
+
+https://www.bibtex.com/e/entry-types/
+
+
+
 ## Microhistoria
 
 Wiki Microhistória   
