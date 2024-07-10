@@ -41,9 +41,9 @@
 ## Referências
 
 ### Bibliografia 
-*Ragon, J-M.* **Orthodoxie Maçonnique: Suivie de la Maçonnerie Oculte et de l'Initiation Hermétique.** Paris: E.Dentu Libraire-Éditeur, 1853. 
+*Ragon, Jean-Marie.* **Orthodoxie Maçonnique: Suivie de la Maçonnerie Oculte et de l'Initiation Hermétique.** Paris: E.Dentu Libraire-Éditeur, 1853. 
 
-*Graham, John H.* **Outlines of the History of Freemasonry in the Province of Quebec.** 1st ed. Montréal: John Lovell & Son, 1892. p 489-490.   
+*Graham, John Hamilton* **Outlines of the History of Freemasonry in the Province of Quebec.** 1st ed. Montréal: John Lovell & Son, 1892. p 489-490.   
 [https://www.google.ca/books/edition/Outlines_of_the_History_of_Freemasonry_i/ZrJJAAAAMAAJ?hl=pt-](https://www.google.ca/books/edition/Outlines_of_the_History_of_Freemasonry_i/ZrJJAAAAMAAJ?hl=pt-BR&gbpv=1&dq=minute+book+woolwich+9+january+1789&pg=PA489&printsec=frontcover )
 
 **By-Laws The Lodge of Antiquity, No 1, G.R.Q.** Montréal: [s.n.], 1906. 
@@ -73,7 +73,7 @@ Smith, Pemberton. Early Canadian Masonry. As account on a written letter from Ed
 *de Lagrave, Jean-Paul*. **Les débuts de la Maçonnerie au Québec**. Man and Nature / L'homme et la nature 7, (1988) : 195–207    
 https://doi.org/10.7202/1011936ar
 
-*Hamon, É.*, **La franc-maçonnerie dans la province de Québec en 1883**, Québec (Province), s.n., 1883, 276 p. ; 19 cm, Collections de BAnQ.   
+*Hamon, Édouard.*, **La franc-maçonnerie dans la province de Québec en 1883**, Québec (Province), s.n., 1883, 276 p. ; 19 cm, Collections de BAnQ.   
 https://numerique.banq.qc.ca/patrimoine/details/52327/2021763
 
 *Rouillard, Eugène.* **Les premiers franc-maçons canadiens. Dans Bulletins de Recherches Historiques**, vol IV, no. 6, pp. 188-190 Juin 1898   
