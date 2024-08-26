@@ -64,6 +64,10 @@ The first French settlement in North America, known as “New France” from 153
 This is the official blog of Library and Archives Canada (LAC)  
 https://thediscoverblog.com/2024/03/07/accessing-personnel-records-of-the-first-world-war-a-new-database-at-library-and-archives-canada/
 
+**Guide to Sources Relating to the Canadian Militia**
+https://www.bac-lac.gc.ca/eng/discover/military-heritage/Pages/guide-sources-canadian-militia.aspx
+Library and Archives Canada holds multiple records and files pertaining to the Canadian Militia, scattered throughout several fonds. This guide contains references to records and files for almost every unit in the Canadian Militia.
+
 ### **War Diaries**   
 https://canadiangreatwarproject.com/diaries/   
 https://www.bac-lac.gc.ca/eng/discover/military-heritage/first-world-war/Pages/war-diaries.aspx
