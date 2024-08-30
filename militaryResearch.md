@@ -162,6 +162,9 @@ https://www.warmuseum.ca/cwm/exhibitions/newspapers/intro_e.html
 Canadian war records - find and explore world war records - graves  
 https://www.cwgc.org/our-work/blog/canadian-war-records-find-and-explore-world-war-records/
 
+Record of service – Overseas Military Forces of Canada medical units   
+https://www.canada.ca/en/department-national-defence/services/military-history/history-heritage/official-military-history-lineages/ledgers/ww1-medical-units.html
+
 # Canadian Army 
 
 ## Canadian Expeditionary Force (CEF)
