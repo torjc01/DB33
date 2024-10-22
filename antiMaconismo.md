@@ -66,9 +66,11 @@ http://www.viefrancaisecapitale.ca/pouvoir/linitiation-fra#_ftn1
 
 Anti
 
-- Action Catholique
+- Action Catholiquet
 - L'événement
 - Le Canada
+
+Pro
 
 - Quebec Chronicle
 - Montreal Daily
