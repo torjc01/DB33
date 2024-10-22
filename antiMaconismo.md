@@ -24,7 +24,7 @@
 
 **Público alvo:** público maçônico, todos os graus; público em geral. Proposição de publicação na revista da Loja de Pesquisas Dom Bosco no. 33.
 
-**Idioma primário:** português
+**Idioma primário:** português e francês
 
 **Fontes de pesquisa:** bibliografia maçônica; sites de arquivos de jornais antigos; arquivos PDF recuperados das bibliotecas virtuais do GOB, da CMSB, entre outros. 
 
@@ -34,11 +34,11 @@
 - Panorama político em Quebec no séc XIX
 - Background histórico: Nouvelle France
 - Conquista
-- Francês x Inglês
+- Franceses x Ingleses
 - Background religioso: católico x protestante (anglicano/luterano/metodists/episcopal); bulas papais de condenação à FM; apartenance de católicos à ordem
 - Panorama político em Québec no sec XIX
 - Reação católica: Chevaliers de Coulombe;  Ordre de Jacques Cartier (tardiamente)
-- Cobertura midiática sobre a FM
+- Cobertura midiática sobre a FM; jornais pró (anglófonos) e anti (francófonos) 
 
 ## Bulas papais:
 - In eminenti apostolatus, Papa Clemente XII, 1738 
@@ -62,7 +62,16 @@ http://www.viefrancaisecapitale.ca/pouvoir/linitiation-fra#_ftn1
 
 ## Knights of Columbus 
 
+## Jornais 
 
+Anti
+
+- Action Catholique
+- L'événement
+- Le Canada
+
+- Quebec Chronicle
+- Montreal Daily
 
 # Referências
 
