@@ -57,20 +57,20 @@ http://www.viefrancaisecapitale.ca/pouvoir/linitiation-fra#_ftn1
 
 <img src="images/OJC/Temple.jpg" width="600" />
 
-**Photo du rituel, plan de la XC. Source: Vie Française Capitale** 
+**Photo du rituel, plan de la XC. Source: Vie Française dans la Capitale** 
 
 
 ## Knights of Columbus 
 
 ## Jornais 
 
-Anti
+Anti:
 
 - Action Catholiquet
 - L'événement
 - Le Canada
 
-Pro
+Pro:
 
 - Quebec Chronicle
 - Montreal Daily
@@ -113,3 +113,5 @@ Robillard, D. (2009). **L’Ordre de Jacques Cartier: Une société secrète pou
 Leon XIII (1942). **La Franc-Maçonnerie: Lettre Encyclique ”Humanun Genus” de Leon XIII.** Montréal: École Sociale Populaire.
 
 R P Couet, OP (1910). **La Franc-Maçonnerie et la Conscience Catholique: Étude sur la Dénonciation Juridique.** Montréal: Imprimerie de l’Action Sociale.
+
+**Vie Française dans la Capitale.** Capsule: L'Initiation. URL: https://www.viefrancaisecapitale.ca/pouvoir/linitiation-fra
