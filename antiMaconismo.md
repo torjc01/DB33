@@ -14,19 +14,19 @@
 
 <!-- FIN ENTETE -->
 
-# Pró e anti-maçonaria
+# L'Antimaçonnisme 
 
-**Título provisório:**O pró e anti maçonismo nos órgãos de imprensa da província de Quebec no séc XIX** 
+**Titre provisoire:**L'antimaçonnisme catholique dans la presse québécoise du 19è et 20è siècle** 
 
-**Plano geográfico:** Província do Québec
+**Plan geographique:** Province de Québec
 
-**Timeframe:** séc XIX
+**Timeframe:** 19è et 20è siècles
 
-**Público alvo:** público maçônico, todos os graus; público em geral. Proposição de publicação na revista da Loja de Pesquisas Dom Bosco no. 33.
+**Publique cible:** publique maçonnique, toous les grades; publique en général. Porposition de publication à la revue de la Loge de Recherches Dom Bosco, n0. 33.
 
-**Idioma primário:** português e francês
+**Langue primaire:** portugais et français. 
 
-**Fontes de pesquisa:** bibliografia maçônica; sites de arquivos de jornais antigos; arquivos PDF recuperados das bibliotecas virtuais do GOB, da CMSB, entre outros. 
+**Sources de recherche:** bibliografia maçônica; sites de arquivos de jornais antigos; arquivos PDF recuperados das bibliotecas virtuais do GOB, da CMSB, entre outros. 
 
 
 ## Questões para pesquisa
