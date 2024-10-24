@@ -16,7 +16,7 @@
 
 # L'Antimaçonnisme 
 
-**Titre provisoire:**L'antimaçonnisme catholique dans la presse québécoise du 19è et 20è siècle** 
+**Titre provisoire: **L'antimaçonnisme catholique dans la presse québécoise du 19è et 20è siècle** 
 
 **Plan geographique:** Province de Québec
 
