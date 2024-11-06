@@ -43,6 +43,9 @@ Many Canadians served in the First World War, 1914 to 1918. Different types of r
 Canada’s role in the First World War (WW1). Timelines, remembrance and archival records, as well as the people who fought.  
 https://www.canada.ca/en/services/defence/caf/militaryhistory/wars-operations/wwi.html
 
+**The Digitized WWI records Archives**    
+https://www.nationalarchives.gov.uk/first-world-war/centenary-digitised-records/
+
 ### Other wars
 **South African War (1899-1902)**  
 https://www.canada.ca/en/services/defence/caf/militaryhistory/wars-operations/south-african.html  
@@ -164,6 +167,53 @@ https://www.cwgc.org/our-work/blog/canadian-war-records-find-and-explore-world-w
 
 Record of service – Overseas Military Forces of Canada medical units   
 https://www.canada.ca/en/department-national-defence/services/military-history/history-heritage/official-military-history-lineages/ledgers/ww1-medical-units.html
+
+## Varia
+
+**Forces War Records** (site partenaire d'ancestry.ca)      
+https://ca.forceswarrecords.com
+
+**The London Gazette**   
+https://www.thegazette.co.uk/
+
+**Site Red Cross**    
+Information sur les prisonniers de guerre
+1914-1918   
+PRISONERS OF THE FIRST WORLD WAR - ICRC HISTORICAL ARCHIVES   
+https://grandeguerre.icrc.org/en/
+
+
+**UNIVERSITÄT HEILDEBERG - Archives** 
+
+- Open Access 
+https://www.ub.uni-heidelberg.de/en/open-access
+
+- Historic Literature digitized
+https://www.ub.uni-heidelberg.de/Englisch/helios/digi/digilit.html
+
+- Zeitschriften und Zeitungen
+https://digi.ub.uni-heidelberg.de/en/sammlungen/zeitschriften_zeitungen/titel.html?sid=81d5411305b31cea98df0b92e9726927&tree_cmd=-_b854ec0c3f414761
+
+- Die Somme Wacht - Kriegszeitung der 1.Armee
+https://digi.ub.uni-heidelberg.de/diglit/wacht_im_westen
+
+- Gazette des Ardennes
+https://digi.ub.uni-heidelberg.de/diglit/gazette_des_ardennes
+
+
+
+**The Aerodrome - Aces and aviation in WWI**
+https://www.theaerodrome.com/index.php
+
+**Canadian Soldiers**
+https://www.canadiansoldiers.com/index.htm
+
+**Prisioners of War Online Museum and Memorial**
+https://www.prisonersofwarmuseum.com/
+
+**Doing our bit**    
+Military family research   
+https://militaryandfamilyhistory.blog/
 
 # Canadian Army 
 
