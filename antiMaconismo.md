@@ -22,7 +22,7 @@
 
 **Timeframe:** 19è et 20è siècles
 
-**Publique cible:** publique maçonnique, toous les grades; publique en général. Porposition de publication à la revue de la Loge de Recherches Dom Bosco, n0. 33.
+**Publique cible:** publique maçonnique, tous les grades; publique en général. Porposition de publication à la revue de la Loge de Recherches Dom Bosco, n0. 33.
 
 **Langue primaire:** portugais et français. 
 
