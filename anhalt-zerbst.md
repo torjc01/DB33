@@ -47,7 +47,6 @@ Loge Anhalt-Zerbst, no. 425, RQ.
 
 
 
-
 ### Liens Web 
 
 [The Anhalt Duchies’ Military during the French Revolutionary and Napoleonic Wars, 1789-1815](https://www.napoleon-series.org/military-info/organization/Anhalt/AnhaltMilitary.pdf)
