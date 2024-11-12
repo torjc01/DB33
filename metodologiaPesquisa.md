@@ -148,6 +148,9 @@ http://www.biographi.ca/fr/
 
 ### Reino Unido 
 
+Masonic Periodicals - Museum of Freemasonry   
+https://masonicperiodicals.org/
+
 British Newspapers Archive – Pay Wall   
 https://www.britishnewspaperarchive.co.uk/ 
 
@@ -157,6 +160,14 @@ https://freemason.ie/museum-library-archive/
 Lane's Masonic Record: is an authoritative listing of all the lodges established by the 
 English Grand Lodges from the foundation of the first Grand Lodge in 1717 up until 1894     
 https://www.dhi.ac.uk/lane/
+
+### France
+
+Persée   
+https://persee.fr 
+
+Archives Nationales Français     
+http://www.archivesnationales.culture.gouv.fr/anom/fr/
 
 ### Internacional 
 
@@ -169,5 +180,3 @@ https://newspaperarchive.com/free-trial
 To view free and searchable online newspapers see:    
 https://veridiansoftware.com/collections/ 
 
-Archives Nationales Français     
-http://www.archivesnationales.culture.gouv.fr/anom/fr/

@@ -20,13 +20,14 @@
 
 **Plan geographique:** Province de Québec.
 
-**Timeframe:** 18è siècle
+**Timeframe:** 18è siècle.
 
 **Publique cible:** publique maçonnique, tous les grades; publique en général. Porposition de publication à la revue de la Loge de Recherches John H Graham.
 
 **Langue primaire:** français. Traductions en anglais et portugais.  
 
 **Sources de recherche:** bibliographie maçonnique; sites d'archives de journaux anciens; fichiers PDF recuperés des bibliothèques virtuelles du GOB, de la CMSB, parmi autres. 
+
 
 Loge Anhalt-Zerbst, no. 425, RQ. 
 ====
@@ -43,7 +44,9 @@ Loge Anhalt-Zerbst, no. 425, RQ.
 
 ### Bibliographie
 
-[Wilhelmy 1984] Wilhelmy, Jean-Pierre. Les Mercenaires Allemands au Québec. Maison des mots: Montréal, 1984.
+[Graham 1892] Graham, J. H. Outlines of the History of Freemasonry in the Province of Quebec. Montréal: John Lovell & Son, 1892. 645 p.
+
+[Wilhelmy 1984] Wilhelmy, Jean-Pierre. Les Mercenaires Allemands au Québec. Montréal: Maison des mots, 1984. 331 p.
 
 
 

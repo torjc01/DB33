@@ -26,7 +26,7 @@
 
 **Langue primaire:** portugais et français. 
 
-**Sources de recherche:** bibliografia maçônica; sites de arquivos de jornais antigos; arquivos PDF recuperados das bibliotecas virtuais do GOB, da CMSB, entre outros. 
+**Sources de recherche:** bibliographie maçonnique; sites d'arquivos de jornais antigos; arquivos PDF recuperados das bibliotecas virtuais do GOB, da CMSB, entre outros. 
 
 
 ## Questões para pesquisa
