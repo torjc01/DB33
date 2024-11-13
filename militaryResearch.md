@@ -18,6 +18,9 @@
 
 ## GOVERNMENT  
 
+### ATIP - Access to Information and Privacy   
+https://www.veterans.gc.ca/en/veterans-rights/access-information-and-privacy
+
 ### WWII
 **Service Files of the Second World War - War Dead, 1939-1947**  
 https://www.bac-lac.gc.ca/eng/discover/military-heritage/second-world-war/second-world-war-dead-1939-1947/Pages/files-second-war-dead.aspx  
