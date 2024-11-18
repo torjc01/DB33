@@ -232,6 +232,53 @@ https://militaryandfamilyhistory.blog/
 - Each division is composed of 3 Infrantry Brigades 
 - Each Infanry Brigade is composed of 4 Infantry Battalions 
 
+## Military ranks and appointments 
+
+https://www.canada.ca/en/services/defence/caf/military-identity-system/rank-appointment-insignia.html
+
+https://www.canada.ca/fr/services/defense/fac/systeme-identite-militaire/insignes-grade-fonction.html
+
+
+
+|RANK|ENGLISH|FRANÇAIS|
+|---|---|---|
+|Genera/Flag Officers |General (Gen.)|Général (gén)|
+||Lieutenant-General (LGen)|Lieutenant-général (lgén)|
+||Major-General (MGen)|Major-général (mgén)|
+||Brigadier-General (BGen)|	Brigadier-général (bgén)|
+|Senior Officers |Colonel (Col)|Colonel (col)|
+||Lieutenant-Colonel (LCol)|Lieutenant-colonel (lcol)|
+||Major (Maj)|	Major (maj)|
+|Junior Officers|Captain (Capt)|	Capitaine (capt)|
+||Lieutenant (Lt)|Lieutenant (lt)|
+||Second Lieutenant (2Lt)|Sous-lieutenant (slt)|
+|Subordinate Officer|Officer Cadet (OCdt)|Élève-officier (élof)|
+|Senior Non-Commissioned Officers|Chief Warrant Officer (CWO)|	Adjudant-chef (adjuc)|
+||Master Warrant Officer (MWO)|	Adjudant-maître (adjum)|
+||Warrant Officer (WO)|Adjudant (adj)|
+||Sergeant (Sgt)|	Sergent (sgt)|
+|Junior Non-Commissioned Members|Master Corporal (MCpl)|Caporal-chef (cplc)|
+||Corporal (Cpl)|	Caporal (cpl)|
+||Private (Trained) (Pte (T)) |Soldat (formé) (sdt (f))|
+||Private (Basic) (Pte (B))|Soldat (confirmé) (sdt (c))|
+
+
+
+
+
+
+
+
+## Military Writing Guides 
+
+**British Defence Writing guide**   
+https://www.mylocalservices.co.uk/images/JSP101-Writing-Guide.pdf
+
+**Army military writing guide**   
+https://api.army.mil/e2/c/downloads/293960.pdf
+
+**Six rules**   
+https://intelligentediting.com/blog/six-military-writing-rules-you-can-implement-in-your-technical-writing/
 
 
 ```

@@ -66,7 +66,7 @@ http://www.viefrancaisecapitale.ca/pouvoir/linitiation-fra#_ftn1
 
 Anti:
 
-- Action Catholiquet
+- Action Catholique
 - L'événement
 - Le Canada
 

@@ -15,21 +15,48 @@
 <!-- FIN ENTETE -->
 # Masonic Hall 
 
-**Título provisório:** *Projeto e financiamento do Templo Maçônico de Québec pela Quebec Masonic Hall Association*, ou *Financiamento popular (crowdfunding) do Masonic Hall de Québec* ou ainda *Quebec Masonic Hall Association e a construção do Templo Maçônico de Québec*. 
+**Titre provisoire:** *Projet de financiament du Temple Maçonnique de Québec par la Quebec Masonic Hall Association*, ou *Financeament populaire (crowdfunding) de la Masonic Hall de Québec* ou encore *Quebec Masonic Hall Association et la construction du Temple Maçonnique de Québec*. 
 
-**Plano geográfico:** Cidade de Québec
+**Plan geographique:** Ville de Québec
 
-**Timeframe:** séc XIX e XX (a partir de 1855) 
+**Timeframe:** séc XIX e XX (à partir de 1855) 
 
-**Público alvo:** público maçônico interno, todos os graus. Possívelmente apresentar como presente para a AMBQ. 
+**Publique cible:** publique maçonnique interne, tous les grades. Probablement présenter comme cadeau à l'AMBQ. 
 
-**Idioma primário:** francês (tr. inglês)
+**Langue primaire:** français (trad. anglais)
 
-**Fontes de pesquisa:** 
-- Fontes primárias: atos de constituição da QMHA e da AMBQ; projetos e planos arquitetônicos; atas da loja Albion; atas da QMHA e da AMBQ; entrevista com os administradores atuais da AMBQ;  jornais ingleses e franceses da época, entre outros.
-- Fontes secundárias: bibliografia maçônica, entre outras. 
+**Sources de recherche:** 
+- Sources primaires: actes de constitution de la QMHA et de l'AMBQ; projets et plans architectoniques; actes de la loge Albion; actes de la QMHA er de l'AMBQ; interview avec les administrateurs atuaels de l'AMBQ;  jornais ingleses e franceses da época, entre outros.
+- Sources secondaires: bibliographie maçonnique, parmi autres. 
 
-**Citação para começar o artigo (traduzir para o francês)**:
+## Questions pour la recherche
+
+- Act of Incorporation da Quebec Masonic Hall Association;
+- Percurso das lojas Albion e St John's;
+- Inexistência de templo;
+- Criação da Quebec Masonic Hall Association; ato de constituição;
+- Lançamento de quotas abertas ao público para investir na construção do templo;
+- A compra do lote (espólio de Christian Hoffman); valor da compra 1860 e atualizado;
+- O concurso para o projeto arquitetônico do prédio e das dependências da loja;
+- Vencedor; notícia; descrição do prédio; imagens do projeto;
+- Contestações ao projeto;
+- Lançamento da pedra fundamental;
+- Construção e inauguração; custos em 1860 e atualizados;
+- Uso nos primeiros anos: lojas, apartamentos, bureaux; aluguel para eventos;
+- Necessidade de reforma 100 anos após; dissolução da QMHA e criação da AMBQ;
+- O prédio hoje. 
+
+
+## Informações diversas
+
+Compra do lote, em 02 abril 1860, pela soma de £1375, conforme notícia do Mercury, dia 03 de abril: 
+
+**EXTENSIVE SALE OF REAL STATE** - *The sale of city lots with buildings thereon, appertaining to the estate of the late Christian Hoffman, whose heirs have, we believe, all gone westward since his demise, took place in the Sheriff's Office in the Court House, yesterday forenoon, when the property was adjudged as follows:--   
+...   
+3rd:-- Corner of St. Lewis and east of Garden Street, west of J.T. Taschereau; -- to Masonic Hall Association for £1375.* (QM01)
+
+
+**Pour début de l'article (traduire vers le français)**:
   
       **"We have a holy house to build, 
       A temple splendid and divine, 
@@ -45,39 +72,10 @@
       
           - Albert Pike, “The Mason’s Holy House”**
 
-
-
-## Questions pour la recherche
-
-- Act of Incorporation da Quebec Masonic Hall Association
-- Percurso das lojas Albion e St John's
-- Inexistência de templo;
-- Criação da Quebec Masonic Hall Association; ato de constituição
-- Lançamento de quotas abertas ao público para investir na construção do templo
-- A compra do lote (espólio de Christian Hoffman); valor da compra 1860 e atualizado
-- O concurso para o projeto arquitetônico do prédio e das dependências da loja
-- Vencedor; notícia; descrição do prédio; imagens do projeto
-- Contestações ao projeto
-- Lançamento da pedra fundamental
-- Construção e inauguração; custos em 1860 e atualizados
-- Uso nos primeiros anos: lojas, apartamentos, bureaux; aluguel para eventos
-- Necessidade de reforma 100 anos após; dissolução da QMHA e criação da AMBQ
-- O prédio hoje
-- Descrever a historia da Albion: warrant militar e ambulante pela GL Antients; fundação em NY; retirada com exercito Britanico; Newfoundland; Woolwich; Quebec; compra da charte n. 9; estabelecimento de charte civil e sedentária; mostrar o processo de adesão à UGLE, e posteriormente à GLQ
-- Albion hoje: orgulhosa raízes militares; homenagem aos membros que foram perdidos nas guerras do Canada; muitos membros são ou foram das Forces; Descrever a soirée militaire anual com banquete
-- breve biografia dos irmãos da Albion caídos nas guerras 
-
-## Informações diversas
-
-Compra do lote, em 02 abril 1860, pela soma de £1375, conforme notícia do Mercury, dia 03 de abril: 
-
-**EXTENSIVE SALE OF REAL STATE** - *The sale of city lots with buildings thereon, appertaining to the estate of the late Christian Hoffman, whose heirs have, we believe, all gone westward since his demise, took place in the Sheriff's Office in the Court House, yesterday forenoon, when the property was adjudged as follows:--   
-...   
-3rd:-- Corner of St. Lewis and east of Garden Street, west of J.T. Taschereau; -- to Masonic Hall Association for £1375.* (QM01)
-
 ## Referências
 
-### Bibliografia 
+
+### Bibliographie 
 
 Quebec Masonic Hall Association. **Act of incorporation and by-laws of the Quebec Masonic Hall Association.** [Quebec : publisher not identified], 1855.  
 https://www.canadiana.ca/view/oocihm.52936/20 
@@ -88,7 +86,8 @@ https://numerique.banq.qc.ca/patrimoine/details/52327/2358952?docsearchtext=maso
 Chambers, E. T. D., **The guide to Quebec** /, Montreal, C.R. Corneil Print, 1899, 1 ressource en ligne (124, iv p. [12] p. de pl. [1] f. de cartes plié), Collections de BAnQ.
 https://numerique.banq.qc.ca/patrimoine/details/52327/3996426 
 
-### Jornais
+
+### Jornaux
 
 QM01. Venda do lote. The Quebec mercury, 1860-04-03, Collections de BAnQ. p.2
 https://numerique.banq.qc.ca/patrimoine/details/52327/3667493
@@ -96,7 +95,8 @@ https://numerique.banq.qc.ca/patrimoine/details/52327/3667493
 Masons pay honour to craft heroes.   
 Quebec Chronicle Telegraph, Nov 22nd 1921, p. 4    
 
-### Web
+
+### Liens web
 
 Dictionary Biographic Canada  
 http://www.biographi.ca/fr/ 
@@ -106,7 +106,7 @@ https://www.registreentreprises.gouv.qc.ca
 https://www.quebec.ca/entreprises-et-travailleurs-autonomes/obtenir-renseignements-entreprise/recherche-registre-entreprises/acceder-registre-entreprises
 
 
-### Ficha do edifício na prefeitura 
+**Ficha do edifício na prefeitura**   
 Ficha do edifício no site da prefeitura de Québec. 
 https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=300
 
@@ -115,7 +115,11 @@ https://www.ville.quebec.qc.ca/citoyens/propriete/docs/patrimoine/guide_tech06.p
 
 Ville de Montréal. La Maçonnerie: Fiche-patrimoine. https://ville.montreal.qc.ca/pls/portal/docs/page/arrond_mhm_fr/media/documents/fiche-patrimoine_maconnerie.pdf 
 
-### Plans architectoniques
+
+
+### Multimédia 
+
+#### Plans architectoniques
 
 **Masonic Hall  (D44)**  
 Plans d'architecture concernant une salle franc-maçonne située au coin des rues Desjardins et Saint-Louis à Québec. Le projet contient les dessins suivants : plan, élévation, coupe.  
@@ -136,6 +140,10 @@ https://advitam.banq.qc.ca/notice/316875
 **Masonic Hall Association Building (D533)**  
 Plans d'architecture concernant un bâtiment abritant une loge franc-maçonne. Le projet contient les dessins suivants : plan, coupe, élévation.  
 https://advitam.banq.qc.ca/notice/316964
+
+
+
+
 
 
 ## Annexe Économique 

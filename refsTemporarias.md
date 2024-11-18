@@ -29,3 +29,4 @@ O primeiro dever do homem em sociedade he ser util aos membros della; e cada um 
 Ir.'. Hyppolito Joseph da Costa Pereita Furtado de Mendonça
 
 https://memoria.bn.br/DocReader/docreader.aspx?bib=700142x&pesq=&pagfis=4
+

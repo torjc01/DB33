@@ -57,6 +57,7 @@
         - événements notés dans les procès-verbaux de la loge;
         - registre sur le décès du frère.
 
+
 ## Biographies des frères tombés à la Grande Guerre
 
 <img src="../images/Plaque.jpg" width="600" />
