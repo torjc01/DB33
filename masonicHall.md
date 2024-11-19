@@ -31,25 +31,25 @@
 
 ## Questions pour la recherche
 
-- Act of Incorporation da Quebec Masonic Hall Association;
-- Percurso das lojas Albion e St John's;
-- Inexistência de templo;
-- Criação da Quebec Masonic Hall Association; ato de constituição;
-- Lançamento de quotas abertas ao público para investir na construção do templo;
-- A compra do lote (espólio de Christian Hoffman); valor da compra 1860 e atualizado;
-- O concurso para o projeto arquitetônico do prédio e das dependências da loja;
-- Vencedor; notícia; descrição do prédio; imagens do projeto;
-- Contestações ao projeto;
-- Lançamento da pedra fundamental;
-- Construção e inauguração; custos em 1860 e atualizados;
-- Uso nos primeiros anos: lojas, apartamentos, bureaux; aluguel para eventos;
-- Necessidade de reforma 100 anos após; dissolução da QMHA e criação da AMBQ;
-- O prédio hoje. 
+- Acte d'incorporation de la Quebec Masonic Hall Association ;
+- Parcours des loges d'Albion et de St John's ;
+- Inexistence d'un temple ;
+- Création de la Quebec Masonic Hall Association ; acte de constitution ;
+- Lancement  des cotisations au public pour investir dans la construction du temple ;
+- L'achat du terrain (succession de Christian Hoffman) ; prix d'achat 1860 et plus ;
+- Le concours pour la conception architecturale du bâtiment et des locaux commerciaux ;
+- Gagnant ; nouvelles ; description du bâtiment ; images du projet ;
+- Les contestations au projet ;
+- Pose de la première pierre ;
+- Construction et inauguration ; coûts en 1860 et jusqu'à aujourd'hui ;
+- Utilisation dans les premières années : magasins, appartements, bureaux ; location pour des événements ;
+- Nécessité d'un réaménagement 100 ans plus tard ; dissolution de l'AHGM et création de l'AMBQ ;
+- Le bâtiment aujourd'hui. 
 
 
-## Informações diversas
+## Informations varia
 
-Compra do lote, em 02 abril 1860, pela soma de £1375, conforme notícia do Mercury, dia 03 de abril: 
+Achat du lot, le 2 avril 1860, pour la somme de £1375 livres sterling, comme l'indique le Mercury du 3 avril : 
 
 **EXTENSIVE SALE OF REAL STATE** - *The sale of city lots with buildings thereon, appertaining to the estate of the late Christian Hoffman, whose heirs have, we believe, all gone westward since his demise, took place in the Sheriff's Office in the Court House, yesterday forenoon, when the property was adjudged as follows:--   
 ...   
@@ -72,7 +72,7 @@ Compra do lote, em 02 abril 1860, pela soma de £1375, conforme notícia do Merc
       
           - Albert Pike, “The Mason’s Holy House”**
 
-## Referências
+## Références
 
 
 ### Bibliographie 
@@ -106,7 +106,7 @@ https://www.registreentreprises.gouv.qc.ca
 https://www.quebec.ca/entreprises-et-travailleurs-autonomes/obtenir-renseignements-entreprise/recherche-registre-entreprises/acceder-registre-entreprises
 
 
-**Ficha do edifício na prefeitura**   
+**Dossier du batiment à la mairie**   
 Ficha do edifício no site da prefeitura de Québec. 
 https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=300
 
@@ -114,7 +114,6 @@ Ville de Québec. Maçonnerie de Pierre: Guide technique 6.
 https://www.ville.quebec.qc.ca/citoyens/propriete/docs/patrimoine/guide_tech06.pdf
 
 Ville de Montréal. La Maçonnerie: Fiche-patrimoine. https://ville.montreal.qc.ca/pls/portal/docs/page/arrond_mhm_fr/media/documents/fiche-patrimoine_maconnerie.pdf 
-
 
 
 ### Multimédia 
@@ -140,10 +139,6 @@ https://advitam.banq.qc.ca/notice/316875
 **Masonic Hall Association Building (D533)**  
 Plans d'architecture concernant un bâtiment abritant une loge franc-maçonne. Le projet contient les dessins suivants : plan, coupe, élévation.  
 https://advitam.banq.qc.ca/notice/316964
-
-
-
-
 
 
 ## Annexe Économique 

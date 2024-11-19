@@ -54,9 +54,6 @@ Loge Anhalt-Zerbst, no. 425, RQ.
 
 [The Anhalt Duchies’ Military during the French Revolutionary and Napoleonic Wars, 1789-1815](https://www.napoleon-series.org/military-info/organization/Anhalt/AnhaltMilitary.pdf)
 
-
 [Free-Masonry. Unparalleled sufferings of John Coustos; (mention to Anhalt-Zerbst)](https://quod.lib.umich.edu/e/evans/N24207.0001.001/1:12?rgn=div1;view=fulltext)
 
 [Website des Kreises Anhalt-Zerbst](https://web.archive.org/web/20050403162959fw_/http://anhalt-zerbst.de/frame_wi.htm)
-
-
