@@ -40,6 +40,15 @@
 
 ### Bibliographie 
 
+Revealed Duncan's Ritual. 
+
+King Solomon and his followers: A valuable aid to memory. Allen Publishing Company, New York: 1952. 
+
+Official Cipher: not to be consulted in any lodge or exemplification while in session nor by any candidate for the degrees. Grand Lodge of Masons in Massachussets, Boston, 1968. 
+
+Garder, Martin. Code, ciphers and secret writing. Dover Publications, New York, 1972. p. 27-28. 
+
+Gaines, Helen Fouché. Cryptanalysis: a study of ciphers and their solution. Dover Publications, New York, 1956. 
 
 
 ### Liens web
