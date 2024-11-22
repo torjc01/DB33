@@ -56,5 +56,5 @@ Le Soleil Saguenay-Lac-St-Jean, samedi, 27 janvier 1973. BAnQ.
 HKVCA Veteran Profile:    
 https://www.hkvca.ca/cforcedata/indivreport/indivdetailed.php?regtno=E22849 
 
-HKVCA Vault for Albert Kirouac
+HKVCA Vault for Albert Kirouac   
 https://drive.google.com/drive/folders/17lElQiLeEhWjT1QwQLgLVbIFqnrN09Jf
