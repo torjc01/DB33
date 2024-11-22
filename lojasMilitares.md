@@ -41,16 +41,17 @@
 ## Referências
 
 ### Bibliografia 
-*Ragon, Jean-Marie.* **Orthodoxie Maçonnique: Suivie de la Maçonnerie Oculte et de l'Initiation Hermétique.** Paris: E.Dentu Libraire-Éditeur, 1853. 
 
-*Graham, John Hamilton* **Outlines of the History of Freemasonry in the Province of Quebec.** 1st ed. Montréal: John Lovell & Son, 1892. p 489-490.   
-[https://www.google.ca/books/edition/Outlines_of_the_History_of_Freemasonry_i/ZrJJAAAAMAAJ?hl=pt-](https://www.google.ca/books/edition/Outlines_of_the_History_of_Freemasonry_i/ZrJJAAAAMAAJ?hl=pt-BR&gbpv=1&dq=minute+book+woolwich+9+january+1789&pg=PA489&printsec=frontcover )
+**By-Laws The Lodge of Antiquity, No 1, G.R.Q.** 1906. Montréal.
 
-**By-Laws The Lodge of Antiquity, No 1, G.R.Q.** Montréal: [s.n.], 1906. 
+Graham, John Hamilton. 1892. **Outlines of the History of Freemasonry in the Province of Quebec.** 1st ed. Montréal: John Lovell & Son. p 489-490. https://www.google.ca/books/edition/Outlines_of_the_History_of_Freemasonry_i/ZrJJAAAAMAAJ?hl=pt-BR&gbpv=1&dq=minute+book+woolwich+9+january+1789&pg=PA489&printsec=frontcover.
 
-*Smith, Pemberton.* **A Research into Early Canadian Masonry 1759-1869.** 1st ed.Montréal: Quality Press, 1939. 
+Milborne, Alfred John Bidder. 1960. **Freemasonry in the Province of Quebec.** Knowlton (QC).
 
-*Milborne, Alfred John Bidder.* **Freemasonry in the Province of Quebec.** 1st ed. Knowlton(QC): [s.n.], 1960. 
+Ragon, Jean-Marie. 1853. **Orthodoxie Maçonnique: Suivie de la Maçonnerie Oculte et de l’Initiation Hermétique.** Paris: E.Dentu Libraire-Éditeur.
+
+Smith, Pemberton. 1939. **A Research into Early Canadian Masonry 1759-1869.** 1st ed. Montréal: Quality Press.
+
 
 -----
 
