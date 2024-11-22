@@ -59,6 +59,9 @@ https://www.hkvca.ca/cforcedata/indivreport/indivdetailed.php?regtno=E22849
 HKVCA Vault for Albert Kirouac   
 https://drive.google.com/drive/folders/17lElQiLeEhWjT1QwQLgLVbIFqnrN09Jf
 
+Ancestry Recherche d'Albert 
+
+https://www.ancestry.ca/genealogy/records/albert-kirouac-24-559ffq?geo_a=r&geo_s=us&geo_t=ca&geo_v=2.0.0&o_iid=41015&o_lid=41015&o_sch=Web+Property&_gl=1*c63x52*_gcl_au*NTU4MDMxODc3LjE3MzIzMDY0MDM.*_ga*MTYzNjczMDc0Ny4xNzMyMzA2NDA0*_ga_LMK6K2LSJH*ZTEwODE4YzctYTI5OC00NjNiLThkNzctYzZhMTczZDFjNWFhLjEuMC4xNzMyMzA2NDAzLjAuMC4w*_ga_4QT8FMEX30*ZTEwODE4YzctYTI5OC00NjNiLThkNzctYzZhMTczZDFjNWFhLjEuMC4xNzMyMzA2NDA0LjYwLjAuMA..
 
 
 E22849 Albert KIROUAC
