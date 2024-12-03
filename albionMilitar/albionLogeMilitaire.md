@@ -101,39 +101,23 @@ In Flanders Fields.
 
 ### Bibliographie
 
-*Graham, John H.* **Outlines of the History of Freemasonry in the Province of Quebec.** 1st ed. Montréal: John Lovell & Son, 1892. p 489-490.   
-https://www.google.ca/books/edition/Outlines_of_the_History_of_Freemasonry_i/ZrJJAAAAMAAJ?hl=pt-BR&gbpv=1&dq=minute+book+woolwich+9+january+1789&pg=PA489&printsec=frontcover
+(Duncan I 1872) Duncan, Francis. 1872. **History of the Royal Regiment of Artillery: Compiled from the Original Records. Vol. 1.** 2 vols. London: John Murray Ed. https://www.gutenberg.org/files/52258/52258-h/52258-h.htm#Page_251.
 
+(Duncan II 1872) Duncan, Francis. 1872. **History of the Royal Regiment of Artillery: Compiled from the Original Records. Vol. 2.** 2 vols. London: John Murray Ed. https://www.gutenberg.org/cache/epub/58209/pg58209-images.html.
 
-**By-Laws The Lodge of Antiquity, No 1, G.R.Q.** Montréal: [s.n.], 1906. 
+(Graham 1892) Graham, John Hamilton. 1892. **Outlines of the History of Freemasonry in the Province of Quebec.** 1st ed. Montréal: John Lovell & Son. p 489-490. https://www.google.ca/books/edition/Outlines_of_the_History_of_Freemasonry_i/ZrJJAAAAMAAJ?hl=pt-BR&gbpv=1&dq=minute+book+woolwich+9+january+1789&pg=PA489&printsec=frontcover.
 
-*Smith, Pemberton.* **A Research into Early Canadian Masonry 1759-1869.** 1st ed.Montréal: Quality Press, 1939. 
+(Hammon 1883) Hammon, Édouard. 1883. **‘La franc-maçonnerie dans la province de Québec en 1883’**, 276. https://numerique.banq.qc.ca/patrimoine/details/52327/2021763.
 
+(Le Moine, S.R.C. 1989) Le Moine, S.R.C., Roger. 1989. **‘La Franc-Maçonnerie Sous Le Régime Français - État de La Question’.** Les Cahiers Des Dix, no. 44. https://www.erudit.org/fr/revues/cdd/1989-n44-cdd0568/1015558ar.pdf.
 
-*Milborne, Alfred John Bidder.* **Freemasonry in the Province of Quebec.** 1st ed. Knowlton(QC): [s.n.], 1960. 
+(Le Moine, S.R.C. 1993) Le Moine, S.R.C., Roger. 1993. **‘Francs-maçons francophones du temps de la «Province of Quebec» (1763-1791)’.** Les Cahiers des dix, no. 48. https://www.erudit.org/fr/revues/cdd/1993-n48-cdd0572/1015604ar.pdf.
 
+(Lodge of Antiquity 1906) Lodge of Antiquity. 1906. Lodge of Antiquity. **By-Laws of The Lodge of Antiquity Ancient Free and Accepted Masons: Being Number One on the Registry of the Most Worshipful The Grand Lodge of Ancient Free and Accepted Masons of Quebec.** Montréal.
 
-*Hamon, É.*, **La franc-maçonnerie dans la province de Québec en 1883**, Québec (Province), s.n., 1883, 276 p. ; 19 cm, Collections de BAnQ. 
-https://numerique.banq.qc.ca/patrimoine/details/52327/2021763 
+(Milborne 1960) Milborne, Alfred John Bidder. 1960. **Freemasonry in the Province of Quebec.** Knowlton (QC).
 
-
-*Duncan, Capt. Francis.* **History of the Royal Regiment of Artillery: Compiled from the original records.** London: John Murray Ed, 1872.
-VOL I: https://www.gutenberg.org/files/52258/52258-h/52258-h.htm#Page_251    
-VOL II: https://www.gutenberg.org/cache/epub/58209/pg58209-images.html
-
-
-La franc-maçonnerie sous le régime français - État de la question   
-Roger Le Moine, S.R.C.   
-Les Cahiers des dix, Numéro 44, 1989   
-https://www.erudit.org/fr/revues/cdd/1989-n44-cdd0568/1015558ar.pdf
-
- 
-Francs-maçons francophones du temps de la «Province of Quebec» (1763-1791)   
-Roger Le Moine, S.R.C.   
-Les Cahiers des dix, Numéro 48, 1993   
-https://www.erudit.org/fr/revues/cdd/1993-n48-cdd0572/1015604ar.pdf
-
-
+(Smith 1939) Smith, Pemberton. 1939. **A Research into Early Canadian Masonry 1759-1869.** 1st ed. Montréal: Quality Press.
 
 ### Sites Web 
 
@@ -144,7 +128,6 @@ https://www.dhi.ac.uk/lane/
 Atholl Lodge List - Antients  
 https://antients.org 
 
-
 Royal Artillery Museum (to where write and retrieve the old minutes of Albion Lodge)
 https://royalartillerymuseum.com/
 
@@ -154,8 +137,8 @@ https://qspace.library.queensu.ca/items/2e97ac9c-2d74-4066-84e4-22b26b9cab82
 
 ### Newspaper clippings
 
-Quebec Chronicle, 22 nov 1921 Inauguração da placa na loja Albion
-https://books.google.ca/books?id=gpYfAAAAIBAJ&printsec=frontcover&hl=pt-BR&source=gbs_ge_summary_r&cad=0#v=onepage&q=heroes&f=false
+(Quebec Telegraph 1921-11-22) Quebec Telegraph. 1921. ‘Masons Honor Craft Heroes’, 22 November 1921. Google News. https://books.google.ca/books?id=gpYfAAAAIBAJ&printsec=frontcover&hl=pt-BR#v=snippet&q=heroes&f=false.
+
 
 
 
@@ -181,5 +164,4 @@ Smith, Pemberton. (1939). **A research into Early Canadian Masonry 1759-1869.** 
 
 ## Footnotes
 
-[^hero]: Masons honor craft heroes, Quebec Telegraph, p. 4, 22/11/1921   
-  https://books.google.ca/books?id=gpYfAAAAIBAJ&printsec=frontcover&hl=pt-BR#v=snippet&q=heroes&f=false
+[^hero]: (Quebec Telegraph 1921-11-22) Quebec Telegraph. 1921. ‘Masons Honor Craft Heroes’, 22 November 1921. Google News. https://books.google.ca/books?id=gpYfAAAAIBAJ&printsec=frontcover&hl=pt-BR#v=snippet&q=heroes&f=false.
