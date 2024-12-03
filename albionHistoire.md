@@ -22,7 +22,7 @@
 
 **Timeframe:** de 1752 à nos jours; date prévue de publication: été de 2027. 
 
-**Publique cible:** ce livre vise informer les frères de la Loge Albion la riche histoire que leur loge a et les contributions qu'elle a donné à la Franc-Maçonnerie en général depuis 275 ans; mais il est publique; peut être publié à un publique plus large. 
+**Publique cible:** ce livre vise informer les frères de la Loge Albion la riche histoire de leur loge a et les contributions qu'elle a donné à la Franc-Maçonnerie en général depuis 275 ans. Le scope est publique; peut être publié à un publique plus large. 
 
 **Langue primaire** français. 
 
