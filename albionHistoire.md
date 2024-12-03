@@ -16,11 +16,11 @@
 
 # Histoire de la Loge Albion No.2, Q.R. 
 
-**Titre provisoire:** Histoire de la Loge Albion No. 2
+**Titre provisoire:** Histoire de la Loge Albion No. 2: commemorative du 275e anniversaire de la Loge. 
 
 **Plan geographique:** Ville de Québec
 
-**Timeframe:** de 1752 à nos jours
+**Timeframe:** de 1752 à nos jours; date prévue de publication: été de 2027. 
 
 **Publique cible:** ce livre vise informer les frères de la Loge Albion la riche histoire que leur loge a et les contributions qu'elle a donné à la Franc-Maçonnerie en général depuis 275 ans; mais il est publique; peut être publié à un publique plus large. 
 
