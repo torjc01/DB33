@@ -63,6 +63,9 @@
 **1829** 
 - Warrant of Renewal as Civil Lodge, Jan 27th 1829
 
+**1860**
+- Creation of Masonic Hall Association
+
 **1865** 
 - Masonic Hall, Garden Street, Quebec
 
@@ -91,6 +94,10 @@
 - Albion: 27, 63, 66, 81, 126, 128, 129
 - Masonic Hall: 122, 127, 128
 - St Johns No. 241: 26, 63, 81, 126, 128, 129
+
+## Varia
+
+- Il y a des photos historiques de la loge?
 
 ## Références 
 
