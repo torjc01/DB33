@@ -98,6 +98,11 @@
 ## Varia
 
 - Il y a des photos historiques de la loge?
+- Masonic Hall Association
+- Monument à Wolfe et Montcalm
+- Pierres fondamentales
+- Exemple d'histoire des autres loges pour nous inspirer
+- 
 
 ## Références 
 
