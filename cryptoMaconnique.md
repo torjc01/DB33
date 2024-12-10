@@ -63,6 +63,17 @@ https://crypto.interactive-maths.com/pigpen-cipher.html#google_vignette
 American Cryptogram Association   
 https://www.cryptogram.org/
 
+http://www.themasonictrowel.com/new_files_to_file/hermetic_symbolism_masonic_engraving/hermetic_symbolism_masonic_engraving.htm
+
+http://www.themasonictrowel.com/education/others_files/the_masonic_cipher/the_masonic_cipher.htm
+
+http://www.themasonictrowel.com/articles/general/other_files/masonic_cyphers_and_symbols/masonic_cyphers_and_symbols.htm
+
+http://www.themasonictrowel.com/ebooks/freemasonry/eb0146.pdf
+
+http://www.themasonictrowel.com/ebooks/freemasonry/eb0321.pdf
+
+
 ### Multimédia 
 
 Référence a toute source multimédia utilisée dans la recherche. 
