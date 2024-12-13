@@ -86,6 +86,8 @@ https://numerique.banq.qc.ca/patrimoine/details/52327/2358952?docsearchtext=maso
 Chambers, E. T. D., **The guide to Quebec** /, Montreal, C.R. Corneil Print, 1899, 1 ressource en ligne (124, iv p. [12] p. de pl. [1] f. de cartes plié), Collections de BAnQ.
 https://numerique.banq.qc.ca/patrimoine/details/52327/3996426 
 
+British Artillery Battalions and the Men Who Led Them 1793-1815    
+https://www.napoleon-series.org/military-info/organization/Britain/Artillery/4thBattalionRA.pdf
 
 ### Jornaux
 
@@ -104,6 +106,10 @@ http://www.biographi.ca/fr/
 Registraire des Entreprises du Québec   
 https://www.registreentreprises.gouv.qc.ca  
 https://www.quebec.ca/entreprises-et-travailleurs-autonomes/obtenir-renseignements-entreprise/recherche-registre-entreprises/acceder-registre-entreprises
+
+https://www.dhi.ac.uk/lane/record.php?ID=33
+
+
 
 
 **Dossier du batiment à la mairie**   

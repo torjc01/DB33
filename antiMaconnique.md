@@ -52,7 +52,16 @@ https://perspective.usherbrooke.ca/bilan/quebec/evenements/20135
 
 **L'Ordre de Jacques Cartier, société secrète**   
 http://www.viefrancaisecapitale.ca/pouvoir/lordre_de_jacques_cartier_societe_secrete-fra#main-content  
+
+**L'initiation**   
 http://www.viefrancaisecapitale.ca/pouvoir/linitiation-fra#_ftn1  
+
+
+**L’ordre secret de Jacques-Cartier**   
+https://www.ledevoir.com/culture/cinema/783263/rendez-vous-quebec-cinema-l-ordre-de-jacques-cartier
+
+**Fonds Ordre de Jacques-Cartier**   
+https://advitam.banq.qc.ca/notice/332245
 
 
 <img src="images/OJC/Temple.jpg" width="600" />
@@ -74,6 +83,11 @@ Pro:
 
 - Quebec Chronicle
 - Montreal Daily
+
+
+There is no other body of men to whom one may appeal with greater confidence to accept this challenge, than Freemasons, men who in the most solemn manner have professed their belief in God and in all his teachings, and who, in the most solemn oath, have obligated themselves to be loyal citizens and to maintain the ideals of righteousness, liberty, justice and the sanctity of the law.  [Quebec Chronicle 3 dec 1921]
+
+Il n'y a pas d'autre groupe d'hommes à qui l'on puisse demander avec plus de confiance de relever ce défi que les francs-maçons, des hommes qui, de la manière la plus solennelle, ont professé leur foi en Dieu et en tous ses enseignements, et qui, par le serment le plus solennel, se sont engagés à être des citoyens loyaux et à maintenir les idéaux de droiture, de liberté, de justice et de sainteté de la loi.
 
 # Referências
 
