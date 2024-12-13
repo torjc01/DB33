@@ -33,36 +33,52 @@
 - Le besoin de chiffrer les communications; 
 - Utilisation de la cryptographie dans documents, procès-verbaux, lettres; pierres tombales; 
 - Quels sont les méthodes utilisés par les franc-maçons? 
-- 
+
+## Contenu de l'article 
+
+- Monoalphabetic substitution cipher.
+- Pigpen substitutes one letter by one symbol, according to a predefined pattern.
+- To encrypt a particular letter, find its position in the pattern, then sketch that portion of the grid to represent that letter. 
+- These patterns stand out here and there in printed manuals of Masonry, they comprise part of the mixture of cryptography, abbreviation and rebus eith which Masons diguise their rituals. 
 
 ## Références 
 
 
 ### Bibliographie 
 
-Revealed Duncan's Ritual. 
+Allen Publishing. 1952. King Solomon and His Followers: A Valuable Aid to Memory. New York: Allen Publishing Company.
 
-King Solomon and his followers: A valuable aid to memory. Allen Publishing Company, New York: 1952. 
+Coil, Henry Wilson. 1966. Coil’s Masonic Encyclopedia. Richmond, Virginia: Macoy Publishing and Masonic Supply Co.
 
-Official Cipher: not to be consulted in any lodge or exemplification while in session nor by any candidate for the degrees. Grand Lodge of Masons in Massachussets, Boston, 1968. 
+Duncan, Malcolm C. 1965. Duncan’s Masonic Ritual and Monitor: Or Guide to the Three Symbolic Degrees of the Ancient York Rite. Chicago: Ezra A,. Cook Publications.
 
-Garder, Martin. Code, ciphers and secret writing. Dover Publications, New York, 1972. p. 27-28. 
+Gaines, Helen Fouché. 1956. Cryptanalysis: A Study of Ciphers and Their Solution. Dover Publications.
 
-Gaines, Helen Fouché. Cryptanalysis: a study of ciphers and their solution. Dover Publications, New York, 1956. 
+Gardner, Martin. 1972. Code, Ciphers and Secret Writing. Dover Publications. p. 27-28. 
 
+Grand Lodge of Masons in Massachussets. 1968. Official Cipher: Not to Be Consulted in Any Lodge or Exemplification While in Session nor by Any Candidate for the Degrees. Boston: Grand Lodge of Masons in Massachussets.
+
+Kahn, David. 1996. The Codebreakers: The Comprehensive History of Secret Communication from Ancient Times to the Internet. 2nd ed. New York: Scribner.
+
+Singh, Simon. 2011. The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography. Westminster: Knopf Doubleday Publishing Group.
 
 ### Liens web
 
-https://freemasonry.bcy.ca/texts/cyphers.htmlhttps://freemasonry.bcy.ca/texts/cypher_templar.html 
+‘American Cryptogram Association’. n.d. American Cryptogram Association. Accessed 12 December 2024. https://www.cryptogram.org/.
 
-https://freemasonry.bcy.ca/texts/cypher.htmlhttps://freemasonry.bcy.ca/texts/templars_cipher.htmlhttps://freemasonry.bcy.ca/texts/cypher_gravestone.html
+‘Crypto Corner’. n.d. Pigpen Cipher. Accessed 12 December 2024. https://crypto.interactive-maths.com/pigpen-cipher.html#google_vignette.
+
+https://freemasonry.bcy.ca/texts/cypher.html
+
+https://freemasonry.bcy.ca/texts/cyphers.html
+
+https://freemasonry.bcy.ca/texts/cypher_templar.html 
+
+https://freemasonry.bcy.ca/texts/templars_cipher.html
+
+https://freemasonry.bcy.ca/texts/cypher_gravestone.html
 
 
-https://crypto.interactive-maths.com/pigpen-cipher.html#google_vignette
-
-American Cryptogram Association   
-https://www.cryptogram.org/
-
-### Multimédia 
+### Multimedia 
 
 Référence a toute source multimédia utilisée dans la recherche. 
