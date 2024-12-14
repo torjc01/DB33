@@ -133,6 +133,7 @@ https://library-archives.canada.ca/eng/collection/research-help/military-heritag
 Military Writing
 https://cloud.rampinteractive.com/287aircadets/files/Sr%20NCO/Military%20Writing%20Guide.pdf
 
+
 **Scholar Journals**
 
 Canadian Military History - Since its launch in 1992, Canadian Military History has become one of the premier journals in its field. CMH is a peer-reviewed academic journal published bi-annually by the Laurier Centre for the Study of Canada with editorial and financial support from the Canadian War Museum. Its purpose is to foster research, teaching and public discussion of historical and contemporary military and strategic issues.    
@@ -188,6 +189,9 @@ Information sur les prisonniers de guerre
 1914-1918   
 PRISONERS OF THE FIRST WORLD WAR - ICRC HISTORICAL ARCHIVES   
 https://grandeguerre.icrc.org/en/
+
+The Quebec chronicle, 1914-10-17, Collections de BAnQ. Decorations prized by warring nations.    
+https://numerique.banq.qc.ca/patrimoine/details/52327/3610568?docsearchtext=russian%20cross%20saint%20george
 
 
 **UNIVERSITÄT HEILDEBERG - Archives** 

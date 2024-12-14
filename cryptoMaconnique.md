@@ -70,15 +70,18 @@ Singh, Simon. 2011. The Code Book: The Science of Secrecy from Ancient Egypt to 
 
 https://freemasonry.bcy.ca/texts/cypher.html
 
-https://freemasonry.bcy.ca/texts/cyphers.html
-
-https://freemasonry.bcy.ca/texts/cypher_templar.html 
+https://freemasonry.bcy.ca/texts/cypher.html
 
 https://freemasonry.bcy.ca/texts/templars_cipher.html
 
 https://freemasonry.bcy.ca/texts/cypher_gravestone.html
 
 
-### Multimedia 
+https://crypto.interactive-maths.com/pigpen-cipher.html#google_vignette
+
+American Cryptogram Association   
+https://www.cryptogram.org/
+
+### Multimédia 
 
 Référence a toute source multimédia utilisée dans la recherche. 

@@ -41,11 +41,27 @@ Mentionner les références aux sources qui ont été consultées lors de la rec
 
 ### Bibliographie 
 
-Références bibliographiques, selon le Quarry Projet Style Guide, et par conséquence, le Chicago Style Guide. 
+Le Bihan (Alain), Francs-maçons et ateliers parisiens de la Grande Loge de France au XVIIIe siècle (1760-1795) Revue belge de Philologie et d'Histoire Année 1976 54-3 pp. 1011-1015 
+https://www.persee.fr/doc/rbph_0035-0818_1976_num_54_3_5425_t1_1011_0000_3?q=freemasonry
 
 ### Liens web
 
 Liens à des pages web consultées. 
+
+http://www.46thfoot.com/46thfreemasons.html
+Freemasonry and warhttps://brill.com/display/book/edcoll/9789004273122/B9789004273122-s027.xml
+
+Dunkerke
+https://www.amitiefraternite.com/produit/livre-de-jacques-foort/
+https://www.amitiefraternite.com/anciens-sceaux-de-la-loge/
+https://www.persee.fr/doc/rnord_0035-2624_1932_num_18_72_1590_t1_0329_0000_2
+
+https://allthingsliberty.com/2023/12/the-american-invasion-of-canada/
+https://allthingsliberty.com/2024/05/ten-causes-of-the-miscarriages-in-canada-why-the-1775-1776-invasion-failed/
+
+An Appeal to the Inhabitants of Quebec
+https://www.digitalhistory.uh.edu/disp_textbook.cfm?smtID=3&psid=4104
+
 
 ### Multimédia 
 
