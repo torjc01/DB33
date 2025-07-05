@@ -128,4 +128,28 @@ Leon XIII (1942). **La Franc-Maçonnerie: Lettre Encyclique ”Humanun Genus” 
 
 R P Couet, OP (1910). **La Franc-Maçonnerie et la Conscience Catholique: Étude sur la Dénonciation Juridique.** Montréal: Imprimerie de l’Action Sociale.
 
+Jose-Antonio Ferrer-Benimeli: 
+https://www.persee.fr/doc/thlou_0080-2654_1991_num_22_2_2503_t1_0276_0000_1
+
+
+
+
+
 **Vie Française dans la Capitale.** Capsule: L'Initiation. URL: https://www.viefrancaisecapitale.ca/pouvoir/linitiation-fra
+
+### Journaux
+
+https://www.thecanadianencyclopedia.ca/en/article/the-vindicator
+
+https://www.thecanadianencyclopedia.ca/en/article/la-minerve
+
+https://www.thecanadianencyclopedia.ca/en/article/the-quebec-mercury
+
+Étoile du Nord - Franc-maçons chassés - https://numerique.banq.qc.ca/patrimoine/details/52327/2484879
+
+https://numerique.banq.qc.ca/patrimoine/details/52327/2484872
+
+L'électeur - https://numerique.banq.qc.ca/patrimoine/details/52327/2513021
+
+
+
