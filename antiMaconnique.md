@@ -131,11 +131,27 @@ R P Couet, OP (1910). **La Franc-Maçonnerie et la Conscience Catholique: Étude
 Jose-Antonio Ferrer-Benimeli: 
 https://www.persee.fr/doc/thlou_0080-2654_1991_num_22_2_2503_t1_0276_0000_1
 
+Reconciliação Igreja x Maçonaria
 
+Encyclicals 
 
+http://seattlemasons.org/wp-content/uploads/2020/03/202003-Trestleboard-letter.pdf
 
+https://freemasonry.bcy.ca/anti-masonry/papal_encyclicals.html
 
 **Vie Française dans la Capitale.** Capsule: L'Initiation. URL: https://www.viefrancaisecapitale.ca/pouvoir/linitiation-fra
+
+Catholic Encyclopedia
+
+https://www.newadvent.org/cathen/03052b.htm
+
+O Código de Direito Canónico de 27.05.1917 e a Maçonaria
+
+https://www.freemason.pt/codigo-direito-canonico-27051917-maconaria/
+
+Du motu proprio au rescrit FSSP (definiçôes)
+
+https://claves.org/du-motu-proprio-au-rescrit/
 
 ### Journaux
 
