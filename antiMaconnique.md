@@ -40,8 +40,8 @@
 - Reação católica: Chevaliers de Coulombe;  Ordre de Jacques Cartier (tardiamente)
 - Cobertura midiática sobre a FM; jornais pró (anglófonos) e anti (francófonos) 
 
-## Bulas papais:
-- In eminenti apostolatus, Papa Clemente XII, 1738 
+## Documentos pontificios:
+- In Eminenti Apostolatus, Papa Clemente XII, 1738 
 - Providas romanorum, Bento XIV, 1751
 - Humanum genus, Leão XIII, 1884
 
