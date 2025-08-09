@@ -167,5 +167,15 @@ https://numerique.banq.qc.ca/patrimoine/details/52327/2484872
 
 L'électeur - https://numerique.banq.qc.ca/patrimoine/details/52327/2513021
 
+### Articles de la presse 
+
+La Vérité, 1896-10, Collections de BAnQ.  
+De l'action Maçonnique en général  
+https://numerique.banq.qc.ca/patrimoine/details/52327/2663636?docsearchtext=Humanum%20Genus
+
+Le Journal de Québec, 1847-05-08, Collections de BAnQ.  
+L'Oddfellowisme, l'Église de Rome...   
+https://numerique.banq.qc.ca/patrimoine/details/52327/2645390?docsearchtext=francs-ma%C3%A7ons
+
 
 
