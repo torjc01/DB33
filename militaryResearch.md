@@ -146,6 +146,9 @@ https://www.cwgc.org/
 **The Memory Project**  
 https://www.thememoryproject.com/
 
+The Memory Project is a volunteer speakers bureau that arranges for veterans and Canadian Forces members to share their stories of military service at school and community events across the country.
+
+
 **The Memory Project Archive**  
 https://www.thecanadianencyclopedia.ca/en/collection/the-memory-project-archive-collection
 
