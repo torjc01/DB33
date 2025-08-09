@@ -144,17 +144,15 @@ https://scholars.wlu.ca/cmh/
 https://www.cwgc.org/
 
 **The Memory Project**  
-https://www.thememoryproject.com/
-
-The Memory Project is a volunteer speakers bureau that arranges for veterans and Canadian Forces members to share their stories of military service at school and community events across the country.
+https://www.thememoryproject.com/ The Memory Project is a volunteer speakers bureau that arranges for veterans and Canadian Forces members to share their stories of military service at school and community events across the country.
 
 
 **The Memory Project Archive**  
-https://www.thecanadianencyclopedia.ca/en/collection/the-memory-project-archive-collection
+https://www.thecanadianencyclopedia.ca/en/collection/the-memory-project-archive-collection This collection gathers together primary source testimonies of veterans from the Memory Project Archive.
+Please be advised that Memory Project primary sources may deal with personal testimony that reflect the speaker’s recollections and interpretations of events. Individual testimony does not necessarily reflect the views of the Memory Project and Historica Canada.
 
 **Historica Canada**  
-https://www.historicacanada.ca/
-Historica Canada is a charitable organization that offers programs in both official languages that you can use to explore, learn, reflect on our history, and consider what it means to be Canadian.
+https://www.historicacanada.ca/ Historica Canada is a charitable organization that offers programs in both official languages that you can use to explore, learn, reflect on our history, and consider what it means to be Canadian.
 
 ### Military Records 
 
