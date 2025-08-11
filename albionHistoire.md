@@ -128,6 +128,8 @@
 
 (Saul 2022) Saul, J. Beamish. 2022. **Historical Sketch of The Lodge of Antiquity, A. F. and A. M., No. 1, G. R. Q: Formerly Lodge of... Social and Military Virtues, No. 227, I. C., Instituted March 4, 1752, in the 46th British Regiment, Now the 2nd Battalion Duke of Cornwall’s Light Infantry.** Forgotten Books.
 
+(Sheppard 1915) Sheppard, Osborne. **Freemasonry in Canada.** R. Duncan & Co., 1915.
+
 (Smith 1939) Smith, Pemberton. 1939. **A Research into Early Canadian Masonry 1759-1869.** 1st ed. Montréal: Quality Press.
 
 ### Liens web
