@@ -41,7 +41,7 @@ Faire une présetation de 10 a 15 minutes pendant le banquet sur l'historique. U
 
 - rechercher appofondie sur plusieurs aspects liés à la loge, tels que sa fondation, faits et événements de la loge, personnages qui s'y sont impliqués, la rélation de la loge avec le monde extérieur
 - plus complexe à exécuter, mais plus satisfaisant comme résultat
-
+- approche scientifique 
 
 ## Modalités d'édition 
 
@@ -58,13 +58,13 @@ Faire une présetation de 10 a 15 minutes pendant le banquet sur l'historique. U
 - aucune séléction de manuscript 
 - pas du contrat entre éditeur et auteur
 - auteur assume les coûts et les risques 
-- maison d'éfdition prend en charge la réalisation de la production et de la diffusion, selon les services engagés
+- maison d'édition prend en charge la réalisation de la production et de la diffusion, selon les services engagés
 
 ### Autoédition
 
 - L'auteur prend en charge les coûts engagés
 - assume toutes les étapes de la création du livre
-gère des droits d'auteur
+- gère des droits d'auteur
 - s'occupe des aspects financiers du projet en amont (financement initial) et en aval (redevances sur ventes) 
 
 
@@ -79,11 +79,27 @@ https://www.uneq.qc.ca/2017/03/02/auteur-entrepreneur-autoedition/
 Vellum   
 https://vellum.pub
 
+**Entreprises de service d'Édition**
+
 BouquinBec   
 https://bouquinbec.ca/publier-un-livre/
 
 Carte Blanche    
 https://editionscarteblanche.com
+
+Fondation Fleur de Lys
+
+**Plateformes Numériques**
+
+Kindle Direct Publishing 
+
+Kobo Writing Life 
+
+Librinova - service d'agent littéraire pour publication traditionnelle 
+
+Je Publie - permet de vendre dans les librairies numériques en France et au Québec
+
+[Wattpad](https://www.wattpad.com/) - Communauté de lecteurs et d'écrivains
 
 ## Bibliographie 
 
@@ -114,8 +130,3 @@ https://editionscarteblanche.com
 (Sheppard 1915) Sheppard, Osborne. **Freemasonry in Canada.** R. Duncan & Co., 1915.
 
 (Smith 1939) Smith, Pemberton. 1939. **A Research into Early Canadian Masonry 1759-1869.** 1st ed. Montréal: Quality Press.
-
-
-
-
-
