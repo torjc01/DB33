@@ -151,6 +151,10 @@ https://qspace.library.queensu.ca/items/2e97ac9c-2d74-4066-84e4-22b26b9cab82
 
 (Quebec Telegraph 1921-11-22) Quebec Telegraph. 1921. ‘Masons Honor Craft Heroes’, 22 November 1921. Google News. https://books.google.ca/books?id=gpYfAAAAIBAJ&printsec=frontcover&hl=pt-BR#v=snippet&q=heroes&f=false.
 
+Masonic Hall may be demolished
+https://www.oldnews.com/en/record?lang=en&record_id=record-10835-36801963&searchTerm=eJxlTrsOgzAM%2FJVMnaqERzt0YOzafzDBFZbiBBKDyt%2FXCKZ28d3ZpzvPERi7lw7zjpahpEjetSOEoAtOtt6hrKmcjElJ2C%2B3HcrAhy78bk%2BW1XuZp6UP5EEoRVdPATx2zxWjGBSbZMRscLKuWrBHLfQk29W1p1bmIcIA6tEm%2FICXn8QB5D9ws%2FWjuRtG%2FYQx26Y6AgoxBchfU5dR1Q%3D%3D&page_id=1
+
+
 ### Multimédia 
 
 Référence a toute source multimédia utilisée dans la recherche. 
