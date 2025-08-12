@@ -11,6 +11,20 @@ Plusieurs loges ont publié des livres commemoratives ou historiques.
 	2 livres d'histoire 1963 et 2020
 	1 article recemment paru "Impregnée d'histoire et de tradition" dans Les Cahiers John H Graham
 
+# Comité du 275e 
+
+**Idées du comité:** 
+
+Fascicule, flyer de 4 a 5 pages 
+
+La Loge Albion, Charte No. 1 (blague)
+
+Le 250e a eu un fascicule, ou flyer de 4 ou 5 pages. Où est-il? Peut-on avoir une copie? 
+
+Faire le panorama historique de la loge Albion, de sa fondation à nos jours. 
+
+Faire une présetation de 10 a 15 minutes pendant le banquet sur l'historique. Une autre présentation de 10-15 min sur le 4e soldat. 
+
 ## Types d'ouvrages
 
 ### Ouvrage collectif
