@@ -72,6 +72,14 @@ Faire une présetation de 10 a 15 minutes pendant le banquet sur l'historique. U
 
 ## Références
 
+**BAnQ**
+Petit guide de l'autoédition au Québec   
+https://www.banq.qc.ca/sites/default/files/2022-09/guide_autoedition_quebec.pdf
+
+Autoédition et publication à compte d'auteur    
+https://www.banq.qc.ca/calendrier/a-venir/125404
+
+
 Autoédition et publication à compte d’auteur - Bibliothèque et Archives nationales du Québec (Non listé)   
 https://www.youtube.com/watch?v=79l__J6AadI&t=800s
 
