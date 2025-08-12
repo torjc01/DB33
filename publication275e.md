@@ -59,13 +59,15 @@ Faire une présetation de 10 a 15 minutes pendant le banquet sur l'historique. U
 - pas du contrat entre éditeur et auteur
 - auteur assume les coûts et les risques 
 - maison d'édition prend en charge la réalisation de la production et de la diffusion, selon les services engagés
+- modalité utilisée par la loge de recherche pour l'édition du No. 1 du Cahier 
 
 ### Autoédition
 
 - L'auteur prend en charge les coûts engagés
 - assume toutes les étapes de la création du livre
 - gère des droits d'auteur
-- s'occupe des aspects financiers du projet en amont (financement initial) et en aval (redevances sur ventes) 
+- s'occupe des aspects financiers du projet en amont (financement initial) et en aval (redevances sur ventes)
+- modèle auquel la loge de recherche a migré pour le No. 2 du Cahier.
 
 
 ## Références
