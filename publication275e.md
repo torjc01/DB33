@@ -11,6 +11,12 @@ Plusieurs loges ont publié des livres commemoratives ou historiques.
 	2 livres d'histoire 1963 et 2020
 	1 article recemment paru "Impregnée d'histoire et de tradition" dans Les Cahiers John H Graham
 
+Savoir-faire de la loge de recherche. 
+
+Éditer et publier sur amazon.com
+
+
+
 # Comité du 275e 
 
 **Idées du comité:** 
@@ -29,7 +35,7 @@ Faire une présetation de 10 a 15 minutes pendant le banquet sur l'historique. U
 
 ### Ouvrage collectif
 
-- articles ayant par sujet la Loge Albion on sujets connexes, écrits par plusieurs auteurs, qui formment un ouvrage cohérent 
+- recueil d'articles ayant par sujet la thématique de la Loge Albion on sujets connexes, écrits par plusieurs auteurs, qui formment un ouvrage cohérent 
 - moins d'effort à produire
 
 ### Historique de la loge via les procès-verbaux
