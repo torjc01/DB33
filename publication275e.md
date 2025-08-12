@@ -135,7 +135,7 @@ Je Publie - permet de vendre dans les librairies numériques en France et au Qu�
 
 (Graham 1892) Graham, John Hamilton. 1892. **Outlines of the History of Freemasonry in the Province of Quebec.** 1st ed. Montréal: John Lovell & Son. p 489-490. https://www.google.ca/books/edition/Outlines_of_the_History_of_Freemasonry_i/ZrJJAAAAMAAJ?hl=pt-BR&gbpv=1&dq=minute+book+woolwich+9+january+1789&pg=PA489&printsec=frontcover.
 
-(Lang 1922) Lang, Ossian. 1922. History of Freemasonry in the State of New York. Grand Lodge of New York, F.&A.M. http://www.themasonictrowel.com/ebooks/fm_freemasonry/lang_-_history_of_freemasonry_in_newyork_1922_raw.pdf.
+(Lang 1922) Lang, Ossian. 1922. History of Freemasonry in the State of New York. Grand Lodge of New York, F.&A.M. p. 65, 68. http://www.themasonictrowel.com/ebooks/fm_freemasonry/lang_-_history_of_freemasonry_in_newyork_1922_raw.pdf.
 
 (Lodge of Antiquity 1906) Lodge of Antiquity. 1906. Lodge of Antiquity. **By-Laws of The Lodge of Antiquity Ancient Free and Accepted Masons: Being Number One on the Registry of the Most Worshipful The Grand Lodge of Ancient Free and Accepted Masons of Quebec.** Montréal.
 
