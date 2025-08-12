@@ -154,6 +154,17 @@ https://qspace.library.queensu.ca/items/2e97ac9c-2d74-4066-84e4-22b26b9cab82
 Masonic Hall may be demolished
 https://www.oldnews.com/en/record?lang=en&record_id=record-10835-36801963&searchTerm=eJxlTrsOgzAM%2FJVMnaqERzt0YOzafzDBFZbiBBKDyt%2FXCKZ28d3ZpzvPERi7lw7zjpahpEjetSOEoAtOtt6hrKmcjElJ2C%2B3HcrAhy78bk%2BW1XuZp6UP5EEoRVdPATx2zxWjGBSbZMRscLKuWrBHLfQk29W1p1bmIcIA6tEm%2FICXn8QB5D9ws%2FWjuRtG%2FYQx26Y6AgoxBchfU5dR1Q%3D%3D&page_id=1
 
+**Masonic Hall may be demolished**
+
+Plans for the construction of the Court House annex, which are to be completed by Mr Tanguay, Braule and Morrisette next week, will, it is understood, include provisions regarding the taking over of the Masonic Hall and several other buildings at the southwestern end of the court corner of Garden Street and St Louis Street. In such event the Courtt House will have a much improved appearance and will be a building which will meet the requirements for several years. 
+
+The Quebec Daily Telegraph 
+
+26 April 1922
+
+
+
+
 
 ### Multimédia 
 
