@@ -123,6 +123,8 @@ Je Publie - permet de vendre dans les librairies num√©riques en France et au Qu√
 
 (Brainerd 1964) Brainerd, Homer N. 1964. **A History of Golden Rule Lodge No. 5, A.F. & A.M.; Q. R. from 1906 to 1963.** Sherbrooke, QC: Page-Sangster Printing Co., Ltd.
 
+(Chambers 1895) Chambers, E.T.D. 1895. The Guide to Quebec. C.R. Cornell Print. https://numerique.banq.qc.ca/patrimoine/details/52327/3996426.
+
 (Daynes 1926) Daynes, Gilbert W. **The Birth and Growth of Thre Grand Lodge of England 1717-1926.** The Masonic Record Ltd., 1926.
 
 (Duncan I 1872) Duncan, Francis. 1872. **History of the Royal Regiment of Artillery: Compiled from the Original Records. Vol. 1.** 2 vols. London: John Murray Ed. https://www.gutenberg.org/files/52258/52258-h/52258-h.htm#Page_251.
