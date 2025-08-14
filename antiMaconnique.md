@@ -108,6 +108,18 @@ https://www.ledevoir.com/societe/le-devoir-de/584199/complot-maconnique-ou-compl
 
 ## Bibliografia
 
+Anti-masonry: a neglected source. Jacques Litvine. https://www.1723constitutions.com/wp-content/uploads/2021/02/AQC-104-1991-Litvine.pdf
+
+Decisões da Igreja Presbiteriana http://www.executivaipb.com.br/site/decisoes_importantes/maconaria_1900-2011.pdf
+
+La ligue de l'enseignement - conspirationhttps://numerique.banq.qc.ca/patrimoine/details/52327/1986956?docref=7UEsK3Yfv42pIzjUPVwzlg&docsearchtext=ligue%20de%20l%27enseignementBernard, Henri, La Ligue De L'enseignement - Histoire D'une Conspiration Maçonnique À Montréal /, Notre-Dame-des-Neiges, ouest [Montréal], s.n., 1904, xvi, 152 p. : fac-sim. ; 21 cm., Collections de BAnQ.
+
+Bibliothèque Catholique avec articles anti-maçonniques
+https://www.liberius.net/theme.php?id_theme=3
+
+
+Allaire, G. (2004). Le Triangle canadien-français au tournant des années 1960. Le Conseil de la vie française en Amérique, la Société Saint-Jean-Baptiste de Montréal et l’Ordre de Jacques-Cartier. Francophonies d'Amérique, (17), 107–116. https://doi.org/10.7202/1005284ar
+
 Hamon, É., La maçonnerie canadienne-française / Québec (Province), s.n., 1886, v, 189 p. ; 15 cm, Collections de BAnQ.   
 https://numerique.banq.qc.ca/patrimoine/details/52327/2023030
 
@@ -216,6 +228,15 @@ https://www.thecanadianencyclopedia.ca/en/article/the-quebec-mercury
 https://numerique.banq.qc.ca/patrimoine/details/52327/2484872
 
 L'électeur - https://numerique.banq.qc.ca/patrimoine/details/52327/2513021
+
+Le bien public, 1910-01-07, Collections de BAnQ. Le danger Maçonnique
+https://numerique.banq.qc.ca/patrimoine/details/52327/3617658?docsearchtext=franc-ma%C3%A7on
+
+Quebec Morning Chronicle, 29 juillet 1892, Presentation. BAnQ. 
+
+Montréal Herald and daily commercial gazette, 28 août 1852, At Private Sale. BAnQ. 
+
+The Montréal witness, 20 mai 1873, Funerals. BAnQ. 
 
 ### Articles de la presse 
 
