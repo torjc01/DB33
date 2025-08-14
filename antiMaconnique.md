@@ -91,6 +91,23 @@ Il n'y a pas d'autre groupe d'hommes à qui l'on puisse demander avec plus de co
 
 # Referências
 
+## Série de reportagens sobre complô maçonico em Montréal
+
+Un complot maçonnique à Montréal en 1910?
+
+Martin Lavallée, Historien
+
+Série en trois articles
+
+
+https://www.ledevoir.com/societe/le-devoir-de/583425/un-complot-maconnique-a-montreal-en-1910
+
+https://www.ledevoir.com/societe/le-devoir-de/583800/un-complot-maconnique-au-congres-eucharistique-de-montreal-en-1910
+
+https://www.ledevoir.com/societe/le-devoir-de/584199/complot-maconnique-ou-complot-catholique-il-y-a-110-ans-a-montreal
+
+## Bibliografia
+
 Hamon, É., La maçonnerie canadienne-française / Québec (Province), s.n., 1886, v, 189 p. ; 15 cm, Collections de BAnQ.   
 https://numerique.banq.qc.ca/patrimoine/details/52327/2023030
 
@@ -117,6 +134,39 @@ ISNI : 	[ISNI 0000 0001 0801 2231](https://isni.oclc.org/cbs/DB=1.2/CMD?ACT=SRCH
 
 
 ## Bibliographie 
+
+Filme antimaçonnique "Forces Occultes"
+http://www.tradition-quebec.ca/2018/10/forces-occultes-film-antimaconnique.html
+
+Bas les masques: Étude Antimaçonnique. Quebec, Imprimerie de L'Événement: 1911
+https://dn790008.ca.archive.org/0/items/baslesmasquest00cou/baslesmasquest00cou.pdf
+
+La presse périodique à Québec de 1764 à 1940: Vue d'ensemble d'un processus culturel, Fernand Harvey, Les Cahiers des dix, Numéro 58, 2004, p. 213–250.
+https://doi.org/10.7202/1008122ar
+
+La représentation ultramontaine de la société à travers le Courrier du Canada, Yves-F. Zoltvany, Revue Recherches sociographiques, Volume 10, numéro 2-3, 1969, p. 426–430
+https://doi.org/10.7202/055473ar
+
+Le rôle des journaux dans l’évolution politique du Québec d’hier à aujourd'hui : le journal d’opinion du XIXe siècle, Jocelyn Saint-Pierre, Bulletin d'histoire politique, Volume 19, numéro 3, printemps 2011, p. 70-78
+https://doi.org/10.7202/1055991ar
+
+Presse écrite au Québec, 1ère partie (XVIIIe-XIXe siècles)
+http://www.ameriquefrancaise.org/fr/article-698/Presse_écrite_au_Québec,_1ère_partie_(XVIIIe-XIXe_siècles).html
+
+Le rôle des journaux dans l’évolution politique du Québec d’hier à aujourd'hui : le journal d’opinion du XIXe siècle, Jocelyn Saint-Pierre
+https://www.erudit.org/fr/revues/bhp/2011-v19-n3-bhp04286/1055991ar.pdf
+
+La presse périodique à Québec de 1764 à 1940. Vue d'ensemble d'un processus culturel. Fernand Harvey
+https://www.erudit.org/fr/revues/cdd/2004-n58-cdd5007879/1008122ar.pdf
+
+10. La lecture des journaux quotidiens au Québec du XIXe au XXIe siècle
+
+https://books.openedition.org/pum/16888
+
+https://crilcq.org/publications/collections/nouveaux-cahiers-de-recherche/3111/
+
+Hivert-Messeca, Yves. 2020. ‘L’antimaçonnisme d’hier et d’aujourd’hui, permanences et mutations’. Cahiers Villard de Honnecourt, no. 116, 13–17.
+
 
 Hugues Théorêt (2024). **La Patente: L’Ordre de Jacques Cartier, le dernier bastion du Canada Français.** Québec: Septentrion.
 
