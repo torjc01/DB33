@@ -117,36 +117,3 @@ Je Publie - permet de vendre dans les librairies numériques en France et au Qu�
 
 [Wattpad](https://www.wattpad.com/) - Communauté de lecteurs et d'écrivains
 
-## Bibliographie 
-
-(Albion Lodge No.2 1853) Albion Lodge No.2. **By-Laws of Albion Lodge of Freemasons, No. 17, Registry of England, No. 1, Provincial Register, Quebec, Canada as Revised and Adopted on St. John’s Day, Twenty-Seventh Day of December, Five Thousand Eight Hundred and Forty-Seven, and Further Amended, Thirteenth May, Five Thousand Eight Hundred and Fifty-Three ; Approved by R.W. the Hon. P. M’ Gill, Provincial Grand Master, Five Thousand Eight Hundred and Forty-Eight, and as Amended, Sanctioned and Confirmed by Thos. D. Harrington, P. G. Master, for Quebec &c., Five Thousand Eight Hundred & Fifty-Three 1853.** Skilled Books, 1853.
-
-(Brainerd 1964) Brainerd, Homer N. 1964. **A History of Golden Rule Lodge No. 5, A.F. & A.M.; Q. R. from 1906 to 1963.** Sherbrooke, QC: Page-Sangster Printing Co., Ltd.
-
-(Chambers 1895) Chambers, E.T.D. 1895. The Guide to Quebec. C.R. Cornell Print. https://numerique.banq.qc.ca/patrimoine/details/52327/3996426.
-
-(Daynes 1926) Daynes, Gilbert W. **The Birth and Growth of Thre Grand Lodge of England 1717-1926.** The Masonic Record Ltd., 1926.
-
-(Duncan I 1872) Duncan, Francis. 1872. **History of the Royal Regiment of Artillery: Compiled from the Original Records. Vol. 1.** 2 vols. London: John Murray Ed. https://www.gutenberg.org/files/52258/52258-h/52258-h.htm#Page_251.
-
-(Duncan II 1872) Duncan, Francis. 1872. **History of the Royal Regiment of Artillery: Compiled from the Original Records. Vol. 2.** 2 vols. London: John Murray Ed. https://www.gutenberg.org/cache/epub/58209/pg58209-images.html.
-
-(Farfan 2020) Farfan, Matthew F. 2020. **Tradition and Fraternity: The Continuing History of Golden Rule Lodge No. 5, A.F. & A.M., 1964-2020.** Stanstead, Quebec: Golden Rule Lodge No. 5.
-
-(Gagnon et al. 2024) Gagnon, Hervé, Etienne B. Schmitt, Mattew Farfan, Richard Leclerc, and John W. Collett. **John H. Graham Journal.** 1st ed. Vol. 1. Grand Lodge of Quebec, 2024.
-
-(Graham 1892) Graham, John Hamilton. 1892. **Outlines of the History of Freemasonry in the Province of Quebec.** 1st ed. Montréal: John Lovell & Son. p 489-490. https://www.google.ca/books/edition/Outlines_of_the_History_of_Freemasonry_i/ZrJJAAAAMAAJ?hl=pt-BR&gbpv=1&dq=minute+book+woolwich+9+january+1789&pg=PA489&printsec=frontcover.
-
-(Lang 1922) Lang, Ossian. 1922. History of Freemasonry in the State of New York. Grand Lodge of New York, F.&A.M. p. 65, 68. http://www.themasonictrowel.com/ebooks/fm_freemasonry/lang_-_history_of_freemasonry_in_newyork_1922_raw.pdf.
-
-(Lodge of Antiquity 1906) Lodge of Antiquity. 1906. Lodge of Antiquity. **By-Laws of The Lodge of Antiquity Ancient Free and Accepted Masons: Being Number One on the Registry of the Most Worshipful The Grand Lodge of Ancient Free and Accepted Masons of Quebec.** Montréal.
-
-(Milborne 1960) Milborne, Alfred John Bidder. 1960. **Freemasonry in the Province of Quebec.** Knowlton (QC).
-
-(Nevinson 1963) Nevinson, Harry M. 1963. **History of the Lodge of Antiquity.** Montréal.
-
-(Saul 2022) Saul, J. Beamish. 2022. **Historical Sketch of The Lodge of Antiquity, A. F. and A. M., No. 1, G. R. Q: Formerly Lodge of... Social and Military Virtues, No. 227, I. C., Instituted March 4, 1752, in the 46th British Regiment, Now the 2nd Battalion Duke of Cornwall’s Light Infantry.** Forgotten Books.
-
-(Sheppard 1915) Sheppard, Osborne. **Freemasonry in Canada.** R. Duncan & Co., 1915.
-
-(Smith 1939) Smith, Pemberton. 1939. **A Research into Early Canadian Masonry 1759-1869.** 1st ed. Montréal: Quality Press.
