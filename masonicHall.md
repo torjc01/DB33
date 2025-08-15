@@ -262,7 +262,4 @@ Donc, la valeur d'aujourd'hui, en dollars canadiens, de 16000 CAD en date du 02 
 
 <img src="images/masonicHall/Equivalencies.png">
 
-**Equivalent Sums, in Sterling, Currency and Dollars and cents** Annuaires de la ville de Québec, 1822-1976
-1850 - Part III- Public Office and Institutions, pg 260
-https://numerique.banq.qc.ca/patrimoine/details/52327/3690765
-https://collections.banq.qc.ca/ark:/52327/3690765
+
