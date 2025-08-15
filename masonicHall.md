@@ -72,30 +72,6 @@ Achat du lot, le 2 avril 1860, pour la somme de £1375 livres sterling, comme l'
       
           - Albert Pike, “The Mason’s Holy House”**
 
-## Références
-
-
-#### Plans architectoniques
-
-**Masonic Hall  (D44)**  
-Plans d'architecture concernant une salle franc-maçonne située au coin des rues Desjardins et Saint-Louis à Québec. Le projet contient les dessins suivants : plan, élévation, coupe.  
-https://advitam.banq.qc.ca/notice/316483
-
-**Masonic Hall - Plan of Fourth Story (D50)**  
-Plans d'architecture concernant le 4e étage d'un bâtiment franc-maçon (Masonic Hall Association Building) située au coin des rues Desjardins et Saint-Louis à Québec. Le projet contient un plan.  
-https://advitam.banq.qc.ca/notice/316489
-
-**Masonic Hall (D425)**  
-Plan d'architecture concernant un bâtiment franc-maçon située sur la rue Saint-Louis. Le projet contient des notes et les dessins suivants : plan, coupe, esquisse.  
-https://advitam.banq.qc.ca/notice/316857
-
-**Masonic Hall Association Building (D445)**  
-Plans d'architecture concernant une salle franc-maçonne (Masonic Hall Association Building)  située au coin des rues Desjardins et Saint-Louis à Québec. Le projet contient les dessins suivants : plan, élévation, coupe.  
-https://advitam.banq.qc.ca/notice/316875
-
-**Masonic Hall Association Building (D533)**  
-Plans d'architecture concernant un bâtiment abritant une loge franc-maçonne. Le projet contient les dessins suivants : plan, coupe, élévation.  
-https://advitam.banq.qc.ca/notice/316964
 
 
 ## Annexe Économique 
