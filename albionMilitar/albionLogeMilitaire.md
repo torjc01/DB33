@@ -135,10 +135,6 @@ Marrying a Redcoat: Women's Experiences of Marriage in the British Garrison of Q
 https://qspace.library.queensu.ca/items/2e97ac9c-2d74-4066-84e4-22b26b9cab82
 
 
-### Newspaper clippings
-
-(Quebec Telegraph 1921-11-22) Quebec Telegraph. 1921. ‘Masons Honor Craft Heroes’, 22 November 1921. Google News. https://books.google.ca/books?id=gpYfAAAAIBAJ&printsec=frontcover&hl=pt-BR#v=snippet&q=heroes&f=false.
-
 
 
 
@@ -146,7 +142,7 @@ https://qspace.library.queensu.ca/items/2e97ac9c-2d74-4066-84e4-22b26b9cab82
 
 To explain what is Atholl Grand Lodge:  
 
-    "In consequence new nicknames of the grand bodies began to be commonly used, instead of the terms "Ancient and Modern" (much to the satisfaction of the original Grand Lodge). Their adherents were now often called "Prince of Wales Masons", and the Antients "Atholl Masons". In the Masonic Year Book issued by the United Grand Lodge of England, each lodge that was originally "Ancient" carries this reference, "was formerly on Atholl or Ancient Grand Lodge Roll"."
+"In consequence new nicknames of the grand bodies began to be commonly used, instead of the terms "Ancient and Modern" (much to the satisfaction of the original Grand Lodge). Their adherents were now often called "Prince of Wales Masons", and the Antients "Atholl Masons". In the Masonic Year Book issued by the United Grand Lodge of England, each lodge that was originally "Ancient" carries this reference, "was formerly on Atholl or Ancient Grand Lodge Roll"."
         Pemberton Smith, p. 57
 
 ## References 
