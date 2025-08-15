@@ -75,42 +75,6 @@ Achat du lot, le 2 avril 1860, pour la somme de £1375 livres sterling, comme l'
 ## Références
 
 
-### Bibliographie 
-
-Quebec Masonic Hall Association. **Act of incorporation and by-laws of the Quebec Masonic Hall Association.** [Quebec : publisher not identified], 1855.  
-https://www.canadiana.ca/view/oocihm.52936/20 
-
-Association Maçonnique Bénevole du Québec. **Lettre patente.** Gazette officielle du Québec. Québec official gazette, 1956-09-08, Collections de BAnQ.
-https://numerique.banq.qc.ca/patrimoine/details/52327/2358952?docsearchtext=masonic
-
-
-
-### Liens web
-
-Dictionary Biographic Canada  
-http://www.biographi.ca/fr/ 
-
-Registraire des Entreprises du Québec   
-https://www.registreentreprises.gouv.qc.ca  
-https://www.quebec.ca/entreprises-et-travailleurs-autonomes/obtenir-renseignements-entreprise/recherche-registre-entreprises/acceder-registre-entreprises
-
-https://www.dhi.ac.uk/lane/record.php?ID=33
-
-
-
-
-**Dossier du batiment à la mairie**   
-Ficha do edifício no site da prefeitura de Québec. 
-https://www.ville.quebec.qc.ca/citoyens/patrimoine/bati/fiche.aspx?fiche=300
-
-Ville de Québec. Maçonnerie de Pierre: Guide technique 6.
-https://www.ville.quebec.qc.ca/citoyens/propriete/docs/patrimoine/guide_tech06.pdf
-
-Ville de Montréal. La Maçonnerie: Fiche-patrimoine. https://ville.montreal.qc.ca/pls/portal/docs/page/arrond_mhm_fr/media/documents/fiche-patrimoine_maconnerie.pdf 
-
-
-### Multimédia 
-
 #### Plans architectoniques
 
 **Masonic Hall  (D44)**  
