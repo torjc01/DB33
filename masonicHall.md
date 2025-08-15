@@ -80,22 +80,9 @@ Achat du lot, le 2 avril 1860, pour la somme de £1375 livres sterling, comme l'
 Quebec Masonic Hall Association. **Act of incorporation and by-laws of the Quebec Masonic Hall Association.** [Quebec : publisher not identified], 1855.  
 https://www.canadiana.ca/view/oocihm.52936/20 
 
-Association Maçonnique Bénevole du Québec. **Lettre patente.** Gazette officielle du Québec. Québec official gazette., 1956-09-08, Collections de BAnQ.
+Association Maçonnique Bénevole du Québec. **Lettre patente.** Gazette officielle du Québec. Québec official gazette, 1956-09-08, Collections de BAnQ.
 https://numerique.banq.qc.ca/patrimoine/details/52327/2358952?docsearchtext=masonic
 
-Chambers, E. T. D., **The guide to Quebec** /, Montreal, C.R. Corneil Print, 1899, 1 ressource en ligne (124, iv p. [12] p. de pl. [1] f. de cartes plié), Collections de BAnQ.
-https://numerique.banq.qc.ca/patrimoine/details/52327/3996426 
-
-British Artillery Battalions and the Men Who Led Them 1793-1815    
-https://www.napoleon-series.org/military-info/organization/Britain/Artillery/4thBattalionRA.pdf
-
-### Jornaux
-
-QM01. Venda do lote. The Quebec mercury, 1860-04-03, Collections de BAnQ. p.2
-https://numerique.banq.qc.ca/patrimoine/details/52327/3667493
-
-Masons pay honour to craft heroes.   
-Quebec Chronicle Telegraph, Nov 22nd 1921, p. 4    
 
 
 ### Liens web
