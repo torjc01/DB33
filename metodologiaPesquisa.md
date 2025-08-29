@@ -180,3 +180,35 @@ https://newspaperarchive.com/free-trial
 To view free and searchable online newspapers see:    
 https://veridiansoftware.com/collections/ 
 
+--- 
+## Recursos linguisticos 
+
+### Português
+
+Vocabulário Ortográfico da Língua Portuguesa - VOLP (tem aplicativo).    
+https://www.academia.org.br/nossa-lingua/busca-no-vocabulario
+
+Dicionário Priberam da Língua Portuguesa - português contemporâneo brasileiro e europeu.    
+https://dicionario.priberam.org
+
+Dicio - dicionário de português contemporâneo.   
+https://www.dicio.com.br/
+
+Dicionário Aulete.   
+https://www.aulete.com.br
+
+Dicionário de Sinônimos.   
+https://www.sinonimos.com.br/
+
+Gramática Básica da Língua Portuguesa - Celso Cunha.    
+https://www.aulete.com.br/site.php?mdl=gramatica
+
+### Inglês
+Inglês Dicionário e Thesaurus Merriam-Webster    
+https://merriam-webster.com
+
+### Francês
+Dicionário e recursos Francês Larousse      
+https://larousse.fr
+
+
