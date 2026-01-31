@@ -60,8 +60,8 @@ Discharge: 25-2-1919
 Résidence: Douglastown, Gaspé
 Province: QC
 Métier: fermier
-État matrimonial: Single
-Prénom et nom de famille de la conjointe:
+État matrimonial: Marié
+Prénom et nom de famille de la conjointe: Catherine Hughes
 Nombre d'enfants: 
 
 ### Seconde Guerre 
@@ -70,7 +70,7 @@ Date:
 Age: 
 Lieu: 
 Province: 
-Matricule: 
+Matricule: E22849
 Grade: 
 Force: 
 A servi pour: Canada
@@ -82,11 +82,11 @@ Discharge:
 
 ## DECÈS 
 
-Date du decès: 
-Âge: 
-Cause du décès: 
-Endroit du décès: 
-Pays du décès: 
+Date du decès: 25 janvier 1973
+Âge: 73
+Cause du décès: N/A
+Endroit du décès: 87 Bergeron, Kenogami, QC 
+Pays du décès: Canada
 
 ## INHUMATION
 
