@@ -16,27 +16,34 @@
 
 # Military Research Ressources 
 
+[Fédération québécoise des sociétés de généalogie – Archives militaires](https://www.federationgenealogie.com/fr/les-sources/archives-militaires) - Arquivos militares da Fédération québécoise des sociétés de généalogie. 
+
+
+[Doing our bit](https://militaryandfamilyhistory.blog) - Site do pesquisador Steve ..., muitas referências a outras fontes. 
+
+
+[Kenora Great War Project](https://www.kenoragreatwarproject.ca) - site fora do ar? Buscar pelo web archive? 
+
+
+[Guerre des Boers, 1899-1902 - Dossiers de service, médailles et demandes de terres](https://www.bac-lac.gc.ca/fra/decouvrez/patrimoine-militaire/guerre-des-boers-1899-1902/Pages/dossiers-service-guerre-boers.aspx)
+
+
+[Fichier origine](https://www.fichierorigine.com) - Le Fichier Origine est le répertoire des actes de l’état civil et des actes notariés trouvés dans le cadre du projet franco-québécois de recherche sur les origines familiales des émigrants français et étrangers établis au Québec des origines à 1865.
+
+
+[Militia - Guide to Sources [BAC-LAC]](https://www.bac-lac.gc.ca/eng/discover/military-heritage/Pages/guide-sources-canadian-militia.aspx)
+
+
+[How to find military service records and attestation papers [VETERANS]](https://www.veterans.gc.ca/en/remembrance/how-find-military-service-records-and-attestation-papers)
+
+
+
 ## GOVERNMENT  
 
 ### ATIP - Access to Information and Privacy   
 https://www.veterans.gc.ca/en/veterans-rights/access-information-and-privacy
 
 https://atip-aiprp.tbs-sct.gc.ca
-
-
-
-### WWII
-**Service Files of the Second World War - War Dead, 1939-1947**  
-https://www.bac-lac.gc.ca/eng/discover/military-heritage/second-world-war/second-world-war-dead-1939-1947/Pages/files-second-war-dead.aspx  
-Includes links to other research ressources 
-
-**Second World War**  
-Library and Archives Canada (LAC) has an extensive collection of material relating to the Second World War.  
-https://library-archives.canada.ca/eng/collection/research-help/military-heritage/second-world-war/Pages/second-world-war.aspx
-
-**Second World War (1939-1945)**  
-https://www.canada.ca/en/services/defence/caf/militaryhistory/wars-operations/wwii.html  
-Canada’s role in the Second World War (WW2). Timelines, remembrance and archival records, as well as the people who fought.
 
 ### WWI 
 **Personnel Records of the First World War**  
@@ -52,6 +59,41 @@ https://www.canada.ca/en/services/defence/caf/militaryhistory/wars-operations/ww
 
 **The Digitized WWI records Archives**    
 https://www.nationalarchives.gov.uk/first-world-war/centenary-digitised-records/
+
+**Sources Relating to Units of the Canadian Expeditionary Force**   
+https://www.bac-lac.gc.ca/eng/discover/military-heritage/first-world-war/Pages/units-canadian-expeditionary-force.aspx    
+The Guide to Sources Relating to Units of the Canadian Expeditionary Force is a unique finding aid that brings together references to records and files scattered throughout several fonds, which relate to almost every unit in the CEF.
+
+**Trench Newspapers of the First World War [War Museum of Canada]**   
+https://www.warmuseum.ca/wp-content/uploads/2015/10/trenche.pdf - Artigo sobre os Trench Newspapers.
+
+[War Diaries of the First World War](https://www.bac-lac.gc.ca/eng/discover/military-heritage/first-world-war/Pages/war-diaries.aspx) [Francês](https://www.bac-lac.gc.ca/fra/decouvrez/patrimoine-militaire/premiere-guerre-mondiale/Pages/journaux-de-guerre.aspx)
+
+
+[Trousse d’information : Première Guerre mondiale](https://www.canada.ca/fr/bibliotheque-archives/collection/aide-recherche/histoire-militaire/nous-nous-souviendrons/documents-accompagnement/trousse-information-pgm.html) - Les dossiers du personnel de la Première Guerre mondiale. Ces feuillets d’information vous guideront dans l’interprétation des documents inclus dans les dossiers du personnel du Corps expéditionnaire canadien.
+
+
+[CGWP - Canadian Great War Project](https://canadiangreatwarproject.com)
+
+### WWII
+**Service Files of the Second World War - War Dead, 1939-1947**  
+https://www.bac-lac.gc.ca/eng/discover/military-heritage/second-world-war/second-world-war-dead-1939-1947/Pages/files-second-war-dead.aspx  
+Includes links to other research ressources 
+
+**Second World War**  
+Library and Archives Canada (LAC) has an extensive collection of material relating to the Second World War.  
+https://library-archives.canada.ca/eng/collection/research-help/military-heritage/second-world-war/Pages/second-world-war.aspx
+
+**Second World War (1939-1945)**   
+https://www.canada.ca/en/services/defence/caf/militaryhistory/wars-operations/wwii.html  
+Canada’s role in the Second World War (WW2). Timelines, remembrance and archival records, as well as the people who fought.
+
+**Deuxième Guerre mondiale**   
+https://www.canada.ca/fr/bibliotheque-archives/collection/aide-recherche/histoire-militaire/deuxieme-guerre-mondiale.html - Bibliothèque et Archives Canada (BAC) conserve une vaste collection de documents sur la Deuxième Guerre mondiale.
+
+**Second World War Service Files – War Dead, 1939 to 1947**    
+https://recherche-collection-search.bac-lac.gc.ca/eng/Help/kia
+
 
 ### Other wars
 **South African War (1899-1902)**  
@@ -82,7 +124,7 @@ Library and Archives Canada holds multiple records and files pertaining to the C
 https://canadiangreatwarproject.com/diaries/   
 https://www.bac-lac.gc.ca/eng/discover/military-heritage/first-world-war/Pages/war-diaries.aspx
 
-### **Search tips**  
+**Search tips**  
 - Some entries include only an initial for the given names. Try searching by surname only. Names can also be written different ways. The entries reflect the spelling of names as they appear in the files.
 - If you do not find a relevant reference, try searching with only one given name instead of all given names.
 - Try the * wildcard character, for example, Fran* for Frank, Francis, François.
@@ -133,11 +175,11 @@ https://library-archives.canada.ca/eng/collection/research-help/military-heritag
 Military Writing
 https://cloud.rampinteractive.com/287aircadets/files/Sr%20NCO/Military%20Writing%20Guide.pdf
 
-
 **Scholar Journals**
 
 Canadian Military History - Since its launch in 1992, Canadian Military History has become one of the premier journals in its field. CMH is a peer-reviewed academic journal published bi-annually by the Laurier Centre for the Study of Canada with editorial and financial support from the Canadian War Museum. Its purpose is to foster research, teaching and public discussion of historical and contemporary military and strategic issues.    
 https://scholars.wlu.ca/cmh/
+
 
 ## Historical projects
 **The Commonwealth War Graves Commission**  
