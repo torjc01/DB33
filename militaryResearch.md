@@ -25,9 +25,6 @@
 [Kenora Great War Project](https://www.kenoragreatwarproject.ca) - site fora do ar? Buscar pelo web archive? 
 
 
-[Guerre des Boers, 1899-1902 - Dossiers de service, médailles et demandes de terres](https://www.bac-lac.gc.ca/fra/decouvrez/patrimoine-militaire/guerre-des-boers-1899-1902/Pages/dossiers-service-guerre-boers.aspx)
-
-
 [Fichier origine](https://www.fichierorigine.com) - Le Fichier Origine est le répertoire des actes de l’état civil et des actes notariés trouvés dans le cadre du projet franco-québécois de recherche sur les origines familiales des émigrants français et étrangers établis au Québec des origines à 1865.
 
 
@@ -99,6 +96,10 @@ https://recherche-collection-search.bac-lac.gc.ca/eng/Help/kia
 **South African War (1899-1902)**  
 https://www.canada.ca/en/services/defence/caf/militaryhistory/wars-operations/south-african.html  
 Canada’s role in the South African War, also known as the Boer War. Timelines, remembrance and archival records, as well as the people who fought.
+
+Guerre des Boers, 1899-1902 - Dossiers de service, médailles et demandes de terres   
+https://www.bac-lac.gc.ca/fra/decouvrez/patrimoine-militaire/guerre-des-boers-1899-1902/Pages/dossiers-service-guerre-boers.aspx   
+
 
 **War of 1812**  
 https://www.canada.ca/en/services/defence/caf/militaryhistory/wars-operations/1812.html  
