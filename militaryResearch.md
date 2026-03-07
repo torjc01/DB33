@@ -35,42 +35,13 @@
 
 
 
-## GOVERNMENT  
-
-### ATIP - Access to Information and Privacy   
-https://www.veterans.gc.ca/en/veterans-rights/access-information-and-privacy
-
-https://atip-aiprp.tbs-sct.gc.ca
-
 ### WWI 
-**Personnel Records of the First World War**  
-https://www.bac-lac.gc.ca/eng/discover/military-heritage/first-world-war/personnel-records/Pages/personnel-records.aspx
 
-**First World War**  
-https://library-archives.canada.ca/eng/collection/research-help/military-heritage/first-world-war/Pages/fww-personnel.aspx  
-Many Canadians served in the First World War, 1914 to 1918. Different types of records document their service. On this page you will learn what records exist and how to access them.  
-
-**First World War (1914-1918)**  
-Canada’s role in the First World War (WW1). Timelines, remembrance and archival records, as well as the people who fought.  
-https://www.canada.ca/en/services/defence/caf/militaryhistory/wars-operations/wwi.html
-
-**The Digitized WWI records Archives**    
-https://www.nationalarchives.gov.uk/first-world-war/centenary-digitised-records/
-
-**Sources Relating to Units of the Canadian Expeditionary Force**   
-https://www.bac-lac.gc.ca/eng/discover/military-heritage/first-world-war/Pages/units-canadian-expeditionary-force.aspx    
-The Guide to Sources Relating to Units of the Canadian Expeditionary Force is a unique finding aid that brings together references to records and files scattered throughout several fonds, which relate to almost every unit in the CEF.
-
-**Trench Newspapers of the First World War [War Museum of Canada]**   
-https://www.warmuseum.ca/wp-content/uploads/2015/10/trenche.pdf - Artigo sobre os Trench Newspapers.
 
 [War Diaries of the First World War](https://www.bac-lac.gc.ca/eng/discover/military-heritage/first-world-war/Pages/war-diaries.aspx) [Francês](https://www.bac-lac.gc.ca/fra/decouvrez/patrimoine-militaire/premiere-guerre-mondiale/Pages/journaux-de-guerre.aspx)
 
 
 [Trousse d’information : Première Guerre mondiale](https://www.canada.ca/fr/bibliotheque-archives/collection/aide-recherche/histoire-militaire/nous-nous-souviendrons/documents-accompagnement/trousse-information-pgm.html) - Les dossiers du personnel de la Première Guerre mondiale. Ces feuillets d’information vous guideront dans l’interprétation des documents inclus dans les dossiers du personnel du Corps expéditionnaire canadien.
-
-
-[CGWP - Canadian Great War Project](https://canadiangreatwarproject.com)
 
 ### WWII
 **Service Files of the Second World War - War Dead, 1939-1947**  
